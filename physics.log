@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  11 MAR 2021 13:05
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  19 APR 2021 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021311785.tex)...disabled (restricted).
+runsystem(touch w18-test-2021419820.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021311785.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021419820.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -1733,31 +1733,62 @@ Package: newfile 2009/09/03 v1.0c Output and input files
 ) (./tex/myUrduGreek.tex)
 (./tex/myEMTvectors.tex) (./tex/myDeclareFunctions.tex)
 (./tex/myCircuitDimensionsAndMathematicalSymbols.tex)
-(./tex/myTikzCommandsCircuitAnalysis.tex)
-No file physics.aux.
+(./tex/myTikzCommandsCircuitAnalysis.tex) (./physics.aux
+
+Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'JameelNooriNastaleeq(1)' created for font
+(fontspec)             'Jameel Noori Nastaleeq' with options
+(fontspec)             [Ligatures=TeX,Scale=1.0,Script=Arabic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.0]"Jameel
+(fontspec)             Noori
+(fontspec)             Nastaleeq/OT:script=arab;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 4.
+
+No file ./tex/quantumMechanicsPreface.aux.
+(./tex/prefaceFirstBook.aux) (./tex/physicsMeasurement.aux))
 \openout1 = `physics.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 146.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 147.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-46.
+47.
+
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 146.
-LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
 
 ABD: EveryShipout initializing macros
 Package pgfplots notification 'compat/show suggested version=true': document ha
@@ -1772,7 +1803,7 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 
-Package chemgreek Info: Activating mapping `fontspec' on line 146.
+Package chemgreek Info: Activating mapping `fontspec' on line 147.
 
 
 *geometry* driver: auto-detecting
@@ -1812,99 +1843,71 @@ Package chemgreek Info: Activating mapping `fontspec' on line 146.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box137
-
-Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/BI" (it
-(fontspec)             probably doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/B" (it
-(fontspec)             probably doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/I" (it
-(fontspec)             probably doesn't exist).
-
-
-Package fontspec Info: Font family 'JameelNooriNastaleeq(1)' created for font
-(fontspec)             'Jameel Noori Nastaleeq' with options
-(fontspec)             [Ligatures=TeX,Scale=1.0,Script=Arabic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.0]"Jameel
-(fontspec)             Noori
-(fontspec)             Nastaleeq/OT:script=arab;language=dflt;mapping=tex-text;
-"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 146.
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-46.
+47.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-146.
+147.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-146.
+147.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-146.
+147.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 146.
+(Font)              scaled to size 10.42007pt on input line 147.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 146.
+(Font)              scaled to size 7.91925pt on input line 147.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 146.
+(Font)              scaled to size 6.25204pt on input line 147.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 146.
+(Font)              scaled to size 10.42007pt on input line 147.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 146.
+(Font)              scaled to size 7.91925pt on input line 147.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 146.
+(Font)              scaled to size 6.25204pt on input line 147.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-146.
+147.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 14
-6.
+7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 157.
+(Font)              scaled to size 17.28pt on input line 158.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 157.
+(Font)              scaled to size 12.0pt on input line 158.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 157.
+(Font)              scaled to size 12.50409pt on input line 158.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 157.
+(Font)              scaled to size 9.37807pt on input line 158.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 157.
+(Font)              scaled to size 7.29405pt on input line 158.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 157.
+(Font)              scaled to size 12.50409pt on input line 158.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 157.
+(Font)              scaled to size 9.37807pt on input line 158.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 157.
+(Font)              scaled to size 7.29405pt on input line 158.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 157.
+(Font)              scaled to size 9.0pt on input line 158.
 
 Package fontspec Info: Font family 'DejaVuSansMono(1)' created for font
 (fontspec)             'DejaVu Sans Mono' with options
@@ -1958,18 +1961,21 @@ Space,Script=Arabic].
 
 ]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 159.
+(Font)              scaled to size 24.88pt on input line 160.
 
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/b/n' undefined
 (Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
-e 159.
+e 160.
 
-No file physics.toc.
+(./physics.toc
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 2.
+)
 \tf@toc=\write6
 \openout6 = `physics.toc'.
 
-[3]
+ [3]
 \openout2 = `./tex/prefaceFirstBook.aux'.
 
  (./tex/prefaceFirstBook.tex [4
@@ -1982,113 +1988,634 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
-[]\TU/JameelNooriNastaleeq(1)/m/n/10 گزشتہ چند برسوں سے حکومتِ پاکستان اعلیٰ تع
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 گزشتہ چند برسوں سے حکومتِ پاکستان اعلیٰ تع
 لیم کی طرف توجہ دے رہی ہے جس سے ملک کی تاریخ میں[]
  []
 
 
 Underfull \hbox (badness 6608) in paragraph at lines 4--5
-[][]\TU/JameelNooriNastaleeq(1)/m/n/10 پاکستان میں اعلٰی تعلیم کا نظام انگریزی 
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 پاکستان میں اعلٰی تعلیم کا نظام انگریزی 
 زبان میں رائج ہے۔دنیا میں تحقیقی کام کا بیشتر حصہ انگریزی زبان میں ہی چھپتا[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
-[]\TU/JameelNooriNastaleeq(1)/m/n/10 کے لئے انگریزی زبان میں موجود مواد سے استف
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 کے لئے انگریزی زبان میں موجود مواد سے استف
 ادہ کرنا تو ایک طرف، انگریزی زبان ازخود ایک رکاوٹ کے طور پر ان کے[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
-[]\TU/JameelNooriNastaleeq(1)/m/n/10 سامنے آتی ہے۔یہ طلبہ و طالبات ذہین ہونے کے
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 سامنے آتی ہے۔یہ طلبہ و طالبات ذہین ہونے کے
  باوجود آگے بڑھنے اور قوم و ملک کی بھر پور خدمت کرنے کے[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[][]\TU/JameelNooriNastaleeq(1)/m/n/10 میں برسوں تک اس صورت حال کی وجہ سے پریشا
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 میں برسوں تک اس صورت حال کی وجہ سے پریشا
 نی کا شکار رہا۔کچھ کرنے کی نیت رکھنے کے باوجود کچھ نہ کر سکتا[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[]\TU/JameelNooriNastaleeq(1)/m/n/10 تھا۔میرے لئے اردو میں ایک صفحہ بھی لکھنا ن
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 تھا۔میرے لئے اردو میں ایک صفحہ بھی لکھنا ن
 اممکن تھا۔آخر کار ایک دن میں نے اپنی اس کمزوری کو[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
-[][]\TU/JameelNooriNastaleeq(1)/m/n/10 یہ کتاب اردو زبان میں تعلیم حاصل کرنے وا
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 یہ کتاب اردو زبان میں تعلیم حاصل کرنے وا
 لے طلبہ و طالبات کے لئے نہایت آسان اردو میں لکھی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[][]\TU/JameelNooriNastaleeq(1)/m/n/10 کتاب میں بین الاقوامی نظامِ اکائی استعما
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 کتاب میں بین الاقوامی نظامِ اکائی استعما
 ل کی گئ ہے۔اہم متغیرات کی علامتیں وہی رکھی گئی ہیں جو موجودہ نظامِ تعلیم کی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[]\TU/JameelNooriNastaleeq(1)/m/n/10 نصابی کتابوں میں رائج ہیں۔یوں اردو میں لکھ
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 نصابی کتابوں میں رائج ہیں۔یوں اردو میں لکھ
 ی اس کتاب اور انگریزی میں اسی مضمون پر لکھی کتاب پڑھنے والے طلبہ و[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
-[][]\TU/JameelNooriNastaleeq(1)/m/n/10 امید کی جاتی ہے کہ یہ کتاب ایک دن خالصتا
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 امید کی جاتی ہے کہ یہ کتاب ایک دن خالصتا
 ً اردو زبان میں انجنیئرنگ کی نصابی کتاب کے طور پر استعمال کی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
-[][]\TU/JameelNooriNastaleeq(1)/m/n/10 اس کتاب کے پڑھنے والوں سے گزارش کی جاتی 
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 اس کتاب کے پڑھنے والوں سے گزارش کی جاتی 
 ہے کہ اسے زیادہ سے زیادہ طلبہ و طالبات تک پہنچانے میں[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
-[]\TU/JameelNooriNastaleeq(1)/m/n/10 مدد دیں اور انہیں جہاں اس کتاب میں غلطی نظ
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 مدد دیں اور انہیں جہاں اس کتاب میں غلطی نظ
 ر آئے وہ اس کی نشاندہی میری ای-میل پر کریں۔میں ان کا[]
  []
 
 [5]
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[][]\TU/JameelNooriNastaleeq(1)/m/n/10 اس کتاب میں تمام غلطیاں مجھ سے ہی سر زد 
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 اس کتاب میں تمام غلطیاں مجھ سے ہی سر زد 
 ہوئی ہیں البتہ انہیں درست کرنے میں بہت لوگوں کا ہاتھ[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[]\TU/JameelNooriNastaleeq(1)/m/n/10 ہے۔میں ان سب کا شکریہ ادا کرتا ہوں۔ یہ سلس
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 ہے۔میں ان سب کا شکریہ ادا کرتا ہوں۔ یہ سلس
 لہ ابھی جاری ہے اور مکمل ہونے پر ان حضرات کے تاثرات[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--22
-[][]\TU/JameelNooriNastaleeq(1)/m/n/10 میں یہاں کامسیٹ یونیورسٹی اور ہائر ایجوک
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 میں یہاں کامسیٹ یونیورسٹی اور ہائر ایجوک
 یشن کمیشن کا شکریہ ادا کرنا چاہتا ہوں جن کی وجہ سے ایسی سرگرمیاں[]
  []
 
-) [6] (./answer.tex) [1
+) [6]
+\openout2 = `./tex/physicsMeasurement.aux'.
+
+ (./tex/physicsMeasurement.tex
+باب \arabicdigits{1}.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 1.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
+(Font)              scaled to size 20.74pt on input line 1.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 2.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 2.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 سائنس اور انجینئری پیمائش اور موازنہ پر مب
+نی ہے۔ یوں چیزوں کی پیمائش اور موازنہ کے لئیے ہمیں قواعد کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 ضرورت پیش آتی ہے، اور ان پیمائش اور موازنو
+ں کے بُعد تعین کرنے کے لئیے ہمیں تجربات کا سہارا لینا پڑھتا ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 طبیعیات میں ملوث مقداروں کی پیمائش کی طریق
+ے جان کر ہم طبیعیات دریافت کرتے ہیں۔ ان مقداروں[]
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 8--9
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 ہم ہر طبی مقدار کا موازنہ ایک معیار کے س
+اتھ کرکے اسکو اپنی اکائیوں میں ناپتے ہیں۔ اس مقدار کی ناپ کو ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 منفرد نام دیا جاتا ہے جسے اکائی کہتے ہیں۔ 
+مثلاً لمبائی کی ناپ کو میٹر میں ناپا جاتا ہے۔ معیار سے مراد مقدار کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 ٹھیک ایک اکائی ہے۔ جیسا آپ دیکھیں گے لمبائ
+ی کا معیار جو ٹھیک ایک میٹر کے برابر ہے۔ اُس فاصلہ کو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 کہتے ہیں جو خلاء میں حرکت کرتے ہوئے کسی ای
+ک مخصوص دورانیہ میں ایک شواع طے کرتا ہے۔ ہم ایک اکائی اور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 ایک معیار مثلاً لمبائی کے لئیے طے کرنے ک
+ے بعد ہمیں وہ طریقہ کار واضح کرنے ہونگے جن سے ہم کسی بھی لمبائی چاہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 وہ ہائڈروجن جوہر کا رداس ہو یا دور ستارے ت
+ک کا فاصلہ ہو اس معیار کی صورت میں ظاہر کر سکیں۔ ایسئ ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 ترکیب فیتہ کا استعمال ہے جو ہماری لمبائی ک
+ے معیار کو تخمینی طور پرظاہر کرتا ہے۔ بہرحال، بہت سارے موازنوں[]
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 10--11
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 میں بِلا واسطہ طریقے استعمال کئیے جائیں گے
+۔ مثلاً ایک جوہر کا رداس یا قریبی ستارے تک کا فاصلہ فیتہ[]
+ []
+
+[1
 
 
 
 
 
 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 ہیں، مثلاً رفتار درحقیقت لمبائی اور وقت کا
+ تناسب ہے۔ یوں بین الاقوامی متفقہ معاہدہ کے تحت چند طبی مقدار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 مثلاً لمبائی اور وقت منتخب کرکے صرف اِنہی 
+کو معیار مختص کئیے جاتے ہیں۔ اس کے بعد باقی تمام طبی مقداروں کو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 ضروری ہے کہ اساسی معیار قابلِ رسائی اور 
+غیر متغیر ہوں۔ اگر ہم بازو کی لمبائی کو معیار لمبائی لیں تب یہ قابلِ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 رسائی ضرور ہوگا۔ البتہ ہر شخص کے لئیے یہ ل
+مبائی مختلف ہوگی۔ سائنس اور انجینئرنگ میں زیادہ سے زیادہ درستگی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 مطلوب ہونے کے پیش نظر ہم پہلے غیرمتغیریت پ
+ر زور ڈالتے ہیں۔ اس کے بعد اساسی معیار کی بہتر سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--33
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 سن 1971 میںناپ و تول کے عمومی اجلاس میں سا
+ت مقداروں کو بطور اساسی مقدار منتخب کرکے بین[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--33
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 الاقوامی نظامِ اکائی کے اساس چنے گئے۔ جدول
+ ١.١[] میں تین اساسی مقدار لمبائی، کمیت اور وقت دیکھائے گئے ہیں۔[]
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 34--35
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 کئی ماخوذ اکائیوں کی تعریف ان اساسی اکائ
+یوں کی صورت میں کی جاتی ہے۔ مثلاً طاقت کی SI اکائی جسے واٹ کہتے ہیں۔[]
+ []
+
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 7.6pt on input line 37.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 37.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 4.56004pt on input line 37.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[][]\TU/JameelNooriNastaleeq(1)/b/n/10 بہت بڑی یا بہت چھوٹی مقداروں کو جن سے ہم
+یں طبیعیات میں عموماً واسطہ پڑھتا ہے جن کو سائنسی علامتیت[]
+ []
+
+
+LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/m/sl' undefined
+(Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
+e 43.
+
+
+LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/m/sl' undefined
+(Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
+e 43.
+
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/sl' will be
+(Font)              scaled to size 10.0pt on input line 43.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کمیوٹرز پر سائنسی علامتیت اس سے بھی مختصر
+ لکھی جاتی ہے۔ مثلاً  $\OT1/ppl/m/n/10 3.56\OML/zplm/m/it/10 E\OT1/ppl/m/n/10 9
+$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $[]$  جہاں دس کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 طاقت کو  $\OML/zplm/m/it/10 E$  \TU/Jamee
+lNooriNastaleeq(1)/m/sl/10 سے ظاہر کیا جاتا ہے۔ کئی کیلکولیٹر میں اس سے بھی مخت
+صر انداز میں لکھتے ہوئے  $\OML/zplm/m/it/10 E$  \TU/JameelNooriNastaleeq(1)/m/s
+l/10 کو خالی[]
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 49--102
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم اپنی آسانی کے لئیے بہت بڑی یا بہت چھ
+وٹی پیمائشوں کو جدول ١.٢[] میں دی گئی سابقہ کی مدد سے لکھتے ہیں۔ جیسا آپ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--102
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دیکھ سکتے ہیں ہر ایک سابقہ دس کی کسی مخصو
+ص طاقت کو ظاہر کرتا ہے۔ جس کو بطور جذ ضربی استعمال کیا جاتا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--102
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ بین الاقوامی نظام اکائی کے ساتھ ایک س
+ابقہ منسلک کرنے سے مراد اس اکائی کو مدابقتی جذ ضربی سے ضرب[]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہمیں بعض اوقات طبی مقداروں کی اکائی تبدیل
+ کرنے کی ضرورت پیش آتی ہے۔ اس ترکیب میں ہم اصل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پیمائش کو ایک تبادلی جذ جو اکائی کے برابر
+ اکائیوں کا نسبت ہوتا ہے سے ضرب دیتے ہیں۔ مثال کے طور پر چونکہ ایک[]
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 115--117
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں۔ ایسا کرتے ہوئے ہم غیر ضروری اکائیوں 
+کو منسوخ کر سکتے ہیں۔ مثال کے طور پر دو منٹوں کو سیکنڈوں میں تبدیل کرتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جذ ضربی کو اُلٹا کر دوبارہ کوشش کریں۔ اکا
+ئیوں کی تبادلہ میں اکائیوں پر متغیرات اور اعداد کے الجبرائی قواعد لاگو ہوں[]
+ []
+
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/sl' will be
+(Font)              scaled to size 10.0pt on input line 121.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 سن 1972 میں فرانس کے نوزائیدہ جمہوریہ نے 
+ناپ اور تول کا ایک نیا نظام قائم کیا۔ اسی کا سنگِ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بنیاد میٹر تھا جو قطب شمال سے خط استوا کے
+ فاصلے کا کڑوڑواں حصہ لیا گیا بعد میں عملی وجوہات کے بنا[]
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 122--123
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس زمینی معیار کو ترک کرتے ہوئے پیرس شہر 
+کے قریب ناپ اور تول کے ایک بین الاقوامی محکمہ میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 رکھے گئے پلاٹینم، آئریڈئم کے ڈنڈے پر لگائ
+ے گئے دو باریک لکیروں کے بیچ فاصلے کو میٹر کہا گیا۔ اس ڈنڈے کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 بہترین نقل پوری دنیا کے معیار سازی تجربہ 
+گاہوں کو بیشے گئے۔ ان ثانوی معیاروں سے مزید زیادہ قابلے رسائی[]
+ []
+
+
+Underfull \vbox (badness 6893) has occurred while \output is active []
+
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کچھ عرصہ کے بعد ایک دھاتی ڈنڈے پر دو با
+ریک لکیروں کے بیچ فاصلہ سے زیادہ بہتر معیار کی ضرورت در[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فاصلہ لیا گیا۔ یہ شواع دنیا میں کہیں پر ب
+ھی گیس کے اخراگی نلی سے حاصل کی جا سکتی ہے۔ طولِ موج[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 زیادہ سے زیادہ مطلوبہ درستگی کو آخر کار
+ کرپٹن 86 کا معیار پورا نہیں کر سکتاتھا لحاظہ سن 1983 میں ایک نڈر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ”خلاء میں ایک سیکنڈ کے $[]$ حصہ میں روش
+نی کے تہ شدہ فاصلہ کو ایک میٹر قرار دیا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 روشنی کی رفتار کی انتہائی درست پیمائش کرن
+ا ممکن ہوا تھا لحاظہ روشنی کی رفتار کو استعمال کرتے ہوئے میٹر[]
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 166--167
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 مثال کے طور پر آپ ایک مسلے پر کام کر رہے 
+ہیں جس میں ہر قیمت دو ہندسوں پر مشتمل ہوتی ہے۔ ان ہندسوں کو بامعنی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دیا گیا ہو تب آپ کا جواب بھی دو ہندسوں پر
+ مشتمل ہونا چاہئیے۔ اگر چہ آپ کے کیلکولیٹر میں زیادہ ہندسے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کتاب میں دئیے گئے مواد میں کم سے کم 
+با معنی ہندسوں کے برابر حساب کے اختتامی نتائج کو پورمپور کر کے پیش[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کیا جائے گا۔ ہاں بعض اوقات ایک اضافی ہندس
+ہ بھی رکھا جائے گا۔ اگر ضائع کئیے جانے والے ہندسوں میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 صورت اس کو اپنے حال میں ہی رکھا جاتا ہے۔ 
+مثال کے طور پر 3516.‏11 کو تین با معنی ہندسوں تک پورمپور کرکے[]
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 168--169
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 4.‏11 جبکہ 3279.‏11 کو تین با معنی ہندسوں
+ تک پورمپور کرتے ہوئے 3.‏11 لکھا جائے گا۔ اس کتاب میں نتائج پیش[]
+ []
+
+[5]
+Underfull \hbox (badness 5622) in paragraph at lines 170--171
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک عدد مثلاً 15.‏3 یا $\OMS/zplm/m/n/1
+0 ^^B\OT1/ppl/m/n/10 10[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 15.‏3 میں با معنی
+ ہندسوں کی تعداد صاف ظاہر ہے البتہ عدد 3000 میں با معنی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہندسے کتنے ہوں گے؟ کیا یہ صرف ایک با معنی
+ ہندسے تک $\OMS/zplm/m/n/10 ^^B\OT1/ppl/m/n/10 10[]$\TU/JameelNooriNastaleeq(1)
+/m/sl/10 3 معلوم ہے یا یہ ہمیں چار با معنی ہندسوں[]
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 170--171
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تک $\OMS/zplm/m/n/10 ^^B\OT1/ppl/m/n/10 1
+0[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 000.‏3 تک معلوم ہے؟ اس کتاب میں 3000 کی
+ طرح اعداد میں تمام صفروں کو بامعنی عدد[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 بامعنی ہندسے اور اشاریہ مقامات دو علیحد
+ہ علیحدہ چیزیں ہیں۔ چرد ذیل لمبائیاں 6.‏35 ملی میٹر، 56.‏3 میٹر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اور 00356.‏0 میٹر پر غور کریں۔ ان تمام می
+ں تین با معنی ہندسے جبکہ بلترتیب ایک، دو اور پانچ اشاریہ مقامات[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دنیا میں دھاگے کے سب سے بڑے گیند کا رداس 
+2 میٹر ہے اس دھاگے کی کل لمبائی L کتنی ہوگی؟ اگر چہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم گیند سے دھاگہ کھول کر لمبائی L ناپ سکت
+ے ہیں تاہم ہم ایسا نہیں کرنا چاہتے ہیں۔ ہم حساب کے ذریعہ اس کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں یہ گیند کروی ہو جس کا رداس R=2
+ میٹر ہے۔ دھاگہ لپیٹتے ہوئے قریبی حصوں کے بیچ خالی جگہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 پائی جاتی ہے۔ ان خالی جگہوں کو مدِ نظر رک
+ھتے ہوئے ہم دھاگے کا عمودی تراش ذرا زیادہ تصور کرتے ہیں۔ ہم کہتے ہیں کہ[]
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 178--179
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دھاگے کا عمودی تراش چکور ہے جس کی زلی لمب
+ائی d=4 ملی میٹر ہے۔ یوں اس کا رقبہ عمودی تراش $\OML/zplm/m/it/10 d[]$ \TU/Jame
+elNooriNastaleeq(1)/m/sl/10 اور لمبائی[]
+ []
+
+Missing character: There is no ر in font zplmr7m!
+Missing character: There is no ق in font zplmr7m!
+Missing character: There is no ب in font zplmr7m!
+Missing character: There is no ہ in font zplmr7m!
+Missing character: There is no ع in font zplmr7m!
+Missing character: There is no م in font zplmr7m!
+Missing character: There is no و in font zplmr7m!
+Missing character: There is no د in font zplmr7m!
+Missing character: There is no ی in font zplmr7m!
+Missing character: There is no ت in font zplmr7m!
+Missing character: There is no ر in font zplmr7m!
+Missing character: There is no ا in font zplmr7m!
+Missing character: There is no ش in font zplmr7m!
+Missing character: There is no ل in font zplmr7m!
+Missing character: There is no م in font zplmr7m!
+Missing character: There is no ب in font zplmr7m!
+Missing character: There is no ا in font zplmr7m!
+Missing character: There is no ئ in font zplmr7m!
+Missing character: There is no ی in font zplmr7m!
+[6]
+Underfull \hbox (badness 5331) in paragraph at lines 185--187
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 (اتنے سادہ حساب کے لئیے کیلکولیٹر کی ضرور
+ت پیش نہیں آنی چاہئیے۔) قدر کی قریبی رطبہ تک اس گیند[]
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 192--193
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 وقت کے دو پہلو ہیں۔ روز مرہ زندگی میں ہم 
+وقت جاننا چاہتے ہیں تاکہ دن کے کام کاج کو کسی ترتیب سے رکھنا ممکن[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو۔ سائنس کی دنیا میں ہم عموماً یہ جاننا 
+چاہتے ہیں کہ ایک واقعہ کتنے دیر کے لیئے وقوع مذیر ہوا۔ یوں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 وقت کے کسی بھی معیار کو دو سوالات کا جواب
+ دینا ہوگا: کب ہوا؟ اسکا دورانیہ کتنا تھا؟ جدول $[]$ میں چند[]
+ []
+
+
+Overfull \hbox (127.32086pt too wide) in paragraph at lines 196--213
+ [][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک ایسا مظہرجو اپنے آپ کو دہراتا ہو وق
+ت کا ممکنہ معیار بن سکتا ہے۔ اپنے محور کے گرد زمین کا ایک چکر جو دن[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی لمبائی تعین کرتا ہے کو یوں صدیوں تک اس
+تعمال کیا گیا۔ ایک کوارٹز گھڑی جس میں ایک کوارٹز چھلّا کو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 تجربہ گاہ میں وقتی وقفوں کو ناپنے کے لیئے
+ استعمال کیا جا سکتا ہے۔ تاہم جدید سائنس و انجینئرنگ میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 بہتر معیارِ وقت کی ضرورت کے درپیش جوہری
+ گھڑیاں تیار کی گئیں۔ سن 1967 میں ناپ و طول کے تیرویں[]
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 سیزیم133 جوہر سے خارج ایک مخصوص طولِ مو
+ج کی شعاع کے $[][]$ ارتعاش کو درکار وقت کو ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 جوہری گھڑیاں اتنی بلاتضاد ہوتی ہیں کہ د
+و سیزیم گھڑیوں کو چھ ہزار سال چلنا ہو گا تاکہ اِن میں ایک سیکنڈ کا فرق پیدا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو۔ اِس وقت تیار کی جانے والی گھڑیوں کی د
+رستگی $\OT1/ppl/m/n/10 10[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 میں ایک حصہ کے
+ برابر ہے یعنی $\OT1/ppl/m/n/10 10[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سیکنڈ
+ میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--262
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرانس کے شہر پیرس کے قریب ناپ و طول کے بی
+ن الاقوامی مہکمہ میں رکھے گئے پلاٹینم اور آئریڈیم کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--262
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک سلنڈر کو بین الاقوامی معاہدہ کے تحت ا
+یک کلوگرام کمیت منتخب کیا گیا۔ اس کی بہترین نقلیں دنیا کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جوہروں کی کمیت کا موازنہ معیاری کلوگرام ک
+ی بجائے زیادہ درستگی کے ساتھ دیگر جوہروں کے ساتھ کیا جا سکتا ہے۔ اَسی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 کی بنا ہم دوم معیار کمیت بھی رکھتے ہیں۔ ی
+ہ کاربن 12 جوہر ہے جس کو بین الاقوامی معاہدہ کے تحت 12 جوہری کمیتی اکئیاں کی[]
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 266--268
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جس کے آخری دو ہندسوں میں عدم یقینیت $\OMS
+/zplm/m/n/10 ^^F\OT1/ppl/m/n/10 10$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ سائ
+نس دان کافی درستگی کے ساتھ تجربہ کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--268
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 ذریعہ کسی بھی جوہر کی کمیت کو کاربن 12 کی
+ کمیت کی لحاظ سے تعین کر سکتے ہیں۔ اس وقت کمیت کی عام اکئیاں مثلاً[]
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 272--177
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس پر باب 14 میں مزید تبصرہ کیا جائے گا۔ 
+کثافت کو عام طور پر کلوگرام فی مربع میٹر یا گرام فی مربع سنٹی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--177
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 میٹر میں ناپا جاتا ہے۔ پانی کی کثافت ایک 
+گرام فی مربع سنٹی میٹر یا ایک ہزار کلوگرام فی مربع میٹر کع عموماً[]
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 272--177
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 موازنہ کے لیئے استعمال کیا جاتا ہے۔ پانی 
+کی کثافت کے لحاظ سے پلاٹینم کی کثافت تقریباً اکیس گناہ جبکہ[]
+ []
+
+[9] [10
 
 
 
-
-
-
-
-
-
-
-
-] [2
+] (./answer.tex) [11] [12
 
 
 ]
@@ -2143,39 +2670,30 @@ braces):
 >  {english/babelname}  =>  {american}
 >  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 237.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 237.
 (./physics.aux
 No file ./tex/quantumMechanicsPreface.aux.
-(./tex/prefaceFirstBook.aux)
-No file ./tex/quantumTheWaveFunction.aux.
-No file ./tex/quantumMechanicsTime_independentSchrodingerEquattion.aux.
-No file ./tex/quantumFormalism.aux.
-No file ./tex/quantumMechanicsInThreeDimensions.aux.
-No file ./tex/quantumIdenticalParticles.aux.
-No file ./tex/quantumTimeIndependentPertubationTheory.aux.
-No file ./tex/quantumTheVariationalPrinciple.aux.
-No file ./tex/quantumTheWKBapproximation.aux.
-No file ./tex/quantumTimeDependentPertubationTheory.aux.
-No file ./tex/quantumTheAdiabaticApproximation.aux.
-No file ./tex/quantumScattering.aux.
-No file ./tex/quantumAfterword.aux.
-)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 247.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 247.
+(./tex/prefaceFirstBook.aux) (./tex/physicsMeasurement.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 237.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 237.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 3.75237pt have occurred.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
  ) 
 Here is how much of TeX's memory you used:
- 54275 strings out of 479819
- 1429835 string characters out of 11645846
- 14042355 words of memory out of 24000000
- 70360 multiletter control sequences out of 15000+600000
- 555817 words of font info for 145 fonts, out of 12000000 for 9000
+ 54444 strings out of 479819
+ 1433536 string characters out of 11645846
+ 14044404 words of memory out of 24000000
+ 70501 multiletter control sequences out of 15000+600000
+ 578239 words of font info for 238 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,9n,136p,2632b,512s stack positions out of 5000i,500n,10000p,12000000b,80000s
+ 78i,20n,136p,2632b,1260s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on physics.pdf (8 pages).
+Output written on physics.pdf (18 pages).

@@ -59,7 +59,9 @@
 %\renewcommand{\arraystretch}{2}   %space in tables and arrays
 
 
-\sisetup{math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega}   %with mathpazo this is needed else must not be here. now micro is smaller
+\sisetup{
+math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
+  math-degree=\textup{°}}   %with mathpazo this is needed else must not be here. now micro is smaller
 \DeclareSIUnit \var {var}    %used in electric circuits volt-ampere-reactive
 
 \input longdiv.tex		%this is a package but doesnot load with usepackage. it writes pen and paper long division
@@ -102,9 +104,8 @@
 \graphicspath{{./fig/figFrontPage/}{./fig/figCalculusLimits/}{./fig/figCalculusDerivatives/}{./fig/figCalculusIntegration/}{./fig/figCalculusApplicationsOfIntegrals}{./fig/figCalculusTechniquesOfIntegration/}}%paths to figures
 
 
-%\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/quantumTheWaveFunction,./tex/quantumMechanicsTime_independentSchrodingerEquattion,./tex/quantumFormalism,./tex/quantumMechanicsInThreeDimensions,./tex/quantumIdenticalParticles,./tex/quantumTimeIndependentPertubationTheory,./tex/quantumTheVariationalPrinciple,./tex/quantumTheWKBapproximation,./tex/quantumTimeDependentPertubationTheory,./tex/quantumTheAdiabaticApproximation,./tex/quantumScattering,./tex/quantumAfterword}
 %
-\includeonly{./tex/prefaceFirstBook}
+\includeonly{./tex/prefaceFirstBook,./tex/physicsMeasurement}
 %
 %\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/calculusPreliminaries,./tex/calculusLimitsAndContinuity,./tex/calculusDerivatives,./tex/calculusApplicationsOfDerivatives,./tex/calculusIntegration,./tex/calculusApplicationsOfIntegrals,./tex/calculusTranscendentalFunctions,./tex/calculusTechniquesOfIntegration,./tex/calculusIntegrationTable}%
 %
@@ -123,7 +124,7 @@
 
 
 \title{
-کوانٹم میکانیات
+طبیعیات  کے اصول
 }
 %\date{}                           %if absent gives date in arabic which is a rubbish
 
@@ -173,18 +174,7 @@
 \pagestyle{headings}
 
 %\include{./tex/test}
-\include{./tex/quantumTheWaveFunction}
-\include{./tex/quantumMechanicsTime_independentSchrodingerEquattion}
-\include{./tex/quantumFormalism}
-\include{./tex/quantumMechanicsInThreeDimensions}
-\include{./tex/quantumIdenticalParticles}
-\include{./tex/quantumTimeIndependentPertubationTheory}
-\include{./tex/quantumTheVariationalPrinciple}
-\include{./tex/quantumTheWKBapproximation}
-\include{./tex/quantumTimeDependentPertubationTheory}
-\include{./tex/quantumTheAdiabaticApproximation}
-\include{./tex/quantumScattering}
-\include{./tex/quantumAfterword}
+\include{./tex/physicsMeasurement}
 
 
 %\immediate\closeout\tempfileTerms

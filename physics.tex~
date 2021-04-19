@@ -102,9 +102,8 @@
 \graphicspath{{./fig/figFrontPage/}{./fig/figCalculusLimits/}{./fig/figCalculusDerivatives/}{./fig/figCalculusIntegration/}{./fig/figCalculusApplicationsOfIntegrals}{./fig/figCalculusTechniquesOfIntegration/}}%paths to figures
 
 
-%\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/quantumTheWaveFunction,./tex/quantumMechanicsTime_independentSchrodingerEquattion,./tex/quantumFormalism,./tex/quantumMechanicsInThreeDimensions,./tex/quantumIdenticalParticles,./tex/quantumTimeIndependentPertubationTheory,./tex/quantumTheVariationalPrinciple,./tex/quantumTheWKBapproximation,./tex/quantumTimeDependentPertubationTheory,./tex/quantumTheAdiabaticApproximation,./tex/quantumScattering,./tex/quantumAfterword}
 %
-\includeonly{./tex/calculusPreface}
+\includeonly{./tex/prefaceFirstBook,./tex/physicsMeasurement}
 %
 %\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/calculusPreliminaries,./tex/calculusLimitsAndContinuity,./tex/calculusDerivatives,./tex/calculusApplicationsOfDerivatives,./tex/calculusIntegration,./tex/calculusApplicationsOfIntegrals,./tex/calculusTranscendentalFunctions,./tex/calculusTechniquesOfIntegration,./tex/calculusIntegrationTable}%
 %
@@ -123,7 +122,7 @@
 
 
 \title{
-کوانٹم میکانیات
+طبیعیات  کے اصول
 }
 %\date{}                           %if absent gives date in arabic which is a rubbish
 
@@ -173,18 +172,7 @@
 \pagestyle{headings}
 
 %\include{./tex/test}
-\include{./tex/quantumTheWaveFunction}
-\include{./tex/quantumMechanicsTime_independentSchrodingerEquattion}
-\include{./tex/quantumFormalism}
-\include{./tex/quantumMechanicsInThreeDimensions}
-\include{./tex/quantumIdenticalParticles}
-\include{./tex/quantumTimeIndependentPertubationTheory}
-\include{./tex/quantumTheVariationalPrinciple}
-\include{./tex/quantumTheWKBapproximation}
-\include{./tex/quantumTimeDependentPertubationTheory}
-\include{./tex/quantumTheAdiabaticApproximation}
-\include{./tex/quantumScattering}
-\include{./tex/quantumAfterword}
+\include{./tex/physicsMeasurement}
 
 
 %\immediate\closeout\tempfileTerms

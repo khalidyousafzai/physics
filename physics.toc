@@ -1,3 +1,17 @@
 \selectlanguage *{urdu}
 \contentsline {chapter}{میری پہلی کتاب کا دیباچہ}{v}%
-\contentsline {chapter}{جوابات}{\arabicdigits {1}}%
+\contentsline {chapter}{\numberline {\arabicdigits {1}}پیمائش}{\arabicdigits {1}}%
+\contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {1}}چیزوں کی پیمائش بشمول لمبائی}{\arabicdigits {1}}%
+\contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {1}.\arabicdigits {1}}طبیعیات کیا ہے؟}{\arabicdigits {1}}%
+\contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {1}.\arabicdigits {2}}چیزوں کی پیمائش}{\arabicdigits {1}}%
+\contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {1}.\arabicdigits {3}}اساسی مقداریں}{\arabicdigits {2}}%
+\contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {1}.\arabicdigits {4}}اکائیوں کا بین الاقوامی نظام}{\arabicdigits {2}}%
+\contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {1}.\arabicdigits {5}}اکائیوں کی تبدیلی}{\arabicdigits {3}}%
+\contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {1}.\arabicdigits {6}}لمبائی}{\arabicdigits {5}}%
+\contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {1}.\arabicdigits {7}}بامعنی اعداد اور اشاریہ}{\arabicdigits {5}}%
+\contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {2}}وقت}{\arabicdigits {7}}%
+\contentsline {section}{\numberline {\arabicdigits {1}.\arabicdigits {3}}کمیت}{\arabicdigits {8}}%
+\contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {3}.\arabicdigits {1}}معیاری کلوگرام}{\arabicdigits {8}}%
+\contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {3}.\arabicdigits {2}}دوم معیار کمیت}{\arabicdigits {9}}%
+\contentsline {subsection}{\numberline {\arabicdigits {1}.\arabicdigits {3}.\arabicdigits {3}}کثافت}{\arabicdigits {9}}%
+\contentsline {chapter}{جوابات}{\arabicdigits {11}}%
