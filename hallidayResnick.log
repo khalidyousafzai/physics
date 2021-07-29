@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  19 APR 2021 13:40
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  16 JUN 2021 05:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**physics.tex
-(./physics.tex
+**hallidayResnick.tex
+(./hallidayResnick.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
@@ -1698,11 +1698,11 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021419820.tex)...disabled (restricted).
+runsystem(touch w18-test-2021616338.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021419820.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2021616338.tex)...disabled (restricted).
 
-runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
+runsystem(rm -f "hallidayResnick.gnuploterrors")...disabled (restricted).
 
 
 
@@ -1733,7 +1733,7 @@ Package: newfile 2009/09/03 v1.0c Output and input files
 ) (./tex/myUrduGreek.tex)
 (./tex/myEMTvectors.tex) (./tex/myDeclareFunctions.tex)
 (./tex/myCircuitDimensionsAndMathematicalSymbols.tex)
-(./tex/myTikzCommandsCircuitAnalysis.tex) (./physics.aux
+(./tex/myTikzCommandsCircuitAnalysis.tex) (./hallidayResnick.aux
 
 Package fontspec Info: Could not resolve font "Jameel Noori Nastaleeq/BI" (it
 (fontspec)             probably doesn't exist).
@@ -1765,7 +1765,7 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
 
 No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/physicsMeasurement.aux))
-\openout1 = `physics.aux'.
+\openout1 = `hallidayResnick.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
 LaTeX Font Info:    ... okay on input line 147.
@@ -1968,12 +1968,12 @@ LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/b/n' undefined
 (Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
 e 160.
 
-(./physics.toc
+(./hallidayResnick.toc
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 2.
 )
 \tf@toc=\write6
-\openout6 = `physics.toc'.
+\openout6 = `hallidayResnick.toc'.
 
  [3]
 \openout2 = `./tex/prefaceFirstBook.aux'.
@@ -2619,7 +2619,7 @@ Underfull \hbox (badness 3343) in paragraph at lines 272--177
 
 
 ]
-No file physics.ind.
+No file hallidayResnick.ind.
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -2672,7 +2672,7 @@ braces):
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 237.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 237.
-(./physics.aux
+(./hallidayResnick.aux
 No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/physicsMeasurement.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 237.
@@ -2689,11 +2689,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
  ) 
 Here is how much of TeX's memory you used:
  54444 strings out of 479819
- 1433536 string characters out of 11645846
- 14044404 words of memory out of 24000000
+ 1433664 string characters out of 11645846
+ 14044419 words of memory out of 24000000
  70501 multiletter control sequences out of 15000+600000
  578239 words of font info for 238 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,20n,136p,2632b,1260s stack positions out of 5000i,500n,10000p,12000000b,80000s
+ 78i,20n,136p,2640b,1260s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
-Output written on physics.pdf (18 pages).
+Output written on hallidayResnick.pdf (18 pages).
