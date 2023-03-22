@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  16 JUN 2021 05:38
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.2.25)  21 MAR 2023 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1698,9 +1698,9 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2021616338.tex)...disabled (restricted).
+runsystem(touch w18-test-2023321681.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2021616338.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2023321681.tex)...disabled (restricted).
 
 runsystem(rm -f "hallidayResnick.gnuploterrors")...disabled (restricted).
 
@@ -2089,16 +2089,14 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
 (Font)              scaled to size 14.4pt on input line 2.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 2.
-LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 []\TU/JameelNooriNastaleeq(1)/b/n/10 سائنس اور انجینئری پیمائش اور موازنہ پر مب
 نی ہے۔ یوں چیزوں کی پیمائش اور موازنہ کے لئیے ہمیں قواعد کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 []\TU/JameelNooriNastaleeq(1)/b/n/10 ضرورت پیش آتی ہے، اور ان پیمائش اور موازنو
 ں کے بُعد تعین کرنے کے لئیے ہمیں تجربات کا سہارا لینا پڑھتا ہے۔[]
  []
@@ -2157,6 +2155,8 @@ Underfull \hbox (badness 1442) in paragraph at lines 10--11
 ۔ مثلاً ایک جوہر کا رداس یا قریبی ستارے تک کا فاصلہ فیتہ[]
  []
 
+LaTeX Font Info:    Font shape `TU/AASameerSagarNastaleeqBold(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
 [1
 
 
@@ -2165,61 +2165,62 @@ Underfull \hbox (badness 1442) in paragraph at lines 10--11
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[]\TU/JameelNooriNastaleeq(1)/b/n/10 ہیں، مثلاً رفتار درحقیقت لمبائی اور وقت کا
- تناسب ہے۔ یوں بین الاقوامی متفقہ معاہدہ کے تحت چند طبی مقدار[]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 اساسی مقداریں۔ \TU/JameelNooriNast
+aleeq(1)/b/n/10 اتنی زیادہ طبی مقداریں پائی جاتی ہیں کہ انہیں منظم کرنا ایک مسئ
+لہ ہے۔ ہماری خوش قسمتی ہے کہ یہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-[]\TU/JameelNooriNastaleeq(1)/b/n/10 مثلاً لمبائی اور وقت منتخب کرکے صرف اِنہی 
-کو معیار مختص کئیے جاتے ہیں۔ اس کے بعد باقی تمام طبی مقداروں کو[]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+[]\TU/JameelNooriNastaleeq(1)/b/n/10 تمام غیر تابع نہیں ہیں، مثلاً رفتار درحقیق
+ت لمبائی اور وقت کا تناسب ہے۔ یوں بین الاقوامی متفقہ معاہدہ کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 [][]\TU/JameelNooriNastaleeq(1)/b/n/10 ضروری ہے کہ اساسی معیار قابلِ رسائی اور 
 غیر متغیر ہوں۔ اگر ہم بازو کی لمبائی کو معیار لمبائی لیں تب یہ قابلِ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 []\TU/JameelNooriNastaleeq(1)/b/n/10 رسائی ضرور ہوگا۔ البتہ ہر شخص کے لئیے یہ ل
 مبائی مختلف ہوگی۔ سائنس اور انجینئرنگ میں زیادہ سے زیادہ درستگی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 []\TU/JameelNooriNastaleeq(1)/b/n/10 مطلوب ہونے کے پیش نظر ہم پہلے غیرمتغیریت پ
 ر زور ڈالتے ہیں۔ اس کے بعد اساسی معیار کی بہتر سے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--33
+Underfull \hbox (badness 10000) in paragraph at lines 19--35
 []\TU/JameelNooriNastaleeq(1)/b/n/10 سن 1971 میںناپ و تول کے عمومی اجلاس میں سا
 ت مقداروں کو بطور اساسی مقدار منتخب کرکے بین[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--33
+Underfull \hbox (badness 10000) in paragraph at lines 19--35
 []\TU/JameelNooriNastaleeq(1)/b/n/10 الاقوامی نظامِ اکائی کے اساس چنے گئے۔ جدول
  ١.١[] میں تین اساسی مقدار لمبائی، کمیت اور وقت دیکھائے گئے ہیں۔[]
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 34--35
+Underfull \hbox (badness 1389) in paragraph at lines 36--37
 [][]\TU/JameelNooriNastaleeq(1)/b/n/10 کئی ماخوذ اکائیوں کی تعریف ان اساسی اکائ
 یوں کی صورت میں کی جاتی ہے۔ مثلاً طاقت کی SI اکائی جسے واٹ کہتے ہیں۔[]
  []
 
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 37.
+(Font)              scaled to size 7.6pt on input line 39.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 37.
+(Font)              scaled to size 6.0pt on input line 39.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 4.56004pt on input line 37.
+(Font)              scaled to size 4.56004pt on input line 39.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 [][]\TU/JameelNooriNastaleeq(1)/b/n/10 بہت بڑی یا بہت چھوٹی مقداروں کو جن سے ہم
 یں طبیعیات میں عموماً واسطہ پڑھتا ہے جن کو سائنسی علامتیت[]
  []
@@ -2227,386 +2228,378 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(1)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(1)/m/n' instead on input lin
-e 43.
+e 48.
 
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(0)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(0)/m/n' instead on input lin
-e 43.
+e 48.
 
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/sl' will be
-(Font)              scaled to size 10.0pt on input line 43.
+(Font)              scaled to size 10.0pt on input line 48.
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کمیوٹرز پر سائنسی علامتیت اس سے بھی مختصر
- لکھی جاتی ہے۔ مثلاً  $\OT1/ppl/m/n/10 3.56\OML/zplm/m/it/10 E\OT1/ppl/m/n/10 9
-$  \TU/JameelNooriNastaleeq(1)/m/sl/10 اور  $[]$  جہاں دس کی[]
+ لکھی جاتی ہے۔ مثلاً $\OT1/ppl/m/n/10 3.56\OML/zplm/m/it/10 E\OT1/ppl/m/n/10 9$
+ \TU/JameelNooriNastaleeq(1)/m/sl/10 اور $[]$ جہاں دس کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 طاقت کو  $\OML/zplm/m/it/10 E$  \TU/Jamee
-lNooriNastaleeq(1)/m/sl/10 سے ظاہر کیا جاتا ہے۔ کئی کیلکولیٹر میں اس سے بھی مخت
-صر انداز میں لکھتے ہوئے  $\OML/zplm/m/it/10 E$  \TU/JameelNooriNastaleeq(1)/m/s
-l/10 کو خالی[]
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 طاقت کو $\OML/zplm/m/it/10 E$ \TU/JameelN
+ooriNastaleeq(1)/m/sl/10 سے ظاہر کیا جاتا ہے۔ کئی کیلکولیٹر میں اس سے بھی مختصر
+ انداز میں لکھتے ہوئے $\OML/zplm/m/it/10 E$ \TU/JameelNooriNastaleeq(1)/m/sl/10
+ کو خالی[]
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 49--102
+Underfull \hbox (badness 1831) in paragraph at lines 51--85
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم اپنی آسانی کے لئیے بہت بڑی یا بہت چھ
 وٹی پیمائشوں کو جدول ١.٢[] میں دی گئی سابقہ کی مدد سے لکھتے ہیں۔ جیسا آپ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--102
+Underfull \hbox (badness 10000) in paragraph at lines 51--85
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 دیکھ سکتے ہیں ہر ایک سابقہ دس کی کسی مخصو
 ص طاقت کو ظاہر کرتا ہے۔ جس کو بطور جذ ضربی استعمال کیا جاتا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--102
+Underfull \hbox (badness 10000) in paragraph at lines 51--85
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ بین الاقوامی نظام اکائی کے ساتھ ایک س
 ابقہ منسلک کرنے سے مراد اس اکائی کو مدابقتی جذ ضربی سے ضرب[]
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/sl' will be
+(Font)              scaled to size 10.0pt on input line 87.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہمیں بعض اوقات طبی مقداروں کی اکائی تبدیل
  کرنے کی ضرورت پیش آتی ہے۔ اس ترکیب میں ہم اصل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 پیمائش کو ایک تبادلی جذ جو اکائی کے برابر
  اکائیوں کا نسبت ہوتا ہے سے ضرب دیتے ہیں۔ مثال کے طور پر چونکہ ایک[]
  []
 
 
-Underfull \hbox (badness 6592) in paragraph at lines 115--117
+Underfull \hbox (badness 6592) in paragraph at lines 99--101
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہیں۔ ایسا کرتے ہوئے ہم غیر ضروری اکائیوں 
 کو منسوخ کر سکتے ہیں۔ مثال کے طور پر دو منٹوں کو سیکنڈوں میں تبدیل کرتے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--121
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جذ ضربی کو اُلٹا کر دوبارہ کوشش کریں۔ اکا
 ئیوں کی تبادلہ میں اکائیوں پر متغیرات اور اعداد کے الجبرائی قواعد لاگو ہوں[]
  []
 
-LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/sl' will be
-(Font)              scaled to size 10.0pt on input line 121.
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 سن 1972 میں فرانس کے نوزائیدہ جمہوریہ نے 
 ناپ اور تول کا ایک نیا نظام قائم کیا۔ اسی کا سنگِ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 بنیاد میٹر تھا جو قطب شمال سے خط استوا کے
  فاصلے کا کڑوڑواں حصہ لیا گیا بعد میں عملی وجوہات کے بنا[]
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 122--123
+Underfull \hbox (badness 1337) in paragraph at lines 107--108
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اس زمینی معیار کو ترک کرتے ہوئے پیرس شہر 
 کے قریب ناپ اور تول کے ایک بین الاقوامی محکمہ میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 رکھے گئے پلاٹینم، آئریڈئم کے ڈنڈے پر لگائ
 ے گئے دو باریک لکیروں کے بیچ فاصلے کو میٹر کہا گیا۔ اس ڈنڈے کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 بہترین نقل پوری دنیا کے معیار سازی تجربہ 
 گاہوں کو بیشے گئے۔ ان ثانوی معیاروں سے مزید زیادہ قابلے رسائی[]
  []
 
-
-Underfull \vbox (badness 6893) has occurred while \output is active []
-
- [4]
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 کچھ عرصہ کے بعد ایک دھاتی ڈنڈے پر دو با
 ریک لکیروں کے بیچ فاصلہ سے زیادہ بہتر معیار کی ضرورت در[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 فاصلہ لیا گیا۔ یہ شواع دنیا میں کہیں پر ب
 ھی گیس کے اخراگی نلی سے حاصل کی جا سکتی ہے۔ طولِ موج[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 زیادہ سے زیادہ مطلوبہ درستگی کو آخر کار
  کرپٹن 86 کا معیار پورا نہیں کر سکتاتھا لحاظہ سن 1983 میں ایک نڈر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ”خلاء میں ایک سیکنڈ کے $[]$ حصہ میں روش
 نی کے تہ شدہ فاصلہ کو ایک میٹر قرار دیا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 روشنی کی رفتار کی انتہائی درست پیمائش کرن
 ا ممکن ہوا تھا لحاظہ روشنی کی رفتار کو استعمال کرتے ہوئے میٹر[]
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 1342) in paragraph at lines 166--167
+Underfull \hbox (badness 1342) in paragraph at lines 144--145
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 مثال کے طور پر آپ ایک مسلے پر کام کر رہے 
 ہیں جس میں ہر قیمت دو ہندسوں پر مشتمل ہوتی ہے۔ ان ہندسوں کو بامعنی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 دیا گیا ہو تب آپ کا جواب بھی دو ہندسوں پر
  مشتمل ہونا چاہئیے۔ اگر چہ آپ کے کیلکولیٹر میں زیادہ ہندسے[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 اس کتاب میں دئیے گئے مواد میں کم سے کم 
 با معنی ہندسوں کے برابر حساب کے اختتامی نتائج کو پورمپور کر کے پیش[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کیا جائے گا۔ ہاں بعض اوقات ایک اضافی ہندس
 ہ بھی رکھا جائے گا۔ اگر ضائع کئیے جانے والے ہندسوں میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 صورت اس کو اپنے حال میں ہی رکھا جاتا ہے۔ 
 مثال کے طور پر 3516.‏11 کو تین با معنی ہندسوں تک پورمپور کرکے[]
  []
 
 
-Underfull \hbox (badness 6842) in paragraph at lines 168--169
+Underfull \hbox (badness 6842) in paragraph at lines 146--147
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 4.‏11 جبکہ 3279.‏11 کو تین با معنی ہندسوں
  تک پورمپور کرتے ہوئے 3.‏11 لکھا جائے گا۔ اس کتاب میں نتائج پیش[]
  []
 
-[5]
-Underfull \hbox (badness 5622) in paragraph at lines 170--171
+
+Underfull \hbox (badness 5622) in paragraph at lines 148--149
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک عدد مثلاً 15.‏3 یا $\OMS/zplm/m/n/1
 0 ^^B\OT1/ppl/m/n/10 10[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 15.‏3 میں با معنی
  ہندسوں کی تعداد صاف ظاہر ہے البتہ عدد 3000 میں با معنی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہندسے کتنے ہوں گے؟ کیا یہ صرف ایک با معنی
  ہندسے تک $\OMS/zplm/m/n/10 ^^B\OT1/ppl/m/n/10 10[]$\TU/JameelNooriNastaleeq(1)
 /m/sl/10 3 معلوم ہے یا یہ ہمیں چار با معنی ہندسوں[]
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 170--171
+Underfull \hbox (badness 5622) in paragraph at lines 148--149
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تک $\OMS/zplm/m/n/10 ^^B\OT1/ppl/m/n/10 1
 0[]$\TU/JameelNooriNastaleeq(1)/m/sl/10 000.‏3 تک معلوم ہے؟ اس کتاب میں 3000 کی
  طرح اعداد میں تمام صفروں کو بامعنی عدد[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 بامعنی ہندسے اور اشاریہ مقامات دو علیحد
 ہ علیحدہ چیزیں ہیں۔ چرد ذیل لمبائیاں 6.‏35 ملی میٹر، 56.‏3 میٹر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اور 00356.‏0 میٹر پر غور کریں۔ ان تمام می
 ں تین با معنی ہندسے جبکہ بلترتیب ایک، دو اور پانچ اشاریہ مقامات[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
-[]\TU/JameelNooriNastaleeq(1)/m/sl/10 دنیا میں دھاگے کے سب سے بڑے گیند کا رداس 
-2 میٹر ہے اس دھاگے کی کل لمبائی L کتنی ہوگی؟ اگر چہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+[][]\TU/JameelNooriNastaleeq(1)/m/sl/10 دنیا میں دھاگے کے سب سے بڑے گیند کا ردا
+س 2 میٹر ہے اس دھاگے کی کل لمبائی L کتنی ہوگی؟ اگر چہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہم گیند سے دھاگہ کھول کر لمبائی L ناپ سکت
 ے ہیں تاہم ہم ایسا نہیں کرنا چاہتے ہیں۔ ہم حساب کے ذریعہ اس کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 فرض کریں یہ گیند کروی ہو جس کا رداس R=2
  میٹر ہے۔ دھاگہ لپیٹتے ہوئے قریبی حصوں کے بیچ خالی جگہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 پائی جاتی ہے۔ ان خالی جگہوں کو مدِ نظر رک
 ھتے ہوئے ہم دھاگے کا عمودی تراش ذرا زیادہ تصور کرتے ہیں۔ ہم کہتے ہیں کہ[]
  []
 
 
-Underfull \hbox (badness 2435) in paragraph at lines 178--179
+Underfull \hbox (badness 2435) in paragraph at lines 159--160
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 دھاگے کا عمودی تراش چکور ہے جس کی زلی لمب
 ائی d=4 ملی میٹر ہے۔ یوں اس کا رقبہ عمودی تراش $\OML/zplm/m/it/10 d[]$ \TU/Jame
 elNooriNastaleeq(1)/m/sl/10 اور لمبائی[]
  []
 
-Missing character: There is no ر in font zplmr7m!
-Missing character: There is no ق in font zplmr7m!
-Missing character: There is no ب in font zplmr7m!
-Missing character: There is no ہ in font zplmr7m!
-Missing character: There is no ع in font zplmr7m!
-Missing character: There is no م in font zplmr7m!
-Missing character: There is no و in font zplmr7m!
-Missing character: There is no د in font zplmr7m!
-Missing character: There is no ی in font zplmr7m!
-Missing character: There is no ت in font zplmr7m!
-Missing character: There is no ر in font zplmr7m!
-Missing character: There is no ا in font zplmr7m!
-Missing character: There is no ش in font zplmr7m!
-Missing character: There is no ل in font zplmr7m!
-Missing character: There is no م in font zplmr7m!
-Missing character: There is no ب in font zplmr7m!
-Missing character: There is no ا in font zplmr7m!
-Missing character: There is no ئ in font zplmr7m!
-Missing character: There is no ی in font zplmr7m!
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+[]\TU/JameelNooriNastaleeq(1)/m/sl/10 جو گیند کے حجم $[]\OML/zplm/m/it/10 ^^YR[
+]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 کے برابر ہوگا اور چونکہ $\OML/zplm/m/it/
+10 ^^Y$ \TU/JameelNooriNastaleeq(1)/m/sl/10 تقریباً 3 کے برابر ہے لحاظہ اس حجم 
+کو $\OT1/ppl/m/n/10 4\OML/zplm/m/it/10 R[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10
+ لکھا جا سکتا ہے۔[]
+ []
+
 [6]
-Underfull \hbox (badness 5331) in paragraph at lines 185--187
+Underfull \hbox (badness 5331) in paragraph at lines 166--168
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 (اتنے سادہ حساب کے لئیے کیلکولیٹر کی ضرور
 ت پیش نہیں آنی چاہئیے۔) قدر کی قریبی رطبہ تک اس گیند[]
  []
 
 
-Underfull \hbox (badness 4608) in paragraph at lines 192--193
+Underfull \hbox (badness 4608) in paragraph at lines 173--174
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 وقت کے دو پہلو ہیں۔ روز مرہ زندگی میں ہم 
 وقت جاننا چاہتے ہیں تاکہ دن کے کام کاج کو کسی ترتیب سے رکھنا ممکن[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو۔ سائنس کی دنیا میں ہم عموماً یہ جاننا 
 چاہتے ہیں کہ ایک واقعہ کتنے دیر کے لیئے وقوع مذیر ہوا۔ یوں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 وقت کے کسی بھی معیار کو دو سوالات کا جواب
  دینا ہوگا: کب ہوا؟ اسکا دورانیہ کتنا تھا؟ جدول $[]$ میں چند[]
  []
 
 
-Overfull \hbox (127.32086pt too wide) in paragraph at lines 196--213
- [][][] 
- []
+LaTeX Warning: Reference `footdir@2' on page \arabicdigits{7} undefined on inpu
+t line 192.
 
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 192.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 192.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 192.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 192.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 192.
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک ایسا مظہرجو اپنے آپ کو دہراتا ہو وق
 ت کا ممکنہ معیار بن سکتا ہے۔ اپنے محور کے گرد زمین کا ایک چکر جو دن[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کی لمبائی تعین کرتا ہے کو یوں صدیوں تک اس
 تعمال کیا گیا۔ ایک کوارٹز گھڑی جس میں ایک کوارٹز چھلّا کو[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 تجربہ گاہ میں وقتی وقفوں کو ناپنے کے لیئے
  استعمال کیا جا سکتا ہے۔ تاہم جدید سائنس و انجینئرنگ میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 بہتر معیارِ وقت کی ضرورت کے درپیش جوہری
  گھڑیاں تیار کی گئیں۔ سن 1967 میں ناپ و طول کے تیرویں[]
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 سیزیم133 جوہر سے خارج ایک مخصوص طولِ مو
 ج کی شعاع کے $[][]$ ارتعاش کو درکار وقت کو ایک[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 [][]\TU/JameelNooriNastaleeq(1)/m/sl/10 جوہری گھڑیاں اتنی بلاتضاد ہوتی ہیں کہ د
 و سیزیم گھڑیوں کو چھ ہزار سال چلنا ہو گا تاکہ اِن میں ایک سیکنڈ کا فرق پیدا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ہو۔ اِس وقت تیار کی جانے والی گھڑیوں کی د
 رستگی $\OT1/ppl/m/n/10 10[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 میں ایک حصہ کے
  برابر ہے یعنی $\OT1/ppl/m/n/10 10[]$ \TU/JameelNooriNastaleeq(1)/m/sl/10 سیکنڈ
- میں[]
+ (جو[]
  []
 
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 204.
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--262
+Underfull \hbox (badness 10000) in paragraph at lines 205--231
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 فرانس کے شہر پیرس کے قریب ناپ و طول کے بی
 ن الاقوامی مہکمہ میں رکھے گئے پلاٹینم اور آئریڈیم کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--262
+Underfull \hbox (badness 10000) in paragraph at lines 205--231
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ایک سلنڈر کو بین الاقوامی معاہدہ کے تحت ا
 یک کلوگرام کمیت منتخب کیا گیا۔ اس کی بہترین نقلیں دنیا کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جوہروں کی کمیت کا موازنہ معیاری کلوگرام ک
 ی بجائے زیادہ درستگی کے ساتھ دیگر جوہروں کے ساتھ کیا جا سکتا ہے۔ اَسی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 کی بنا ہم دوم معیار کمیت بھی رکھتے ہیں۔ ی
 ہ کاربن 12 جوہر ہے جس کو بین الاقوامی معاہدہ کے تحت 12 جوہری کمیتی اکئیاں کی[]
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 266--268
+Underfull \hbox (badness 10000) in paragraph at lines 235--237
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 جس کے آخری دو ہندسوں میں عدم یقینیت $\OMS
 /zplm/m/n/10 ^^F\OT1/ppl/m/n/10 10$ \TU/JameelNooriNastaleeq(1)/m/sl/10 ہے۔ سائ
 نس دان کافی درستگی کے ساتھ تجربہ کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--268
+Underfull \hbox (badness 10000) in paragraph at lines 235--237
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 ذریعہ کسی بھی جوہر کی کمیت کو کاربن 12 کی
  کمیت کی لحاظ سے تعین کر سکتے ہیں۔ اس وقت کمیت کی عام اکئیاں مثلاً[]
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 272--177
+Underfull \hbox (badness 10000) in paragraph at lines 241--177
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 اس پر باب 14 میں مزید تبصرہ کیا جائے گا۔ 
 کثافت کو عام طور پر کلوگرام فی مربع میٹر یا گرام فی مربع سنٹی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--177
+Underfull \hbox (badness 10000) in paragraph at lines 241--177
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 میٹر میں ناپا جاتا ہے۔ پانی کی کثافت ایک 
 گرام فی مربع سنٹی میٹر یا ایک ہزار کلوگرام فی مربع میٹر کع عموماً[]
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 272--177
+Underfull \hbox (badness 3343) in paragraph at lines 241--177
 []\TU/JameelNooriNastaleeq(1)/m/sl/10 موازنہ کے لیئے استعمال کیا جاتا ہے۔ پانی 
 کی کثافت کے لحاظ سے پلاٹینم کی کثافت تقریباً اکیس گناہ جبکہ[]
  []
@@ -2685,15 +2678,18 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
  ) 
 Here is how much of TeX's memory you used:
- 54444 strings out of 479819
- 1433664 string characters out of 11645846
- 14044419 words of memory out of 24000000
- 70501 multiletter control sequences out of 15000+600000
- 578239 words of font info for 238 fonts, out of 12000000 for 9000
+ 54468 strings out of 479819
+ 1434097 string characters out of 11645846
+ 14044447 words of memory out of 24000000
+ 70523 multiletter control sequences out of 15000+600000
+ 582851 words of font info for 254 fonts, out of 12000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,20n,136p,2640b,1260s stack positions out of 5000i,500n,10000p,12000000b,80000s
+ 78i,20n,136p,2640b,1262s stack positions out of 5000i,500n,10000p,12000000b,80000s
 
 Output written on hallidayResnick.pdf (18 pages).
