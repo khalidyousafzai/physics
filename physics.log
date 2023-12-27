@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  20 DEC 2023 15:50
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  27 DEC 2023 13:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**hallidayResnick.tex
-(./hallidayResnick.tex
+**physics
+(./physics.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
@@ -1710,11 +1710,11 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20231220950.tex)...disabled (restricted).
+runsystem(touch w18-test-20231227792.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20231220950.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20231227792.tex)...disabled (restricted).
 
-runsystem(rm -f "hallidayResnick.gnuploterrors")...disabled (restricted).
+runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
 
 
@@ -1747,11 +1747,11 @@ Package: newfile 2009/09/03 v1.0c Output and input files
 (./tex/myCircuitDimensionsAndMathematicalSymbols.tex)
 (./tex/myTikzCommandsCircuitAnalysis.tex)
 \@indexfile=\write6
-\openout6 = `hallidayResnick.idx'.
+\openout6 = `physics.idx'.
 
 
-Writing index file hallidayResnick.idx
-(./hallidayResnick.aux
+Writing index file physics.idx
+(./physics.aux
 LaTeX Info: Redefining \rmfamily on input line 4.
 LaTeX Info: Redefining \sffamily on input line 4.
 LaTeX Info: Redefining \ttfamily on input line 4.
@@ -1785,8 +1785,10 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 4.
 
 No file ./tex/quantumMechanicsPreface.aux.
-(./tex/prefaceFirstBook.aux) (./tex/physicsMeasurement.aux))
-\openout1 = `hallidayResnick.aux'.
+(./tex/prefaceFirstBook.aux)
+No file ./tex/physicsMeasurement.aux.
+)
+\openout1 = `physics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
 LaTeX Font Info:    ... okay on input line 137.
@@ -1799,8 +1801,7 @@ LaTeX Font Info:    ... okay on input line 137.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
 37.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 137.
@@ -1941,7 +1942,7 @@ LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(2)/b/n' undefined
 (Font)              using `TU/JameelNooriNastaleeq(2)/m/n' instead on input lin
 e 150.
 
-(./hallidayResnick.toc
+(./physics.toc
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
@@ -1949,91 +1950,230 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/b/n' will be
 (Font)              scaled to size 10.0pt on input line 2.
 )
 \tf@toc=\write7
-\openout7 = `hallidayResnick.toc'.
+\openout7 = `physics.toc'.
 
  [3]
+\openout2 = `./tex/physicsMeasurement.aux'.
+
+ (./tex/physicsMeasurement.tex
+باب \arabicdigits{1}.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 1.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 191.
- (./answer.tex) [1
+(Font)              scaled to size 20.74pt on input line 1.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/b/n' will be
+(Font)              scaled to size 24.88pt on input line 1.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 2.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 سائنس و انجینئری پیمائش اور موازنے پر مبنی
+ ہے۔ چیزوں کی پیمائش اور موازنے کے لئے قواعد کی ضرورت[]
+ []
+
+
+Underfull \hbox (badness 6859) in paragraph at lines 3--4
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 پیش آتی ہے؛ پیمائش اور موازنہ کے بُعد تعین
+ کرنے کے لئے تجربات کا سہارا لینا ہو گا۔ طبیعیات اور انجینئری کا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 طبیعیات میں ملوث مقداروں کی پیمائش کی طریق
+ے جان کر ہم طبیعیات دریافت کرتے ہیں۔ ان مقداروں[]
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 8--9
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 ہم ہر طبی مقدار کا موازنہ ایک معیار کے س
+اتھ کرکے اسکو اپنی اکائیوں میں ناپتے ہیں۔ اس مقدار کی ناپ کو ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 منفرد نام دیا جاتا ہے جسے اکائی کہتے ہیں۔ 
+مثلاً لمبائی کی ناپ کو میٹر میں ناپا جاتا ہے۔ معیار سے مراد مقدار کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 ٹھیک ایک اکائی ہے۔ جیسا آپ دیکھیں گے لمبائ
+ی کا معیار جو ٹھیک ایک میٹر کے برابر ہے۔ اُس فاصلہ کو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 کہتے ہیں جو خلاء میں حرکت کرتے ہوئے کسی ای
+ک مخصوص دورانیہ میں ایک شواع طے کرتا ہے۔ ہم ایک اکائی اور[]
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 10--11
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 ایک معیار مثلاً لمبائی کے لئے طے کرنے کے
+ بعد ہمیں وہ طریقہ کار واضح کرنے ہونگے جن سے ہم کسی بھی لمبائی چاہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 وہ ہائڈروجن جوہر کا رداس ہو یا دور ستارے ت
+ک کا فاصلہ ہو اس معیار کی صورت میں ظاہر کر سکیں۔ ایسئ ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 ترکیب فیتہ کا استعمال ہے جو ہماری لمبائی ک
+ے معیار کو تخمینی طور پرظاہر کرتا ہے۔ بہرحال، بہت سارے موازنوں[]
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 10--11
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 میں بِلا واسطہ طریقے استعمال کئیے جائیں گے
+۔ مثلاً ایک جوہر کا رداس یا قریبی ستارے تک کا فاصلہ فیتہ[]
+ []
+
+LaTeX Font Info:    Font shape `TU/AASameerSagarNastaleeqBold(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
+[1
 
 
 
 
 
-
-
-] [2
 
 
 ]
-The property list \polyglossia@langsetup contains the pairs (without outer
-braces):
->  {latex/script}  =>  {latin}
->  {latex/lcscript}  =>  {latin}
->  {latex/scripttag}  =>  {}
->  {latex/language}  =>  {Latex}
->  {latex/langtag}  =>  {ENG}
->  {latex/bcp47}  =>  {}
->  {latex/hyphennames}  =>  {english}
->  {latex/direction}  =>  {LR}
->  {latex/hyphenmins}  =>  {2,3}
->  {latex/frenchspacing}  =>  {false}
->  {latex/indentfirst}  =>  {false}
->  {latex/fontsetup}  =>  {true}
->  {latex/envname}  =>  {latex}
->  {latex/babelname}  =>  {latex}
->  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
->  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
->  {urdu/script}  =>  {Arabic}
->  {urdu/lcscript}  =>  {arabic}
->  {urdu/scripttag}  =>  {arab}
->  {urdu/language}  =>  {Urdu}
->  {urdu/langtag}  =>  {URD}
->  {urdu/bcp47}  =>  {ur}
->  {urdu/hyphennames}  =>  {urdu,nohyphenation}
->  {urdu/direction}  =>  {RL}
->  {urdu/hyphenmins}  =>  {2,3}
->  {urdu/frenchspacing}  =>  {false}
->  {urdu/indentfirst}  =>  {false}
->  {urdu/fontsetup}  =>  {true}
->  {urdu/envname}  =>  {urdu}
->  {urdu/babelname}  =>  {urdu}
->  {urdu/localnumeral}  =>  {urdunumerals}
->  {urdu/Localnumeral}  =>  {urdunumerals}
->  {english/script}  =>  {latin}
->  {english/lcscript}  =>  {latin}
->  {english/scripttag}  =>  {}
->  {english/language}  =>  {English}
->  {english/langtag}  =>  {ENG}
->  {english/bcp47}  =>  {en-US}
->  {english/hyphennames}  =>  {english,american,usenglish,USenglish}
->  {english/direction}  =>  {LR}
->  {english/hyphenmins}  =>  {2,3}
->  {english/frenchspacing}  =>  {false}
->  {english/indentfirst}  =>  {false}
->  {english/fontsetup}  =>  {true}
->  {english/envname}  =>  {english}
->  {english/babelname}  =>  {american}
->  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
->  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- (./hallidayResnick.aux
-LaTeX Info: Redefining \rmfamily on input line 4.
-LaTeX Info: Redefining \sffamily on input line 4.
-LaTeX Info: Redefining \ttfamily on input line 4.
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 اساسی مقداریں۔ \TU/JameelNooriNast
+aleeq(2)/b/n/10 اتنی زیادہ طبی مقداریں پائی جاتی ہیں کہ انہیں منظم کرنا ایک مسئ
+لہ ہے۔ ہماری خوش قسمتی ہے کہ یہ[]
+ []
 
-No file ./tex/quantumMechanicsPreface.aux.
-(./tex/prefaceFirstBook.aux) (./tex/physicsMeasurement.aux))
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 تمام غیر تابع نہیں ہیں، مثلاً رفتار درحقیق
+ت لمبائی اور وقت کا تناسب ہے۔ یوں بین الاقوامی متفقہ معاہدہ کے[]
+ []
 
- ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 ضروری ہے کہ اساسی معیار قابلِ رسائی اور 
+غیر متغیر ہوں۔ اگر ہم بازو کی لمبائی کو معیار لمبائی لیں تب یہ قابلِ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 رسائی ضرور ہوگا۔ البتہ ہر شخص کے لئے یہ لم
+بائی مختلف ہوگی۔ سائنس اور انجینئرنگ میں زیادہ سے زیادہ درستگی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 مطلوب ہونے کے پیش نظر ہم پہلے غیرمتغیریت پ
+ر زور ڈالتے ہیں۔ اس کے بعد اساسی معیار کی بہتر سے[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 19.
+LaTeX Info: Redefining \sffamily on input line 19.
+LaTeX Info: Redefining \ttfamily on input line 19.
+
+LaTeX Warning: Reference `جدول-پیمائژ_اساسی_اکائیاں' on page \arabicdigits{2} u
+ndefined on input line 19.
+
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 24.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 24.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 24.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 24.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 24.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 24.
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--35
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 سن 1971 میںناپ و تول کے عمومی اجلاس میں سا
+ت مقداروں کو بطور اساسی مقدار منتخب کرکے بین[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--35
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 الاقوامی نظامِ اکائی کے اساس چنے گئے۔ جدول
+ [][][] میں تین اساسی مقدار لمبائی، کمیت اور وقت دیکھائے گئے ہیں۔[]
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 36--37
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 کئی ماخوذ اکائیوں کی تعریف ان اساسی اکائ
+یوں کی صورت میں کی جاتی ہے۔ مثلاً طاقت کی SI اکائی جسے واٹ کہتے ہیں۔[]
+ []
+
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
+(Font)              scaled to size 7.6pt on input line 39.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 39.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[][]\TU/JameelNooriNastaleeq(2)/b/n/10 بہت بڑی یا بہت چھوٹی مقداروں کو جن سے ہم
+یں طبیعیات میں عموماً واسطہ پڑھتا ہے جن کو سائنسی علامتیت[]
+ []
+
+
+LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(2)/m/sl' undefined
+(Font)              using `TU/JameelNooriNastaleeq(2)/m/n' instead on input lin
+e 48.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 کمیوٹرز پر سائنسی علامتیت اس سے بھی مختصر 
+لکھی جاتی ہے۔ مثلاً $\OT1/ppl/m/n/10 3.56\OML/zplm/m/it/10 E\OT1/ppl/m/n/10 9$ 
+\TU/JameelNooriNastaleeq(2)/b/n/10 اور $[]$ جہاں دس کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 طاقت کو $\OML/zplm/m/it/10 E$ \TU/JameelNo
+oriNastaleeq(2)/b/n/10 سے ظاہر کیا جاتا ہے۔ کئی کیلکولیٹر میں اس سے بھی مختصر ا
+نداز میں لکھتے ہوئے $\OML/zplm/m/it/10 E$ \TU/JameelNooriNastaleeq(2)/b/n/10 کو
+ خالی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 51.
+LaTeX Info: Redefining \sffamily on input line 51.
+LaTeX Info: Redefining \ttfamily on input line 51.
+
+LaTeX Warning: Reference `جدول_پیمائش_سابقے' on page \arabicdigits{3} undefined
+ on input line 51.
+
+
+! Package siunitx Error: Found prefix part with no unit.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.61 ^^I$\si{\yotta}
+                    $ & yotta- & $10^{24}$\\
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.61 ^^I$\si{\yotta}
+                    $ & yotta- & $10^{24}$\\
+
+Each prefix part must be associated with a unit: a prefix part was found but
+no following unit was given.
+
+
+ 
 Here is how much of TeX's memory you used:
- 57995 strings out of 476191
- 1572047 string characters out of 9562072
- 2335028 words of memory out of 7000000
- 77756 multiletter control sequences out of 15000+600000
- 479546 words of font info for 78 fonts, out of 8000000 for 9000
+ 58051 strings out of 476191
+ 1573306 string characters out of 9562072
+ 2344086 words of memory out of 7000000
+ 77807 multiletter control sequences out of 15000+600000
+ 489744 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 115i,9n,118p,2636b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on hallidayResnick.pdf (5 pages).
+ 115i,13n,118p,2624b,770s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on physics.pdf (5 pages).
