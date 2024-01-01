@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  29 DEC 2023 16:45
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  1 JAN 2024 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202312291005.tex)...disabled (restricted).
+runsystem(touch w18-test-2024111020.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202312291005.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2024111020.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -1786,7 +1786,7 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
 
 No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/physicsMeasurement.aux)
-(./tex/potentialEnergyAndConservationOfEnergy.aux))
+(./tex/HR_p57Done.aux) (./tex/potentialEnergyAndConservationOfEnergy.aux))
 \openout1 = `physics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
@@ -2086,12 +2086,6 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
 (Font)              scaled to size 20.74pt on input line 1.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/b/n' will be
 (Font)              scaled to size 20.74pt on input line 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 اختتامی حال میں اسپرنگ ڈھیلے حال میں ہو گا
- اور ہوا باز ساکن زمینی سطح پر ہو گا، لہٰذا نظام کی اختتامی میکانی توانائی[]
- []
-
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
 (Font)              scaled to size 7.6pt on input line 9.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
@@ -2115,9 +2109,10 @@ LaTeX Info: Redefining \rmfamily on input line 16.
 LaTeX Info: Redefining \sffamily on input line 16.
 LaTeX Info: Redefining \ttfamily on input line 16.
 
-Underfull \vbox (badness 1253) has occurred while \output is active []
+Underfull \vbox (badness 1297) has occurred while \output is active []
 
- [11
+ [13
+
 
 
 
@@ -2194,7 +2189,7 @@ LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(2)/m/sl' undefined
 (Font)              using `TU/JameelNooriNastaleeq(2)/m/n' instead on input lin
 e 47.
 
-[12]
+[14]
 Underfull \hbox (badness 2326) in paragraph at lines 54--55
 []\TU/JameelNooriNastaleeq(2)/b/n/10 لچکدار جسم کی حالت کھینچ یا حالت داب سے وا
 بستہ توانائی کو \TU/AASameerSagarNastaleeqBold(0)/m/n/10 لچکی مخفی توانائی \TU/
@@ -2219,12 +2214,698 @@ aleeq(2)/b/n/10 جانتے[]
 
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/sl' will be
 (Font)              scaled to size 10.0pt on input line 78.
-[13]) [14] (./answer.tex) [15
+[15]
+Underfull \hbox (badness 2846) in paragraph at lines 78--80
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اگر تفاعل $\OML/zplm/m/it/10 U\OT1/zplm/m
+/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(2)/m/sl/
+10 کی ترسیم دی گئی ہو، کسی بھی نقطہ $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastal
+eeq(2)/m/sl/10 پر ، ترسیم کی ڈھال کی نفی اس نقطہ پر قوت $\OML/zplm/m/it/10 F\OT
+1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(
+2)/m/sl/10 ہو گی اور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کام $\OML/zplm/m/it/10 W$ \TU/JameelNoori
+Nastaleeq(2)/m/sl/10 سے مراد وہ توانائی ہے جو نظام پر بیرونی قوت کے عمل کی بنا 
+نظام سے باہر یا نظام کے اندر منتقل ہو۔ جہاں[]
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 89--91
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 نظام کے اندر حرکی رگڑی قوت کی موجودگی میں
+ میں نظام کی حری توانائی $\OML/zplm/m/it/10 E[]$ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 تبدیل ہو گی۔ (حری توانائی نظام[]
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 100--101
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہو گی جو نظام سے باہر یا نظام کے اندر منت
+قل کی جائے۔ اس تجرباتی حقیقت کو \TU/AASameerSagarNastaleeqBold(0)/m/n/10 توانائ
+ی کی بقا  \TU/JameelNooriNastaleeq(2)/m/sl/10 کہتے ہیں۔ نظام پر کیا کام $\OML/z
+plm/m/it/10 W$[]
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 قوت کی بنا طاقت، اس توانائی کے انتقال کی 
+شرح کو کہتے ہیں ، جو قوت منتقل کرتی ہے۔ یوں $\OT1/zplm/m/n/10 ^^A\OML/zplm/m/it
+/10 t$ \TU/JameelNooriNastaleeq(2)/m/sl/10 دورانیہ میں اگر[]
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 127--129
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 میں فقط بلندی کا فرق ہے۔ ان راہ کی درجہ ب
+ندی (ا) اختتامی لکیر پر جسم کی رفتار کے لحاظ سے اور (ب) اختتامی لکیر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--133
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٢:  ایک ذرے کی مخفی توانائی تفاع
+ل شکل 8.‏19 میں پیش ہے۔ (ا) ذرے پر قوت کی قدر کے لحاظ سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--133
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 خطہ $\OML/zplm/m/it/10 AB$\TU/JameelNoori
+Nastaleeq(2)/m/sl/10 ، $\OML/zplm/m/it/10 BC$\TU/JameelNooriNastaleeq(2)/m/sl/1
+0 ، $\OML/zplm/m/it/10 CD$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، اور $\OML/zplm/
+m/it/10 DE$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی درجہ بندی کریں۔ زیادہ قیمت ک
+ا نتیجہ اول رکھیں۔ (ب) بائیں مخفی توانائی کنواں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--133
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 میں پھنس جانے کے لئے ذرے کی میکانی توانائ
+ی $\OML/zplm/m/it/10 E[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کو کس قیمت سے تجا
+وز کرنے کی اجازت نہیں؟ (ج) دائیں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--133
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کنواں میں پھنسنے کے لئے یہ قیمت کیا ہو گی
+؟ (د) دونوں کنووں میں حرکت کر سکنے لیکن نقطہ $\OML/zplm/m/it/10 H$ \TU/JameelNo
+oriNastaleeq(2)/m/sl/10 سے دائیں نکلنے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--133
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کی صلاحیت نہ رکھنے کی صورت میں وہ قیمت کی
+ا ہو گی؟ جزو د کی صورت میں $\OML/zplm/m/it/10 BC$\TU/JameelNooriNastaleeq(2)/m/
+sl/10 ، $\OML/zplm/m/it/10 DE$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، اور $\OML/z
+plm/m/it/10 FG$ \TU/JameelNooriNastaleeq(2)/m/sl/10 میں[]
+ []
+
+Missing character: There is no م ("645) in font zplmr7m!
+Missing character: There is no ی ("6CC) in font zplmr7m!
+Missing character: There is no ک ("6A9) in font zplmr7m!
+Missing character: There is no ا ("627) in font zplmr7m!
+Missing character: There is no ن ("646) in font zplmr7m!
+Missing character: There is no ی ("6CC) in font zplmr7m!
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٣:  نقطہ $\OML/zplm/m/it/10 i$ \
+TU/JameelNooriNastaleeq(2)/m/sl/10 سے نقطہ $\OML/zplm/m/it/10 f$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 تک ایک براہ راست راستہ اور چار راستے گھوم کر جاتے ہیں۔ بر
+اہ راست[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 راستے پر اور تین گھوم کر جانے والے راستوں
+ پر ذرے پر بقائی قوت $\OML/zplm/m/it/10 F[]$ \TU/JameelNooriNastaleeq(2)/m/sl/1
+0 عمل کرتی ہے۔ چوتھے راستے پر ذرے پر بقائی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 قوت $\OML/zplm/m/it/10 F[]$ \TU/JameelNoo
+riNastaleeq(2)/m/sl/10 اور غیر بقائی قوت $\OML/zplm/m/it/10 F[]$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 عمل کرتی ہیں۔ نقطہ $\OML/zplm/m/it/10 i$ \TU/JameelNooriN
+astaleeq(2)/m/sl/10 سے نقطہ $\OML/zplm/m/it/10 j$ \TU/JameelNooriNastaleeq(2)/m
+/sl/10 جاتے ہوئے ذرے کی میکانی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 توانائی میں تبدیلی $\OT1/zplm/m/n/10 ^^A\
+OML/zplm/m/it/10 E[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ، گھوم کر جانے والی ر
+اہوں کے ہر سیدھے حصے پر (جاول میں)درج ہے۔ (ا) براہ راست راستے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 پر $\OML/zplm/m/it/10 i$ \TU/JameelNooriN
+astaleeq(2)/m/sl/10 سے $\OML/zplm/m/it/10 j$ \TU/JameelNooriNastaleeq(2)/m/sl/1
+0 تک $\OT1/zplm/m/n/10 ^^A\OML/zplm/m/it/10 E[]$ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 کیا ہو گی؟ (ب) اس ایک راہ پر جس پر $\OML/zplm/m/it/10 E[]$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 عمل پیرا ہے، $\OML/zplm/m/it/10 E[]$ \TU/JameelNooriNasta
+leeq(2)/m/sl/10 کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--141
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٤:  ایک جسم جسم $\OT1/ppl/m/n/10
+ 3 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 بلندی سے بلا رگڑ راہ پر رہا کیا جاتا 
+ہے (شکل 8.‏21)۔ چوٹیوں کی بلندیاں شکل میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--141
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 دی گئی ہیں۔تمام چوٹیاں ایک جیسی دائری ہیں
+، اور جسم کسی بھی چوٹی سے اڑ کر نہیں گرتا۔ (ا) وہ کونسی پہلی چوٹی ہے جسے جسم پا
+ر[]
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 141--145
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٥:  ایک جسم بلا رگڑ میلان پر $\O
+ML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(2)/m/sl/10 تا $\OML/zplm/m/it/10 C$
+ \TU/JameelNooriNastaleeq(2)/m/sl/10 حرکت کر نے کے بعد افقی خطہ $\OML/zplm/m/it
+/10 CD$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے گزرتا ہے، جہاں رگڑی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--145
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 قوت عمل پیرا ہے۔ کیا جسم کی حرکی توانائی(
+ا) خطہ $\OML/zplm/m/it/10 AB$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، (ب) خطہ $\OM
+L/zplm/m/it/10 BC$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، اور (ج) خطہ $\OML/zplm/
+m/it/10 CD$ \TU/JameelNooriNastaleeq(2)/m/sl/10 میں بڑھتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--149
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٦: []ایک بیلن کو، جو انتصابی سلا
+خ پر چڑھا ہوا ہے، رسی سے اوپر کھینچا جاتا ہے (شکل 8.‏23a)۔ تنگ[]
+ []
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 145--149
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوراخ کی بدولت یہ سلاخ پر چست بیٹھا ہے لہ
+ٰذا رگڑی قوت کافی زیادہ ہے۔ آپ کی قوت بیلن و سلاخ و زمین[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--149
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 حرکی توانائی $\OML/zplm/m/it/10 K$ \TU/Ja
+meelNooriNastaleeq(2)/m/sl/10 میں اضافہ $\OT1/ppl/m/n/10 50 J$\TU/JameelNooriNa
+staleeq(2)/m/sl/10 ، اور تجاذبی توانائی $\OML/zplm/m/it/10 U[]$ \TU/JameelNoori
+Nastaleeq(2)/m/sl/10 میں اضافہ $\OT1/ppl/m/n/10 20 J$ \TU/JameelNooriNastaleeq(
+2)/m/sl/10 ہے۔ ان کے علاوہ نظام میں[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 152.
+LaTeX Info: Redefining \sffamily on input line 152.
+LaTeX Info: Redefining \ttfamily on input line 152.
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--153
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٧:  شکل 8.‏24 میں دکھایا نظام سو
+ال [][]٢.٦[][] []میں پیش نظام کی طرح ہے۔ یہاں بیلن سے بندھی رسی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--153
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 آپ نیچے کھینچتے ہیں۔ نیچے جاتے ہوئے بیلن 
+میز پر رکھے جسم کو دوسری رسی کی مدد سے کھینچتا ہے۔یہاں بھی بیلن و[]
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 149--153
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سلاخ و زمین نظام کو شکل 8.‏23b میں پیش نظ
+ام کی طرح تصور کریں۔ آپ نظام پر $\OT1/ppl/m/n/10 200 J$ \TU/JameelNooriNastalee
+q(2)/m/sl/10 کام کرتے ہیں۔ نظام[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--153
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جسم پر $\OT1/ppl/m/n/10 60 J$ \TU/JameelN
+ooriNastaleeq(2)/m/sl/10 کام کرتا ہے۔ نظام کے اندرون میں حرکی توانائی میں $\OT1
+/ppl/m/n/10 130 J$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اضافہ ، اور تجاذبی توانا
+ئی میں $\OT1/ppl/m/n/10 20 J$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کمی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--153
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رونما ہوئی۔ (ا) شکل 8.‏23c کی طرز پر نظام
+ کی توانائی کو ”فقرہ بند “ کریں۔ (ب) نظام کے اندر حری توانائی میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--157
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٨:  ایک جسم شکل 8.‏25 میں راہ پر
+ چلتے ہوئے $\OML/zplm/m/it/10 h$ \TU/JameelNooriNastaleeq(2)/m/sl/10 بلندی سے ا
+ترتا ہے۔ماسوائے نچلی افقی حصہ کے، جس[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--157
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 میں جسم $\OML/zplm/m/it/10 D$ \TU/JameelN
+ooriNastaleeq(2)/m/sl/10 فاصلہ کرنے کے بعد رک جاتا ہے ، راہ بلا رگڑ ہے۔ (ا) بلن
+د $\OML/zplm/m/it/10 h$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کم کرنے سے جسم $\OM
+L/zplm/m/it/10 D$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے زیادہ، کم، یا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--161
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٩:  ایک جسم میلان پر اترتا ہے۔ ش
+کل 8.‏26 میں تین صورتیں پیش کی گئی ہیں، جہاں میلان بلا رگڑ نہیں ہیں۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--161
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 تینوں صورتوں میں جسم ایک جتنی بلندی سے آغ
+از کرتے ہوئے حرکت کرتا ہے حتٰی کہ حرکی رگڑی قوت اسے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--165
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.١٠:  تین گیند ایک بلندی اور ایک 
+رفتار سے پھینکے جاتے ہیں (شکل 8.‏27)۔ ایک گیند سیدھا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--165
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اوپر پھینکا جاتا ہے۔ دوسرا انتصابی لکیر س
+ے معمولی زاویہ پر پھینکا جاتا ہے۔ تیسرا بلا رگڑ میلان پر روانا کیا جاتا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.١١:  جب ایک ذرہ $\OML/zplm/m/it/
+10 f$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے $\OML/zplm/m/it/10 i$ \TU/JameelNo
+oriNastaleeq(2)/m/sl/10 اور $\OML/zplm/m/it/10 j$ \TU/JameelNooriNastaleeq(2)/m
+/sl/10 سے $\OML/zplm/m/it/10 i$\TU/JameelNooriNastaleeq(2)/m/sl/10 شکل 8.‏28 می
+ں دکھائے راستوں پر دکھائے رخ حرکت کرتا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، ایک بقائی قوت $[]$ اس پر عمل کر کے، ش
+کل میں پیش کام کرتی ہے۔ نقطہ $\OML/zplm/m/it/10 f$ \TU/JameelNooriNastaleeq(2)/
+m/sl/10 سے براہ راست $\OML/zplm/m/it/10 j$ \TU/JameelNooriNastaleeq(2)/m/sl/10 
+منتقل[]
+ []
+
+[18]
+Underfull \hbox (badness 5316) in paragraph at lines 174--176
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.١٢:  ایک اسپرنگ جو $\OT1/ppl/m/n/
+10 7.5 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 دبی حالت میں $\OT1/ppl/m/n/10 25
+ J$ \TU/JameelNooriNastaleeq(2)/m/sl/10 لچکی مخفی توانائی ذخیرہ کرتا ہو کا مقیا
+س لچک[]
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 176--180
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کی قیمت اس وقت کیا ہو گی جب گاڑی (د) نقطہ
+ $\OML/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور (ہ) نقطہ $\OML/z
+plm/m/it/10 A$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر ہو؟ (و) کمیت $\OML/zplm/m
+/it/10 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 دگنی کرنے سے نقطہ $\OML/zplm/m/it
+/10 A$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--184
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کتاب پر تجاذبی قوت کتنا کام $\OML/zplm/m/
+it/10 W[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کرے گی؟ (ب) گرنے کے دوران کتاب و
+ زمین نظام کی تجاذبی مخفی توانائی میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--189
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے کے ایک سر کے ساتھ باندھا ہوا ہے۔ سلاخ 
+کا دوسرا سر چول دار ہے، جو گیند کو انتصابی دائرے میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--189
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 حرکت کی اجازت دیتا ہے۔سلاخ کو افقی رکھ کر
+ نیچے رخ اتنا دھکا دیا جاتا ہے کہ گیند جھول کر انتصابی بالا مقام[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--189
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 تک بمشکل پہنچ پاتا ہے، جہاں اس کی رفتار ص
+فر ہوتی ہے۔ تجاذبی قوت گیند پر ابتدائی نقطہ سے (ا) نچلے ترین[]
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 184--189
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 نقطہ تک، (ب) بالا ترین نقطہ تک، (ج) ابتدا
+ئی نقطہ کے ہم بلند دائیں ہاتھ نقطہ تک کتنا کام کرتی ہے؟ ابتدائی[]
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 184--189
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 نقطہ پر گیند و زمین نظام کی تجاذبی مخفی ت
+وانائی صفر لیتے ہوئے، اس کی قیمت اس وقت کیا ہو گی جب گیند (د)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--189
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 نچلے ترین نقطہ، (ہ) بالا ترین نقطہ، اور ا
+بتدائی نقطہ کے ہم بلند دائیں ہاتھ نقطہ پر ہو؟ (ز) فرض کریں گیند کو اتنی ابتدائی
+[]
+ []
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 189--193
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ پرت اور برتن کا تماس بے رگڑ ہے۔ (ا) ب
+رتن کی تہہ تک اترتے ہوئے پرت پر تجاذبی مخفی توانائی کتنا کام کرتی ہے؟[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 (ب) پرت و زمین نظام کی مخفی توانائی میں ا
+س اترنے کے دوران کتنی تبدیلی رونما ہو گی؟ (ج) اگر یہ مخفی توانائی برتن[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کی تہہ میں صفر لی جائے، تب برتن کے کنارے 
+پر اس کی قیمت کیا ہو گی؟ (د) اس کے برعکس، اگر برتن کے[]
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 189--193
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کنارے پر جہاں پرت رہا کی گئی، مخفی توانائ
+ی صفر لی جائے تب برتن کی تہہ میں اس کی قیمت کیا ہو گی؟ (ہ) پرت[]
+ []
+
+[19]
+Underfull \hbox (badness 1117) in paragraph at lines 193--198
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کرتی ہے، جہاں گھیر کا رداس $\OML/zplm/m/i
+t/10 R \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 12 []$ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 ہے۔ گھیر کے نچلے حصہ سے $\OML/zplm/m/it/10 h \OT1/zplm/m/n/10 = \OT1/ppl/
+m/n/10 5.0 \OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(2)/m/sl/10 بلند نقطہ $
+\OML/zplm/m/it/10 P$[]
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 193--198
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سے ساکن سل رہا کی جاتی ہے۔ تجاذبی قوت سل 
+پر نقطہ $\OML/zplm/m/it/10 P$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے نقطہ (ا) $
+\OML/zplm/m/it/10 Q$ \TU/JameelNooriNastaleeq(2)/m/sl/10 تک ، (ب) گھیر کی چوٹی 
+تک،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--202
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سمتی رفتار کے ساتھ رہا کیا جاتا ہے۔ نچلے 
+ترین نقطے تک اترنے پر ، (ا) تجاذبی قوت گیند پر کتنا کام کرتی ہے اور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--202
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 (ب) گیند و زمین نظام کی تجاذبی مخفی توانا
+ئی میں تبدیلی کیا ہو گی؟ (ج) نچلے نقطہ پر تجاذبی مخفی توانائی صفر لیتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--202
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہوئے اس کی قیمت نقطہ رہائی پر کیا ہو گی؟ 
+(د) زاویہ $\OML/zplm/m/it/10 ^^R[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 بڑھانے 
+سے کیا جزو ا تا جزو ج کے جواب میں[]
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 202--206
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.١٩: []کھڑی چٹان جس کی بلندی $\OT
+1/ppl/m/n/10 12.5 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، کی چوٹی سے افق کے 
+ساتھ $\OT1/ppl/m/n/10 41[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اوپر رخ $\OT1/p
+pl/m/n/10 14 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ابتدائی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--206
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سمتی رفتار کے ساتھ $\OT1/ppl/m/n/10 1.50 
+[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کا برف گولا پھینکا جاتا ہے۔ (ا) چٹان کے
+ سر سے نیچے ہموار زمین تک پرواز کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--206
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 دوران برف گولا پر تجاذبی قوت کتنا کام کرت
+ی ہے؟ (ب) پرواز کے دوران گولا و زمین نظام کی تجاذبی مخفی توانائی میں کتنی[]
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 202--206
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 تبدیلی رونما ہوتی ہے؟ (ج) چٹان کی چوٹی پر
+ تجاذبی مخفی توانائی کی قیمت صفر لیتے ہوئے، اس کی قیمت اس وقت کیا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 213.
+LaTeX Info: Redefining \sffamily on input line 213.
+LaTeX Info: Redefining \ttfamily on input line 213.
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--214
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٢٠:  تفریحی گاڑی کی رفتار سوال []
+[]٢.١٣[][] []میں (ا) نقطہ $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(2)/m/s
+l/10 پر، (ب) نقطہ $\OML/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر،
+ اور (ج) نقطہ $\OML/zplm/m/it/10 C$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر کیا 
+ہو گی؟[]
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 212--214
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 (د) آخری پہاڑ، جس کو گاڑی سر کرنے سے قاصر
+ ہے، پر گاڑی کس بلند تک پہنچ پائے گی؟ (ہ) گاڑی کی کمیت دگنی کرنے[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 217.
+LaTeX Info: Redefining \sffamily on input line 217.
+LaTeX Info: Redefining \ttfamily on input line 217.
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--218
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٢١:  (ا) ہاتھوں کو پہنچ کر کتاب 
+کی رفتار سوال [][]٢.١٤[][] []میں کیا ہو گی؟ (ب) کتاب کی کمیت دگنی کرنے سے یہ[]
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 214--218
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار کیا ہو گی؟ (ج) اس کے برعکس، اگر کتا
+ب نیچے پھینکی جائے، کیا جزو ا کے جواب میں اضافہ ہو گا، کمی ہو[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 221.
+LaTeX Info: Redefining \sffamily on input line 221.
+LaTeX Info: Redefining \ttfamily on input line 221.
+LaTeX Info: Redefining \rmfamily on input line 225.
+LaTeX Info: Redefining \sffamily on input line 225.
+LaTeX Info: Redefining \ttfamily on input line 225.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٢٣:  (ا) توانائی کے تراکیب ، نا 
+کہ باب 4 کے تراکیب، استعمال کرتے ہوئے سوال [][]٢.١٩[][] []میں کھڑی چٹان کی چوٹی
+[]
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 222--226
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سے نیچے زمین پر پہنچ کر برف گولے کی رفتار
+ تلاش کریں۔ (ب) زاویہ پھینک افق سے $\OT1/ppl/m/n/10 41[]$ \TU/JameelNooriNastal
+eeq(2)/m/sl/10 نیچے رکھنے سے رفتار کیا[]
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 226--231
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٢٤:  اسپرنگ بندوق سے $\OT1/ppl/m
+/n/10 5.0 g$ \TU/JameelNooriNastaleeq(2)/m/sl/10 چھرا سیدھا اوپر مارا جاتا ہے۔ 
+دبے اسپرنگ پر چھرے کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--231
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مقام سے $\OT1/ppl/m/n/10 20 m$ \TU/Jameel
+NooriNastaleeq(2)/m/sl/10 بلندی تک پہنچنے کے لئے اسپرنگ کو $\OT1/ppl/m/n/10 8.0
+ []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 دبانا ہو گا۔ (ا) چھرا و زمین نظام کی ت
+جاذبی مخفی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--231
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 توانائی میں چھرے کے $\OT1/ppl/m/n/10 20 m
+$ \TU/JameelNooriNastaleeq(2)/m/sl/10 صعود کے دوران کتنی تبدیلی $\OT1/zplm/m/n/
+10 ^^A\OML/zplm/m/it/10 U[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہو گی؟ (ب) چھر
+ا پھینکنے کے دوران اسپرنگ کی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 235.
+LaTeX Info: Redefining \sffamily on input line 235.
+LaTeX Info: Redefining \ttfamily on input line 235.
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--236
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٢٥:  (ا) انتصابی بالا نقطہ تک صف
+ر رفتار کے ساتھ پہنچنے کے لئے سوال [][]٢.١٥[][] []میں گیند کی ابتدائی رفتار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--236
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کیا ہو گی؟ ایسی صورت میں گیند کی رفتار (ب
+) زیریں ترین نقطہ پر اور (ج)ابتدائی مقام کے ہم بلند دائیں نقطہ پر[]
+ []
+
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 239.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 239.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 239.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 239.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 239.
+LaTeX Info: Redefining \rmfamily on input line 239.
+LaTeX Info: Redefining \sffamily on input line 239.
+LaTeX Info: Redefining \ttfamily on input line 239.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 239.
+LaTeX Info: Redefining \rmfamily on input line 239.
+LaTeX Info: Redefining \sffamily on input line 239.
+LaTeX Info: Redefining \ttfamily on input line 239.
+
+Underfull \hbox (badness 1253) in paragraph at lines 236--240
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٢٦:  ایک ٹرک جس کے بریک ناکارہ ہ
+و چکے ہیں $\OT1/ppl/m/n/10 130 [] h[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتا
+ر کے ساتھ سوات \TU/AASameerSagarNastaleeqBold(0)/m/n/10 تیز رو شاہراہ [][][] []
+\TU/JameelNooriNastaleeq(2)/m/sl/10 پر[]
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 236--240
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 پہاڑی سے اتر رہا ہے جب ڈرائیور اس کو حفاظ
+تی  \TU/AASameerSagarNastaleeqBold(0)/m/n/10 روک میلان [][][] []\TU/JameelNoori
+Nastaleeq(2)/m/sl/10 پر ڈالتا ہے جس کا زاویہ میلان $\OML/zplm/m/it/10 ^^R \OT1/
+zplm/m/n/10 = \OT1/ppl/m/n/10 15[]$[]
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 236--240
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے ( شکل 8.‏35 )۔ ٹرک کی کمیت $\OT1/ppl/m
+/n/10 1.2 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] []$ \TU/JameelNooriNastalee
+q(2)/m/sl/10 ہے۔ (ا) ٹرک کو روک پانے کے لئے میلان کی کم سے کم لمبائی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--244
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٢٧:  ایک سل جس کی کمیت $\OT1/ppl
+/m/n/10 700 g$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے ، انتصابی اسپرنگ جس کا مق
+یاس لچک[]
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 240--244
+[]$\OML/zplm/m/it/10 k \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 400 N m[]$ \TU/Jameel
+NooriNastaleeq(2)/m/sl/10 اور کمیت قابل نظر انداز ہے، کے اوپر $\OML/zplm/m/it/1
+0 h[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 بلندی سے (ساکن حالت سے) گرنے دیا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--244
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جاتا ہے۔ سل اور اسپرنگ آپس میں جڑ جاتے ہی
+ں اور اس وقت لمحاتی رکتے ہیں جب اسپرنگ[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 248.
+LaTeX Info: Redefining \sffamily on input line 248.
+LaTeX Info: Redefining \ttfamily on input line 248.
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--249
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٢٨:  سل پر سوال [][]٢.١٧[][] []م
+یں نقطہ $\OML/zplm/m/it/10 Q$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر صافی عمل پ
+یرا قوت کی قدر کا (ا) افقی جزو اور (ب) انتصابی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--249
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جزو کیا ہوں گے؟ (ج) سل کس بلندی $\OML/zpl
+m/m/it/10 h$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے رہا کرتی ہو گی اگر ہم چاہتے
+ ہوں کہ یہ گھیر کی چوٹی پر راہ سے اٹھنے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--249
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 لگے۔ (راہ سے سل اس وقت اٹھنے لگے گی جب سل
+ پر راہ کی عمودی قوت صفر ہو۔) (د) ابتدائی بلند ی کی سعت[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 252.
+LaTeX Info: Redefining \sffamily on input line 252.
+LaTeX Info: Redefining \ttfamily on input line 252.
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--253
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٢٩:  (ا) گیند کی رفتار زیریں تر 
+نقطہ پر سوال [][]٢.١٨[][] []میں کیا ہو گی؟ (ب) گیند کی کمیت بڑھانے سے کیا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--258
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٣٠:  ایک پتھر جس کی کمیت $\OT1/p
+pl/m/n/10 8.00 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، اسپرنگ پر ساکن پڑا ہ
+ے (شکل 8.‏36)۔ اسپرنگ کو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--258
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جاتا ہے۔ رہا کرنے سے قبل دبے اسپرنگ کی لچ
+کی مخفی توانائی کیا ہو گی؟ (ج) نقطہ رہائی سے بلند تر نقطہ پہنچ کر پتھر و[]
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 258--262
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٣١:  قابل نظر انداز کمیت کے $\OT
+1/ppl/m/n/10 4.0 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 لمبے دھاگے کے ساتھ $\OT
+1/ppl/m/n/10 2.0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پتھر باندھ کر ایک رقاص
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--262
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 حاصل کیا جاتا ہے۔ زیریں تر نقطہ سے گزرتے 
+وقت پتھر کی رفتار $\OT1/ppl/m/n/10 8.0 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/
+10 ہے۔ (ا) اس کی رفتار اس[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--262
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 وقت کیا ہو گی جب دھاگا انتصاب کے ساتھ $\O
+T1/ppl/m/n/10 60[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 زاویہ بناتا ہو؟ (ب) پتھ
+ر کی حرکت کے دوران[]
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 262--266
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٣٢:  ایک رقاص جس کی لمبائی $\OML
+/zplm/m/it/10 L \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 1.25 m$ \TU/JameelNooriNasta
+leeq(2)/m/sl/10 ہے شکل 8.‏34 میں دکھایا گیا ہے۔ اس کے بلور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--266
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جانے کے بعد دھاگا سیدھا رکھتے ہوئے (ب) رق
+اص افقی حالت ، اور (ج) انتصابی حالت اختیار پائے، $\OML/zplm/m/it/10 v[]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--266
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کی کم سے کم قیمت کیا ہو گی؟ (د) زاویہ $\O
+ML/zplm/m/it/10 ^^R[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 چند درجے بڑھانے سے ک
+یا جزو ب اور جزو ج کے جواب میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--271
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٣٣:  ایک سکی باز جس کی کمیت $\OT
+1/ppl/m/n/10 60 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، ساکن حالت سے سکی اچ
+ھال میلان کے اختتام سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--271
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کریں اور میلان بلا رگڑ تصور کریں۔ (ا) میل
+ان کے اختتام سے کتنی زیادہ سے زیادہ بلندی $\OML/zplm/m/it/10 h$ \TU/JameelNoori
+Nastaleeq(2)/m/sl/10 تک یہ پہنچے گا؟ (ب) اگر سکی باز[]
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 271--275
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٢.٣٤:  ایک دھاگا جس کی لمبائی $\OM
+L/zplm/m/it/10 L \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 120 []$ \TU/JameelNooriNast
+aleeq(2)/m/sl/10 ہے کا یک سر بندھا ہوا جبکہ دوسرے سے[]
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 271--275
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رکھتے ہوئے (جیسا شکل 8.‏38 میں دکھایا گیا
+ ہے) ساکن گیند رہا کیا جاتا ہے، جو نقطہ دار قوس پر چلے گا۔ (ا) زیریں[]
+ []
+
+) [22] (./answer.tex) [23
 
 
 
 
-] [16
+] [24
 
 
 ]
@@ -2285,18 +2966,18 @@ LaTeX Info: Redefining \ttfamily on input line 4.
 
 No file ./tex/quantumMechanicsPreface.aux.
 (./tex/prefaceFirstBook.aux) (./tex/physicsMeasurement.aux)
-(./tex/potentialEnergyAndConservationOfEnergy.aux))
+(./tex/HR_p57Done.aux) (./tex/potentialEnergyAndConservationOfEnergy.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 58159 strings out of 476191
- 1576661 string characters out of 9562072
- 2343195 words of memory out of 7000000
- 77898 multiletter control sequences out of 15000+600000
- 489744 words of font info for 116 fonts, out of 8000000 for 9000
+ 58204 strings out of 476191
+ 1577471 string characters out of 9562072
+ 2347195 words of memory out of 7000000
+ 77934 multiletter control sequences out of 15000+600000
+ 495428 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,17n,118p,2628b,600s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (12 pages).
+Output written on physics.pdf (18 pages).
