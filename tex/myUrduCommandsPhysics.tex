@@ -337,16 +337,32 @@
 %--------------------
 %--------------------
 %checkpoint
-%defining a RULE   پڑتال
+%defining a CheckPoint   پڑتال
 
 %\newcounter{kcpcounter}[section]
 %\renewcommand{\thekcpcounter}{\arabic{kcpcounter}}
 \newcounter{kcpcounter}[chapter]
-\renewcommand{\thekcpcounter}{\thechapter.\arabic{kcpcounter}}
+%\renewcommand{\thekcpcounter}{\thechapter.\arabic{kcpcounter}}
+\renewcommand{\thekcpcounter}{\arabic{kcpcounter}}
 
-\newenvironment{پڑتال}				
+\newenvironment*{پڑتال}				
 {\par\noindent\ignorespaces  پڑتال \refstepcounter{kcpcounter} \thekcpcounter :\quad}%
 {\par\noindent }
+%--------------------
+%--------------------
+%--------------------
+%Sample Problem
+%defining a Sample Problem  نمونی سوال
+
+%\newcounter{kspcounter}[section]
+%\renewcommand{\thekspcounter}{\arabic{kspcounter}}
+\newcounter{kspcounter}[chapter]
+\renewcommand{\thekspcounter}{\thechapter.\arabic{kspcounter}}
+%\renewcommand{\thekspcounter}{\arabic{kcpcounter}}
+
+\newenvironment*{نمونی سوال}				
+{\par\noindent\ignorespaces  نمونی سوال \refstepcounter{kspcounter} \thekspcounter :\quad}%
+{\hfill\qedsymbol  \vspace{\baselineskip}\par}
 %--------------------
 %--------------------
 
