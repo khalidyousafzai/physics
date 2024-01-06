@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  4 JAN 2024 16:49
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  6 JAN 2024 13:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2024141009.tex)...disabled (restricted).
+runsystem(touch w18-test-202416789.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2024141009.tex)...disabled (restricted).
+runsystem(rm -f w18-test-202416789.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -2172,7 +2172,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
 Underfull \hbox (badness 10000) in paragraph at lines 108--109
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 مفید ثابت ہوتا ہے۔ مثال کے طور پر، شکل 9.
-‏21 میں ساکن ہدف کو گولا بغلی (ر آمنے سامنے سے نہیں ) ٹکراتا ہے۔[]
+‏21 میں ساکن ہدف کو گولا بغلی ( آمنے سامنے سے نہیں ) ٹکراتا ہے۔[]
  []
 
 
@@ -2808,12 +2808,236 @@ staleeq(2)/m/sl/10 اور $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(2)/m/
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 (٩.٨٨)[]
  []
 
-) [36] (./answer.tex) [37
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--360
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١:  تین ذرات جن پر بیرونی قوتیں ع
+مل کرتی ہیں کا فضائی جائزہ شکل 9۔23 میں پیش ہے۔ دو ذروں پر قوتوں کی[]
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 358--360
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 قدریں اور سمتیں دی گئی ہیں۔ تین ذروی نظام
+ کا مرکز کمیت (ا) ساکن، (ب) دائیں رخ مستقل سمتی رفتار سے، اور (ج)[]
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 360--364
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جائزہ شکل 9.‏24 میں پیش ہے۔ سمتی رفتاروں 
+کے رخ دیے گئے ہیں؛ ان کی قدریں برابر ہیں۔ ذروں کی جوڑیاں بنائیں۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--364
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کون سی جوڑی ایسا نظام دیتی ہے جس کا مرکز 
+کمیت (ساکن ہے، (ب) ساکن ہے اور مبدا پر ہے، اور (ج) مبدا سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--369
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٣:  فرض کریں ایک ڈبہ، جو $\OML/z
+plm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 محور پر مستقل مثبت سمتی رفتا
+ر سے حرکت میں ہو، دھماکے سے دو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--369
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ٹکڑوں میں تقسیم ہوتا ہے۔ ایک ٹکڑا ، جس کی
+ کمیت $\OML/zplm/m/it/10 m[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے ، مثبت سمت
+ی رفتار $[]$ سے حرکت کرتا ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--369
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 دوسرا ٹکڑا جس کی کمیت $\OML/zplm/m/it/10 
+m[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے (ا) مثبت سمتی رفتار $[]$ (شکل 9.‏25
+a)، (ب) منفی سمتی رفتار $[]$ (شکل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--369
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 9.‏25b)، یا (ج) صفر سمتی رفتار (شکل  9.‏2
+5c) رکھ سکتا ہے۔ ان ممکن نتائج کی درجہ بندی مطابقتی $[]$ کی قدر کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--373
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤:  تصادم میں ملوث جسم کے لئے قو
+ت کی قدر بالمقابل وقت کی ترسیمات شکل 9.‏26 میں پیش ہیں۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--378
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٥:  بلا رگڑ مستوی پر حرکت کرتے ت
+ین ڈبوں پر عمل پیرا قوت کا فضائی نظارہ شکل 9.‏27 میں پیش[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--387
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٧:  ایک سل بلا رگڑ فرش پر حرکت ک
+ر کے اس جتنی کمیت کی دوسری سل سے ٹکراتی ہے۔ شکل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--387
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 9.‏29 میں سلوں کی حرکی توانائی $\OML/zplm
+/m/it/10 K$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی چار ممکنہ ترسیم پیش ہیں۔ (ا)
+ ان میں سے کون سی طبیعی وجوہات کی بنا پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--391
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مقام بھی پیش ہیں۔ (نقطہ $\OML/zplm/m/it/1
+0 B$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سلوں کے مراکز کے درمیان نصف فاصلے پر ہ
+ے۔) اگر تصادم کے بعد نظام کا[]
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 387--391
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مرکز کمیت (ا) $\OML/zplm/m/it/10 A$ \TU/J
+ameelNooriNastaleeq(2)/m/sl/10 پر، (ب) $\OML/zplm/m/it/10 B$ \TU/JameelNooriNas
+taleeq(2)/m/sl/10 پر، اور (ج) $\OML/zplm/m/it/10 C$ \TU/JameelNooriNastaleeq(2)
+/m/sl/10 پر ہو، کیا سل $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(2)/m/sl/10 
+ساکن ہو گا؟ آگے کی طرف گامزن ہو گا؟ پیچھے کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--396
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٩:  دو اجسام محور $\OML/zplm/m/i
+t/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے ہمراہ یک بُعدی لچکی تصادم کا شکا
+ر ہوتے ہیں۔ شکل 9.‏31 میں اجسام اور مرکز[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--396
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کمیت کے مقام بالمقابل وقت ترسیمات پیش ہیں
+۔ (ا) کیا دونوں جسم ابتدائی طور پر حرکت میں تھی، یا ان میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--396
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سے ایک ساکن تھا؟ کونسا لکیری قطع (ب) تصاد
+م سے قبل اور (ج) تصادم کے بعد مرکز کمیت دیتا ہے؟[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--396
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 (د) کیا تصادم سے قبل زیادہ تیز حرکت کرتے 
+جسم کی کمیت دوسرے جسم کی کمیت سے زیادہ ہے، کم ہے، یا اس[]
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 396--400
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٠:  افقی فرش پر سل ابتدائی طور 
+ساکن ، محور $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے ہمراہ 
+مثبت رخ ، یا محور کے منفی رخ حرکت میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--400
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ سل دھماکے سے دو ٹکڑوں میں تقسیم ہوتا 
+ہے جو اسی محور پر حرکت کرتے ہیں۔ فرض کریں سل اور اس کے دو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--400
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ٹکڑے ایک بند اور جدا نظام دیتے ہیں۔سل اور
+ ٹکڑوں کے معیار حرکت بالمقابل وقت $\OML/zplm/m/it/10 t$ \TU/JameelNooriNastalee
+q(2)/m/sl/10 کی چھ ترسیمات شکل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--404
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١١:  محور $\OML/zplm/m/it/10 x$ 
+\TU/JameelNooriNastaleeq(2)/m/sl/10 پر کمیت $\OML/zplm/m/it/10 m[]$ \TU/JameelN
+ooriNastaleeq(2)/m/sl/10 کا سل بلا رگڑ فرش پر چلتا ہوا کمیت $\OML/zplm/m/it/10 
+m[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے ساکن سل سے لچکی متصادم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--404
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہوتا ہے۔ شکل 9.‏33 میں سل $\OT1/ppl/m/n/1
+0 1$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کا مقام $\OML/zplm/m/it/10 x$ \TU/Jame
+elNooriNastaleeq(2)/m/sl/10 بالمقابل وقت $\OML/zplm/m/it/10 t$ \TU/JameelNooriN
+astaleeq(2)/m/sl/10 ٹھوس لکیر سے پیش کیا گیا ہے ، جس پر نقطہ[]
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 404--409
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٢:  دو جسم اور ان کے مرکز کمیت 
+کی مقام بالمقابل وقت کی چار ترسیمات پیش ہیں۔ یہ جسم بند اور جدا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--409
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 نظام دیتے ہیں اور محور $\OML/zplm/m/it/10
+ x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر چلتے ہوئے یک بُعدی مکمل غیر لچکی تصا
+دم کا شکار ہوتے ہیں۔ کیا ترسیم $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(2)/
+m/sl/10 میں (ا) دو[]
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 404--409
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جسم اور (ب) مرکز کمیت محور $\OML/zplm/m/i
+t/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر مثبت رخ یا منفی رخ حرکت کرتے ہیں
+؟ (ج) کونسی ترسیم طبیعی ناممکن ہے؟ وجہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--417
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٣:  کمیت $\OT1/ppl/m/n/10 2.00 [
+]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ذرے کا $\OML/zplm/m/it/10 xy$ \TU/Jameel
+NooriNastaleeq(2)/m/sl/10 محدد $\OT1/zplm/m/n/10 (\OMS/zplm/m/n/10 ^^@\OT1/ppl/
+m/n/10 1.20 m, 0.500 m\OT1/zplm/m/n/10 )$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، 
+اور کمیت $\OT1/ppl/m/n/10 4.00 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ذرے کا $
+\OML/zplm/m/it/10 xy$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--417
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 محدد $\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 0
+.600 m, \OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 0.750 m\OT1/zplm/m/n/10 )$ \TU/Jame
+elNooriNastaleeq(2)/m/sl/10 ہے۔ دونوں افقی مستوی پر پائے جاتے ہیں۔ کمیت $\OT1/p
+pl/m/n/10 3.00 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کا تیسرا ذرہ کس (ا)[]
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 417--421
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٤:  تین ذروی نظام جس میں $\OML/
+zplm/m/it/10 m[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 3.0 []$\TU/JameelNooriNasta
+leeq(2)/m/sl/10 ، $\OML/zplm/m/it/10 m[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 4.0
+ []$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، اور $\OML/zplm/m/it/10 m[] \OT1/zplm/
+m/n/10 = \OT1/ppl/m/n/10 8.0 []$[]
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 417--421
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے شکل 9.‏35 میں پیش ہے۔ محور کے پیما $\O
+ML/zplm/m/it/10 x[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 2.0 m$ \TU/JameelNooriNa
+staleeq(2)/m/sl/10 اور $\OML/zplm/m/it/10 y[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/1
+0 2.0 m$\TU/JameelNooriNastaleeq(2)/m/sl/10 کے لحاظ سے رکھے گئے[]
+ []
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 417--421
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہیں۔ نظام کے مرکز کمیت کا (ا) $\OML/zplm/
+m/it/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 محدد اور (ب) $\OML/zplm/m/it/10 
+y$ \TU/JameelNooriNastaleeq(2)/m/sl/10 محدد کیا ہو گا؟ (ج) کیا $\OML/zplm/m/it/
+10 m[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 بتدریج بڑھانے سے مرکز[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--425
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 شکل 9.‏36 میں دکھایا گیا ہے۔ اس کا نصف حص
+ہ المونیم (کثافت $\OT1/ppl/m/n/10 2.70 g [][]$ \TU/JameelNooriNastaleeq(2)/m/sl
+/10 ) اور آدھا لوہے (کثافت[]
+ []
+
+) [38] (./answer.tex) [39
 
 
 
 
-] [38
+] [40
 
 
 ]
@@ -2882,11 +3106,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  58240 strings out of 476191
- 1577803 string characters out of 9562072
+ 1577800 string characters out of 9562072
  2346287 words of memory out of 7000000
  77967 multiletter control sequences out of 15000+600000
  495428 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,11n,118p,2628b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (18 pages).
+Output written on physics.pdf (20 pages).
