@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  6 JAN 2024 13:09
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  14 JAN 2024 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202416789.tex)...disabled (restricted).
+runsystem(touch w18-test-2024114991.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202416789.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2024114991.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -1792,34 +1792,34 @@ No file ./tex/quantumMechanicsPreface.aux.
 (./tex/centerOfMassAndLinearMomentum.aux))
 \openout1 = `physics.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 138.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-37.
+38.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
 
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
 Package translations Info: no dictionary file `translations-basic-dictionary-hi
-ndustani.trsl' found. on input line 137.
+ndustani.trsl' found. on input line 138.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl
@@ -1827,7 +1827,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 
-Package chemgreek Info: Activating mapping `fontspec' on line 137.
+Package chemgreek Info: Activating mapping `fontspec' on line 138.
 
 
 *geometry* driver: auto-detecting
@@ -1866,67 +1866,67 @@ Package chemgreek Info: Activating mapping `fontspec' on line 137.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \rmfamily on input line 137.
-LaTeX Info: Redefining \sffamily on input line 137.
-LaTeX Info: Redefining \ttfamily on input line 137.
-LaTeX Info: Redefining \rmfamily on input line 137.
-LaTeX Info: Redefining \sffamily on input line 137.
-LaTeX Info: Redefining \ttfamily on input line 137.
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 148.
+(Font)              scaled to size 17.28pt on input line 149.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 148.
+(Font)              scaled to size 12.0pt on input line 149.
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-48.
+49.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-148.
+149.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-148.
+149.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-148.
+149.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 148.
+(Font)              scaled to size 12.50409pt on input line 149.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 148.
+(Font)              scaled to size 9.37807pt on input line 149.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 148.
+(Font)              scaled to size 7.29405pt on input line 149.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 148.
+(Font)              scaled to size 12.50409pt on input line 149.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 148.
+(Font)              scaled to size 9.37807pt on input line 149.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 148.
+(Font)              scaled to size 7.29405pt on input line 149.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-148.
+149.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 14
-8.
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 148.
+(Font)              scaled to size 9.0pt on input line 149.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 148.
+(Font)              scaled to size 12.0pt on input line 149.
  [1
 
 
@@ -1938,12 +1938,12 @@ LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(1)/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 150.
+(Font)              scaled to size 24.88pt on input line 151.
 
 
 LaTeX Font Warning: Font shape `TU/JameelNooriNastaleeq(2)/b/n' undefined
 (Font)              using `TU/JameelNooriNastaleeq(2)/m/n' instead on input lin
-e 150.
+e 151.
 
 (./physics.toc
 LaTeX Info: Redefining \rmfamily on input line 1.
@@ -3032,12 +3032,284 @@ Underfull \hbox (badness 10000) in paragraph at lines 421--425
 /10 ) اور آدھا لوہے (کثافت[]
  []
 
-) [38] (./answer.tex) [39
+
+Underfull \hbox (badness 1342) in paragraph at lines 425--430
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٦:  تین یکساں پیکر ڈنڈیاں جن می
+ں ہر ایک کی لمبائی $\OML/zplm/m/it/10 L \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 22 [
+]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے مل کر الٹ نون غُنّہ بناتی ہیں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--430
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 (شکل 9.‏37)۔ انتصابی ڈنڈی کی کمیت $\OT1/p
+pl/m/n/10 14 g$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور افقی ڈنڈی کی کمیت $\OT1
+/ppl/m/n/10 42 g$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ نظام کے مرکز کمیت کا 
+(ا) $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 محدد[]
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 434--438
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٨:  قابل نظر انداز موٹائی کی یک
+ساں دھاتی چادر سے بنایا گیا مکعب شکل 9.‏39 میں پیش ہے۔ مکعب[]
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 438--443
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٩:  ایمونیا سالمہ $\OT1/zplm/m/
+n/10 ([][][][])$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ، جس میں ہائیڈروجن جوہر $\
+OT1/zplm/m/n/10 ([]\OT1/ppl/m/n/10 H\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastalee
+q(2)/m/sl/10 متساوی الاضلاع مثلث بناتے ہیں ،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--443
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جوہر $[]\OT1/ppl/m/n/10 N$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 اس ہرم کی چوٹی پر واقع ہے جس کا تل تین $[]\OT1/ppl/m/n/10
+ H$ \TU/JameelNooriNastaleeq(2)/m/sl/10 جوہر بناتے ہیں۔ نائیٹروجن اور ہائیڈروجن
+ کی جوہری کمیت نسبت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--447
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 بھری ہے (شکل 9.‏41)۔ بوتل کے سر اور تل می
+ں ، مشروب خارج کرنے کی غرض سے، باریک سوراخ (جو بوتل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--447
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کی کمیت پر اثر انداز نہیں ہوتے) کیے جاتے 
+ہیں۔ (ا) مکمل بھری بوتل (بمع مشروب) کے مرکز کمیت کی اور (ب)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--447
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مکمل خالی بوتل کے مرکز کمیت کی بلندی $\OM
+L/zplm/m/it/10 h$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کیا ہو گی؟ (ج) جیسے جیسے 
+مشروب خارج ہوتا ہے، $\OML/zplm/m/it/10 h$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ک
+و کیا ہو گا؟ (د)[]
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 452--454
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٢١:  ایک پتھر $\OML/zplm/m/it/10 
+t \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر 
+گرنے دیا جاتا ہے۔ دوسرا پتھر جس کی کمیت دگنی ہے، اسی بلندی سے،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--458
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٢٢:  چوراہا بتی پر $\OT1/ppl/m/n
+/10 1000 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کمیت کی گاڑی کھڑی ہے۔ جیسے ہی 
+بتی سبز ہوتی ہے گاڑی $\OT1/ppl/m/n/10 4.0 m s[]$ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 مستقل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--458
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اسراع سے حرکت میں آتی ہے۔ عین اسی لمحے ای
+ک ٹرک جس کی کمیت $\OT1/ppl/m/n/10 2000 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 
+اور جو $\OT1/ppl/m/n/10 8.0 m s[]$[]
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 458--463
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٢٣:  زیتون کا ایک بڑا پھل $\OT1/
+zplm/m/n/10 (\OML/zplm/m/it/10 m \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.50 []\OT1
+/zplm/m/n/10 )$ $\OML/zplm/m/it/10 xy$ \TU/JameelNooriNastaleeq(2)/m/sl/10 محدد
+ی نظام کے مرکز پر، اور جوز برازیل $\OML/zplm/m/it/10 M \OT1/zplm/m/n/10 =$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--472
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ خط حرکت کے بلند تر نقطہ پر گولا دھماک
+ے سے دو برابر ٹکڑوں میں تقسیم ہوتا ہے (شکل 9-‏42)۔ ایک ٹکڑا جس[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--472
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کا رفتار دھماکے کے عین بعد صفر ہے سیدھا ن
+یچے گرتا ہے۔ دوسرا ٹکڑا توپ سے کتنے فاصلے پر گرتا ہے؟ (ہوائی رگڑ[]
+ []
+
+[39]
+Underfull \hbox (badness 1314) in paragraph at lines 472--476
+[]$\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/m/sl/10 جس کی کمیت $\OML/zplm
+/m/it/10 m[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 3.00 g$ \TU/JameelNooriNastalee
+q(2)/m/sl/10 ہے $\OT1/ppl/m/n/10 20 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 
+سے اوپری زاویے پر یوں پھینکا جاتا ہے کہ یہ ہر لمحہ ذرہ $\OT1/ppl/m/n/10 1$\TU/J
+ameelNooriNastaleeq(2)/m/sl/10 کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--476
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ٹھیک اوپر رہتا ہے۔ (ا) دو ذروی نظام کا مر
+کز کمیت کتنی زیادہ سے زیادہ بلندی $\OML/zplm/m/it/10 H[]$ \TU/JameelNooriNastal
+eeq(2)/m/sl/10 کو پہنچتا ہے؟ اکائی سمتی ترقیم[]
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 476--481
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٢٧:  ایک ریڑھی جو ہوائی ڈگر پر چ
+لتی ہے رسی کے ذریعہ اینٹ سے منسلک ہے جو لٹک رہی ہے (شکل 9.‏44)۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--481
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رسی اور چرخی کی کمیت قابل نظر انداز ہے۔ری
+ڑھی ساکن حالت سے رہا کی جاتی ہے۔ ریڑھی اور اینٹ حرکت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--481
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کرتی ہیں حتٰی کہ ریڑھی چرخی سے ٹکراتی ہے۔
+ ریڑھی اور ہوائی ڈگر کے بیچ رگڑ ، اور چرخی اور دھرے کے بیچ رگڑ قابل نظر انداز[]
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--481
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ (ا) ریڑھی و اینٹ نظام کے مرکز کمیت کی
+ اسراع اکائی سمتی ترقیم میں کیا ہو گی؟ (ب) مرکز کمیت کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--481
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سمتی رفتار بطور وقت $\OML/zplm/m/it/10 t$
+ \TU/JameelNooriNastaleeq(2)/m/sl/10 کا تفاعل کیا ہو گی؟ (ج) مرکز کمیت کی راہ ت
+رسیم کریں۔ (د) اگر راہ قوسی ہو، کیا یہ دائیں[]
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 481--485
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سیف الملوک جھیل کا نظارہ کر رہے ہیں۔ ان ک
+ی نشستیں $\OT1/ppl/m/n/10 3.0 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 فاصلے پر، 
+اور کشتی کے مرکز کمیت کے لحاظ سے[]
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 485--489
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٢٩:  کنارے سے $\OML/zplm/m/it/10
+ D \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 6.1 m$ \TU/JameelNooriNastaleeq(2)/m/sl/1
+0 فاصلے پر $\OT1/ppl/m/n/10 4.5 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کتّا $\
+OT1/ppl/m/n/10 18 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کشتی میں کھڑا ہے (شکل
+ 9.‏45-[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--489
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 الف)۔ یہ کنارے کی طرف $\OT1/ppl/m/n/10 2.
+4 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 چل کر رکتا ہے۔ کتّا اب کنارے سے کتنا د
+ور ہو گا؟ کشتی اور پانی کے بیچ رگڑ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--496
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٣٠:  ایک گیند جس کی کمیت $\OT1/pp
+l/m/n/10 0.70 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے $\OT1/ppl/m/n/10 5.0 m
+ s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 افقی حرکت کر کے انتصابی دیوار سے ٹکرا
+ کر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--500
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٣١:  ایک ٹرک ، جس کی کمیت $\OT1/
+ppl/m/n/10 2100 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، شمال کی طرف $\OT1/p
+pl/m/n/10 41 [] h[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 چلتے ہوئے مشرق کو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--500
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مڑ کر $\OT1/ppl/m/n/10 51 [] h[]$ \TU/Jam
+eelNooriNastaleeq(2)/m/sl/10 اسراع پذیر ہوتا ہے۔ (ا) ٹرک کے حرکی توانائی میں تب
+دیلی کیا ہو گی؟ ٹرک کے معیار[]
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 500--504
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٣٢:  ہم سطح زمین پر رکھا گیند وق
+ت $\OML/zplm/m/it/10 t \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0$ \TU/JameelNooriNas
+taleeq(2)/m/sl/10 پر سطح زمین سے مار کر روانا کیا جاتا ہے۔گیند کا معیار[]
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 500--504
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 حرکت $\OML/zplm/m/it/10 p$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 بالمقابل وقت $\OML/zplm/m/it/10 t$ \TU/JameelNooriNastale
+eq(2)/m/sl/10 شکل 9.‏46 میں پیش ہے ( جہاں $\OML/zplm/m/it/10 p[] \OT1/zplm/m/n/
+10 = \OT1/ppl/m/n/10 6.0 [] m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور $\OM
+L/zplm/m/it/10 p[] \OT1/zplm/m/n/10 =$[]
+ []
+
+
+Underfull \hbox (badness 6016) in paragraph at lines 500--504
+[]$\OT1/ppl/m/n/10 4.0 [] m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے)۔ گیند 
+کا ابتدائی زاویہ کیا ہے؟ (اشارہ:وہ حل تلاش کریں جس میں ترسیم کا زیریں ترین[]
+ []
+
+[40]
+Underfull \hbox (badness 1478) in paragraph at lines 504--509
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٣٣:  بلا سے ٹکرانے سے عین قبل $\
+OT1/ppl/m/n/10 0.30 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کمیت کا گیند $\OT1/
+ppl/m/n/10 15 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سمتی رفتار سے افق سے ن
+یچے $\OT1/ppl/m/n/10 35[]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--509
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 زاویے کے ساتھ گامزن ہے۔ بلے کے ساتھ تماس 
+کے دوران گیند کے معیار حرکت میں تبدیلی کی قدر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--513
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٣٤:  شکل 9.‏47 میں $\OT1/ppl/m/n
+/10 0.165 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کمیت گیند کا فضائی جائزہ پیش 
+ہے۔ گیند اطرافی دیوار سے ٹپکی[]
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 509--513
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کھاتا دکھایا گیا ہے۔ گیند کی ابتدائی رفتا
+ر $\OT1/ppl/m/n/10 2.00 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور زاویہ $\
+OML/zplm/m/it/10 ^^R[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 30[]$ \TU/JameelNoori
+Nastaleeq(2)/m/sl/10 ہے۔ ٹپکی گیند کے سمتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--513
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار کا $\OML/zplm/m/it/10 y$ \TU/Jameel
+NooriNastaleeq(2)/m/sl/10 جزو الٹ کرتا ہے جبکہ $\OML/zplm/m/it/10 x$ \TU/Jameel
+NooriNastaleeq(2)/m/sl/10 جزو اثر انداز نہیں ہوتا۔ (ا) زاویہ $\OML/zplm/m/it/10
+ ^^R[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کیا ہو گا؟ (ب) گیند کے خطی معیار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--520
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٣٥:  ایک مسخرہ $\OT1/ppl/m/n/10 1
+2 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 بلندی سے $\OT1/ppl/m/n/10 30 []$ \TU/J
+ameelNooriNastaleeq(2)/m/sl/10 گہرے پانی میں پیٹ کے بل گر کر لوگوں کا دات لیتا[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--520
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔فرض کریں، عین پانی کی تہہ کو پہنچ کر ی
+ہ شخص رکتا ہے۔ اس کی کمیت فرض کر کے اس پر پانی کی ضرب کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--524
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کھل پاتی۔ وہ برف میں گر کر معمولی زخمی ہو
+تا ہے۔فرض کریں زمین پر پہنچ کر اس کی (اخیر) رفتار $\OT1/ppl/m/n/10 56 m s[]$ \T
+U/JameelNooriNastaleeq(2)/m/sl/10 اور[]
+ []
+
+) [41] [42
 
 
 
 
-] [40
+] (./answer.tex) [43] [44
 
 
 ]
@@ -3105,12 +3377,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 58240 strings out of 476191
- 1577800 string characters out of 9562072
- 2346287 words of memory out of 7000000
- 77967 multiletter control sequences out of 15000+600000
+ 58245 strings out of 476191
+ 1577935 string characters out of 9562072
+ 2347287 words of memory out of 7000000
+ 77972 multiletter control sequences out of 15000+600000
  495428 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,11n,118p,2628b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (20 pages).
+Output written on physics.pdf (24 pages).
