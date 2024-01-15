@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  14 JAN 2024 16:31
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  15 JAN 2024 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2024114991.tex)...disabled (restricted).
+runsystem(touch w18-test-20241151052.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2024114991.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20241151052.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -3304,12 +3304,403 @@ Underfull \hbox (badness 10000) in paragraph at lines 520--524
 U/JameelNooriNastaleeq(2)/m/sl/10 اور[]
  []
 
-) [41] [42
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--529
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٣٧:  زمین پر $\OT1/ppl/m/n/10 1.
+2 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کا گیند $\OT1/ppl/m/n/10 25 m s[]$ \T
+U/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے انتصابی گرتا ہے۔ٹپکی کے بعد اس کی اب
+تدائی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--529
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار $\OT1/ppl/m/n/10 10 m s[]$ \TU/Jame
+elNooriNastaleeq(2)/m/sl/10 ہے۔ (ا) تماس کے دوران گیند پر کتنی ضرب عمل کرتی ہے؟
+ (ب) اگر گیند $\OT1/ppl/m/n/10 0.020 s$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے 
+لئے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--533
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٣٨:  عین اس وقت جب ایک شخص ، جس 
+کی کمیت $\OT1/ppl/m/n/10 70 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے ، کرسی پ
+ر بیٹھتا ہے اس کا شرارتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--533
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 دوست کرسی کھینچ لیتا ہے، جس کی بدولت پہلا
+ شخص $\OT1/ppl/m/n/10 0.50 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 نیچے زمین پر 
+گرتا ہے۔ اگر زمین کے ساتھ تصادم کا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--537
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٣٩:  محور $\OML/zplm/m/it/10 x$ 
+\TU/JameelNooriNastaleeq(2)/m/sl/10 پر ابتدائی طور پر مثبت رخ $\OT1/ppl/m/n/10 
+14 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے حرکت کرتے ہوئے $\OT1/ppl/m/n/1
+0 0.40 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 گیند پر $\OT1/ppl/m/n/10 27 []$[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--537
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کے لئے محدد کے منفی رخ قوت عمل کرتی ہے۔ ق
+وت کی قدر میں تبدیل پائی جاتی ہے اور ضرب کی قدر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--537
+[]$\OT1/ppl/m/n/10 32.4 N s$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ قوت لاگو ک
+رنے کے عین بعد گیند کی (ا) رفتار اور (ب) اس کا رخ کیا ہو گا؟ (ج) قوت کی اوسط[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--542
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤٠:  ایک پہلوان میز پر $\OT1/ppl
+/m/n/10 13 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے تھپڑ مارتا ہے۔ ا
+س کا ہاتھ $\OT1/ppl/m/n/10 5.0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے تصادم
+ میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--542
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رکتا ہے۔ فرض کریں تصادم کے دوران ہاتھ اور
+ بازو ایک دوسرے پر اثر انداز نہیں ہوتے اور ہاتھ کی کمیت $\OT1/ppl/m/n/10 0.70 [
+]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔[]
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤١:  ہدف پر $\OT1/ppl/m/n/10 3 g
+$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی $\OT1/ppl/m/n/10 100$ \TU/JameelNooriN
+astaleeq(2)/m/sl/10 گولیاں فی سیکنڈ شرح سے چلائی جاتی ہیں۔ گولی کی رفتار $\OT1/
+ppl/m/n/10 500 m s[]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--550
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤٢: \TU/JameelNooriNastaleeq(2)/
+m/n/9 دو اوسط قوت \TU/JameelNooriNastaleeq(2)/m/sl/10 دیوار پر $\OT1/ppl/m/n/10
+ 0.250 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے برف گولے $\OT1/ppl/m/n/10 4.0
+0 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے لگاتار عمودی مارے جاتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--550
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہیں۔ہر گولا دیوار سے چپکتا ہے۔ شکل 9.‏49 
+میں دیوار پر دو متواتر تصادم کی قوت کی قدر $\OML/zplm/m/it/10 F$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 بالمقابل وقت $\OML/zplm/m/it/10 t$ \TU/JameelNooriNastale
+eq(2)/m/sl/10 پیش ہے۔[]
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 546--550
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مثلث بناتے ہیں۔ ہر تصادم کی قوت کی زیادہ 
+سے زیادہ قدر $\OML/zplm/m/it/10 F[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 200 N$ \
+TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ ہر تصادم کے دوران دیوار پر (ا)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--555
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤٣: \TU/JameelNooriNastaleeq(2)/
+m/n/9 بلند کن کی ٹکر سے پہلے اچھلنا \TU/JameelNooriNastaleeq(2)/m/sl/10 بلند کن
+ کا رسا ٹوٹتا ہے اور بدقسمتی سے اس کا حفاظتی نظام بھی ناکارہ ہوتا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--555
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، جس کی بدولت یہ $\OT1/ppl/m/n/10 36 m$
+ \TU/JameelNooriNastaleeq(2)/m/sl/10 بلندی سے گرتا ہے۔زمین پر پہنچ کر $\OT1/ppl
+/m/n/10 90 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سوار $\OT1/ppl/m/n/10 5.0 []
+$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے تصادم میں رکتا[]
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 550--555
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ (فرض کریں نہ بلند کن اور نہ یہ شخص ٹپ
+کی کھاتے ہیں۔) تصادم کے دوران شخص پر (ا) ضرب اور (ب) اوسط[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--555
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 قوت کی قدریں کیا ہو ں گی؟ اگر عین تصادم س
+ے قبل ، بلند کن کے لحاظ سے شخص $\OT1/ppl/m/n/10 7.0 m s[]$ \TU/JameelNooriNasta
+leeq(2)/m/sl/10 کی رفتار سے اوپر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--559
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤٤:  بچوں کا کھلونا جس کی کمیت $
+\OT1/ppl/m/n/10 5.0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے محور $\OML/zplm/
+m/it/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر حرکت کر سکتا ہے ۔شکل 9.‏50 اس
+ قوت[]
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 555--559
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کا جزو $\OML/zplm/m/it/10 F[]$ \TU/Jameel
+NooriNastaleeq(2)/m/sl/10 دیتی ہے جو کھلونے پر ، جو ساکن حالت سے لمحہ $\OML/zpl
+m/m/it/10 t \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0$ \TU/JameelNooriNastaleeq(2)/m
+/sl/10 پر روانا ہوتا ہے، عمل کرتی ہے۔ محور $\OML/zplm/m/it/10 F[]$ \TU/JameelNo
+oriNastaleeq(2)/m/sl/10 کا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--563
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤٥:  عین تصادم سے قبل اور عین تص
+ادم کے بعد $\OT1/ppl/m/n/10 0.300 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 گیند 
+بلے سے ٹکراتا ہوا شکل 9.‏51[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--563
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 میں دکھایا گیا ہے۔ عین تصادم سے قبل گیند 
+کی سمتی رفتار $[]$ کی قدر $\OT1/ppl/m/n/10 12.0 m s[]$ \TU/JameelNooriNastaleeq
+(2)/m/sl/10 اور زاویہ[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 567.
+LaTeX Info: Redefining \sffamily on input line 567.
+LaTeX Info: Redefining \ttfamily on input line 567.
+
+Underfull \hbox (badness 5388) in paragraph at lines 563--568
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤٦:  براعظم امریکہ کے وسطی اور ج
+نوبی علاقوں میں  \TU/AASameerSagarNastaleeqBold(0)/m/n/10 افعی چھپکلی [][][] []
+\TU/JameelNooriNastaleeq(2)/m/sl/10 پائی جاتی ہے جو پانی کی سطح پر پچھلی دو ٹان
+گوں کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--568
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مدد سے دوڑ سکتی ہے۔ قدم لیتے ہوئے چھپکلی 
+پہلے زور سے پانی کی سطح پر پاوں سے تھپڑ مارتی ہے، اور اس کے بعد پاوں کو پانی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--568
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اطراف سے پانی بھر آئے چھپکلی اسی پھرتی سے
+ پاوں واپس اوپر کھینچ کر پانی کی قوت گھساٹ سے بچ پاتی ہے۔ ڈوبنے سے بچنے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--568
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کے لئے ضروری ہے کہ تھپڑ، نیچے دھکیل اور پ
+اوں واپس اٹھانے کے دوران اوپری اوسط ضرب، تجاذبی قوت کی نشیب وار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--568
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ضرب کے برابر ہو۔ فرض کریں افعی چھپکلی کی 
+کمیت $\OT1/ppl/m/n/10 90.0 g$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، ہر پاوں کی ک
+میت $\OT1/ppl/m/n/10 3.00 g$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، تھپڑ کے وقت پ
+اوں کی رفتار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--568
+[]$\OT1/ppl/m/n/10 1.50 m s[]$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، اور ایک قدم
+ کا اوسط دورانیہ $\OT1/ppl/m/n/10 0.600 s$ \TU/JameelNooriNastaleeq(2)/m/sl/10 
+ہے۔ (ا) تھپڑ کے دوران چھپکلی پر ضرب کی قدر کیا ہے؟[]
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 563--568
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 (تصور کریں یہ ضرب سیدھی اوپر رخ ہے۔) (ب) 
+ایک قدم کے $\OT1/ppl/m/n/10 0.600 s$ \TU/JameelNooriNastaleeq(2)/m/sl/10 دورانی
+ہ میں تجاذبی قوت کی چھپکلی پر[]
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 569--574
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤٧:  دیوار کے ساتھ $\OT1/ppl/m/n
+/10 58 g$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کمیت کا گیند ٹکراتا ہے۔ شکل 9.‏53
+ میں تصادم کی قوت کی قدر $\OML/zplm/m/it/10 F$ \TU/JameelNooriNastaleeq(2)/m/sl
+/10 بالمقابل[]
+ []
+
+
+Underfull \hbox (badness 5460) in paragraph at lines 569--574
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے، دیوار کو عمودی، واپس لوٹتا ہے۔ 
+تصادم کے دوران گیند پر دیوار کی قوت کی زیادہ سے زیادہ قدر $\OML/zplm/m/it/10 F[
+]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کیا ہو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--582
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤٩:  کھلاڑی $\OT1/ppl/m/n/10 0.4
+5 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 گیند کو، جو ساکن ہے، لات مارتا ہے۔ کھ
+لاڑی کا پاوں گیند کے ساتھ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--584
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 تماس کے دوران (ا) لات سے گیند پر ضرب کی ق
+در ، (ب) گیند پر اوسط قوت کی قدر، (ج) گیند پر زیادہ سے زیادہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--584
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 قوت کی قدر ، اور (د) عین اس لمحے گیند کی 
+سمتی رفتار کی قدر جس لمحے گیند لات سے علیحدہ ہوتا ہے تلاش[]
+ []
+
+
+Underfull \hbox (badness 8132) in paragraph at lines 584--589
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٥٠:  ایک گیند جس کی کمیت $\OT1/p
+pl/m/n/10 300 g$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور رفتار $\OML/zplm/m/it/
+10 v \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 6.0 m s[]$ \TU/JameelNooriNastaleeq(2)/
+m/sl/10 ہے ،دیوار کے ساتھ زاویہ[]
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 595--597
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٥١:  بلا رگڑ سطح پر $\OT1/ppl/m/n
+/10 91 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کمیت کا لیٹا ہوا شخص $\OT1/ppl/m
+/n/10 68 g$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پتھر کو $\OT1/ppl/m/n/10 4.0 m 
+s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے سطح پر روانا کرتا ہے۔ یہ شخص[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--601
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٥٢:  زمین کے لحاظ سے $\OT1/ppl/m
+/n/10 43 000 [] h[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے پرواز کرتا فض
+ائی طیارہ استعمال شدہ ہوائی بان موٹر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--601
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 (کمیت $\OT1/ppl/m/n/10 4\OML/zplm/m/it/10
+ m$\TU/JameelNooriNastaleeq(2)/m/sl/10 ) کو قابو کار مقیاسہ (کمیت $\OML/zplm/m/
+it/10 m$\TU/JameelNooriNastaleeq(2)/m/sl/10 ) سے علیحدہ کر کے مقیاسہ کے لحاظ سے
+ $\OT1/ppl/m/n/10 82 [] h[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے پیچھے
+[]
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 601--605
+[]$\OT1/ppl/m/n/10 6.00 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے) اور اطرافی 
+حصے $\OML/zplm/m/it/10 L$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور $\OML/zplm/m/
+it/10 R$ \TU/JameelNooriNastaleeq(2)/m/sl/10 (جن کی انفرادی کمیت $\OT1/ppl/m/n/
+10 2.00 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے) ہیں۔ ہوائی بان بلا رگڑ فرش 
+پر $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 محور[]
+ []
+
+[43]
+Underfull \hbox (badness 7221) in paragraph at lines 605--610
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٥٤:  ایک جسم جس کی کمیت $\OML/zp
+lm/m/it/10 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور مشاہدہ کار کے لحاظ سے رفت
+ار $\OML/zplm/m/it/10 v$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، دھماکے سے دو ح
+صوں میں تقسیم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--610
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہوتا ہے، جہاں ایک ٹکڑے کی کمیت دوسرے ٹکڑے
+ کی کمیت کی تین گنّا ہے؛ دھماکہ گہری فضا میں واقع ہوتا ہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--610
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں تجاذبی قوت نہیں پایا جاتا۔ کم کمیتی 
+ٹکڑا مشاہدہ کار کے لحاظ سے رک جاتا ہے۔ مشاہدہ کار کی حوالہ چھوکٹ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--614
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کے بعد ، پرواز کے دوران ، نیچے زور سے پھی
+نکتا ہے۔ فرض کریں ایک کھلاڑی کی کمیت $\OT1/ppl/m/n/10 78 []$ \TU/JameelNooriNas
+taleeq(2)/m/sl/10 اور ایک وزن کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--614
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کمیت $\OT1/ppl/m/n/10 5.50 []$ \TU/Jameel
+NooriNastaleeq(2)/m/sl/10 ہے۔ یہ کھلاڑی بلند چھلانگ کی بجائے لمبی چھلانگ لگانا 
+چاہتا ہے۔اس غرض[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--614
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سے چھلانگ کے دوران بلند ترین نقطہ پر پہنچ
+ کر کھلاڑی وزن افقی یوں پیچھے پھینکتا ہے کہ زمین کے لحاظ سے ان کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--614
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 افقی سمتی رفتار صفر ہوتی ہے۔لمحہ اٹھان پر
+ کھلاڑی کی سمتی رفتار ، بغیر وزن اور بمع وزن دونوں صورتوں میں،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--618
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٥٦:  ساکن جسم دھماکے سے دو ٹکڑوں
+ $\OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور $\OML/zplm/m/it/
+10 L$ \TU/JameelNooriNastaleeq(2)/m/sl/10 میں تقسیم ہوتا ہے، جو بلا رگڑ سطح پر 
+گزرنے کے بعد رگڑ کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--618
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 خطوں میں داخل ہو کر آخر کار رکتے ہیں (شکل
+ 9.‏57)۔ ٹکڑا $\OML/zplm/m/it/10 L$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، جس کی 
+کمیت $\OT1/ppl/m/n/10 2.0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ، اور جس کا س
+امنا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--622
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٥٧:  ایک جسم جس کی کمیت $\OT1/pp
+l/m/n/10 20.0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے فضا میں $\OML/zplm/m/i
+t/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 محور کے مثبت رخ $\OT1/ppl/m/n/10 20
+0 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--622
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 حرکت کے دوران اندرونی دھماکے کی وجہ سے تی
+ن ٹکڑوں میں تقسیم ہوتا ہے۔ ایک ٹکڑا جس کی کمیت $\OT1/ppl/m/n/10 10.0 []$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--622
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے ، نقطہ دھماکہ سے مثبت $\OML/zplm/m/it/
+10 y$ \TU/JameelNooriNastaleeq(2)/m/sl/10 محور کے رخ $\OT1/ppl/m/n/10 100 m s[]
+$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے روانا ہوتا ہے۔ دوسرا ٹکڑا ، جس ک
+ی کمیت $\OT1/ppl/m/n/10 4.0 []$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--622
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، منفی $\OML/zplm/m/it/10 x$ \TU/Jameel
+NooriNastaleeq(2)/m/sl/10 محور پر $\OT1/ppl/m/n/10 500 m s[]$ \TU/JameelNooriNa
+staleeq(2)/m/sl/10 سے روانا ہوتا ہے۔ (ا) اکائی سمتی ترقیم میں تیسرے ٹکڑے کی سمت
+ی رفتار تلاش کریں۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--626
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٥٨:  ایک جسم ، جس کی کمیت $\OT1/
+ppl/m/n/10 4.0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے ، بلا رگڑ سطح پر حرکت
+ کرتے ہوئے دھماکے سے دو $\OT1/ppl/m/n/10 2.0 []$ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 ٹکڑوں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--626
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 میں تقسیم ہوتا ہے۔ ایک ٹکڑا $\OT1/ppl/m/n
+/10 3.0 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 شمال کو اور دوسرا $\OT1/ppl/
+m/n/10 5.0 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 مشرق سے $\OT1/ppl/m/n/10 
+30[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 شمال کی طرف[]
+ []
+
+) [44] (./answer.tex) [45
 
 
 
 
-] (./answer.tex) [43] [44
+] [46
 
 
 ]
@@ -3377,12 +3768,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 58245 strings out of 476191
- 1577935 string characters out of 9562072
- 2347287 words of memory out of 7000000
- 77972 multiletter control sequences out of 15000+600000
+ 58248 strings out of 476191
+ 1577976 string characters out of 9562072
+ 2349287 words of memory out of 7000000
+ 77975 multiletter control sequences out of 15000+600000
  495428 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,11n,118p,2628b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (24 pages).
+Output written on physics.pdf (26 pages).
