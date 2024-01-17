@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  16 JAN 2024 16:44
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  17 JAN 2024 18:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20241161004.tex)...disabled (restricted).
+runsystem(touch w18-test-20241171098.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20241161004.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20241171098.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -2242,10 +2242,13 @@ LaTeX Info: Redefining \sffamily on input line 132.
 LaTeX Info: Redefining \ttfamily on input line 132.
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 132.
+LaTeX Info: Redefining \rmfamily on input line 132.
+LaTeX Info: Redefining \sffamily on input line 132.
+LaTeX Info: Redefining \ttfamily on input line 132.
 
-Underfull \hbox (badness 5939) in paragraph at lines 134--135
+Underfull \hbox (badness 1253) in paragraph at lines 134--135
 [][]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہوائی بان کی دوسری مساوات استعمال کر کے
- اخراجی مادے کی اضافی رفتار کے لحاظ سے ہوائی بان کی رفتار ، اور ہوائی بان[]
+ خرج مادے کی اضافی رفتار کے لحاظ سے ہوائی بان کی رفتار ، اور ہوائی بان کی[]
  []
 
 
@@ -2285,7 +2288,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--152
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 151--152
+Underfull \hbox (badness 3657) in paragraph at lines 151--152
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 گا۔اڑان سے قبل \TU/AASameerSagarNastaleeq
 Bold(0)/m/n/10 چبوترہ روانگی [][][] []\TU/JameelNooriNastaleeq(2)/m/sl/10 پر کھ
 ڑے ہوائی بان کی زیادہ تر کمیت دراصل ایندھن ہو گی، جو آخر کار جل کر ہوائی بان کے
@@ -2306,11 +2309,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--152
  []
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
-[]\TU/JameelNooriNastaleeq(2)/m/sl/10 فرض کریں ہم جمودی حوالہ چھوکٹ کے لحاظ سے 
-ساکن بیٹھے گہری فضا میں، جہاں کوئی تجاذبی یا ہوائی کی رگڑ ی قوت[]
- []
-
+LaTeX Info: Redefining \rmfamily on input line 154.
+LaTeX Info: Redefining \sffamily on input line 154.
+LaTeX Info: Redefining \ttfamily on input line 154.
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--155
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 موجود نہیں، ہوائی بان کو اسراع کرتا دیکھ 
@@ -2332,15 +2333,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--157
 riNastaleeq(2)/m/sl/10 ہیں، جہاں کمیت میں تبدیلی $[] \OML/zplm/m/it/10 M$ \TU/J
 ameelNooriNastaleeq(2)/m/n/9 منفی مقدار  \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے
 ۔ وقفہ $[] \OML/zplm/m/it/10 t$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے دوران ہو
-ائی بان سے اخراجی مواد کی[]
+ائی بان سے خرج مواد کی[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 159--160
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 ہمارا نظام ہوائی بان اور وقفہ $[] \OML/zp
-lm/m/it/10 t$ \TU/JameelNooriNastaleeq(2)/m/sl/10 میں اخراجی مواد پر مشتمل ہے۔ 
-نظام بند اور جدا ہے لہٰذا وقفہ $[] \OML/zplm/m/it/10 t$ \TU/JameelNooriNastalee
-q(2)/m/sl/10 کے دوران[]
+lm/m/it/10 t$ \TU/JameelNooriNastaleeq(2)/m/sl/10 میں خرج مواد پر مشتمل ہے۔ نظا
+م بند اور جدا ہے لہٰذا وقفہ $[] \OML/zplm/m/it/10 t$ \TU/JameelNooriNastaleeq(2
+)/m/sl/10 کے دوران[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 163.
@@ -2365,10 +2366,10 @@ LaTeX Info: Redefining \rmfamily on input line 170.
 LaTeX Info: Redefining \sffamily on input line 170.
 LaTeX Info: Redefining \ttfamily on input line 170.
 
-Underfull \hbox (badness 3769) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 مساوات [][]٣.١٢[][] []کی سادہ صورت ہوائی 
-بان اور اخراجی مواد کے بیچ اضافی رفتار $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriN
-astaleeq(2)/m/sl/10 استعمال کرکے حاصل کی جا[]
+بان اور خرج مواد کے بیچ اضافی رفتار $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNast
+aleeq(2)/m/sl/10 استعمال کرکے حاصل کی جا[]
  []
 
 [30]
@@ -2408,7 +2409,7 @@ sl/10 پر،[]
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 193--194
+Underfull \hbox (badness 1377) in paragraph at lines 193--194
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 جس سے یہ کمیت ہوائی بان سے خارج کی جاتی ہ
 ے۔ہم اس جزو $\OML/zplm/m/it/10 Rv[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کو ہوا
 ئی بان کی \TU/AASameerSagarNastaleeqBold(0)/m/n/10 قوت دھکیل [][][] []\TU/Jamee
@@ -2443,7 +2444,7 @@ ameelNooriNastaleeq(2)/m/sl/10 ہونے کی صورت میں ہوائی بان �
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 207--209
+Underfull \hbox (badness 1708) in paragraph at lines 207--209
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 (مساوات [][]٣.١٧[][] []میں علامت $[]$ \TU
 /AASameerSagarNastaleeqBold(0)/m/n/10 قدرتی لوگارتھم [][][] []\TU/JameelNooriNa
 staleeq(2)/m/sl/10 ظاہر کرتی ہے۔) ہم یہاں  \TU/AASameerSagarNastaleeqBold(0)/m/
@@ -2470,9 +2471,9 @@ LaTeX Info: Redefining \ttfamily on input line 216.
 
 Underfull \hbox (badness 10000) in paragraph at lines 216--217
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 مساوات [][]٣.١٦[][] []کے تحت ایندھن صَرف 
-کرنے کی شرح $\OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کو اخراجی
- مواد کی اضافی رفتار $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(2)/m/sl/1
-0 سے ضرب[]
+کرنے کی شرح $\OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کو خرج مو
+اد کی اضافی رفتار $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 س
+ے ضرب[]
  []
 
 
@@ -2782,20 +2783,12 @@ iNastaleeq(2)/m/sl/10 ہوائی بان کی لمحاتی کمیت (جس میں 
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 348--350
-[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اصراف کی شرح، اور $\OML/zplm/m/it/10 v[]$
- \TU/JameelNooriNastaleeq(2)/m/sl/10 ہوائی بان کے لحاظ سے اخراج کی اضافی رفتار 
-ہے۔جزو $\OML/zplm/m/it/10 Rv[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہوائی بان ک
-ی انجن کی[]
- []
-
-
-Underfull \hbox (badness 1496) in paragraph at lines 348--350
-[]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 قوت دھکیل \TU/JameelNooriNastaleeq(2
-)/m/sl/10 ہے۔ جب ایک ہوائی بان کی،جس کی $\OML/zplm/m/it/10 R$ \TU/JameelNooriNa
-staleeq(2)/m/sl/10 اور $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(2)/m/sl
-/10 اٹل ہو، کمیت $\OML/zplm/m/it/10 M[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے
- $\OML/zplm/m/it/10 M[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہونے پر اس کی رفتا
-ر[]
+[]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 دھکیل \TU/JameelNooriNastaleeq(2)/m/
+sl/10 ہے۔ جب ایک ہوائی بان کی،جس کی $\OML/zplm/m/it/10 R$ \TU/JameelNooriNastal
+eeq(2)/m/sl/10 اور $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 
+اٹل ہو، کمیت $\OML/zplm/m/it/10 M[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے $\O
+ML/zplm/m/it/10 M[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہونے پر اس کی رفتار $\
+OML/zplm/m/it/10 v[]$[]
  []
 
 
@@ -3464,7 +3457,7 @@ LaTeX Info: Redefining \rmfamily on input line 567.
 LaTeX Info: Redefining \sffamily on input line 567.
 LaTeX Info: Redefining \ttfamily on input line 567.
 
-Underfull \hbox (badness 5388) in paragraph at lines 563--568
+Underfull \hbox (badness 7415) in paragraph at lines 563--568
 [] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٤٦:  براعظم امریکہ کے وسطی اور ج
 نوبی علاقوں میں  \TU/AASameerSagarNastaleeqBold(0)/m/n/10 افعی چھپکلی [][][] []
 \TU/JameelNooriNastaleeq(2)/m/sl/10 پائی جاتی ہے جو پانی کی سطح پر پچھلی دو ٹان
@@ -3598,7 +3591,7 @@ lm/m/it/10 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور مشاہدہ کار ک�
 
 Underfull \hbox (badness 10000) in paragraph at lines 605--610
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 ہوتا ہے، جہاں ایک ٹکڑے کی کمیت دوسرے ٹکڑے
- کی کمیت کی تین گنّا ہے؛ دھماکہ گہری فضا میں واقع ہوتا ہے[]
+ کی کمیت کی تین گنّا ہے؛ دھماکہ فضائے ماورا میں واقع ہوتا ہے[]
  []
 
 
@@ -3719,7 +3712,7 @@ l/10 سمتی رفتار سے حرکت کرتے ہیں۔ تیسرے ٹکڑے ک�
  []
 
 
-Underfull \vbox (badness 2600) has occurred while \output is active []
+Underfull \vbox (badness 3229) has occurred while \output is active []
 
  [44]
 Underfull \hbox (badness 10000) in paragraph at lines 631--635
@@ -4098,12 +4091,639 @@ staleeq(2)/m/sl/10 تصادم کے بعد واپس ہو کر میز کے مخا�
 گرتا ہے۔ قرص[]
  []
 
-) [48] (./answer.tex) [49
+LaTeX Info: Redefining \rmfamily on input line 746.
+LaTeX Info: Redefining \sffamily on input line 746.
+LaTeX Info: Redefining \ttfamily on input line 746.
+LaTeX Info: Redefining \rmfamily on input line 746.
+LaTeX Info: Redefining \sffamily on input line 746.
+LaTeX Info: Redefining \ttfamily on input line 746.
+
+Package siunitx Warning: Unit macro \atomicmassunit has been deprecated in
+(siunitx)                this release.
+(siunitx)                
+(siunitx)                The BIPM have removed this unit from the SI Brochure.
+(siunitx)                You should define it yourself using \DeclareSIUnit in
+(siunitx)                your source. The current definition is
+(siunitx)                
+(siunitx)                \DeclareSIUnit\atomicmassunit{u}
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 748--752
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٨٤:  محور $\OML/zplm/m/it/10 x$ 
+\TU/JameelNooriNastaleeq(2)/m/sl/10 پر مثبت رخ $\OML/zplm/m/it/10 v$ \TU/Jameel
+NooriNastaleeq(2)/m/sl/10 رفتار سے گیند $\OML/zplm/m/it/10 B$ \TU/JameelNooriNa
+staleeq(2)/m/sl/10 چل کر مبدا پر ساکن گیند $\OML/zplm/m/it/10 A$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 سے ٹکراتا ہے۔$\OML/zplm/m/it/10 A$ \TU/JameelNooriNastale
+eq(2)/m/sl/10 اور $\OML/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی[
+]
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 748--752
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کمیتیں مختلف ہیں۔ تصادم کے بعد $\OML/zplm
+/m/it/10 B$ \TU/JameelNooriNastaleeq(2)/m/sl/10 منفی $\OML/zplm/m/it/10 y$ \TU/
+JameelNooriNastaleeq(2)/m/sl/10 محور کے رخ $[]$ رفتار سے روانا ہوتا ہے۔ (ا) $\O
+ML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کس رخ حرکت کرے گا؟[]
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 752--756
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٨٥:  برابر کمیت کے دو جسم جو ایک
+ ابتدائی رفتار سے حرکت کرتے ہیں غیر لچکی تصادم کے بعد ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--761
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٨٦:  دو $\OT1/ppl/m/n/10 2.0 []$
+ \TU/JameelNooriNastaleeq(2)/m/sl/10 اجسام $\OML/zplm/m/it/10 A$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 اور $\OML/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(2)/m/s
+l/10 ٹکراتے ہیں۔ تصادم سے قبل ان کی سمتی رفتار بالترتیب[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--761
+[]$[] \OT1/zplm/m/n/10 = (\OT1/ppl/m/n/10 15[] \OT1/zplm/m/n/10 + \OT1/ppl/m/n/
+10 30[]\OT1/zplm/m/n/10 ) \OT1/ppl/m/n/10 m s[]$ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 اور $[] \OT1/zplm/m/n/10 = (\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 10[] \OT1
+/zplm/m/n/10 + \OT1/ppl/m/n/10 5.0[]\OT1/zplm/m/n/10 ) \OT1/ppl/m/n/10 m s[]$ \
+TU/JameelNooriNastaleeq(2)/m/sl/10 ہیں۔ تصادم کے بعد[]
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 756--761
+[]$[] \OT1/zplm/m/n/10 = (\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 5.0[] \OT1/zplm/m
+/n/10 + \OT1/ppl/m/n/10 20[]\OT1/zplm/m/n/10 ) \OT1/ppl/m/n/10 m s[]$ \TU/Jamee
+lNooriNastaleeq(2)/m/sl/10 ہے۔ (ا) $\OML/zplm/m/it/10 B$ \TU/JameelNooriNastale
+eq(2)/m/sl/10 کی اختتامی سمتی رفتار اور (ب) کل حرکی توانائی میں تبدیلی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--765
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٨٧:  پروٹان $\OML/zplm/m/it/10 A
+$ \TU/JameelNooriNastaleeq(2)/m/sl/10 جس کی رفتار $\OT1/ppl/m/n/10 500 m s[]$ \
+TU/JameelNooriNastaleeq(2)/m/sl/10 ہے ساکن پروٹان $\OML/zplm/m/it/10 B$ \TU/Jam
+eelNooriNastaleeq(2)/m/sl/10 سے لچکی ٹکراتا ہے۔ تصادم کے بعد ان کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--765
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سمتی رفتار آپس میں عمودی ہیں اور $\OML/zp
+lm/m/it/10 A$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ابتدائی رخ کے ساتھ $\OT1/ppl/
+m/n/10 60[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 زاویہ بناتا ہے۔ تصادم کے بعد (
+ا) پروٹان[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--772
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٨٨:  مشتری کی طرف منہ کیے تحقیقی 
+خلائی طیارہ ، جس کی کمیت $\OT1/ppl/m/n/10 6090 []$ \TU/JameelNooriNastaleeq(2)/
+m/sl/10 ہے، سورج کے لحاظ سے[]
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 770--772
+[]$\OT1/ppl/m/n/10 105 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار پر چلتے
+ ہوئے دم سے $\OT1/ppl/m/n/10 80.0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 خرج ط
+یارے کے لحاظ سے $\OT1/ppl/m/n/10 253 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10
+ کی رفتار سے خارج[]
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 772--776
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٨٩:  دو لمبے بجرے ساکن پانی میں 
+ایک رخ رواں ہیں۔ ایک کی رفتار $\OT1/ppl/m/n/10 10 [] h[]$ \TU/JameelNooriNastal
+eeq(2)/m/sl/10 اور دوسرے کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 772--776
+[]$\OT1/ppl/m/n/10 20 [] h[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے (شکل 9.‏70
+)۔ جتنی دیر تیز بجرا آہستہ بجرے سے آگے نکلتا ہے، اتنی دیر آہستہ بجرے سے کوئلہ[]
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 772--776
+[]$\OT1/ppl/m/n/10 1000 [] [][]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 شرح سے دوس
+رے بجرا میں پھینکا جاتا ہے۔فرض کریں بجرا اور پانی کے بیچ رگڑی قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 776--780
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٩٠:  فضائے ماورا میں جمودی حوالہ
+ چھوکٹ کے لحاظ سے ساکن ہوائی بان پر غور کریں۔ ہوائی بان کا انجن کسی مخصوص[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 776--780
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 دورانیہ کے لئے چلایا جانا ہے۔ جمودی حوالہ
+ چھوکٹ کے لحاظ سے ہوائی بان کی رفتار (ا) خرج رفتار (ہوائی بان کے لحاظ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 776--780
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سے خرج مواد کی رفتار) کے برابر اور (ب) خر
+ج رفتار کی دگنی ہونے کے لئے ہوائی بان کی کمیتی تناسب (ابتدائی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--784
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جس میں سے $\OT1/ppl/m/n/10 1.81 \OMS/zplm
+/m/n/10 ^^B \OT1/ppl/m/n/10 10[] []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ایندھن
+ ہے۔ہوائی بان کا انجن $\OT1/ppl/m/n/10 250 s$ \TU/JameelNooriNastaleeq(2)/m/sl/
+10 دورانیے کے لئے چالو کیا جاتا ہے؛اس[]
+ []
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 780--784
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 دوران ایندھن $\OT1/ppl/m/n/10 480 [] s[]$
+ \TU/JameelNooriNastaleeq(2)/m/sl/10 شرح سے استعمال ہوتا ہے۔ہوائی بان کے لحاظ س
+ے خرج مواد کی رفتار $\OT1/ppl/m/n/10 3.27 [] s[]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--791
+[]$\OT1/ppl/m/n/10 300[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، جہاں $\OML/zp
+lm/m/it/10 r$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی پیمائش میٹر میں اور $\OML/
+zplm/m/it/10 t$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی سیکنڈ میں ہے۔ ریڈار کا $
+\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl/10 محور مشرق کے رخ اور $\
+OML/zplm/m/it/10 y$ \TU/JameelNooriNastaleeq(2)/m/sl/10 محور شمال[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--791
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کے رخ ہے۔ اگر جسم $\OT1/ppl/m/n/10 250 []
+$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کمیت کا موسمیاتی مزائل ہو، (ا) اس کا خطی 
+معیار حرکت اور (ب) اس کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--795
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٩٣:  ہوائی بان کا آخری حصہ ، جو 
+$\OT1/ppl/m/n/10 7600 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی رفتار سے حر
+کت میں ہے ، دو حصوں پر مشتمل ہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--795
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ، جنہیں آپس میں جکڑا گیا ہے۔ایک حصہ ہوائی
+ بان کا خول ہے جس کی کمیت $\OT1/ppl/m/n/10 290.0 []$ \TU/JameelNooriNastaleeq(2
+)/m/sl/10 ہے، اور دوسرا وہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--795
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ساز و سامان کی ڈبی جس کی کمیت $\OT1/ppl/m
+/n/10 150.0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔انہیں علیحدہ کرنے پر، ان
+ کے بیچ دبا اسپرنگ ، انہیں ایک[]
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 791--795
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 دوسرے کے لحاظ سے $\OT1/ppl/m/n/10 910.0 m
+ s[]$\TU/JameelNooriNastaleeq(2)/m/sl/10 اضافی رفتار سے علیحدہ کرتا ہے۔ علیحدگی
+ کے بعد (ا) ہوائی بان خول اور (ب)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--795
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ساز و سامان ڈبی کی رفتار کیا ہوں گی؟ تمام
+ سمتی رفتار ایک محور پر فرض کریں۔ (ج) علیحدگی سے قبل اور (د)[]
+ []
+
+LaTeX Font Info:    Font shape `TU/AASameerSagarNastaleeqBold(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 797.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 797.
+LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 797.
+LaTeX Info: Redefining \rmfamily on input line 797.
+LaTeX Info: Redefining \sffamily on input line 797.
+LaTeX Info: Redefining \ttfamily on input line 797.
+LaTeX Info: Redefining \rmfamily on input line 798.
+LaTeX Info: Redefining \sffamily on input line 798.
+LaTeX Info: Redefining \ttfamily on input line 798.
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--799
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 بلند عمارت کا تراش شکل 9.‏71a میں پیش ہے۔
+ہر منزل، مثلاً $\OML/zplm/m/it/10 K$\TU/JameelNooriNastaleeq(2)/m/sl/10 ،اس سے 
+اوپر تمام منازل کا وزن $\OML/zplm/m/it/10 W$[]
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 795--799
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اٹھاتی ہے۔عام طور عمارت کی تعمیر \TU/AASa
+meerSagarNastaleeqBold(0)/m/n/10 حفاظتی ضربیہ [][][] []$\OML/zplm/m/it/10 s$\TU
+/JameelNooriNastaleeq(2)/m/sl/10 کے تحت کی جاتی ہے (جہاں $\OML/zplm/m/it/10 s >
+ \OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہو گا) تا کہ یہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--799
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مزید زیادہ وزن $\OML/zplm/m/it/10 sW$ \TU
+/JameelNooriNastaleeq(2)/m/sl/10 برداشت کر سکے۔لیکن ایسی صورت میں جہاں $\OML/zp
+lm/m/it/10 K$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور $\OML/zplm/m/it/10 L$ \TU
+/JameelNooriNastaleeq(2)/m/sl/10 کے بیچ ستون اچانک منہدم ہو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--799
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کر بالائی منازل کو$\OML/zplm/m/it/10 K$ \
+TU/JameelNooriNastaleeq(2)/m/sl/10 پر آزادانہ گرنے دے (شکل 9.‏71b)، تصادم کے دو
+ران قوت $\OML/zplm/m/it/10 sW$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے تجاوز کر 
+سکتی ہے۔یوں[]
+ []
+
+
+Underfull \hbox (badness 8132) in paragraph at lines 795--799
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مختصر توقف کے بعد $\OML/zplm/m/it/10 K$\T
+U/JameelNooriNastaleeq(2)/m/sl/10 منزل $\OML/zplm/m/it/10 J$ \TU/JameelNooriNas
+taleeq(2)/m/sl/10 پر گرے گا، جو $\OML/zplm/m/it/10 I$ \TU/JameelNooriNastaleeq(
+2)/m/sl/10 پر گرے، حتٰی کہ تمام منازل زمین بوس ہوں۔ دو منزل کے بیچ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--799
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 فاصلہ $\OT1/ppl/m/n/10 4.0 m$ \TU/JameelN
+ooriNastaleeq(2)/m/sl/10 اور تمام منازل کی کمیت ایک برابر فرض کریں۔ مزید فرض کر
+یں کہ $\OML/zplm/m/it/10 K$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے اوپر منازل ک
+ا $\OML/zplm/m/it/10 K$[]
+ []
+
+
+Underfull \vbox (badness 1424) has occurred while \output is active []
+
+ [49]
+Underfull \hbox (badness 1472) in paragraph at lines 799--804
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٩٥:  \TU/JameelNooriNastaleeq(0)
+/m/n/9 ”اضافی“ ایک اہم لفظ ہے۔ \TU/JameelNooriNastaleeq(2)/m/sl/10 شکل 9.‏72 می
+ں سل $\OML/zplm/m/it/10 L$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ، جس کی کمیت $\O
+ML/zplm/m/it/10 m[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 1.00 []$ \TU/JameelNoori
+Nastaleeq(2)/m/sl/10 ، اور سل[]
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 799--804
+[]$\OML/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ، جس کی کمیت $\OML/
+zplm/m/it/10 m[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.500 []$ \TU/JameelNooriNa
+staleeq(2)/m/sl/10 ہے، اور جن کے بیچ دبا اسپرنگ ہے، جکڑ کر رکھے گئے ہیں۔ رہا کر
+نے پر، دبا[]
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 799--804
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اسپرنگ سلوں کو بلا رگڑ میں پر مخالف رخ دھ
+کیلتا ہے اور خود ان سے علیحدہ ہو کر فرش پر گرتا ہے۔اسپرنگ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--804
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کی کمیت قابل نظر انداز ہے۔ (ا) اگر زمین ک
+ے لحاظ سے سل $\OML/zplm/m/it/10 L$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کو اسپرن
+گ $\OT1/ppl/m/n/10 1.20 m s[]$ \TU/JameelNooriNastaleeq(0)/m/n/9 اضافی  \TU/Jam
+eelNooriNastaleeq(2)/m/sl/10 رفتار دے،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--804
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سل $\OML/zplm/m/it/10 R$ \TU/JameelNooriN
+astaleeq(2)/m/sl/10 اگلے $\OT1/ppl/m/n/10 0.800 s$ \TU/JameelNooriNastaleeq(2)/
+m/sl/10 میں کتنا فاصلہ طے کرے گا؟ (ب) اس کے برعکس، اگر سل $\OML/zplm/m/it/10 R$
+ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی سمتی رفتار کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--804
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 لحاظ سے سل $\OML/zplm/m/it/10 L$ \TU/Jame
+elNooriNastaleeq(2)/m/sl/10 کو اسپرنگ $\OT1/ppl/m/n/10 1.20 m s[]$ \TU/JameelNo
+oriNastaleeq(0)/m/n/9 اضافی  \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار دے، سل $
+\OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اگلے $\OT1/ppl/m/n/10 
+0.800 s$ \TU/JameelNooriNastaleeq(2)/m/sl/10 میں کتنا فاصلہ[]
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 804--809
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٩٦:  بلا رگڑ فرش پر دو ذرے پھسلت
+ے ہوئے مستقل سمتی رفتار سے حرکت کرتے ہیں؛ شکل 9.‏73 میں ان کا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 804--809
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 حرف سے موسوم چار حصوں میں تقسیم کرتی ہیں۔
+ اگر تصادم (ا) مکمل لچکی، (ب) لچکی، اور (ج) غیر لچکی ہو،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 809--813
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سل $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNas
+taleeq(2)/m/sl/10 ، جس کی کمیت $\OML/zplm/m/it/10 m[]$ \TU/JameelNooriNastaleeq
+(2)/m/sl/10 ہے، بلا رگڑ فرش پر محور $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastal
+eeq(2)/m/sl/10 کے ہمراہ $\OML/zplm/m/it/10 v[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/
+10 4.00 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 809--813
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سے حرکت میں ہے۔اس کا یک بعدی لچکی تصادم س
+اکن سل $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے ہوتا ہے، جس ک
+ی کمیت[]
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 809--813
+[]$\OML/zplm/m/it/10 m[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 2.00\OML/zplm/m/it/
+10 m[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے (شکل 9.‏74)۔ اس کے بعد سل $\OT1/
+ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کا یک بعدی لچکی تصادم سل $\OT
+1/ppl/m/n/10 3$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے ہوتا ہے،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 813--818
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سل $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNas
+taleeq(2)/m/sl/10 ، جس کی کمیت $\OML/zplm/m/it/10 m[]$ \TU/JameelNooriNastaleeq
+(2)/m/sl/10 ہے، بلا رگڑ فرش پر محور $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastal
+eeq(2)/m/sl/10 کے ہمراہ $\OML/zplm/m/it/10 v[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/
+10 4.00 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 813--818
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سے حرکت میں ہے۔اس کا یک بعدی لچکی تصادم س
+اکن سل $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے ہوتا ہے، جس ک
+ی کمیت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 813--818
+[]$\OML/zplm/m/it/10 m[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.500\OML/zplm/m/it
+/10 m[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے (شکل 9.‏75)۔ اس کے بعد سل $\OT1
+/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کا یک بعدی لچکی تصادم سل $\O
+T1/ppl/m/n/10 3$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے ہوتا[]
+ []
+
+[50]
+Underfull \hbox (badness 3977) in paragraph at lines 818--822
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.٩٩:  ایک گیند جس کی کمیت $\OT1/p
+pl/m/n/10 150 g$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے $\OT1/ppl/m/n/10 5.2 m 
+s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے حرکت کرتے ہوئے دیوار سے ٹپکی کھا کر
+[]
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 818--822
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 صرف $\OT1/ppl/m/n/10 50 %$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 حرکی توانائی کے ساتھ واپس ہوتا ہے۔ (ا) عین ٹپکی کے بعد گی
+ند کی رفتار کیا ہے؟ (ب) دیوار پر[]
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 822--826
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ ان حصوں کی کمیت $\OT1/ppl/m/n/10 1200
+ []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور $\OT1/ppl/m/n/10 1800 []$ \TU/Jame
+elNooriNastaleeq(2)/m/sl/10 ہے؛ ہر ایک حصے پر قابلوں کے دھماکے کی ضرب کی قدر $\
+OT1/ppl/m/n/10 300 N s$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--831
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٠١:  ایک گاڑی ، جس کی کمیت $\OT
+1/ppl/m/n/10 1400 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، $\OT1/ppl/m/n/10 
+5.3 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے ابتدائی طور محور $\OML/
+zplm/m/it/10 y$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے ہمراہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--831
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 شمال کی طرف حرکت میں ہے۔ دائیں ہاتھ $\OT1
+/ppl/m/n/10 90[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 موڑ $\OT1/ppl/m/n/10 4.6 
+s$ \TU/JameelNooriNastaleeq(2)/m/sl/10 میں پورا کرتے ہی غیر محتاط ڈرائیور گاڑی[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--831
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سیدھا پیڑ پر چڑھاتا ہے، جو گاڑی کو $\OT1/
+ppl/m/n/10 350 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 میں روک پاتا ہے۔ اکائی س
+متی ترقیم میں گاڑی پر (ا) موڑ کاٹنے کی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 834.
+LaTeX Info: Redefining \sffamily on input line 834.
+LaTeX Info: Redefining \ttfamily on input line 834.
+LaTeX Info: Redefining \rmfamily on input line 835.
+LaTeX Info: Redefining \sffamily on input line 835.
+LaTeX Info: Redefining \ttfamily on input line 835.
+LaTeX Info: Redefining \rmfamily on input line 835.
+LaTeX Info: Redefining \sffamily on input line 835.
+LaTeX Info: Redefining \ttfamily on input line 835.
+
+Underfull \hbox (badness 2443) in paragraph at lines 831--840
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٠٢:  تابکار \TU/AASameerSagarNa
+staleeqBold(0)/m/n/10 والدینی مرکزہ [][][] []\TU/JameelNooriNastaleeq(2)/m/sl/1
+0 مختلف \TU/AASameerSagarNastaleeqBold(0)/m/n/10 دختر مرکزہ  [][][] []\TU/Jamee
+lNooriNastaleeq(2)/m/sl/10 میں بدل کر ایک الیکٹران اور ایک  \TU/AASameerSagarNa
+staleeqBold(0)/m/n/10 نیوٹرینو [][][] []\TU/JameelNooriNastaleeq(2)/m/sl/10 خار
+ج کرتا ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--840
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 والدینی مرکزہ $\OML/zplm/m/it/10 xy$ \TU/
+JameelNooriNastaleeq(2)/m/sl/10 محددی نظام کے مبدا پر ساکن تھا۔ الیکٹران $ \OT1
+/zplm/m/n/10 (\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 1.2 \OMS/zplm/m/n/10 ^^B \OT1
+/ppl/m/n/10 10[] [] m s[]\OT1/zplm/m/n/10 ) [] $ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 اور نیوٹرینو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 840--845
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٠٣:  ایک شخص، جس کی کمیت $\OT1/
+ppl/m/n/10 75 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، $\OT1/ppl/m/n/10 39 [
+]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کمیت کی ریڑھی پر سوار ہے جو $\OT1/ppl/m/
+n/10 2.3 m s[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سمتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 840--845
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے حرکت میں ہے۔وہ زمین کے لحاظ سے ص
+فر افقی رفتار کے ساتھ ریڑھی سے کودتا ہے۔ریڑھی کی سمتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--849
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٠٤:  بلا رگڑ فرش پر ساکن دو سل 
+جن کی کمیتیں $\OT1/ppl/m/n/10 1.0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور $
+\OT1/ppl/m/n/10 3.0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہیں اسپرنگ کے ذریعہ
+ آپس[]
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 845--849
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 میں جڑی ہیں۔انہیں ایک دوسرے کے رخ سمتی رف
+تار یوں دی جاتی ہیں کہ ان کا مرکز کمیت ساکن رہتا ہے[]
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 849--853
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٠٥:  مال بردار ریل کا ڈبہ ، جس 
+کی کمیت $\OT1/ppl/m/n/10 3.18 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] []$ \TU
+/JameelNooriNastaleeq(2)/m/sl/10 ہے، ڈرائیور کے ساکن ڈبے سے ٹکراتا ہے۔دونوں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 849--853
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 آپس میں جڑ جاتے ہیں اور ابتدائی حرکی توان
+ائی کا $\OT1/ppl/m/n/10 27.0 %$ \TU/JameelNooriNastaleeq(2)/m/sl/10 حری توانائی
+، صوتی توانائی، ارتعاش، وغیرہ کو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 853--857
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٠٦:  ایک گاڑی ، جس کی کمیت $\OT
+1/ppl/m/n/10 2400 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، سیدھی سڑک پر $\OT
+1/ppl/m/n/10 80 [] h[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے دوڑ رہی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 853--857
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ اس کے پیچھے $\OT1/ppl/m/n/10 1600 []$
+ \TU/JameelNooriNastaleeq(2)/m/sl/10 کمیت کی گاڑی $\OT1/ppl/m/n/10 60 [] h[]$ \
+TU/JameelNooriNastaleeq(2)/m/sl/10 رفتار سے دوڑ رہی ہے۔ ان کا مرکز کمیت کس رفتا
+ر[]
+ []
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 857--862
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٠٧:  گیند $\OT1/ppl/m/n/10 1$ \
+TU/JameelNooriNastaleeq(2)/m/sl/10 ، جو $\OT1/ppl/m/n/10 2.2 m s[]$ \TU/JameelN
+ooriNastaleeq(2)/m/sl/10 سے حرکت کر رہا ہے، بالکل اسی طرح کے دوسرے گیند $\OT1/p
+pl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے، جو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--862
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ساکن ہے، معمولی ٹکراتا ہے (شکل 9.‏21)۔ تص
+ادم کے بعد گیند $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/m/sl/10 زاویہ $
+\OML/zplm/m/it/10 ^^R[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 60[]$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 پر $\OT1/ppl/m/n/10 1.1 m s[]$ \TU/JameelNooriNastaleeq(2
+)/m/sl/10 سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--862
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 حرکت کرتا ہے۔ تصادم کے بعد گیند $\OT1/ppl
+/m/n/10 1$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی سمتی رفتار کی (ا) قدر اور (ب)
+ رخ کیا ہیں؟ (ج) دیے گئے مواد کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--866
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٠٨:  نظام شمسی سے ایک ہوائی بان
+ $\OT1/ppl/m/n/10 6.0 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] m s[]$ \TU/Jame
+elNooriNastaleeq(2)/m/sl/10 رفتار سے دور روانا ہے۔ ہوائی بان کا انجن چالو[]
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 862--866
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کرنے سے، ہوائی بان کے لحاظ سے ، $\OT1/ppl
+/m/n/10 3.0 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] m s[]$ \TU/JameelNooriNas
+taleeq(2)/m/sl/10 رفتار سے خرج خارج ہوتا ہے۔ اس لمحے ہوائی بان کی کمیت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--866
+[]$\OT1/ppl/m/n/10 4.0 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] []$ \TU/Jameel
+NooriNastaleeq(2)/m/sl/10 اور اسراع $\OT1/ppl/m/n/10 2.0 m s[]$ \TU/JameelNoori
+Nastaleeq(2)/m/sl/10 ہے۔ (ا) انجن کی قوت دھکیل کتنی ہے؟ (ب) اس دوران خرج کس[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 866--870
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١٠٩:  تین یکساں گیند کا فضائی جا
+ئزہ شکل 9.‏76 میں پیش ہے۔ گیند $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/
+m/sl/10 اور $\OT1/ppl/m/n/10 3$ \TU/JameelNooriNastaleeq(2)/m/sl/10 آپس میں مس 
+ہیں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 866--870
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کے نقطہ مماس کو ہے۔ تصادم کے بعد گیند $\O
+T1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی سمتی رفتار کی (ا) قدر ا
+ور (ب) رخ ، گیند $\OT1/ppl/m/n/10 3$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی سمت
+ی رفتار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 866--870
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کی (ج) قدر اور (د) رخ، اور گیند $\OT1/ppl
+/m/n/10 1$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی سمتی رفتار کی (ہ) قدر اور (و)
+ رخ کیا ہیں؟ (اشارہ: رگڑ کی غیر موجودگی میں،ہر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--879
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١١٠:  ایک گیند ، جس کی کمیت $\OT
+1/ppl/m/n/10 0.15 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، $ \OT1/zplm/m/n/1
+0 (\OT1/ppl/m/n/10 5.00 m s[]\OT1/zplm/m/n/10 )[] + (\OT1/ppl/m/n/10 6.50 m s[]
+\OT1/zplm/m/n/10 )[] +$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--879
+[]$\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 4.00 m s[]\OT1/zplm/m/n/10 )[] $ \TU/Jamee
+lNooriNastaleeq(2)/m/sl/10 سمتی رفتار سے چلتے ہوئے دیوار سے ٹکراتا ہے۔دیوار سے 
+ٹپکی کے بعد گیند کی سمتی رفتار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--879
+[]$\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 2.00 m s[]\OT1/zplm/m/n/10 )[] + (\OT1/ppl
+/m/n/10 3.50 m s[]\OT1/zplm/m/n/10 )[] + (\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 3
+.20 m s[]\OT1/zplm/m/n/10 )[] $ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ (ا) گین
+د کے معیار حرکت میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 879--883
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ٣.١١١:  دو یکساں برتن جن میں ایک ج
+تنی چینی بھری ہے ایک ڈور کے ذریعہ جڑے ہیں، جو بلا رگڑ چرخی کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 879--883
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اوپر سے گزرتی ہے (شکل 9.‏77)۔ ڈور اور چرخ
+ی کی کمیت قابل نظر انداز ہے، جبکہ ایک برتن اور اس میں بھری[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 879--883
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 چینی کی کمیت $\OT1/ppl/m/n/10 500 g$ \TU/
+JameelNooriNastaleeq(2)/m/sl/10 ہے۔ برتن کے وسط ایک دوسرے سے $\OT1/ppl/m/n/10 5
+0 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 فاصلے پر اور برتن ایک جتنی بلندی پر ج
+کڑ کر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 879--883
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رکھے گئے ہیں۔ برتن $\OT1/ppl/m/n/10 1$ \T
+U/JameelNooriNastaleeq(2)/m/sl/10 کے وسط اور دو برتنی نظام کے مرکز کمیت میں (ا)
+ ابتدائی افقی فاصلہ اور (ب) برتن $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(2
+)/m/sl/10 سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 879--883
+[]$\OT1/ppl/m/n/10 20 g$ \TU/JameelNooriNastaleeq(2)/m/sl/10 چینی برتن $\OT1/pp
+l/m/n/10 2$ \TU/JameelNooriNastaleeq(2)/m/sl/10 میں منتقل کرنے کے بعد ، کتنا ہو
+ گا؟ چینی منتقل کرنے کے بعد برتن رہا کیے جاتے ہیں۔ رہائی کے بعد[]
+ []
+
+) [52] (./answer.tex) [53
 
 
 
 
-] [50
+] [54
 
 
 ]
@@ -4171,12 +4791,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 58251 strings out of 476191
- 1578014 string characters out of 9562072
+ 58279 strings out of 476191
+ 1578611 string characters out of 9562072
  2349287 words of memory out of 7000000
- 77978 multiletter control sequences out of 15000+600000
- 495428 words of font info for 135 fonts, out of 8000000 for 9000
+ 78002 multiletter control sequences out of 15000+600000
+ 495460 words of font info for 139 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,11n,118p,2628b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (30 pages).
+Output written on physics.pdf (34 pages).
