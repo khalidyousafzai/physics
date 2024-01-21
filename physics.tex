@@ -68,6 +68,15 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 \usepackage{polynom}		%this writes pen and paper long division for polynomials
 \usepgfplotslibrary{fillbetween}
 \usepackage[]{gnuplottex}
+%========================================
+%=========================================
+%Testing Heading Colours. It messes up chapter name taking it to the left. hence must 
+%discard the following 5 lines when finished with the book
+\usepackage{sectsty}
+\chapterfont{\color{blue}}  % sets colour of chapters
+\sectionfont{\color{cyan}}  % sets colour of sections
+\subsectionfont{\color{red}}  % sets colour of sections
+\subsubsectionfont{\color{green}}  % sets colour of sections
 %============================
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{newfile}                                                                  %writing answers to the end of the book
@@ -107,10 +116,10 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 %
 %\includeonly{./tex/prefaceFirstBook,./tex/physicsMeasurement}
 %
-\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/physicsMeasurement,./tex/HR_p07_p08Done,./tex/HR_p57Done,./tex/potentialEnergyAndConservationOfEnergy,./tex/centerOfMassAndLinearMomentum,./tex/rotation}%
+%\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/physicsMeasurement,./tex/HR_p07_p08Done,./tex/HR_p57Done,./tex/potentialEnergyAndConservationOfEnergy,./tex/centerOfMassAndLinearMomentum,./tex/rotation}%
 %
 %\includeonly{./tex/HR_p08bDone}%
-%\includeonly{,./tex/rotation}%
+\includeonly{,./tex/rotation}%
 %\includeonly{,./tex/test}%
 
 \author{
