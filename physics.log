@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  28 JAN 2024 16:34
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  29 JAN 2024 15:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2024128994.tex)...disabled (restricted).
+runsystem(touch w18-test-2024129951.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2024128994.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2024129951.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -5128,13 +5128,13 @@ LaTeX Info: Redefining \ttfamily on input line 1454.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1460--1462
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1463
 []\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١:  انتصابی دھرے پر قرص کی زاوی سم
 تی رفتار بالمقابل وقت ترسیم شکل 10.‏20 میں پیش ہے۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1460--1462
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1463
 []\TU/JameelNooriNastaleeq(0)/b/n/10 قرص کے چکا پر ایک نقطہ کے لئے لمحات $\OML/
 zplm/m/it/10 a$\TU/JameelNooriNastaleeq(0)/b/n/10 ، $\OML/zplm/m/it/10 b$\TU/Ja
 meelNooriNastaleeq(0)/b/n/10 ، $\OML/zplm/m/it/10 c$\TU/JameelNooriNastaleeq(0)
@@ -5143,7 +5143,7 @@ meelNooriNastaleeq(0)/b/n/10 ، $\OML/zplm/m/it/10 c$\TU/JameelNooriNastaleeq(0)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1462--1466
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1467
 [] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢:  انتصابی دھرے پر قرص کے گھماو 
 کی تین صورتوں کے لئے زاوی مقام $\OML/zplm/m/it/10 ^^R$ \TU/JameelNooriNastaleeq
 (0)/b/n/10 بالمقابل قوت $\OML/zplm/m/it/10 t$ \TU/JameelNooriNastaleeq(0)/b/n/1
@@ -5151,13 +5151,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1462--1466
  []
 
 [104]
-Underfull \hbox (badness 1194) in paragraph at lines 1466--1475
+Underfull \hbox (badness 1194) in paragraph at lines 1467--1476
 []\TU/JameelNooriNastaleeq(0)/b/n/10 تبدیل کی جاتی ہے۔ اس کی بالترتیب ابتدائی ا
 ور اختتامی سمتی رفتار چار مختلف صورتوں میں ذیل ہیں: (ا) ابتدائی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1466--1475
+Underfull \hbox (badness 10000) in paragraph at lines 1467--1476
 []$\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 2 [] s[]$\TU/JameelNooriNastaleeq(0)/b/n
 /10 ، اختتامی $\OT1/ppl/m/n/10 5 [] s[]$\TU/JameelNooriNastaleeq(0)/b/n/10 ؛ (ب
 ) $\OT1/ppl/m/n/10 2 [] s[]$\TU/JameelNooriNastaleeq(0)/b/n/10 ، $\OT1/ppl/m/n/
@@ -5167,7 +5167,7 @@ OT1/ppl/m/n/10 5 [] s[]$\TU/JameelNooriNastaleeq(0)/b/n/10 ؛[]
  []
 
 
-Underfull \hbox (badness 7012) in paragraph at lines 1466--1475
+Underfull \hbox (badness 7012) in paragraph at lines 1467--1476
 []\TU/JameelNooriNastaleeq(0)/b/n/10 (د) $\OT1/ppl/m/n/10 2 [] s[]$\TU/JameelNo
 oriNastaleeq(0)/b/n/10 ، $\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 5 [] s[]$\TU/Jame
 elNooriNastaleeq(0)/b/n/10 ۔ اعظم قیمت اول رکھ کر ان صورتوں کی درجہ بندی قوت مر
@@ -5175,90 +5175,90 @@ elNooriNastaleeq(0)/b/n/10 ۔ اعظم قیمت اول رکھ کر ان صورت
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1480--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1481--1485
 [] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥:  قرص کے وسط سے گزرتا انتصابی د
 ھرے پر گھومتے قرص پر قوت $[]$ اور $[]$ عمل کرتی ہیں (شکل[]
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 1480--1484
+Underfull \hbox (badness 1412) in paragraph at lines 1481--1485
 []\TU/JameelNooriNastaleeq(0)/b/n/10 10.‏23)۔گھماو کے دوران، جو خلاف گھڑی اور م
 ستقل ہے، قوت دکھائے گئے زاویے برقرار رکھتی ہیں۔ تاہم، ہم چاہتے[]
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 1480--1484
+Underfull \hbox (badness 1596) in paragraph at lines 1481--1485
 []\TU/JameelNooriNastaleeq(0)/b/n/10 ہیں کہ $[]$ کی قدر تبدیل کیے بغیر $[]$ کا 
 زاویہ $\OML/zplm/m/it/10 ^^R$ \TU/JameelNooriNastaleeq(0)/b/n/10 گھٹائیں۔ (ا) س
 متی زاوی رفتار تبدیل نہ ہونے کے لئے کیا $[]$ کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1480--1484
+Underfull \hbox (badness 10000) in paragraph at lines 1481--1485
 []\TU/JameelNooriNastaleeq(0)/b/n/10 قدر بڑھانی ہو گی، گھٹانی ہو گی، یا برقرار 
 رکھنی ہو گی؟ کیا (ب) $[]$ اور (ج) $[]$ قرص کو گھڑی وار یا خلاف گھڑی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1489
+Underfull \hbox (badness 10000) in paragraph at lines 1485--1490
 [] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٦:  ایک چوکور جو نقطہ $\OML/zplm/
 m/it/10 P$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر د انتصابی دھرے کے گرد گھوم سکت
 ا ہے ، کا فضائی جائزہ شکل 10.‏24 میں لیا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1489--1493
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1494
 [] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٧:  افقی چول دار سلاخ کا فضائی جا
 ئزہ شکل 10.‏25a میں پیش ہے۔ سلاخ پر دو قوت عمل کرتی ہیں، تاہم[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1489--1493
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1494
 []\TU/JameelNooriNastaleeq(0)/b/n/10 سلاخ ساکن رہتا ہے۔اب اگر سلاخ اور $[]$ کے 
 بیچ زاویہ $\OT1/ppl/m/n/10 90[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے گھٹائیں 
 اور سلاخ اب بھی ساکن رہے، کیا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1498
+Underfull \hbox (badness 10000) in paragraph at lines 1494--1499
 [] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٨:  افقی چول دار سلاخ کا فضائی جا
 ئزہ شکل 10.‏25b میں پیش ہے۔ سلاخ کو قوت $[]$ اور $[]$ چول پر[]
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 1493--1498
+Underfull \hbox (badness 2744) in paragraph at lines 1494--1499
 []\TU/JameelNooriNastaleeq(0)/b/n/10 گھماتی ہیں؛ $[]$ اور سلاخ کے بیچ زاویہ $\O
 ML/zplm/m/it/10 ^^^$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔سلاخ کے زاوی اسراع ک
 ی قدر کے لحاظ سے ، اعظم اول رکھ کر، زاویہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1498--1502
+Underfull \hbox (badness 10000) in paragraph at lines 1499--1503
 [] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٩:  یکساں موٹائی کے دھاتی چادر کا
  چوکور جس سے $\OT1/ppl/m/n/10 25 %$ \TU/JameelNooriNastaleeq(0)/b/n/10 حصہ کاٹا
  گیا ہے، شکل 10.‏26 میں دکھایا گیا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1498--1502
+Underfull \hbox (badness 10000) in paragraph at lines 1499--1503
 []\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ شکل پر تین حرفی نقطے دیے گئے ہیں۔ان نق
 طوں پر انتصابی محور کے گرد چادر کے گھمیری جمود کے لحاظ سے ، اعظم اول[]
  []
 
 [105]
-Underfull \hbox (badness 10000) in paragraph at lines 1502--1507
+Underfull \hbox (badness 10000) in paragraph at lines 1503--1508
 [] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٠:  تین چپٹے (ایک جتنے رداس کے) 
 قرص ، جو قرص کے وسط پر انتصابی دھرے کے گرد گھوم سکتے ہیں،[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1502--1507
+Underfull \hbox (badness 10000) in paragraph at lines 1503--1508
 []\TU/JameelNooriNastaleeq(0)/b/n/10 شکل 10.‏27 میں پیش ہیں۔ تینوں قرص وہی دو م
 ادہ سے بنے ہیں۔ ایک مادہ دوسرے سے زیادہ کثیف ہے (فی اکائی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1502--1507
+Underfull \hbox (badness 10000) in paragraph at lines 1503--1508
 []\TU/JameelNooriNastaleeq(0)/b/n/10 حجم کمیت کو کثافت کہتے ہیں)۔ قرص $\OT1/ppl
 /m/n/10 1$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OT1/ppl/m/n/10 3$ \TU/Jamee
 lNooriNastaleeq(0)/b/n/10 کا بیرونی نصف حصہ کثیر مادے کا ہے۔ قرص $\OT1/ppl/m/n/
@@ -5266,101 +5266,88 @@ lNooriNastaleeq(0)/b/n/10 کا بیرونی نصف حصہ کثیر مادے کا
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1502--1507
+Underfull \hbox (badness 10000) in paragraph at lines 1503--1508
 []\TU/JameelNooriNastaleeq(0)/b/n/10 نصف حصہ کثیف مادے کا ہے۔ ایک جتنی قدر کی د
 و قوتیں قرص کے بیرونی کنارے پر یا دو مادہ کے جوڑ پر، مماسی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1502--1507
+Underfull \hbox (badness 10000) in paragraph at lines 1503--1508
 []\TU/JameelNooriNastaleeq(0)/b/n/10 عمل کرتی ہیں۔ (ا) قرص کے وسط پر قوت مروڑ، 
 (ب) قرص کے وسط پر گھمیری جمود، اور (ج) قرص کے اسراع[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1507--1511
+Underfull \hbox (badness 10000) in paragraph at lines 1508--1512
 [] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١١:  میٹر سلاخ کا آدھا حصہ لکڑی ک
 ا اور آدھا فولاد کا بنا ہو ہے (شکل 10.‏28a)۔ لکڑی والے سر $\OML/zplm/m/it/10 O$
  \TU/JameelNooriNastaleeq(0)/b/n/10 پر چول[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1507--1511
+Underfull \hbox (badness 10000) in paragraph at lines 1508--1512
 []\TU/JameelNooriNastaleeq(0)/b/n/10 جبکہ لکڑی والے سر $\OML/zplm/m/it/10 a[]$ 
 \TU/JameelNooriNastaleeq(0)/b/n/10 پر قوت لاگو کی جاتی ہے۔ کیا شکل 10.‏28a میں 
 پیدا زاوی اسراع شکل 10.‏28b میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1511--1516
+Underfull \hbox (badness 10000) in paragraph at lines 1512--1517
 [] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٢:  یکساں کمیتی تقسیم کے تین قرص
  شکل 10.‏29 میں پیش ہیں۔ قرص کا رداس $\OML/zplm/m/it/10 R$ \TU/JameelNooriNasta
 leeq(0)/b/n/10 اور کمیت $\OML/zplm/m/it/10 M$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1511--1516
+Underfull \hbox (badness 10000) in paragraph at lines 1512--1517
 []\TU/JameelNooriNastaleeq(0)/b/n/10 دیے گئے ہیں۔ قرص کے وسط پر قرص کو عمودی مح
 ور گھماو کے گرد قرص گھوم سکتے ہیں۔اپنے اپنے محور گھماو پر گھمیری[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1527--1531
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٤:  گھڑی کی (ا) سیکنڈوں کی سوئی،
- (ب) منٹوں کی سوئی، اور (ج) گھنٹوں کی سوئی کی زاوی رفتار ریڈیئن فی سیکنڈ میں[]
+Underfull \hbox (badness 5893) in paragraph at lines 1527--1529
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١:  ایک اچھا کھلاڑی $\OT1/ppl/m/n/
+10 60$ \TU/JameelNooriNastaleeq(0)/b/n/10 فٹ دور کھلاڑی تک $\OT1/ppl/m/n/10 85$
+ \TU/JameelNooriNastaleeq(0)/b/n/10 میل فی گھنٹہ کی رفتار اور $\OT1/ppl/m/n/10 
+1800$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1531--1535
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٥:  ڈبل روٹی کا مکھن لگا ٹکڑا می
-ز سے پھسل کر زمین پر چکر کھاتا گرتا ہے۔ میز سے زمین تک فاصلہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1533
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢:  گھڑی کی (ا) سیکنڈوں کی سوئی، 
+(ب) منٹوں کی سوئی، اور (ج) گھنٹوں کی سوئی کی زاوی رفتار ریڈیئن فی سیکنڈ میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1531--1535
+Underfull \hbox (badness 10000) in paragraph at lines 1533--1537
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣:  ڈبل روٹی کا مکھن لگا ٹکڑا میز
+ سے پھسل کر زمین پر چکر کھاتا گرتا ہے۔ میز سے زمین تک فاصلہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1533--1537
 []$\OT1/ppl/m/n/10 76 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OT1/ppl/m/n/
 10 1$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے کم چکر کی صورت میں (ا) کم سے کم اور
  (ب) زیادہ سے زیادہ زاوی رفتار کیا ہو گی کہ زمین پر لگنے کے[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1544
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٧:  پانی تک $\OT1/ppl/m/n/10 10 
-m$ \TU/JameelNooriNastaleeq(0)/b/n/10 بلند چبوترہ سے تیراک $\OT1/ppl/m/n/10 2.5
-$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر کھا کر پہنچتا ہے۔صفر ابتدائی انتصابی[]
-
- []
-
 [106]
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1553
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٩:  ایک پہیا میں، جس جا رداس $\O
-T1/ppl/m/n/10 30 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، آٹھ تیلیاں برابر فا
-صلوں پر نسب ہیں۔ یہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 1550--1555
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دھرے پر $\OT1/ppl/m/n/10 2.5$ \TU/JameelNo
+oriNastaleeq(0)/b/n/10 چکر فی سیکنڈ گھوم رہا ہے۔ آپ $\OT1/ppl/m/n/10 20 []$ \TU
+/JameelNooriNastaleeq(0)/b/n/10 لمبا تیر مار کر، دھرے کے متوازی ، تیلیوں کو چھو
+ئے بغیر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1553
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 مقررہ دھرے پر $\OT1/ppl/m/n/10 2.5$ \TU/Ja
-meelNooriNastaleeq(0)/b/n/10 چکر فی سیکنڈ گھوم رہا ہے۔ آپ $\OT1/ppl/m/n/10 20 [
-]$ \TU/JameelNooriNastaleeq(0)/b/n/10 لمبا تیر مار کر، دھرے کے متوازی ، تیلیوں 
-کو[]
+Underfull \hbox (badness 10000) in paragraph at lines 1550--1555
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ، پہیے کے اندر سے گزارنا چاہتے ہیں۔ تیر او
+ر تیلیوں کو انتہائی پتلا تصور کریں۔ (ا) تیر کی کم سے کم رفتار کیا ہو سکتی ہے؟[]
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1553
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 چھوئے بغیر ، پہیے کے اندر سے گزارنا چاہتے 
-ہیں۔ تیر اور تیلیوں کو انتہائی پتلا تصور کریں۔ (ا) تیر کی کم سے کم رفتار کیا ہو
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1553
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 سکتی ہے؟ (ب) کیا دھرے اور چکا کے بیچ مارنے
- کا نقطہ اہمیت رکھتا ہے؟ اگر اہمیت رکھتا ہو، بہترین مقام کیا[]
- []
-
-
-Underfull \hbox (badness 1910) in paragraph at lines 1553--1558
+Underfull \hbox (badness 1910) in paragraph at lines 1555--1560
 []\TU/JameelNooriNastaleeq(0)/b/n/10 میں ہے۔ وقت $\OML/zplm/m/it/10 t \OT1/zplm
 /m/n/10 = \OT1/ppl/m/n/10 0$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر پہیے کی زاوی
  سمتی رفتار $\OT1/zplm/m/n/10 +\OT1/ppl/m/n/10 2.0 [] s[]$ \TU/JameelNooriNasta
@@ -5369,46 +5356,46 @@ eelNooriNastaleeq(0)/b/n/10 ہے۔ (ا) زاوی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1563--1565
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢١:  اپنے وسطی محور پر ڈرم $\OT1/p
-pl/m/n/10 12.60 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 زاوی سمتی رفتار سے گ
-ھوم رہا ہے۔اگر اب ڈرم $\OT1/ppl/m/n/10 4.20 [] s[]$ \TU/JameelNooriNastaleeq(0)
-/b/n/10 کی[]
+Underfull \hbox (badness 10000) in paragraph at lines 1565--1567
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٩:  اپنے وسطی محور پر ڈرم $\OT1/pp
+l/m/n/10 12.60 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 زاوی سمتی رفتار سے گھ
+وم رہا ہے۔اگر اب ڈرم $\OT1/ppl/m/n/10 4.20 [] s[]$ \TU/JameelNooriNastaleeq(0)/
+b/n/10 کی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1563--1565
+Underfull \hbox (badness 10000) in paragraph at lines 1565--1567
 []\TU/JameelNooriNastaleeq(0)/b/n/10 مستقل شرح سے آہستہ ہو، اس کو رکنے تک (ا) ک
 تنا وقت چاہیے ہو گا اور (ب) رکنے تک یہ کتنا زاویہ گھومے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1565--1569
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٢:  ساکن حالت سے آغاز کر کے ایک 
+Underfull \hbox (badness 10000) in paragraph at lines 1567--1571
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٠:  ساکن حالت سے آغاز کر کے ایک 
 قرص اپنے وسطی محور پر مستقل زاوی اسراع سے گھومتا ہے۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1565--1569
+Underfull \hbox (badness 10000) in paragraph at lines 1567--1571
 []\TU/JameelNooriNastaleeq(0)/b/n/10 ابتدائی $\OT1/ppl/m/n/10 5.0 s$ \TU/Jameel
 NooriNastaleeq(0)/b/n/10 میں قرص $\OT1/ppl/m/n/10 25 []$ \TU/JameelNooriNastale
 eq(0)/b/n/10 گھومتا ہے۔ اس دورانیہ میں (ا) زاوی اسراع اور (ب) اوسط زاوی سمتی[]
  []
 
 
-Underfull \hbox (badness 7631) in paragraph at lines 1569--1573
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٣:  ایک قرص جو ابتدائی طور $\OT1
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1575
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١١:  ایک قرص جو ابتدائی طور $\OT1
 /ppl/m/n/10 120 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے گھوم رہا ہے، $\OT
 1/ppl/m/n/10 4.0 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 قدر کے مستقل اسراع[
 ]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1577.
-LaTeX Info: Redefining \sffamily on input line 1577.
-LaTeX Info: Redefining \ttfamily on input line 1577.
+LaTeX Info: Redefining \rmfamily on input line 1579.
+LaTeX Info: Redefining \sffamily on input line 1579.
+LaTeX Info: Redefining \ttfamily on input line 1579.
 
-Underfull \hbox (badness 3579) in paragraph at lines 1573--1578
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٤:  ایک گاڑی کی \TU/AASameerSaga
+Underfull \hbox (badness 7649) in paragraph at lines 1575--1580
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٢:  ایک گاڑی کی \TU/AASameerSaga
 rNastaleeqBold(0)/m/n/10 کل [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 ( انجن 
 )کی زاوی رفتار $\OT1/ppl/m/n/10 12 s$ \TU/JameelNooriNastaleeq(0)/b/n/10 میں $\
 OT1/ppl/m/n/10 1200$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ سے بڑھا کر $
@@ -5416,29 +5403,29 @@ OT1/ppl/m/n/10 1200$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ سے 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1573--1578
+Underfull \hbox (badness 10000) in paragraph at lines 1575--1580
 []\TU/JameelNooriNastaleeq(0)/b/n/10 منٹ کی جاتی ہے۔ (ا) اس کا اسراع چکر فی مرب
 ع منٹ میں کیا ہو گا؟ (ب) ان $\OT1/ppl/m/n/10 12 s$ \TU/JameelNooriNastaleeq(0)/
 b/n/10 میں کل (انجن) کتنے[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1582.
-LaTeX Info: Redefining \sffamily on input line 1582.
-LaTeX Info: Redefining \ttfamily on input line 1582.
+LaTeX Info: Redefining \rmfamily on input line 1584.
+LaTeX Info: Redefining \sffamily on input line 1584.
+LaTeX Info: Redefining \ttfamily on input line 1584.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1578--1583
+Underfull \hbox (badness 10000) in paragraph at lines 1580--1585
 []\TU/JameelNooriNastaleeq(0)/b/n/10 زاوی اسراع فرض کرتے ہوئے، رکنے کے لئے درکا
 ر وقت معلوم کریں۔ (ب) اس کا زاوی اسراع کیا ہو گا؟ (ج) $\OT1/ppl/m/n/10 40$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1583--1587
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٦:  ساکن حالت سے آغاز کر کے، مست
+Underfull \hbox (badness 10000) in paragraph at lines 1585--1589
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٤:  ساکن حالت سے آغاز کر کے، مست
 قل اسراع کے ساتھ، اپنی وسطی محور پر قرص گھومتا ہے۔ کسی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1583--1587
+Underfull \hbox (badness 10000) in paragraph at lines 1585--1589
 []\TU/JameelNooriNastaleeq(0)/b/n/10 ایک لمحے قرص $\OT1/ppl/m/n/10 10$ \TU/Jame
 elNooriNastaleeq(0)/b/n/10 چکر فی سیکنڈ سے گھومتا ہے؛ $\OT1/ppl/m/n/10 60$ \TU/
 JameelNooriNastaleeq(0)/b/n/10 چکر بعد اس کی زاوی رفتار $\OT1/ppl/m/n/10 15$ \T
@@ -5446,7 +5433,7 @@ U/JameelNooriNastaleeq(0)/b/n/10 چکر فی سیکنڈ ہے۔ (ا)[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1583--1587
+Underfull \hbox (badness 10000) in paragraph at lines 1585--1589
 []\TU/JameelNooriNastaleeq(0)/b/n/10 قرص کا زاوی اسراع، (ب)یہ $\OT1/ppl/m/n/10 
 60$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر کو درکار دورانیہ، (ج) $\OT1/ppl/m/n/
 10 10$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی سیکنڈ رفتار تک پہنچنے کے لئے د
@@ -5454,43 +5441,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 1583--1587
  []
 
 [107]
-Underfull \hbox (badness 10000) in paragraph at lines 1587--1592
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٧:  قرص کے وسطی نقطہ سے گزرتی ان
+Underfull \hbox (badness 10000) in paragraph at lines 1589--1594
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٥:  قرص کے وسطی نقطہ سے گزرتی ان
 تصابی دھرے پر ساکن حالت سے قرص آغاز کر کے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1597
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٨:  ساکن حالت سے آغاز کر کے محور
+Underfull \hbox (badness 10000) in paragraph at lines 1594--1599
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٦:  ساکن حالت سے آغاز کر کے محور
  گھماو پر قرص زاوی اسراع $\OT1/ppl/m/n/10 1.50 [] s[]$ \TU/JameelNooriNastaleeq
 (0)/b/n/10 سے چلتا ہے۔(ا)[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1605.
-LaTeX Info: Redefining \sffamily on input line 1605.
-LaTeX Info: Redefining \ttfamily on input line 1605.
-LaTeX Info: Redefining \rmfamily on input line 1605.
-LaTeX Info: Redefining \sffamily on input line 1605.
-LaTeX Info: Redefining \ttfamily on input line 1605.
-LaTeX Info: Redefining \rmfamily on input line 1605.
-LaTeX Info: Redefining \sffamily on input line 1605.
-LaTeX Info: Redefining \ttfamily on input line 1605.
+LaTeX Info: Redefining \rmfamily on input line 1607.
+LaTeX Info: Redefining \sffamily on input line 1607.
+LaTeX Info: Redefining \ttfamily on input line 1607.
+LaTeX Info: Redefining \rmfamily on input line 1607.
+LaTeX Info: Redefining \sffamily on input line 1607.
+LaTeX Info: Redefining \ttfamily on input line 1607.
+LaTeX Info: Redefining \rmfamily on input line 1607.
+LaTeX Info: Redefining \sffamily on input line 1607.
+LaTeX Info: Redefining \ttfamily on input line 1607.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1601--1606
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٠:   \TU/AASameerSagarNastaleeqB
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1608
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٨:   \TU/AASameerSagarNastaleeqB
 old(0)/m/n/10 نابض [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 تیزی سے گھومتے ن
 یوٹران تارہ کو کہتے ہیں جو منارہ نور کی طرح شعاع خارج کرتا ہے۔ نابض ہر چکر[]
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 1601--1606
+Underfull \hbox (badness 1292) in paragraph at lines 1603--1608
 []\TU/JameelNooriNastaleeq(0)/b/n/10 کے دوران زمین پر ایک مرتبہ شعاع مارتا ہے۔ 
 دو متواتر شعاعوں کے بیچ دورانیہ ناپ کر گھومنے کا دوری عرصہ $\OML/zplm/m/it/10 T
 $[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1601--1606
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1608
 []\TU/JameelNooriNastaleeq(0)/b/n/10 کتنے سال بعد رک جائے گا؟ (ج) یہ نابض  ١٠٥٤
  ؁  میں دیکھے گئے  \TU/AASameerSagarNastaleeqBold(0)/m/n/10 مستعر اعظم [][][] [
 ]\TU/JameelNooriNastaleeq(0)/b/n/10 دھماکے میں پیدا ہوا۔ مستقل $\OML/zplm/m/it/
@@ -5498,45 +5485,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 1601--1606
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1611--1613
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣١:  خلائی طیارہ $\OT1/ppl/m/n/10 
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1615
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.١٩:  خلائی طیارہ $\OT1/ppl/m/n/10 
 29 000 [] h[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 رفتار سے چلتے ہوئے $\OT1/ppl/
 m/n/10 3220 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 رداس کا دائری موڑ کاٹتا[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1622.
-LaTeX Info: Redefining \sffamily on input line 1622.
-LaTeX Info: Redefining \ttfamily on input line 1622.
-[108]
-LaTeX Info: Redefining \rmfamily on input line 1626.
-LaTeX Info: Redefining \sffamily on input line 1626.
-LaTeX Info: Redefining \ttfamily on input line 1626.
+LaTeX Info: Redefining \rmfamily on input line 1624.
+LaTeX Info: Redefining \sffamily on input line 1624.
+LaTeX Info: Redefining \ttfamily on input line 1624.
 
-Underfull \hbox (badness 1354) in paragraph at lines 1623--1627
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٤:  خلا باز کو $\OT1/ppl/m/n/10 
+Underfull \hbox (badness 3098) in paragraph at lines 1620--1625
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢١:   ١٩١١ ؁  اور  ١٩٩٠ ؁  کے بیچ
+ اطالیہ کے شہر پیسا میں واقع \TU/AASameerSagarNastaleeqBold(0)/m/n/10 جھکا بُرج
+ [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 کی چوٹی جنوب کے رخ سالانہ اوسطاً[]
+
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1628.
+LaTeX Info: Redefining \sffamily on input line 1628.
+LaTeX Info: Redefining \ttfamily on input line 1628.
+
+Underfull \hbox (badness 1596) in paragraph at lines 1625--1629
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٢:  خلا باز کو $\OT1/ppl/m/n/10 
 10 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 رداس کے \TU/AASameerSagarNastaleeqBold
 (0)/m/n/10 مرکز گریزہ [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 میں $\OML/zpl
 m/m/it/10 ^^R \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.30\OML/zplm/m/it/10 t[]$ \TU
 /JameelNooriNastaleeq(0)/b/n/10 کے لحاظ سے گھما کر جانچا جاتا[]
  []
 
-
-Underfull \hbox (badness 5475) in paragraph at lines 1627--1632
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٥:  ایک اڑن پہیا جس کا قطر $\OT1
+[108]
+Underfull \hbox (badness 7047) in paragraph at lines 1629--1634
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٣:  ایک اڑن پہیا جس کا قطر $\OT1
 /ppl/m/n/10 1.20 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے $\OT1/ppl/m/n/10 200$
  \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ کی زاوی رفتار سے گھوم رہا ہے۔ (ا
 ) اڑن پہیے[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1635.
-LaTeX Info: Redefining \sffamily on input line 1635.
-LaTeX Info: Redefining \ttfamily on input line 1635.
-LaTeX Info: Redefining \rmfamily on input line 1635.
-LaTeX Info: Redefining \sffamily on input line 1635.
-LaTeX Info: Redefining \ttfamily on input line 1635.
+LaTeX Info: Redefining \rmfamily on input line 1637.
+LaTeX Info: Redefining \sffamily on input line 1637.
+LaTeX Info: Redefining \ttfamily on input line 1637.
+LaTeX Info: Redefining \rmfamily on input line 1637.
+LaTeX Info: Redefining \sffamily on input line 1637.
+LaTeX Info: Redefining \ttfamily on input line 1637.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1632--1636
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٦:  \TU/AASameerSagarNastaleeqBo
+Underfull \hbox (badness 10000) in paragraph at lines 1634--1638
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٤:  \TU/AASameerSagarNastaleeqBo
 ld(0)/m/n/10 گراموفون [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 کی سوئی (پلاس
 ٹک کی بنی ہوئی) \TU/AASameerSagarNastaleeqBold(0)/m/n/10 تھالی [][][] []\TU/Jam
 eelNooriNastaleeq(0)/b/n/10 کی چوڑیوں پر چل کر آواز پیدا کرتی ہے۔چوڑی میں پیچ و
@@ -5544,73 +5538,69 @@ eelNooriNastaleeq(0)/b/n/10 کی چوڑیوں پر چل کر آواز پیدا �
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1632--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1634--1638
 []\TU/JameelNooriNastaleeq(0)/b/n/10 پر چل کر سوئی ارتعاش پذیر ہو گی۔گراموفون م
 یکانی ارتعاش کو پہلے برقی ارتعاش میں اور اس کے بعد آواز میں[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1632--1636
+Underfull \hbox (badness 10000) in paragraph at lines 1634--1638
 []\TU/JameelNooriNastaleeq(0)/b/n/10 تبدیل کرتا ہے۔ فرض کریں تھالی $\OT1/ppl/m/
 n/10 33[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ شرح سے گھومتی ہے، جس چ
 وڑی کو بجایا جا رہا ہے، اس کا[]
  []
 
 
-Underfull \hbox (badness 8038) in paragraph at lines 1632--1636
+Underfull \hbox (badness 8038) in paragraph at lines 1634--1638
 []\TU/JameelNooriNastaleeq(0)/b/n/10 رداس $\OT1/ppl/m/n/10 10.0 []$ \TU/JameelN
 ooriNastaleeq(0)/b/n/10 ہے، اور چوڑی میں خم یکساں $\OT1/ppl/m/n/10 1.75 []$ \TU
 /JameelNooriNastaleeq(0)/b/n/10 فاصلوں پر پائے جاتے ہیں۔ خم کس شرح (ٹکر[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1639.
-LaTeX Info: Redefining \sffamily on input line 1639.
-LaTeX Info: Redefining \ttfamily on input line 1639.
-LaTeX Info: Redefining \rmfamily on input line 1639.
-LaTeX Info: Redefining \sffamily on input line 1639.
-LaTeX Info: Redefining \ttfamily on input line 1639.
-LaTeX Info: Redefining \rmfamily on input line 1644.
-LaTeX Info: Redefining \sffamily on input line 1644.
-LaTeX Info: Redefining \ttfamily on input line 1644.
+LaTeX Info: Redefining \rmfamily on input line 1641.
+LaTeX Info: Redefining \sffamily on input line 1641.
+LaTeX Info: Redefining \ttfamily on input line 1641.
+LaTeX Info: Redefining \rmfamily on input line 1641.
+LaTeX Info: Redefining \sffamily on input line 1641.
+LaTeX Info: Redefining \ttfamily on input line 1641.
+LaTeX Info: Redefining \rmfamily on input line 1646.
+LaTeX Info: Redefining \sffamily on input line 1646.
+LaTeX Info: Redefining \ttfamily on input line 1646.
+LaTeX Info: Redefining \rmfamily on input line 1646.
+LaTeX Info: Redefining \sffamily on input line 1646.
+LaTeX Info: Redefining \ttfamily on input line 1646.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1640--1645
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٨:  \TU/AASameerSagarNastaleeqBo
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1647
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٦:  \TU/AASameerSagarNastaleeqBo
 ld(0)/m/n/10 دخانی کل [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 (دخانی انجن )
  کا اڑن پہیا $\OT1/ppl/m/n/10 150$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی من
 ٹ کی مستقل زاوی سمتی رفتار سے حرکت[]
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 1640--1645
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 میں ہے۔ بھاپ روکنے پر بیئرنگ کی رگڑ اور ہو
-ائی رگڑ پہیے کو $\OT1/ppl/m/n/10 2.2$ \TU/JameelNooriNastaleeq(0)/b/n/10 گھنٹوں
- میں روکتی ہیں۔ (ا) رکنے کے دوران پہیے کا مستقل[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1640--1645
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1647
 []\TU/JameelNooriNastaleeq(0)/b/n/10 زاوی اسراع ، چکر فی مربع منٹ میں، کیا ہو گ
 ا؟ (ب) رکنے تک پہیا کتنے چکر کاٹتا ہے؟ (ج) جس لمحہ اڑن[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1648.
-LaTeX Info: Redefining \sffamily on input line 1648.
-LaTeX Info: Redefining \ttfamily on input line 1648.
+LaTeX Info: Redefining \rmfamily on input line 1650.
+LaTeX Info: Redefining \sffamily on input line 1650.
+LaTeX Info: Redefining \ttfamily on input line 1650.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1645--1649
+Underfull \hbox (badness 10000) in paragraph at lines 1647--1651
 []\TU/JameelNooriNastaleeq(0)/b/n/10 (ا) بیج کا اسراع کیا ہے اور (ب) پھسلنے سے 
 بچنے کے لئے کم سے کم سکونی رگڑ کا مستقل کیا ہو گا؟ (ج) اگر ساکن حالت[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1645--1649
+Underfull \hbox (badness 10000) in paragraph at lines 1647--1651
 []\TU/JameelNooriNastaleeq(0)/b/n/10 سے تختہ اس رفتار تک $\OT1/ppl/m/n/10 0.25 
 s$ \TU/JameelNooriNastaleeq(0)/b/n/10 میں مستقل زاوی اسراع سے پہنچا ہو، پھسلنے 
 سے بچنے کے لئے کم سے کم سکونی رگڑ کا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1649--1654
+Underfull \hbox (badness 10000) in paragraph at lines 1651--1656
 []\TU/JameelNooriNastaleeq(0)/b/n/10 حالت سے پہیا $\OML/zplm/m/it/10 A$ \TU/Jam
 eelNooriNastaleeq(0)/b/n/10 کی زاوی رفتار $\OT1/ppl/m/n/10 1.6 [] s[]$ \TU/Jame
 elNooriNastaleeq(0)/b/n/10 مستقل شرح سے بڑھائی جاتی ہے۔ پہیا $\OML/zplm/m/it/10
@@ -5619,31 +5609,31 @@ iNastaleeq(0)/b/n/10 چکر[]
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 1649--1654
+Underfull \hbox (badness 3460) in paragraph at lines 1651--1656
 []\TU/JameelNooriNastaleeq(0)/b/n/10 فی منٹ تک پہنچنے کے لئے کتنا وقت درکار ہو 
 گا (پٹہ پھسلتا نہیں ہے)؟ (اشارہ: اگر پٹہ پھسلے نہیں، دونوں پہیوں کے[]
  []
 
 [109]
-Underfull \hbox (badness 6380) in paragraph at lines 1654--1658
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤١:  روشنی کی رفتار ناپنے کی ایک 
+Underfull \hbox (badness 4608) in paragraph at lines 1656--1660
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٢٩:  روشنی کی رفتار ناپنے کی ایک 
 پرانی ترکیب شکل 10.‏32 میں دکھائی گئی ہے، جس میں شگاف دار[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1654--1658
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1660
 []\TU/JameelNooriNastaleeq(0)/b/n/10 گھومتا پہیا استعمال کیا جاتا ہے۔ پہیے کے ب
 یرونی کنارے پر شگاف سے کرن گزر کر دور آئینہ سے ٹکرا کر، اسی راہ پر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1654--1658
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1660
 []\TU/JameelNooriNastaleeq(0)/b/n/10 واپس چلتے ہوئے ، پہیے پر پہنچتی ہے؛ اس دور
 انیہ میں پہیا ایک شگاف آگے بڑھتا ہے؛ یوں کرن اگلے شگاف[]
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 1654--1658
+Underfull \hbox (badness 4819) in paragraph at lines 1656--1660
 []\TU/JameelNooriNastaleeq(0)/b/n/10 سے گزر پاتی ہے۔ پہیے کا رداس $\OT1/ppl/m/n
 /10 5.0 []$\TU/JameelNooriNastaleeq(0)/b/n/10 ، شگافوں کی تعداد $\OT1/ppl/m/n/1
 0 500$\TU/JameelNooriNastaleeq(0)/b/n/10 ، اور آئینے تک فاصلہ $\OML/zplm/m/it/1
@@ -5651,61 +5641,61 @@ Underfull \hbox (badness 4819) in paragraph at lines 1654--1658
 0 ہے۔[]
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1662.
-LaTeX Info: Redefining \sffamily on input line 1662.
-LaTeX Info: Redefining \ttfamily on input line 1662.
+LaTeX Info: Redefining \rmfamily on input line 1664.
+LaTeX Info: Redefining \sffamily on input line 1664.
+LaTeX Info: Redefining \ttfamily on input line 1664.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1658--1663
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٢:  \TU/AASameerSagarNastaleeqBo
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1665
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٠:  \TU/AASameerSagarNastaleeqBo
 ld(0)/m/n/10 مسکن چرخی [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 کے اڑن پہیے 
 کو، جس کا رداس $\OT1/ppl/m/n/10 2.83 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے 
 ، ساکن حالت سے $\OT1/ppl/m/n/10 14.2 [] s[]$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1658--1663
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1665
 []\TU/JameelNooriNastaleeq(0)/b/n/10 سے مسرع کر کے $\OT1/ppl/m/n/10 2760$ \TU/J
 ameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ کی زاوی رفتار تک لایا جاتا ہے۔ (ا) اس 
 دوران پہیے کے چکا پر واقع نقطے کے مماسی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1663--1667
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٣:  ایک قرص، جس کا رداس $\OT1/pp
+Underfull \hbox (badness 10000) in paragraph at lines 1665--1669
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣١:  ایک قرص، جس کا رداس $\OT1/pp
 l/m/n/10 0.25 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے،قرص کی وسطی انتصابی محور
  پر $\OT1/ppl/m/n/10 800 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 گھمانا مقصود[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1663--1667
+Underfull \hbox (badness 10000) in paragraph at lines 1665--1669
 []\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ساکن حالت سے آغاز کر کے، ابتدائی $\OT1/
 ppl/m/n/10 400 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے دوران قرص کو مستقل $\O
 ML/zplm/m/it/10 ^^K[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 شرح سے مسرع کیا[]
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 1663--1667
+Underfull \hbox (badness 1688) in paragraph at lines 1665--1669
 []\TU/JameelNooriNastaleeq(0)/b/n/10 جاتا ہے جس کے بعد مستقل $\OMS/zplm/m/n/10 
 ^^@\OML/zplm/m/it/10 ^^K[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 شرح سے اس کی زاو
 ی رفتار گھٹائی جاتی ہے، حتٰی کہ قرص رک جاتا ہے۔[]
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 1663--1667
+Underfull \hbox (badness 2644) in paragraph at lines 1665--1669
 []\TU/JameelNooriNastaleeq(0)/b/n/10 ضروری ہے کہ قرص کے کسی حصہ کے مرکز مائل اس
 راع کی قدر $\OT1/ppl/m/n/10 400 m s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے تج
 اوز نہ کرے۔ (ا) گھماو کا کم[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1667--1672
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٤:  ساکن حالت سے آغاز کر کے گاڑی
+Underfull \hbox (badness 10000) in paragraph at lines 1669--1674
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٢:  ساکن حالت سے آغاز کر کے گاڑی
  $\OT1/ppl/m/n/10 30.0 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 رداس کی دائری راہ 
 پر چلتی ہے۔ اس کی رفتار[]
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 1667--1672
+Underfull \hbox (badness 4832) in paragraph at lines 1669--1674
 []$\OT1/ppl/m/n/10 0.500 m s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 مستقل شرح سے
  بڑھتی ہے۔ (ا) \TU/JameelNooriNastaleeq(2)/m/n/9 صافی  \TU/JameelNooriNastaleeq
 (0)/b/n/10 خطی اسراع کی قدر $\OT1/ppl/m/n/10 15.0 s$ \TU/JameelNooriNastaleeq(0
@@ -5713,28 +5703,28 @@ Underfull \hbox (badness 4832) in paragraph at lines 1667--1672
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1678--1680
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٥:  ایک پہیا $\OT1/ppl/m/n/10 602
+Underfull \hbox (badness 10000) in paragraph at lines 1680--1682
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٣:  ایک پہیا $\OT1/ppl/m/n/10 602
 $ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ سے گھوم رہا ہے اور اس کی حرکی ت
 وانائی $\OT1/ppl/m/n/10 24 400 J$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ پہیے ک
 ا گھمیری[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1680--1684
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٦:  ایک پتلی سلاخ ایک سر پر گھما
+Underfull \hbox (badness 10000) in paragraph at lines 1682--1686
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٤:  ایک پتلی سلاخ ایک سر پر گھما
 ئی جاتی ہے۔شکل 10.‏33 میں سلاخ کی زاوی رفتار بالمقابل[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1690--1692
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٧:  دو یکساں ٹھوس بیلن اپنے اپنے 
+Underfull \hbox (badness 10000) in paragraph at lines 1692--1694
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٥:  دو یکساں ٹھوس بیلن اپنے اپنے 
 وسطی (طولی) محور پر $\OT1/ppl/m/n/10 235 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/
 n/10 سے گھوم رہے ہیں۔ ان کی انفرادی[]
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 1690--1692
+Underfull \hbox (badness 1248) in paragraph at lines 1692--1694
 []\TU/JameelNooriNastaleeq(0)/b/n/10 کمیت $\OT1/ppl/m/n/10 1.25 []$ \TU/JameelN
 ooriNastaleeq(0)/b/n/10 تاہم رداس مختلف ہیں۔ (ا) چھوٹے بیلن کی ، جس کا رداس $\O
 T1/ppl/m/n/10 0.25 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، اور (ب) بڑے بیلن ک
@@ -5742,14 +5732,14 @@ T1/ppl/m/n/10 0.25 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، اور (ب) بڑ
  []
 
 [110]
-Underfull \hbox (badness 10000) in paragraph at lines 1692--1696
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٨:  قرص کے وسط سے رداسی $\OML/zp
+Underfull \hbox (badness 10000) in paragraph at lines 1694--1698
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٦:  قرص کے وسط سے رداسی $\OML/zp
 lm/m/it/10 h$ \TU/JameelNooriNastaleeq(0)/b/n/10 فاصلے پر محور کے گرد قرص گھوم 
 سکتا ہے (شکل 10.‏34a)۔ قرص کے وسط[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1692--1696
+Underfull \hbox (badness 10000) in paragraph at lines 1694--1698
 []\TU/JameelNooriNastaleeq(0)/b/n/10 سے کنارے تک $\OML/zplm/m/it/10 h$ \TU/Jame
 elNooriNastaleeq(0)/b/n/10 کی قیمتوں کے لئے قرص کا گھمیری جمود $\OML/zplm/m/it/
 10 I$ \TU/JameelNooriNastaleeq(0)/b/n/10 شکل 10.‏34b میں ترسیم کیا گیا ہے۔ محور
@@ -5757,70 +5747,62 @@ elNooriNastaleeq(0)/b/n/10 کی قیمتوں کے لئے قرص کا گھمیر�
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 1696--1700
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٩:  میٹر سلاخ ، جس کی کمیت $\OT1
-/ppl/m/n/10 0.56 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، کا گھمیری جمود $\OT
-1/ppl/m/n/10 20 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 نشان پر واقع سلاخ کو عمو
-دی محور پر[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1700--1705
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٠:  بلا کمیت سلاخ کے ساتھ تین ذر
+Underfull \hbox (badness 10000) in paragraph at lines 1702--1707
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٨:  بلا کمیت سلاخ کے ساتھ تین ذر
 ے چسپاں کیے گئے ہیں (شکل 10.‏35)۔ سلاخ کی لمبائی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1700--1705
+Underfull \hbox (badness 10000) in paragraph at lines 1702--1707
 []$\OML/zplm/m/it/10 L \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 6.00 []$ \TU/JameelNo
 oriNastaleeq(0)/b/n/10 اور ذروں کی انفرادی کمیت $\OT1/ppl/m/n/10 0.0100 []$ \TU
 /JameelNooriNastaleeq(0)/b/n/10 ہے۔ یہ نظام سلاخ کے بائیں سر پر واقع نقطہ[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1700--1705
+Underfull \hbox (badness 10000) in paragraph at lines 1702--1707
 []$\OML/zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے گزرتی عمودی محور 
 پر گھوم سکتا ہے۔ ہم ایک ذرہ ہٹاتے ہیں (جو $\OT1/ppl/m/n/10 33 %$ \TU/JameelNoor
 iNastaleeq(0)/b/n/10 کمیت بنتا ہے)۔ محور سے (ا) قریب ترین[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1705--1709
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥١:  اڑن پہیے کو برقی موٹر سے $\O
+Underfull \hbox (badness 10000) in paragraph at lines 1707--1711
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٣٩:  اڑن پہیے کو برقی موٹر سے $\O
 T1/ppl/m/n/10 200\OML/zplm/m/it/10 ^^Y$ \TU/JameelNooriNastaleeq(0)/b/n/10 ریڈی
 ئن فی سیکنڈ رفتار تک پہنچا کر گھومتے اڑن پہیے میں ذخیرہ توانائی سے[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1705--1709
+Underfull \hbox (badness 10000) in paragraph at lines 1707--1711
 []\TU/JameelNooriNastaleeq(0)/b/n/10 ٹرک چلایا جا سکتا ہے۔ فرض کریں اڑن پہیا ٹھ
 وس اور یکساں بیلن ہے، جس کی کمیت $\OT1/ppl/m/n/10 500 []$ \TU/JameelNooriNastal
 eeq(0)/b/n/10 اور رداس[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1705--1709
+Underfull \hbox (badness 10000) in paragraph at lines 1707--1711
 []$\OT1/ppl/m/n/10 1.0 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ (ا) بھرائی کے 
 بعد اڑن پہیے کی حرکی توانائی کتنی ہو گی؟ (ب) اگر ٹرک اوسطاً $\OT1/ppl/m/n/10 8.
 0 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 طاقت[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1709--1713
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٢:  بالکل ایک جیسے $\OT1/ppl/m/n
+Underfull \hbox (badness 10000) in paragraph at lines 1711--1715
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٠:  بالکل ایک جیسے $\OT1/ppl/m/n
 /10 15$ \TU/JameelNooriNastaleeq(0)/b/n/10 قرص سیدھ میں رکھ کر سلاخ کی شکل میں 
 ، جس کی لمبائی $\OML/zplm/m/it/10 L \OT1/zplm/m/n/10 =$[]
  []
 
 
-Underfull \hbox (badness 5832) in paragraph at lines 1709--1713
+Underfull \hbox (badness 5832) in paragraph at lines 1711--1715
 []$\OT1/ppl/m/n/10 1.0000 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور (کل) کمیت $
 \OML/zplm/m/it/10 M \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 100.0 []$ \TU/JameelNoor
 iNastaleeq(0)/b/n/10 ہے، جوڑے گئے ہیں (شکل 10.‏36)۔ قرص یکساں ہیں اور پورا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1709--1713
+Underfull \hbox (badness 10000) in paragraph at lines 1711--1715
 []\TU/JameelNooriNastaleeq(0)/b/n/10 کو $\OML/zplm/m/it/10 M$ \TU/JameelNooriNa
 staleeq(0)/b/n/10 کمیت اور $\OML/zplm/m/it/10 L$ \TU/JameelNooriNastaleeq(0)/b/
 n/10 لمبائی کی سلاخ تصور کرنے سے جدول 10.‏2e کا کلیہ استعمال کرنے سے گھمیری جمو
@@ -5828,83 +5810,567 @@ n/10 لمبائی کی سلاخ تصور کرنے سے جدول 10.‏2e کا ک
  []
 
 
-Underfull \hbox (badness 4765) in paragraph at lines 1713--1718
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٣:  دو ذروں کو، جن کی انفرادی کم
+Underfull \hbox (badness 1406) in paragraph at lines 1715--1720
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤١:  دو ذروں کو، جن کی انفرادی کم
 یت $\OML/zplm/m/it/10 m \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.85 []$ \TU/JameelN
 ooriNastaleeq(0)/b/n/10 ہے، ایک دوسرے کے ساتھ اور $\OML/zplm/m/it/10 O$ \TU/Jam
-eelNooriNastaleeq(0)/b/n/10 پر واقع[]
+eelNooriNastaleeq(0)/b/n/10 پر واقع محور[]
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 1713--1718
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 محور گھماو کے ساتھ سے دو سلاخ جوڑتی ہیں۔ ا
-ن سلاخوں کی انفرادی کمیت اور لمبائی $\OML/zplm/m/it/10 M \OT1/zplm/m/n/10 = \OT
-1/ppl/m/n/10 1.2 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 
-d \OT1/zplm/m/n/10 =$[]
+Underfull \hbox (badness 5741) in paragraph at lines 1715--1720
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے (شکل 10.‏37)۔ نظام محور گھماو پر $\OML/
+zplm/m/it/10 ! \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.30 [] s[]$ \TU/JameelNooriN
+astaleeq(0)/b/n/10 زاوی رفتار سے گھومتا ہے۔ محور $\OML/zplm/m/it/10 O$ \TU/Jame
+elNooriNastaleeq(0)/b/n/10 پر نظام (ا) کا[]
  []
 
 [111]
-Underfull \hbox (badness 1540) in paragraph at lines 1731--1735
+Underfull \hbox (badness 1540) in paragraph at lines 1733--1737
 []\TU/JameelNooriNastaleeq(0)/b/n/10 پر رکھے جاتے ہیں، اور انہیں بلا کمیت سلاخو
 ں سے، جو چوکور کے اضلاع بناتے ہیں، جوڑا جاتا ہے۔ (ا) مخالف اضلاع[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1731--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1737
 []\TU/JameelNooriNastaleeq(0)/b/n/10 کے وسطی نقطوں سے گزرتی محور گھماو پر، جو چ
 وکور کی سطح میں پایا جاتا ہے، (ب) ایک ضلع کے وسطی نقطہ سے گزرتی محور[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1731--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1737
 []\TU/JameelNooriNastaleeq(0)/b/n/10 گھماو پر، جو چوکور کی سطح کو عمودی ہے، اور
  (ج) وتری مخالف ذروں سے گزرتی محور گھماو پر، جو چوکور کی سطح میں پایا جاتا ہے،[
 ]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1743--1750
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٨:  ایک جسم پر، جس کا چول $\OML/
+Underfull \hbox (badness 10000) in paragraph at lines 1745--1752
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٦:  ایک جسم پر، جس کا چول $\OML/
 zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر ہے، تین قوت عمل کرتی ہیں 
 (شکل 10.‏40) جو ذیل ہیں: نقطہ $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(0)
 /b/n/10 پر جو $\OML/zplm/m/it/10 O$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1750--1755
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٩:  بلا کمیت، $\OT1/ppl/m/n/10 1
+Underfull \hbox (badness 10000) in paragraph at lines 1752--1757
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٧:  بلا کمیت، $\OT1/ppl/m/n/10 1
 .25 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 لمبی ، سلاخ کے ایک سر پر $\OT1/ppl/m/
 n/10 0.75 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 گیند باندھ کر ، سلاخ کا دوسرا 
 سر چول[]
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 1750--1755
+Underfull \hbox (badness 3439) in paragraph at lines 1752--1757
 []\TU/JameelNooriNastaleeq(0)/b/n/10 سے لٹکایا جاتا ہے۔ جب حاصل رقاص انتصاب کے 
 ساتھ $\OT1/ppl/m/n/10 30[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر ہو، چول پر تج
 اذبی قوت مروڑ کی قدر کیا[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1755--1759
-[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٦٠:  سائیکل کے پائیدان کا بازو $\
+Underfull \hbox (badness 10000) in paragraph at lines 1757--1761
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٤٨:  سائیکل کے پائیدان کا بازو $\
 OT1/ppl/m/n/10 0.152 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے اور سائیکل سوار پ
 ائیدان پر $\OT1/ppl/m/n/10 111 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 نشیبی قوت 
 لاگو کرتا ہے۔[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1755--1759
+Underfull \hbox (badness 10000) in paragraph at lines 1757--1761
 []\TU/JameelNooriNastaleeq(0)/b/n/10 پائیدان بازو کے چول پر اس وقت قوت مروڑ کی 
 قدر کیا ہو گی جب انتصاب کے ساتھ پائیدان کا زاویہ (ا)[]
  []
 
-) [112] (./answer.tex) [113
+LaTeX Info: Redefining \rmfamily on input line 1768.
+LaTeX Info: Redefining \sffamily on input line 1768.
+LaTeX Info: Redefining \ttfamily on input line 1768.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1767--1769
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 صفر سے $\OT1/ppl/m/n/10 6.20 [] s[]$ \TU/J
+ameelNooriNastaleeq(0)/b/n/10 ہوتی ہے۔ مرکز کمیت پر اس کا گھمیری جمود $\OT1/ppl
+/m/n/10 12.0 [] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ پرواز کے دوران (ا)[
+]
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 1769--1773
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٠:  پہیے پر $\OT1/ppl/m/n/10 32.
+0 N m$ \TU/JameelNooriNastaleeq(0)/b/n/10 قوت مروڑ $\OT1/ppl/m/n/10 25.0 [] s[]
+$ \TU/JameelNooriNastaleeq(0)/b/n/10 زاوی اسراع پیدا کرتی ہے۔ پہیے کا گھمیری جم
+ود کیا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1777.
+LaTeX Info: Redefining \sffamily on input line 1777.
+LaTeX Info: Redefining \ttfamily on input line 1777.
+
+Underfull \hbox (badness 3492) in paragraph at lines 1773--1778
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی سل $\OT1/ppl/m/n/10 1$ \TU/JameelNooriN
+astaleeq(0)/b/n/10 اور کمیت $\OML/zplm/m/it/10 m[] \OT1/zplm/m/n/10 = \OT1/ppl/
+m/n/10 500 g$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی سل $\OT1/ppl/m/n/10 2$ \TU/
+JameelNooriNastaleeq(0)/b/n/10 لٹکی ہے (شکل 10.‏41)۔ ساکن حالت سے رہائی پر $\OT
+1/ppl/m/n/10 5.0 s$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1773--1778
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 میں سل $\OT1/ppl/m/n/10 2$ $75.0 []$ \TU/J
+ameelNooriNastaleeq(0)/b/n/10 گرتی ہے۔ دھاگہ ہرگز نہیں پھسلتا۔ (ا) سلوں کے زاوی
+ اسراع کی قدر کیا ہے؟ (ب)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1773--1778
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 تناو $\OML/zplm/m/it/10 T[]$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 اور (ج) $\OML/zplm/m/it/10 T[]$ \TU/JameelNooriNastaleeq(
+0)/b/n/10 کتنا ہے؟ (د) جرثقیل کے زاوی اسراع کی قدر کیا ہے؟ (ہ) جرثقیل کا گھمیری
+ جمود کیا[]
+ []
+
+[112]
+Underfull \hbox (badness 10000) in paragraph at lines 1778--1783
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٢:  ایک بیلن ، جس کی کمیت $\OT1/
+ppl/m/n/10 2.0 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے،اپنی وسطی طولی محور پر
+، جو $\OML/zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر واقع ہے، گھوم 
+سکتا ہے (شکل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1783--1789
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٣:  یکساں قرص اپنی وسطی انتصابی 
+محور پر گھوم سکتا ہے (شکل 10.‏43)۔ قرص ، جو ابتدائی طور پر ساکن ہے، کی[]
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 1783--1789
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کمیت $\OT1/ppl/m/n/10 20.0 g$ \TU/JameelNo
+oriNastaleeq(0)/b/n/10 اور رداس $\OT1/ppl/m/n/10 2.0 []$ \TU/JameelNooriNastale
+eq(0)/b/n/10 ہے۔ لمحہ $\OML/zplm/m/it/10 t \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0
+$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر دکھائی گئی دو قوت قرص کے چکا پر مماسی ل
+اگو کی جاتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1789--1793
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٤:  جاپانی کُشتی جوڈو کہلاتی ہے۔
+ ایک داو میں آپ حریف کا بایاں پاوں مار کر اٹھاتے ہیں اور ساتھ ہی[]
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 1789--1793
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 تجاذبی قوت $[]$ اس کے مرکز کمیت پر عمل کرت
+ی ہے، جو $\OML/zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے $\OML/zplm
+/m/it/10 d \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 28 []$ \TU/JameelNooriNastaleeq(0
+)/b/n/10 افقی فاصلے پر ہے۔ اس کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1789--1793
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کمیت $\OT1/ppl/m/n/10 70 []$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(0)/b/n
+/10 پر گھمیری جمود $\OT1/ppl/m/n/10 65 [] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/
+10 ہے۔ (ا) آپ کی قوت $[]$ قابل نظر انداز ہونے کی صورت[]
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 1789--1793
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 میں اور (ب) آپ کی قوت افقی، اس کی قدر $\OT
+1/ppl/m/n/10 300 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 ، اور نقطہ اطلاق کی بلند
+ی $\OML/zplm/m/it/10 h \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 1.4 m$ \TU/JameelNoor
+iNastaleeq(0)/b/n/10 ہونے کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1793--1798
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٥:  یکساں موٹائی اور کثافت (کمیت
+ فی اکائی حجم) کے پلاسٹک کی بے قاعدہ چادر نقطہ $\OML/zplm/m/it/10 O$ \TU/Jameel
+NooriNastaleeq(0)/b/n/10 پر واقع، سطح[]
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 1793--1798
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 چادر کو عمودی، محور پر گھمائی جاتی ہے (شکل
+ 10.‏45a)۔ اس محور پر چادر کا گھمیری جمود درج ذیل ترکیب سے ناپا جاتا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1793--1798
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ رداس $\OT1/ppl/m/n/10 2.00 []$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 اور کمیت $\OT1/ppl/m/n/10 0.500 []$ \TU/JameelNoori
+Nastaleeq(0)/b/n/10 کا دائری قرص چادر کے ساتھ یوں چسپاں کیا جاتا ہے کہ قرص[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1793--1798
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کا وسط $\OML/zplm/m/it/10 O$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 پر ہو (شکل 10.‏45b)۔ لٹو پر دھاگہ لپیٹنے کی طرح قرص پر دھ
+اگہ لپیٹ کر دھاگہ $\OT1/ppl/m/n/10 5.0 s$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے
+ لئے کھینچا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1793--1798
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جاتا ہے۔نتیجتاً، قرص کے چکا پر مماسی لاگو 
+$\OT1/ppl/m/n/10 0.400 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 مستقل قوت قرص اور 
+چادر دونوں کو گھماتی ہے۔ماحصل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1798--1803
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٦:  دو ذرے $\OT1/ppl/m/n/10 1$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastal
+eeq(0)/b/n/10 جن کی انفرادی کمیت $\OML/zplm/m/it/10 m$ \TU/JameelNooriNastaleeq
+(0)/b/n/10 ہے بلا کمیت سلاخ کے سروں پر جڑے ہیں (شکل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1803--1807
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٧:  ایک جرثقیل کا رداس $\OT1/ppl
+/m/n/10 10 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور دھرے پر گھمیری جمود $\OT1
+/ppl/m/n/10 1.0 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] [] m[]$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 ہے۔[]
+ []
+
+[113]
+Underfull \hbox (badness 10000) in paragraph at lines 1813--1815
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سے رہائی کے بعد $\OT1/ppl/m/n/10 50 []$ \T
+U/JameelNooriNastaleeq(0)/b/n/10 اتر کر سل کی رفتار کیا ہو گی؟ توانائی کی بقا ک
+ا اصول استعمال کر کے جواب معلوم کریں۔ (ب)[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1818.
+LaTeX Info: Redefining \sffamily on input line 1818.
+LaTeX Info: Redefining \ttfamily on input line 1818.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1815--1819
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٥٩:  گاڑی کا  \TU/AASameerSagarNa
+staleeqBold(0)/m/n/10 خمدار دھرا [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 (ک
+رینک شافٹ) $\OT1/ppl/m/n/10 1800$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ
+ رفتار سے گھومتے ہوئے انجن سے دھرے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1819--1824
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٦٠:  ایک پتلی سلاخ ، جس کی لمبائی
+ $\OT1/ppl/m/n/10 0.75 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور کمیت $\OT1/ppl
+/m/n/10 0.42 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے ، ایک سر سے لٹکی ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1819--1824
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سلاخ کو ایک جانب کھینچ کر رہا کر کے رقاص ک
+ی طرح جھولنے دیا جاتا ہے؛ نشیب سے سلاخ $\OT1/ppl/m/n/10 4.0 [] s[]$ \TU/JameelN
+ooriNastaleeq(0)/b/n/10 زاوی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1819--1824
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 رفتار سے گزرتی ہے۔ رگڑ اور ہوائی رکاوٹ نظر
+ انداز کریں۔ (ا) نشیبی مقام پر سلاخ کی حرکی توانائی کیا ہو گی اور (ب)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1828
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٦١:  ایک پہیا ، جس کو دائری پتلی 
+سلاخ تصور کیا جا سکتا ہے ، کی کمیت $\OT1/ppl/m/n/10 32.0 []$ \TU/JameelNooriNas
+taleeq(0)/b/n/10 اور رداس $\OT1/ppl/m/n/10 1.20 m$[]
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 1824--1828
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے اور اس کی زاوی رفتار $\OT1/ppl/m/n/10 2
+80$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ ہے۔ پہیے کو $\OT1/ppl/m/n/10 
+15.0 s$ \TU/JameelNooriNastaleeq(0)/b/n/10 میں روکنا مقصود ہے۔ (ا) پہیا روکنے م
+یں کتنا کام[]
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 1828--1832
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٦٢:  تین ذروں کو، جن کی انفرادی ک
+میت $\OT1/ppl/m/n/10 0.0100 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، بلا کمیت
+ $\OML/zplm/m/it/10 L \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 6.00 []$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 لمبی سلاخ کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1828--1832
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ساتھ جوڑا گیا ہے جو، سلاخ کے سر پر نقطہ $\
+OML/zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر واقع سلاخ کو عمودی، م
+حور پر گھوم سکتی ہے (شکل 10.‏35)۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1828--1832
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 گھمیری شرح کو (ا) $\OT1/ppl/m/n/10 0$ \TU/
+JameelNooriNastaleeq(0)/b/n/10 سے $\OT1/ppl/m/n/10 20.0 [] s[]$ \TU/JameelNoori
+Nastaleeq(0)/b/n/10 کرنے، (ب) $\OT1/ppl/m/n/10 20.0 [] s[]$ \TU/JameelNooriNast
+aleeq(0)/b/n/10 سے $\OT1/ppl/m/n/10 40.0 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/
+n/10 کرنے، اور (ج)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1828--1832
+[]$\OT1/ppl/m/n/10 40.0 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے $\OT1/ppl
+/m/n/10 60.0 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 کرنے میں کتنا کام درکار
+ ہو گا؟ (د) نظام کی حرکی (جاول میں) توانائی بالمقابل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1832--1837
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٦٣:  میٹر سلاخ زمین پر کھڑی کر کے
+ گرنے دی جاتی ہے۔ عین زمین پر پہنچ کر سلاخ کے دوسرے[]
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 1832--1837
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سر کی رفتار کیا ہو گی؟زمین پر رکھا گیا سر 
+پھسلتا نہیں۔ (اشارہ: میٹر سلاخ کو پتلی سلاخ تصور کر کے توانائی کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1837--1841
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 محور کے متوازی، $\OT1/ppl/m/n/10 5.0 []$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 فاصلے پر ، افقی محور کے گرد گھوم سکے۔ (ا) محو
+ر گھماو پر بیلن کا گھمیری جمود تلاش کریں۔ (ب)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1837--1841
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 بیلن کی وسطی طولی محور کو محور گھماو کی بل
+ندی پر رکھ کر ساکن بیلن رہا کیا جاتا ہے۔ نشیب سے گزرتے وقت بیلن کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1841--1846
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٦٥:  ایک بلند بیلنی آتش دان جس کی
+ بنیاد کمزور پڑ گئی تھی گرتا ہے۔آتش دان کو پتلی سلاخ تصور کریں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1841--1846
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جس کی لمبائی $\OT1/ppl/m/n/10 55.0 m$ \TU/
+JameelNooriNastaleeq(0)/b/n/10 ہے۔ گرنے کے دوران جس لمحے انتصاب کے ساتھ آتش دان
+ $\OT1/ppl/m/n/10 35.0[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 زاویہ بناتا ہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1841--1846
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ، اس کے بالا سر کا (ا) رداسی اسراع، اور (ب
+) مماسی اسراع کیا ہوں گے؟ (اشارہ: توانائی کی بقا بروئے کار لائیں نا کہ[]
+ []
+
+[114]
+Underfull \hbox (badness 1194) in paragraph at lines 1846--1850
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٦٦:  یکساں کروی خول، جس کی کمیت $
+\OML/zplm/m/it/10 M \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 4.5 []$ \TU/JameelNooriN
+astaleeq(0)/b/n/10 اور رداس $\OML/zplm/m/it/10 R \OT1/zplm/m/n/10 = \OT1/ppl/m/
+n/10 8.5 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، انتصابی وسطی[]
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 1846--1850
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پر گزار کر کرہ کے خط استوا پر لپیٹا جاتا ہ
+ے۔ جرثقیل کا گھمیری جمود $\OML/zplm/m/it/10 I \OT1/zplm/m/n/10 = \OT1/ppl/m/n/1
+0 3.0 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] [] m[]$ \TU/JameelNooriNastalee
+q(0)/b/n/10 اور رداس[]
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 1846--1850
+[]$\OML/zplm/m/it/10 r \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 5.0 []$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 ہے۔ جرثقیل کا دھرا بلا رگڑ ہے؛ دھاگہ جرثقیل پر پھسلتا نہی
+ں ہے۔ ساکن حالت سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1850--1854
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٦٧:  پتلا گھیر (کمیت $\OML/zplm/m
+/it/10 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور رداس $\OML/zplm/m/it/10 R \OT1
+/zplm/m/n/10 = \OT1/ppl/m/n/10 0.150 m$\TU/JameelNooriNastaleeq(0)/b/n/10 ) اور
+ پتلی سلاخ (کمیت $\OML/zplm/m/it/10 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور ل
+مبائی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1860--1862
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٦٨:  دو ٹھوس یکساں کرہ کی انفرادی 
+کمیت $\OT1/ppl/m/n/10 1.65 []$\TU/JameelNooriNastaleeq(0)/b/n/10 ، اور رداس $\O
+T1/ppl/m/n/10 0.226 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OT1/ppl/m/n/10 
+0.854 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہیں ۔دونوں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1860--1862
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اپنی اپنی محور پر، جو کرہ کے مرکز سے گزرتی
+ ہے، گھوم سکتے ہیں۔ (ا) چھوٹے کرہ کو ساکن حالت سے $\OT1/ppl/m/n/10 15.5 s$ \TU/
+JameelNooriNastaleeq(0)/b/n/10 میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1860--1862
+[]$\OT1/ppl/m/n/10 317 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 زاوی رفتار تک
+ لانے کے لئے درکار $\OML/zplm/m/it/10 ^^\$ \TU/JameelNooriNastaleeq(0)/b/n/10 ک
+ی قدر کیا ہے؟ (ب) کرہ کے خط استوا پر مماسی قوت کی[]
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 1862--1867
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 گیا ہے کہ دونوں ایک مستوی میں ہوں (شکل 10.
+‏49)۔ بڑے قرص کے مرکز $\OML/zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(0)/b/n/10 
+پر واقع عمودی محور کے گرد نظام[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1872--1876
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٧١:  دو جسم ، جن کی انفرادی کمیت 
+$\OT1/ppl/m/n/10 6.20 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، بلا کمیت دھاگے
+ سے آپس میں باندھے گئے ہیں (شکل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1872--1876
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 10.‏50)۔ دھاگہ $\OT1/ppl/m/n/10 2.40 []$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 رداس اور $\OT1/ppl/m/n/10 7.40 \OMS/zplm/m/n/
+10 ^^B \OT1/ppl/m/n/10 10[] [] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 گھمیری ج
+مود کے جرثقیل سے گزرتا ہے۔[]
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 1872--1876
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ساکن حالت سے رہائی پر $\OT1/ppl/m/n/10 91.
+0 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 میں جرثقیل $\OT1/ppl/m/n/10 0.130 []$ 
+\TU/JameelNooriNastaleeq(0)/b/n/10 گھومتا ہے، اور اجسام کا اسراع مستقل ہے۔[]
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 1872--1876
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 (ا) جرثقیل کے زاوی اسراع کی قدر، (ب) اجسام
+ کے اسراع کی قدر، (ج) دھاگے کا تناو $\OML/zplm/m/it/10 T[]$ \TU/JameelNooriNast
+aleeq(0)/b/n/10 اور (د) دھاگے کا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1879.
+LaTeX Info: Redefining \sffamily on input line 1879.
+LaTeX Info: Redefining \ttfamily on input line 1879.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1876--1880
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٧٢:  پتلی سلاخ، جس کی کمیت $\OT1/
+ppl/m/n/10 6.40 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور لمبائی $\OT1/ppl/m/n
+/10 1.20 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، کے دونوں سر پر $\OT1/ppl/m/n
+/10 1.06 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 کا گیند[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1876--1880
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 نسب کیا جاتا ہے۔ سلاخ کے مرکز پر واقع انتص
+ابی محور پر سلاخ افقی مستوی میں گھوم سکتی ہے۔ کسی مخصوص لمحے پر[]
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 1876--1880
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سلاخ $\OT1/ppl/m/n/10 39.0$ \TU/JameelNoor
+iNastaleeq(0)/b/n/10 چکر فی منٹ سے گھومتی ہے۔ رگڑ کی وجہ سے $\OT1/ppl/m/n/10 32
+.0 s$ \TU/JameelNooriNastaleeq(0)/b/n/10 میں یہ رک جاتی ہے۔ رگڑ کی \TU/AASameer
+SagarNastaleeqBold(0)/m/n/10 آہستہ کن [][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1876--1880
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 قوت مروڑ مستقل تصور کریں۔ (ا) زاوی اسراع
+، (ب) آہستہ کن قوت مروڑ، (ج) میکانی توانائی سے حری توانائی میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1876--1880
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 رگڑ کی بنا منتقل توانائی کی قدر، اور (د) ا
+ن $\OT1/ppl/m/n/10 32.0 s$ \TU/JameelNooriNastaleeq(0)/b/n/10 میں چکر کی تعداد 
+تلاش کریں۔ (ہ) ا فرض کریں آہستہ کن قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1876--1880
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مروڑ مستقل نہیں۔ کیا جزو ا، ب، ج، اور د مز
+ید معلومات دیے بغیر معلوم کیے جا سکتے ہیں؟ جو معلوم کی[]
+ []
+
+[115]
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1885
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٧٣:  ہیلی کاپٹر کے یکساں پر کی لم
+بائی $\OT1/ppl/m/n/10 7.8 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور کمیت $\OT1/
+ppl/m/n/10 110 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، اور ایک قابلہ اس کو م
+دور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1885
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دھرے کے ساتھ جوڑتا ہے۔ (ا) جب مدور $\OT1/p
+pl/m/n/10 320$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ سے گھومتا ہے (جو ا
+س کی پوری رفتار ہے)، قابلے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1885
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پر دھرے کی قوت کی قدر کیا ہو گی؟ (اشارہ:اس
+ حساب کے لئے پر کو کمیتی نقطہ تصور کیا جا سکتا ہے جو پر کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1885
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مرکز کمیت پر واقع ہو۔ کیوں؟) (ب) ساکن حالت
+ سے $\OT1/ppl/m/n/10 6.70 s$ \TU/JameelNooriNastaleeq(0)/b/n/10 میں پوری رفتار 
+تک پہنچانے کے لئے مدور پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1885
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 درکار قوت مروڑ کیا ہو گی؟ ہوا کی رگڑ نظر ا
+نداز کریں (اس حساب میں پر کو کمیتی نقطہ تصور نہیں کیا جا سکتا۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1885
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کیوں نہیں؟ پتلی سلاخ پر یکساں کمیتی تقسیم 
+تصور کیا جا سکتا ہے۔) (ج) $\OT1/ppl/m/n/10 320$ \TU/JameelNooriNastaleeq(0)/b/n
+/10 چکر فی منٹ تک پہنچانے کے لئے[]
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 1886--1891
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٤.٧٤:  دو قرص اپنی اپنی وسطی انتصاب
+ی محور پر گھوم سکتے ہیں (شکل 10.‏51)۔ لمحہ $\OML/zplm/m/it/10 t \OT1/zplm/m/n/1
+0 = \OT1/ppl/m/n/10 0$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر دونوں قرص کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1886--1891
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 حوالہ لکیر ایک جیسی سمت بند ہیں۔ قرص $\OML
+/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(0)/b/n/10 پہلے سے $\OT1/ppl/m/n/10 9.
+5 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 زاوی رفتار سے حرکت میں[]
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 1886--1891
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔قرص $\OML/zplm/m/it/10 B$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 جو ساکن ہے اب $\OT1/ppl/m/n/10 2.2 [] s[]$ \TU/JameelNoor
+iNastaleeq(0)/b/n/10 مستقل زاوی اسراع سے چل پڑتا ہے۔ (ا) حوالہ لکیروں کا زاویہ[
+]
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 1886--1891
+[]$\OML/zplm/m/it/10 ^^R$\TU/JameelNooriNastaleeq(0)/b/n/10 کس وقت $\OML/zplm/m
+/it/10 t$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر لمحاتی ایک جتنا ہو گا؟ (ب) کیا 
+$\OML/zplm/m/it/10 t \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0$ \TU/JameelNooriNasta
+leeq(0)/b/n/10 کے بعد $\OML/zplm/m/it/10 t$ \TU/JameelNooriNastaleeq(0)/b/n/10 
+وہ پہلا لمحہ ہے جب دونوں حوالہ لکیر[]
+ []
+
+) [116] (./answer.tex) [117
 
 
 
 
-] [114
+] [118
 
 
 ]
@@ -5975,12 +6441,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 58722 strings out of 476191
- 1586929 string characters out of 9562072
+ 58735 strings out of 476191
+ 1587109 string characters out of 9562072
  2352942 words of memory out of 7000000
- 78427 multiletter control sequences out of 15000+600000
+ 78440 multiletter control sequences out of 15000+600000
  495444 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,16n,118p,2628b,1068s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (57 pages).
+Output written on physics.pdf (61 pages).
