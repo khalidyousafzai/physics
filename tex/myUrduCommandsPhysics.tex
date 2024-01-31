@@ -365,4 +365,16 @@
 {\hfill\qedsymbol  \vspace{\baselineskip}\par}
 %--------------------
 %--------------------
+%defining a RULE   قاعدہء
+
+%\newcounter{krucounter}[section]
+%\renewcommand{\thekrucounter}{\arabic{krucounter}}
+\newcounter{kkrucounter}[chapter]
+\renewcommand{\thekkrucounter}{\thechapter.\arabic{kkrucounter}}
+
+\newenvironment*{قاعدہء}				
+{\par\noindent\ignorespaces  قاعدہ \refstepcounter{kkrucounter}  :\quad}%
+{\par\noindent }
+%--------------------
+%--------------------
 
