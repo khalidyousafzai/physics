@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  31 JAN 2024 16:40
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  2 FEB 2024 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20241311000.tex)...disabled (restricted).
+runsystem(touch w18-test-2024221039.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20241311000.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2024221039.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -2306,6 +2306,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--101
  ہمواری کے ساتھ لڑھکتا ہے ، مرکز کمیت کے اسراع[]
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 اگر $\OML/zplm/m/it/10 ^^R$ \TU/JameelN
+ooriNastaleeq(2)/m/sl/10 زاویہ کے میلان پر پہیا ہمواری کے ساتھ اترتے ہوئے لڑھکت
+ا ہو، اس کا اسراع، میلان کے ہمراہ اوپر[]
+ []
+
 LaTeX Info: Redefining \rmfamily on input line 112.
 LaTeX Info: Redefining \sffamily on input line 112.
 LaTeX Info: Redefining \ttfamily on input line 112.
@@ -2333,7 +2340,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--123
 []\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں $\OML/zplm/m/it/10 M$ \TU/JameelNoor
 iNastaleeq(2)/m/sl/10 پہیے کی کمیت، مرکز کمیت سے گزرتی محور پر گھمیری جمود $\OM
 L/zplm/m/it/10 I[]$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، اور $\OML/zplm/m/it/10
- R$ \TU/JameelNooriNastaleeq(2)/m/sl/10 (پہیے کا رداس) عمود دار[]
+ R$ \TU/JameelNooriNastaleeq(2)/m/sl/10 (پہیے کا رداس) عموددار[]
  []
 
 LaTeX Info: Redefining \rmfamily on input line 126.
@@ -2429,12 +2436,606 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--155
 ہمیں شکل دو طرح تبدیل کرنی ہو گی: مرکز کمیت کے اسراع[]
  []
 
-) [128] (./answer.tex) [129
+
+Underfull \hbox (badness 2478) in paragraph at lines 158--159
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہمراہ، نیچے لڑھک رہا ہے۔ ہم میلان کے ہمرا
+ہ اترائی کے رخ جسم کے اسراع $\OML/zplm/m/it/10 a[]$ \TU/JameelNooriNastaleeq(2)
+/m/sl/10 کا ریاضی فقرہ تلاش کرنا[]
+ []
+
+
+Underfull \hbox (badness 5637) in paragraph at lines 163--165
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 جسم پر تجاذبی قوت $[]$ نشیب وار ہے۔ اس 
+سمتیہ کی دم جسم کے مرکز کمیت پر رکھی جاتی ہے۔ میلان کے ہمراہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 میلان کو عموددار جزو $[]$ ہے۔ یہ جزو نق
+طہ تماس $\OML/zplm/m/it/10 P$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر عمل کرتا ہ
+ے، تاہم شکل 11.‏8 میں ، $[]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 نقطہ تماس $\OML/zplm/m/it/10 P$ \TU/Jam
+eelNooriNastaleeq(2)/m/sl/10 پر عمل پیرا سکونی رگڑی قوت $[]$ میلان کے ہمراہ چڑھ
+ائی کے رخ ہے۔ (کیا آپ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اس مساوات میں دو نامعلوم متغیرات ، $\OML/
+zplm/m/it/10 f[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور $\OML/zplm/m/it/10 a[
+]$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، پائے جاتے ہیں۔ (ہم $\OML/zplm/m/it/10 f
+[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی قیمت، رگڑی قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کی زیادہ سے زیادہ قیمت، $\OML/zplm/m/it/1
+0 f[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 فرض نہیں کر سکتے۔ہم صرف اتنا جانتے ہ
+یں کہ رگڑی قوت اتنی ہے کہ جسم پھسلتا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 177.
+LaTeX Info: Redefining \sffamily on input line 177.
+LaTeX Info: Redefining \ttfamily on input line 177.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--180
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہم اب جسم کے مرکز کمیت پر جسم کے گھماو 
+پر نیوٹن کے قانون دوم کا اطلاق کرتے ہیں۔ پہلے، مساوات [][]٤.٤١[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--180
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 بازو $\OML/zplm/m/it/10 R$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 ہے، لہٰذا اس کی قوت مروڑ $\OML/zplm/m/it/10 Rf[]$ \TU/Jam
+eelNooriNastaleeq(2)/m/sl/10 ہو گی، جو اس لئے مثبت ہے کہ شکل 11.‏8 میں یہ جسم ک
+و خلاف[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--180
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 گھڑی گھمانے کی کوشش کرتی ہے۔مرکز کمیت کے 
+لحاظ سے قوت $[]$ اور $[]$ کے معیار اثر بازو صفر ہیں، لہٰذا[]
+ []
+
+[128]
+LaTeX Info: Redefining \rmfamily on input line 185.
+LaTeX Info: Redefining \sffamily on input line 185.
+LaTeX Info: Redefining \ttfamily on input line 185.
+LaTeX Info: Redefining \rmfamily on input line 186.
+LaTeX Info: Redefining \sffamily on input line 186.
+LaTeX Info: Redefining \ttfamily on input line 186.
+
+Underfull \hbox (badness 1708) in paragraph at lines 185--188
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 جسم ہموار لڑھکتا ہے لہٰذا مساوات [][]٥.
+٦[][] $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 a[] \OT1/zplm/m/n/10 = \OML/zplm/m/i
+t/10 ^^KR\OT1/zplm/m/n/10 )$ []\TU/JameelNooriNastaleeq(2)/m/sl/10 استعمال کر ک
+ے نامعلوم $\OML/zplm/m/it/10 a[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور $\OML
+/zplm/m/it/10 ^^K$[]
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 185--188
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کا تعلق لکھا جا سکتا ہے۔ تاہم، ہمیں ہوشیا
+ری سے کام لینا ہو گا، چونکہ یہاں $\OML/zplm/m/it/10 a[]$ \TU/JameelNooriNastale
+eq(2)/m/sl/10 منفی (محور $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(2)/m/sl
+/10 پر منفی رخ ہے) اور $\OML/zplm/m/it/10 ^^K$[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 191.
+LaTeX Info: Redefining \sffamily on input line 191.
+LaTeX Info: Redefining \ttfamily on input line 191.
+LaTeX Info: Redefining \rmfamily on input line 191.
+LaTeX Info: Redefining \sffamily on input line 191.
+LaTeX Info: Redefining \ttfamily on input line 191.
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اس مساوات کو استعمال کر کے ، افق کے ساتھ 
+زاویہ $\OML/zplm/m/it/10 ^^R$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے میلان پر ک
+ے ہمراہ لڑھکتے جسم کا خطی اسراع[]
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 198--199
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 یاد رہے، تجاذبی قوت جسم کو میلان پر اتر
+نے پر مجبور کرتی ہے، تاہم جسم کو گھومنے اور یوں لڑھکنے پر رگڑی قوت مجبور کرتی ہ
+ے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اگر آپ رگڑ خارج کر دیں (مثلاً، میلان کو ت
+یل سے چکنا کر کے ) یا $\OML/zplm/m/it/10 Mg [] ^^R$ \TU/JameelNooriNastaleeq(2)
+/m/sl/10 کو $\OML/zplm/m/it/10 f[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے زیاد
+ہ کر دیں، ہموار لڑھکاو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 قرص $\OML/zplm/m/it/10 A$ \TU/JameelNoo
+riNastaleeq(2)/m/sl/10 اور $\OML/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 ایک جیسے ہیں اور فرش پر ایک جتنی رفتار سے لڑھکتے ہیں۔ قرص $\OML/zplm/m/it
+/10 A$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے سامنے میلان آتا ہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جس پر یہ زیادہ سے زیادہ $\OML/zplm/m/it/1
+0 h$ \TU/JameelNooriNastaleeq(2)/m/sl/10 تک پہنچتا ہے۔ قرص $\OML/zplm/m/it/10 B
+$ \TU/JameelNooriNastaleeq(2)/m/sl/10 متماثل ، لیکن بلا رگڑ ، میلان پر چڑھتا ہے
+ ۔ کیا $\OML/zplm/m/it/10 h$ \TU/JameelNooriNastaleeq(2)/m/sl/10 سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 چونکہ صرف تجاذبی قوت، جو بقائی قوت ہے، گی
+ند پر کام سرانجام دیتی ہے، لہٰذا میلان پر لڑھک کر اترنے کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 دوران گیند و زمین نظام کی میکانی توانائی 
+$\OML/zplm/m/it/10 E$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کی بقا ہو گی۔میلان سے
+ گیند پر عمود دار قوت گیند کی راہ کو عمودی ہونے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کی وجہ سے کوئی کام سرانجام نہیں دیتی۔ گین
+د پھسلتا نہیں (\TU/JameelNooriNastaleeq(2)/m/n/9 ہموار لڑھکتا \TU/JameelNooriNa
+staleeq(2)/m/sl/10 ہے) لہٰذا رگڑی قوت کوئی توانائی حری توانائی[]
+ []
+
+[129]
+LaTeX Info: Redefining \rmfamily on input line 221.
+LaTeX Info: Redefining \sffamily on input line 221.
+LaTeX Info: Redefining \ttfamily on input line 221.
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں زیر نوشت $\OML/zplm/m/it/10 f$ \TU/J
+ameelNooriNastaleeq(2)/m/sl/10 اور $\OML/zplm/m/it/10 i$ \TU/JameelNooriNastale
+eq(2)/m/sl/10 بالترتیب (زمین پر پہنچ کر) اختتامی اور (ساکن حالت ) ابتدائی قیمتی
+ں ظاہر کرتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اس کی حرکی توانائی میں مستقیم اور گھمیری 
+جزو شامل ہوں گے، جنہیں شامل کرنے کے لئے مساوات[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 224.
+LaTeX Info: Redefining \sffamily on input line 224.
+LaTeX Info: Redefining \ttfamily on input line 224.
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--230
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں گیند کے مرکز کمیت سے گزرتی محور پر گ
+یند کا گھمیری جمود $\OML/zplm/m/it/10 I[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 
+، زمین پر پہنچ کر گیند کی رفتار (جو ہم[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 231.
+LaTeX Info: Redefining \sffamily on input line 231.
+LaTeX Info: Redefining \ttfamily on input line 231.
+LaTeX Info: Redefining \rmfamily on input line 231.
+LaTeX Info: Redefining \sffamily on input line 231.
+LaTeX Info: Redefining \ttfamily on input line 231.
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 چونکہ گیند ہموار لڑھکتا ہے، ہم مساوات [
+][]٥.٢[][] []استعمال کر کے $\OML/zplm/m/it/10 !$ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 کی جگہ $\OML/zplm/m/it/10 v[] \OT1/zplm/m/n/10 / \OML/zplm/m/it/10 R$ \TU
+/JameelNooriNastaleeq(2)/m/sl/10 پُر کر کے مساوات [][]٥.١٢[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 میں نامعلوم متغیرات کی تعداد کم کر سکتے
+ ہیں۔ ایسا کر کے، اور جدول 10.‏2f سے $\OML/zplm/m/it/10 I[]$ \TU/JameelNooriNas
+taleeq(2)/m/sl/10 کی جگہ $[]\OML/zplm/m/it/10 MR[]$[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 241.
+LaTeX Info: Redefining \sffamily on input line 241.
+LaTeX Info: Redefining \ttfamily on input line 241.
+LaTeX Info: Redefining \rmfamily on input line 244.
+LaTeX Info: Redefining \sffamily on input line 244.
+LaTeX Info: Redefining \ttfamily on input line 244.
+LaTeX Info: Redefining \rmfamily on input line 244.
+LaTeX Info: Redefining \sffamily on input line 244.
+LaTeX Info: Redefining \ttfamily on input line 244.
+[130]
+Underfull \hbox (badness 6001) in paragraph at lines 249--251
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 یاد رہے ہمیں کمیت $\OML/zplm/m/it/10 M$ \
+TU/JameelNooriNastaleeq(2)/m/sl/10 درکار تھی جبکہ رداس $\OML/zplm/m/it/10 R$ \T
+U/JameelNooriNastaleeq(2)/m/sl/10 نہیں تھا۔ یوں، $\OT1/ppl/m/n/10 30[]$ \TU/Jam
+eelNooriNastaleeq(2)/m/sl/10 میلان پر $\OT1/ppl/m/n/10 6.00 []$ \TU/JameelNoori
+Nastaleeq(2)/m/sl/10 ہموار لڑھکتے گیند پر، گیند[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 260.
+LaTeX Info: Redefining \sffamily on input line 260.
+LaTeX Info: Redefining \ttfamily on input line 260.
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ڈوری پر $\OML/zplm/m/it/10 h$ \TU/JameelN
+ooriNastaleeq(2)/m/sl/10 فاصلہ اتر کر ڈوری دار لٹو کی مخفی توانائی میں $\OML/zp
+lm/m/it/10 mgh$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کمی واقع ہو گی جبکہ اس کی ح
+رکی توانائی کے مستقیم جزو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 ڈوری دار لٹو کی ایک نئی قسم میں ڈور کو 
+دھرے کے ساتھ سخت باندھنے کے بجائے ڈور کو دھرے کے گرد ڈھیلا گھیرا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 دیا جاتا ہے۔ جب لٹو نیچے اترتے ہوئے ڈور ک
+ے پیندا کو”ٹکرا تا“ ہے، دھرے پر ڈور اوپر وار قوت لاگو کر کے لٹو کی نشیبی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 حرکت روکتی ہے۔ اس کے بعد لٹو صرف گھمیری ح
+رکی توانائی کے ساتھ (دھرا گھیر میں چکر کاٹتا ہوا)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 گھومتا ہے۔ لٹو (”سوتے ہوئے “ ) چکر کاٹتا 
+رہتا ہے ؛ ڈور کو جھٹکا دینے پر ڈور دھرے کو پکڑتی ہے ، ”لٹو بیدار ہوتا ہے“، اور 
+اوپر[]
+ []
+
+
+Underfull \hbox (badness 6125) in paragraph at lines 280--281
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 ڈور پر نشیب وار اترنے کے دوران لٹو کا خ
+طی اسراع $\OML/zplm/m/it/10 a[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 جاننے کے ل
+ئے ،شکل 11.‏8 میں میلان پر اترتے لڑھکتے[]
+ []
+
+[131]
+LaTeX Info: Redefining \rmfamily on input line 290.
+LaTeX Info: Redefining \sffamily on input line 290.
+LaTeX Info: Redefining \ttfamily on input line 290.
+LaTeX Info: Redefining \rmfamily on input line 290.
+LaTeX Info: Redefining \sffamily on input line 290.
+LaTeX Info: Redefining \ttfamily on input line 290.
+
+Underfull \hbox (badness 4205) in paragraph at lines 290--293
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 موجودہ تجزیہ بھی مساوات [][]٥.١٠[][] []
+دے گا۔ آئیں مساوات [][]٥.١٠[][] []کی ترقیم تبدیل کر کے اور $\OML/zplm/m/it/10 ^
+^R \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 90[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10
+ ڈال کر خطی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--310
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 ذرے پر عمل پیرا قوت کی ذرے پر قوت مروڑ 
+، اکائی سمتیہ ترقیم یا قدر و زاویہ ترقیم کے روپ میں، ذرے کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 تین ابعاد میں، قوت مروڑ $[]$ایک سمتیہ م
+قدار ہو گی ، جو کسی مقررہ نقطہ (عموماً مبدا) کے لحاظ سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--322
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں $[]$ ذرے پر لاگو قوت اور $[]$ کسی مق
+ررہ نقطے کے لحاظ سے ذرے کا تعین گر سمتیہ ہے، جو ذرے کا مقام دیتا[]
+ []
+
+[132]
+LaTeX Info: Redefining \rmfamily on input line 333.
+LaTeX Info: Redefining \sffamily on input line 333.
+LaTeX Info: Redefining \ttfamily on input line 333.
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 باب [][]٤[][] []میں مقررہ محور کے گرد گھو
+منے کے قابل استوار جسم کے لئے قوت مروڑ $\OML/zplm/m/it/10 ^^\$ \TU/JameelNooriN
+astaleeq(2)/m/sl/10 کی تعریف پیش کی گئی۔ ہم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کرتے ہوئے انفرادی ذرے کے لئے استعمال کرتے
+ ہیں۔ راہ کا دائری ہونا ضروری نہیں، اور ہم قوت مروڑ کو سمتیہ $[]$ لکھتے ہیں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جس کا رخ کچھ بھی ہو سکتا ہے۔قوت مروڑ کی ق
+در کلیہ سے اور رخ صلیبی ضرب کے دایاں ہاتھ قاعدہ سے حاصل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 قوت مروڑ $[]$ کی اس تعریف میں سمتی (صلی
+بی) ضرب کی تحسیب حصہ 3.‏3 کے قواعد سے کی جا سکتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ $[]$ کا رخ جاننے کے لئے ، سمتیہ $[]$ 
+کو( رخ تبدیل کیے بغیر) کھسکا کر اس کی دم مبدا $\OML/zplm/m/it/10 O$ \TU/JameelN
+ooriNastaleeq(2)/m/sl/10 پر رکھی جاتی ہے؛یوں ، جیسا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 شکل 11.‏10b میں دکھایا گیا ہے، سمتی ضرب ک
+ے دونوں سمتیات کی دم ایک نقطے پر ہو گی۔ اب ہم شکل 3.‏19a[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کی طرف جکھاتے ہیں (جو ضرب میں دوسرا سمتیہ
+ ہے)۔سیدھا کھڑا انگوٹھا $[]$ کا رخ دیگا۔ شکل 11.‏10b میں[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 348.
+LaTeX Info: Redefining \sffamily on input line 348.
+LaTeX Info: Redefining \ttfamily on input line 348.
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--350
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں $[]$ اور $[]$ کے دم ایک نقطے پر رکھ 
+کر سمتیات کے بیچ چھوٹا زاویہ $\OML/zplm/m/it/10 ^^^$ \TU/JameelNooriNastaleeq(2
+)/m/sl/10 ہے۔ شکل 11.‏10b سے ہم دیکھ سکتے ہیں کہ[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 353.
+LaTeX Info: Redefining \sffamily on input line 353.
+LaTeX Info: Redefining \ttfamily on input line 353.
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--355
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں $\OML/zplm/m/it/10 F[]$ \TU/JameelNo
+oriNastaleeq(2)/m/sl/10 (جو $\OML/zplm/m/it/10 F [] ^^^$ \TU/JameelNooriNastale
+eq(2)/m/sl/10 کے برابر ہے) $[]$ کا $[]$ کا عمود دار جزو ہے۔ شکل 11.‏10c کو دیکھ
+ کر مساوات [][]٥.١٥[][] []ذیل بھی[]
+ []
+
+[133]
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 ذرے کا تعین گر سمتیہ $[]$، مثبت محور $\
+OML/zplm/m/it/10 z$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے ہمراہ پایا جاتا ہے۔ 
+اگر ذرے پر قوت مروڑ (ا) صفر ہو، (ب) محور $\OML/zplm/m/it/10 x$ \TU/JameelNooriN
+astaleeq(2)/m/sl/10 کے[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 372.
+LaTeX Info: Redefining \sffamily on input line 372.
+LaTeX Info: Redefining \ttfamily on input line 372.
+
+Underfull \hbox (badness 4531) in paragraph at lines 372--373
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 چونکہ قوت ایک مستوی میں نہیں پائی جاتیں، 
+ہمیں صلیبی ضرب استعمال کرنا ہو گی، جس کی قدر مساوات [][]٥.١٥[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--376
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 حساب: \TU/JameelNooriNastaleeq(2)/
+m/sl/10 ہم مبدا $\OML/zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے لح
+اظ سے قوت مروڑ جاننا چاہتے ہیں لہٰذا دیا گیا تعین گر سمتیہ صلیبی ضرب[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--376
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 میں درکار سمتیہ $[]$ہو گا۔ قوت اور $[]$ ک
+ے بیچ زاویہ $\OML/zplm/m/it/10 ^^^$ \TU/JameelNooriNastaleeq(2)/m/sl/10 جاننے ک
+ے لئے ہم شکل 11.‏11a میں دیے گئے سمتیہ قوت باری[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--376
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 باری یوں کھسکاتے ہیں کہ ان کی دم $\OML/zp
+lm/m/it/10 O$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر ہو۔ انتقال کے بعد قوت $[]$
+، $[]$، اور $[]$ بالترتیب شکل 11.‏11b، شکل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--376
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 11.‏11c، اور شکل 11.‏11d میں، جو مستوی $\
+OML/zplm/m/it/10 xz$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کا نظارہ دیتی ہیں، دکھ
+ائی گئی ہیں (جن میں سمتیہ قوت اور تعین گر سمتیہ[]
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 374--376
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کے بیچ زاویے باآسانی نظر آتے ہیں)۔ شکل 11
+.‏11d میں $[]$ اور $[]$ کے رخ کے بیچ زاویہ $\OT1/ppl/m/n/10 90[]$ \TU/JameelNoo
+riNastaleeq(2)/m/sl/10 ہے اور علامت $\OMS/zplm/m/n/10 
+$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--376
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کہتی ہے $[]$ صفحہ میں عمود دار اندر رخ ہے
+۔ (صفحہ سے عمود دار نکلنے کی صورت میں $\OMS/zplm/m/n/10 ^^L$ \TU/JameelNooriNas
+taleeq(2)/m/sl/10 علامت استعمال کی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 377.
+LaTeX Info: Redefining \sffamily on input line 377.
+LaTeX Info: Redefining \ttfamily on input line 377.
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 اب دائیں ہاتھ قاعدہ استعمال کرتے ہوئے،د
+ائیں ہاتھ کی چار انگلیاں $[]$ کے رخ رکھ کر $[]$ کے رخ (سمتیات کے رخ کے بیچ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 چھوٹے زاویے)گھماتے ہیں۔ دائیں ہاتھ کا انگ
+وٹھا ، جو چار انگلیوں کو عمود دار رکھا گیا ہے، قوت مروڑ کا رخ دیگا۔ یوں $[]$[]
+ []
+
+[134]
+Underfull \hbox (badness 2253) in paragraph at lines 397--399
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 جان پائیں گے کہ جس مقررہ نقطے کے لحاظ س
+ے زاوی معیار حرکت تعین کیا جائے اس کا ذکر صریحاً کرنا لازم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 ایک ذرہ، جس کا خطی معیار حرکت $[]$ ، کم
+یت $\OML/zplm/m/it/10 m$\TU/JameelNooriNastaleeq(2)/m/sl/10 ، اور خطی سمتی رفتا
+ر $[]$ ہو، کا مقررہ نقطے کے لحاظ سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--421
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں $[]$ اور $[]$ کے بیچ زاویہ $\OML/zpl
+m/m/it/10 ^^^$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، $[]$ کو $[]$ اور $[]$ کے
+ عمود دار جزو $\OML/zplm/m/it/10 p[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور $
+\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہیں، اور مقررہ نقطے 
+سے[]
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 421--422
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 دایاں ہاتھ قاعدہ $[]$ کا رخ دیگا: دائیں
+ ہاتھ کی چار انگلیاں $[]$ کے رخ پر (ابتدائی طور) رکھ کر انہیں گھما کر $[]$ کے ر
+خ پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 یاد کریں، خطی معیار حرکت $[]$ اور خطی معی
+ار حرکت کی بقا کا اصول انتہائی طاقتور اوزار ہیں۔انہیں استعمال کر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 کے نتائج کی ، مثلاً دو گاڑیوں کے تصادم کی
+ تفصیل جانے بغیر تصادم کی ، پیشنگوئی کی جا سکتی ہے۔یہاں ہم $[]$ کے زاوی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 428.
+LaTeX Info: Redefining \sffamily on input line 428.
+LaTeX Info: Redefining \ttfamily on input line 428.
+
+Underfull \hbox (badness 1122) in paragraph at lines 428--430
+[][]\TU/JameelNooriNastaleeq(2)/m/sl/10 شکل 11.‏12 میں مستوی $\OML/zplm/m/it/10
+ xy$ \TU/JameelNooriNastaleeq(2)/m/sl/10 میں نقطہ $\OML/zplm/m/it/10 A$ \TU/Jam
+eelNooriNastaleeq(2)/m/sl/10 سے کمیت $\OML/zplm/m/it/10 m$ \TU/JameelNooriNasta
+leeq(2)/m/sl/10 اور خطی معیار حرکت $[]$ $\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 m[
+] \OT1/zplm/m/n/10 =)$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کا ذرہ گزرتا[]
+ []
+
+[135]
+LaTeX Info: Redefining \rmfamily on input line 433.
+LaTeX Info: Redefining \sffamily on input line 433.
+LaTeX Info: Redefining \ttfamily on input line 433.
+LaTeX Info: Redefining \rmfamily on input line 433.
+LaTeX Info: Redefining \sffamily on input line 433.
+LaTeX Info: Redefining \ttfamily on input line 433.
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--434
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں $\OML/zplm/m/it/10 O$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 کے لحاظ سے ذرے کا تعین گر سمتیہ $[]$ ہے۔مبدا $\OML/zplm/m
+/it/10 O$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے لحاظ سے جب ذرہ معیار حرکت $[]$
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--434
+[]$\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 m[] \OT1/zplm/m/n/10 =)$ \TU/JameelNoori
+Nastaleeq(2)/m/sl/10 کے رخ کرتا ہے، اس کا تعین گر سمتیہ $[]$ مبدا $\OML/zplm/m/
+it/10 O$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے گرد گھمیری حرکت کرتا ہے۔ غور کر
+یں، $\OML/zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(2)/m/sl/10 پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--434
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 زاوی معیار حرکت کے لئے ضروری نہیں کہ ذرہ 
+خود $\OML/zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے گرد گھومتا ہو۔
+ مساوت [][]٥.١٤[][] []اور مساوات [][]٥.١٨[][] []کا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--434
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 موازنہ کرنے سے معلوم ہو گا کہ زاوی معیار 
+حرکت اور خطی معیار حرکت کا آپس میں وہی رشتہ ہے جو قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--434
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مروڑ کا قوت کے ساتھ ہے۔ بین الاقوامی نظام
+ اکائی میں زاوی معیار حرکت کی اکائی کلوگرام مربع میٹر فی سیکنڈ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--437
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 رخ۔ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 شکل 11.‏12 میں زاوی معیار حرکت سمتیہ $[]$ کا رخ جاننے کے لئے، ہم سمتیہ $[
+]$ کو کھسکا کر کے اس کی دم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--437
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 مبدا $\OML/zplm/m/it/10 O$ \TU/JameelNoor
+iNastaleeq(2)/m/sl/10 پر رکھتے ہیں۔اس کے بعد صلیبی ضرب کا دایاں ہاتھ قاعدہ استع
+مال کر کے انگلیوں کو $[]$ سے $[]$ لپیٹتے ہیں۔[]
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 435--437
+[]$[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے خلاف گھڑی گھماو کے عین مطابق ہے، 
+جو ذرے کی حرکت سے پیدا ہوتی ہے۔ ($[]$ کی منفی قیمت محور $\OML/zplm/m/it/10 z$ \
+TU/JameelNooriNastaleeq(2)/m/sl/10 پر[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 444.
+LaTeX Info: Redefining \sffamily on input line 444.
+LaTeX Info: Redefining \ttfamily on input line 444.
+
+Underfull \hbox (badness 1009) in paragraph at lines 443--446
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں $[]$ اور $[]$ کی دم ایک نقطہ پر رکھ 
+کر سمتیات کے بیچ چھوٹا زاویہ $\OML/zplm/m/it/10 ^^^$ \TU/JameelNooriNastaleeq(2
+)/m/sl/10 ہے۔ شکل 11.‏12a دیکھ کر مساوات [][]٥.١٩[][] []ذیل[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 449.
+LaTeX Info: Redefining \sffamily on input line 449.
+LaTeX Info: Redefining \ttfamily on input line 449.
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--451
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جہاں $[]$ کو $[]$ کا عمود دار جزو $\OML/z
+plm/m/it/10 p[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے، اور $[]$ کو $[]$ کا عم
+ود دار جزو $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(2)/m/sl/10 ہے۔ شکل 
+11.‏12b دیکھ کر مساوات[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--458
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 اہم۔ \TU/JameelNooriNastaleeq(2)/m
+/sl/10 دو پہلو پر غور کریں: (1) زاوی معیار حرکت صرف کسی مخصوص مبدا کے لحاظ سے م
+عنی خیز ہے اور (2) اس کا[]
+ []
+
+) [136] (./answer.tex) [137
 
 
 
 
-] [130
+] [138
 
 
 ]
@@ -2506,12 +3107,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 58661 strings out of 476191
- 1585538 string characters out of 9562072
- 2349243 words of memory out of 7000000
- 78358 multiletter control sequences out of 15000+600000
+ 58680 strings out of 476191
+ 1586006 string characters out of 9562072
+ 2351243 words of memory out of 7000000
+ 78377 multiletter control sequences out of 15000+600000
  495444 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 115i,12n,118p,2628b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,12n,118p,2628b,647s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (13 pages).
+Output written on physics.pdf (21 pages).
