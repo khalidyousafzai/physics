@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  3 FEB 2024 18:38
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  4 FEB 2024 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2024231118.tex)...disabled (restricted).
+runsystem(touch w18-test-202424935.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2024231118.tex)...disabled (restricted).
+runsystem(rm -f w18-test-202424935.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -3453,15 +3453,9 @@ LaTeX Info: Redefining \sffamily on input line 704.
 LaTeX Info: Redefining \ttfamily on input line 704.
 
 Underfull \hbox (badness 10000) in paragraph at lines 704--706
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 اور نظام کا زاوی معیار حرکت ایک مبدا کے لح
-اظ سے ناپنا لازمی ہے۔ اگر اندرونی جمودی چھوکٹ کے لحاظ سے نظام[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 704--706
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 کا مرکز کمیت مسرع نہ ہو، یہ مبدا کسی بھی ن
-قطے پر ہو سکتا ہے؛ اگر مسرع ہو، تب \TU/JameelNooriNastaleeq(2)/m/n/9 لازم \TU/J
-ameelNooriNastaleeq(0)/b/n/10 ہے کہ مرکز کمیت پر ہو۔ مثال[]
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مرکز کمیت مسرع نہ ہو، مبدا کسی بھی نقطے پر
+ ہو سکتا ہے؛ اگر مسرع ہو، تب \TU/JameelNooriNastaleeq(2)/m/n/9 لازم \TU/JameelN
+ooriNastaleeq(0)/b/n/10 ہے کہ مبدا مرکز کمیت پر ہو۔ مثال[]
  []
 
 
@@ -3482,12 +3476,380 @@ Underfull \hbox (badness 10000) in paragraph at lines 704--706
 یلان پر لڑھکتا نیچے آتا ہے)، تب صرف پہیے کا مرکز کمیت مبدا تسلیم[]
  []
 
-[143]) [144] (./answer.tex) [145
+[143]
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 میں ایسا ایک جسم دکھایا گیا ہے۔ محور $\OML
+/zplm/m/it/10 z$ \TU/JameelNooriNastaleeq(0)/b/n/10 یہاں مقررہ محور گھماو ہے ج 
+کے گرد جسم مستقل زاوی رفتار $\OML/zplm/m/it/10 !$ \TU/JameelNooriNastaleeq(0)/b
+/n/10 سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 711--712
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 ہم جسم کے تمام کمیتی ٹکڑوں کا انفرادی زا
+وی معیار حرکت معلوم کر کے ان کے $\OML/zplm/m/it/10 z$ \TU/JameelNooriNastaleeq(
+0)/b/n/10 جزو کا مجموعہ لے کر ایسا کر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 711--712
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سے اس کمیتی ٹکڑے کا مقام تعین گر سمتیہ $[]
+$ دیگا۔ اس ٹکڑے کے دائری راہ کا رداس $\OML/zplm/m/it/10 r[]$ \TU/JameelNooriNas
+taleeq(0)/b/n/10 ہو گا، جو ٹکڑے اور محور $\OML/zplm/m/it/10 z$ \TU/JameelNooriN
+astaleeq(0)/b/n/10 کے بیچ[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 713.
+LaTeX Info: Redefining \sffamily on input line 713.
+LaTeX Info: Redefining \ttfamily on input line 713.
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--718
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں $\OML/zplm/m/it/10 p[]$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(0)/b
+/n/10 کمیتی ٹکڑے کا خطی معیار حرکت اور خطی رفتار ہے، اور $[]$ اور $[]$ کے بیچ ز
+اویہ $\OT1/ppl/m/n/10 90[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔اس[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--718
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کمیتی ٹکڑے کا زاوی معیار حرکت $[]$ شکل 11.
+‏5b میں دکھایا گیا ہے؛ اس کا رخ $[]$ اور $[]$ دونوں کو لازماً عمود[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--727
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پورے جسم کے زاوی معیار حرکت کا $\OML/zplm/
+m/it/10 z$ \TU/JameelNooriNastaleeq(0)/b/n/10 جزو معلوم کرنے کے لئے جسم کے تمام
+ کمیتی ٹکڑوں کے زاوی معیار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 732--734
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 یہاں $\OML/zplm/m/it/10 !$ \TU/JameelNoori
+Nastaleeq(0)/b/n/10 مستقل (جسم کے تمام نقطوں کے لئے ایک برابر ) ہے لہٰذا اس کو 
+مجموعہ کی علامت سے باہر لکھا جا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 735.
+LaTeX Info: Redefining \sffamily on input line 735.
+LaTeX Info: Redefining \ttfamily on input line 735.
+LaTeX Info: Redefining \rmfamily on input line 735.
+LaTeX Info: Redefining \sffamily on input line 735.
+LaTeX Info: Redefining \ttfamily on input line 735.
+LaTeX Info: Redefining \rmfamily on input line 735.
+LaTeX Info: Redefining \sffamily on input line 735.
+LaTeX Info: Redefining \ttfamily on input line 735.
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--737
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 مساوات [][]٥.٣٠[][] []میں $[] \OT1/zplm/
+m/n/10 ^^A\OML/zplm/m/it/10 m[]r[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 مقررہ مح
+ور کے گرد جسم کا گھمیری جمود $\OML/zplm/m/it/10 I$ \TU/JameelNooriNastaleeq(0)/
+b/n/10 ہے (مساوات [][]٤.٣٣[][] []دیکھیں)۔ یوں[]
+ []
+
+[144]
+LaTeX Info: Redefining \rmfamily on input line 741.
+LaTeX Info: Redefining \sffamily on input line 741.
+LaTeX Info: Redefining \ttfamily on input line 741.
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--742
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 ہم نے زیرنوشت $\OML/zplm/m/it/10 z$ \TU/
+JameelNooriNastaleeq(0)/b/n/10 نہیں لکھا ، تاہم آپ نے یاد رکھنا ہو گا کہ مساوات
+ [][]٥.٣١[][] []میں زاوی معیار حرکت محور گھماو پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--742
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 زاوی معیار حرکت ہو گا۔ (ہم نے کوئی محور گھ
+ماو لینی تھی۔یہاں محور $\OML/zplm/m/it/10 z$ \TU/JameelNooriNastaleeq(0)/b/n/10
+ لی گئی۔لہٰذا زاوی معیار حرکت اس محور[]
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 741--742
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 گھماو کے لحاظ سے ہو گا جس پر اسے حاصل کیا 
+گیا ہو۔) ساتھ ہی اس مساوات میں $\OML/zplm/m/it/10 I$ \TU/JameelNooriNastaleeq(0
+)/b/n/10 بھی اسی محور گھماو کے[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 743.
+LaTeX Info: Redefining \sffamily on input line 743.
+LaTeX Info: Redefining \ttfamily on input line 743.
+LaTeX Info: Redefining \rmfamily on input line 743.
+LaTeX Info: Redefining \sffamily on input line 743.
+LaTeX Info: Redefining \ttfamily on input line 743.
+
+Underfull \hbox (badness 10000) in paragraph at lines 769--770
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پر ایک جتنی مستقل مماسی قوت $[]$ لاگو کرتا
+ ہے۔ تینوں جسم ابتدائی طور ساکن ہیں، ان کی کمیت اور رداس ایک برابر[]
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 769--770
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہیں۔ گھومتے اجسام کی درجہ بندی (ا) وسطی مح
+ور پر زاوی معیار حرکت اور (ب) زاوی رفتار کے لحاظ سے، اعظم قیمت[]
+ []
+
+[145]
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--786
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 نظام پر بیرونی صافی قوت مروڑ صفر ہونے کی
+ صورت میں ، نظام کا زاوی معیار حرکت $[]$ ایک[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 796.
+LaTeX Info: Redefining \sffamily on input line 796.
+LaTeX Info: Redefining \ttfamily on input line 796.
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--798
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہم توانائی کی بقا اور خطی معیار حرکت کی بق
+ا کی بات کر چکے، جو طاقتور قوانین بقا ہیں۔اب زاوی معیار حرکت[]
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 796--798
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی بقا کی بات کرتے ہیں، جو تیسرا قانون بقا
+ ہے۔ ہم مساوات [][]٥.٢٩[][] $\OT1/zplm/m/n/10 ([] = [] [] /  [] \OML/zplm/m/it/
+10 t\OT1/zplm/m/n/10 )$ []\TU/JameelNooriNastaleeq(0)/b/n/10 سے آغاز کرتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--798
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہیں، جو نیوٹن کے قانون دوم کا زاوی روپ ہے۔
+ بیرونی صافی قوت مروڑ کے عدم موجودگی میں یہ مساوات[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 801.
+LaTeX Info: Redefining \sffamily on input line 801.
+LaTeX Info: Redefining \ttfamily on input line 801.
+
+Overfull \hbox (0.51088pt too wide) in paragraph at lines 805--805
+ [][][][] 
+ []
+
+
+Overfull \hbox (0.51088pt too wide) in paragraph at lines 805--805
+ [][][][] 
+ []
+
+
+Overfull \hbox (0.51088pt too wide) in paragraph at lines 805--805
+ [][][][] 
+ []
+
+
+Overfull \hbox (0.51088pt too wide) in paragraph at lines 805--805
+ [][][][] 
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 811.
+LaTeX Info: Redefining \sffamily on input line 811.
+LaTeX Info: Redefining \ttfamily on input line 811.
+LaTeX Info: Redefining \rmfamily on input line 811.
+LaTeX Info: Redefining \sffamily on input line 811.
+LaTeX Info: Redefining \ttfamily on input line 811.
+
+Underfull \hbox (badness 10000) in paragraph at lines 814--816
+[]   \TU/JameelNooriNastaleeq(0)/b/n/10 نظام پر صافی بیرونی قوت مروڑ صفر ہونے ک
+ی صورت میں، اس سے قطع نظر کہ نظام کے اندر کیا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 819.
+LaTeX Info: Redefining \sffamily on input line 819.
+LaTeX Info: Redefining \ttfamily on input line 819.
+LaTeX Info: Redefining \rmfamily on input line 819.
+LaTeX Info: Redefining \sffamily on input line 819.
+LaTeX Info: Redefining \ttfamily on input line 819.
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 مساوات [][]٥.٣٢[][] []اور مساوات [][]٥.٣
+٣[][] []سمتیہ مساوات ہیں: جو تین آپس میں عمود دار رخ پر زاوی معیار حرکت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی بقا کی تین جزوی مساوات دیں گی۔نظام پر ب
+یرونی صافی قوت مروڑ موجود ہونے کی صورت میں ، قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مروڑ پر منحصر ہو گا ، آیا زاوی معیار حرکت 
+کی بقا صرف ایک یا دو رخ ہو ، تاہم ، تینوں رخ زاوی معیار حرکت کی[]
+ []
+
+[146]
+Underfull \hbox (badness 10000) in paragraph at lines 827--828
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 یہ ایک طاقتور فقرہ ہے: یہاں ہم نظام کے ا
+بتدائی اور اختتامی حالت میں دلچسپی رکھتے ہیں؛ درمیانی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 829.
+LaTeX Info: Redefining \sffamily on input line 829.
+LaTeX Info: Redefining \ttfamily on input line 829.
+LaTeX Info: Redefining \rmfamily on input line 829.
+LaTeX Info: Redefining \sffamily on input line 829.
+LaTeX Info: Redefining \ttfamily on input line 829.
+LaTeX Info: Redefining \rmfamily on input line 829.
+LaTeX Info: Redefining \sffamily on input line 829.
+LaTeX Info: Redefining \ttfamily on input line 829.
+LaTeX Info: Redefining \rmfamily on input line 829.
+LaTeX Info: Redefining \sffamily on input line 829.
+LaTeX Info: Redefining \ttfamily on input line 829.
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--831
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کریں کسی طرح جسم، محور گھماو کے لحاظ سے کم
+یت کی تقسیم نو کر کے ، محور گھماو پر اپنا گھمیری جمود تبدیل کر تا ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اس مساوات میں زیر نوشت $\OML/zplm/m/it/10 
+i$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 f$ \TU/JameelNoori
+Nastaleeq(0)/b/n/10 کمیتی تقسیم نو سے قبل اور اس کے بعد گھمیری جمود اور زاوی رف
+تار[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 836.
+LaTeX Info: Redefining \sffamily on input line 836.
+LaTeX Info: Redefining \ttfamily on input line 836.
+LaTeX Info: Redefining \rmfamily on input line 836.
+LaTeX Info: Redefining \sffamily on input line 836.
+LaTeX Info: Redefining \ttfamily on input line 836.
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 باقی دو قوانین بقا کی طرح، جن پر ہم بحث 
+کر چکے ہیں، مساوات [][]٥.٣٢[][] []اور مساوات [][]٥.٣٣[][] []نیوٹنی میکانیات کی 
+حدود[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سے باہر بھی قابل اطلاق ہیں۔ ان کا اطلاق ان
+ ذروں پر بھی ہو گا جو روشنی کی رفتار کے قریب رفتار پر حرکت میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہوں (جہاں نیوٹنی میکانیات کارآمد نہیں رہتی
+ اور جہاں خصوصی نظریہ اضافت استعمال کرنا ہو گا)، اور ان کا اطلاق[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 زیر جوہر ذروں پر بھی ہو گا (جہاں کوانٹم می
+کانیات کا راج چلتا ہے)۔ آج تک ایسی کوئی مثال نہیں دیکھی گئی جو زاوی معیار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 842--844
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 چکر کھاتا رضاکار \TU/JameelNooriNa
+staleeq(0)/b/n/10 شکل 11.‏16 میں ایک طالب علم تپائی پر ، جو انتصابی محور پر گھو
+م سکتی ہے، بیٹھا دکھایا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 842--844
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 گیا ہے۔ پھیلے ہاتھوں میں وزن تھامے طالب عل
+م کو ابتدائی زاوی رفتار $\OML/zplm/m/it/10 ![]$ \TU/JameelNooriNastaleeq(0)/b/n
+/10 سے گھمایا گیا۔ اس کا زاوی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 846.
+LaTeX Info: Redefining \sffamily on input line 846.
+LaTeX Info: Redefining \ttfamily on input line 846.
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--848
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 طالب علم ہاتھ جسم کے قریب کرتا ہے؛ کمیت 
+محور گھماو کے قریب کرنے سے طالب علم کا گھمیری[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--848
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جمود $\OML/zplm/m/it/10 I[]$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 سے گھٹ کر $\OML/zplm/m/it/10 I[]$ \TU/JameelNooriNastalee
+q(0)/b/n/10 ہو گا ، اور اس کے گھومنے کی شرح $\OML/zplm/m/it/10 ![]$ \TU/JameelN
+ooriNastaleeq(0)/b/n/10 سے بڑھ کر $\OML/zplm/m/it/10 ![]$ \TU/JameelNooriNastal
+eeq(0)/b/n/10 ہو گی۔ ہاتھ پھیلا کر (وزن دور کر کے)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--848
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 طالب علم اپنی رفتار دوبارہ گھٹاتا ہے۔ طالب
+ علم ، تپائی، اور وزن پر مشتمل نظام پر کوئی صافی بیرونی قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--848
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مروڑ عمل نہیں کرتی۔ یوں،اس سے قطع نظر کہ ط
+الب علم اپنے ہاتھ کہاں رکھتا ہے، محور گھماو پر نظام کا[]
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 845--848
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 زاوی معیار حرکت تبدیل نہیں ہو گا۔ شکل 11.‏
+16a میں طالب علم کا زاوی رفتار $\OML/zplm/m/it/10 ![]$ \TU/JameelNooriNastaleeq
+(0)/b/n/10 کافی کم ہے اور اس کا[]
+ []
+
+[147]
+LaTeX Info: Redefining \rmfamily on input line 849.
+LaTeX Info: Redefining \sffamily on input line 849.
+LaTeX Info: Redefining \ttfamily on input line 849.
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--851
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 غوطہ باز \TU/JameelNooriNastaleeq(
+0)/b/n/10 شکل 11.‏17 میں کمانی دار تختہ سے غوطہ باز ڈیڑھ کلابازیاں کھاتا دکھایا
+ گیا ہے۔ جیسا آپ توقع[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--851
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کر سکتے ہیں، اس کا مرکز کمیت قطع مکافی راہ
+ پر چلتا ہے۔ کمانی دار تختے سے ، کلاباز اپنے مرکز کمیت سے گزرتی محور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--851
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پر ، غیر مبہم زاوی معیار حرکت $[]$ کے ساتھ
+ روانا ہوتا ہے، جو شکل 11.‏17 میں صفحہ کو عمود دار ہو گا۔ پرواز[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--851
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کے دوران کلاباز پر کوئی صافی بیرونی قوت مر
+وڑ عمل نہیں کرتی، لہٰذا محور گھماو پر اس کا زاوی معیار حرکت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--851
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 تبدیل نہیں ہو سکتا۔ ہاتھ اور پیر جسم کے قر
+یب کرنے پر اسی محور کے لحاظ سے، اس کے گھمیری جمود میں کمی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--851
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 رونما ہو گی، اور یوں مساوات [][]٥.٣٤[][] [
+]کے تحت اس کے زاوی رفتار میں اضافہ پیدا ہو گا۔ سطح پانی کو پہنچ کر کلاباز[]
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 848--851
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کم چھینٹیں اڑائے۔ زیادہ پیچیدہ غوطہ، جس می
+ں کلاباز جسم کو بل دیتے ہوئے کلابازیاں کھاتا ہے، پوری پرواز کے دوران ، غوطہ باز
+[]
+ []
+
+) [148] (./answer.tex) [149
 
 
 
 
-] [146
+] [150
 
 
 ]
@@ -3559,12 +3921,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 58696 strings out of 476191
- 1586367 string characters out of 9562072
+ 58711 strings out of 476191
+ 1586671 string characters out of 9562072
  2352263 words of memory out of 7000000
- 78393 multiletter control sequences out of 15000+600000
+ 78408 multiletter control sequences out of 15000+600000
  495444 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 115i,16n,118p,2628b,647s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,18n,118p,2628b,647s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (29 pages).
+Output written on physics.pdf (33 pages).
