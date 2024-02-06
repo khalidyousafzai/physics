@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  4 FEB 2024 15:35
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  6 FEB 2024 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202424935.tex)...disabled (restricted).
+runsystem(touch w18-test-2024261007.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202424935.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2024261007.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -2204,10 +2204,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--53
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 52--53
+Underfull \hbox (badness 2837) in paragraph at lines 52--53
 []\TU/JameelNooriNastaleeq(2)/b/n/10 سائیکل کے لڑھکنی پہیے کا \TU/AASameerSagar
-NastaleeqBold(0)/m/n/10 وقتیہ افشا [][][] []\TU/JameelNooriNastaleeq(2)/b/n/10 
-پیش ہے۔ آپ دیکھ کر بتا سکتے ہیں کہ پہیے کا بالا حصہ زیادہ تیزی سے حرکت کرتا[]
+NastaleeqBold(0)/m/n/10 وقتی افشا [][][] []\TU/JameelNooriNastaleeq(2)/b/n/10 پ
+یش ہے۔ آپ دیکھ کر بتا سکتے ہیں کہ پہیے کا بالا حصہ زیادہ تیزی سے حرکت کرتا[]
  []
 
 
@@ -2224,14 +2224,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
 Underfull \hbox (badness 10000) in paragraph at lines 57--58
 []\TU/JameelNooriNastaleeq(2)/b/n/10 شکل 11.‏6 میں پہیے کا لڑھکاو نئے انداز میں
- پیش کیا گیا ہے؛ جس نقطے پر پہیا سڑک مس کرتا ہے، اس[]
+ پیش کیا گیا ہے؛ جس نقطے پر پہیا سڑک مس کرتا[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 57--58
-[]\TU/JameelNooriNastaleeq(2)/b/n/10 نقطے سے گزرتی محور پر پہیا گھومتا ہے؛ یہ م
-حور $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 رفتار سے حرکت می
-ں ہو گی۔ہم لڑھکاو کو ، شکل 11.‏4c[]
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 ہے،”سڑک “کے اس نقطے سے گزرتی محور پر پہیا 
+گھومتا ہے؛ یہ محور $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(2)/b/n/10 ر
+فتار سے حرکت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+[]\TU/JameelNooriNastaleeq(2)/b/n/10 میں ہو گی۔ہم لڑھکاو کو ، شکل 11.‏4c میں نق
+طہ $\OML/zplm/m/it/10 P$ \TU/JameelNooriNastaleeq(2)/b/n/10 سے گزرتی ، پہیے کو 
+عموددار، محور پر خالص گھماو تصور کرتے ہیں۔ یوں[]
  []
 
 
@@ -3803,14 +3810,14 @@ LaTeX Info: Redefining \ttfamily on input line 849.
 
 Underfull \hbox (badness 10000) in paragraph at lines 848--851
 [][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 غوطہ باز \TU/JameelNooriNastaleeq(
-0)/b/n/10 شکل 11.‏17 میں کمانی دار تختہ سے غوطہ باز ڈیڑھ کلابازیاں کھاتا دکھایا
- گیا ہے۔ جیسا آپ توقع[]
+0)/b/n/10 شکل 11.‏17 میں کمانی دار تختے سے غوطہ باز ڈیڑھ کلابازیاں کھاتا دکھایا
+ گیا ہے۔ جیسا آپ توقع کر[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 848--851
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 کر سکتے ہیں، اس کا مرکز کمیت قطع مکافی راہ
- پر چلتا ہے۔ کمانی دار تختے سے ، کلاباز اپنے مرکز کمیت سے گزرتی محور[]
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سکتے ہیں، اس کا مرکز کمیت قطع مکافی راہ پر
+ چلتا ہے۔ کمانی دار تختے سے ، کلاباز اپنے مرکز کمیت سے گزرتی محور[]
  []
 
 
@@ -3844,12 +3851,894 @@ Underfull \hbox (badness 5161) in paragraph at lines 848--851
 []
  []
 
-) [148] (./answer.tex) [149
+
+Underfull \hbox (badness 2809) in paragraph at lines 851--853
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 لمبی چھلانگ \TU/JameelNooriNastale
+eq(0)/b/n/10 جب کھلاڑی دوڑ کر لمبی چھلانگ کے لئے زمین سے اچھلتا ہے، افقی محور پ
+ر کھلاڑی کو آخری قدم[]
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 851--853
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی ٹانگ آگے رخ گھماو کا زاوی معیار حرکت دی
+تا ہے۔ ایسا گھماو کھلاڑی کو زمین پر صحیح طریقے سے اترنے[]
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 851--853
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 نہیں دیتا۔زمین پر پہنچ کر کھلاڑی کی ٹانگیں
+ اکٹھی اور اس زاویے پر آگے ہونی چاہیے کہ ریت میں ایڑیوں کا نشان زیادہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 851--853
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سے زیادہ فاصلے پر بنے۔ اڑان کے بعد کوئی بی
+رونی قوت مروڑ عمل کرتی ہے لہٰذا زاوی معیار حرکت ( بقا کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 851--853
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 بدولت) تبدیل نہیں ہو گا۔ البتہ، کھلاڑی باز
+ووں کو چکر دے کر زاوی معیار حرکت کا بیشتر حصہ بازووں کو منتقل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--858
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 ایک چھوٹا قرص ، جس کے چکا پر بھونرا بیٹھ
+ا ہے، انتصابی محور کے گرد گھوم رہا ہے۔ اگر بھونرا قرص کے وسط کی جانب[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--863
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--865
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 شکل 11.‏20a میں ایک طالب علم تپائی پر بی
+ٹھا دکھایا گیا ہے۔ تپائی انتصابی محور پر گھوم سکتی ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--865
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 طالب علم، جو ابتدائی طور ساکن ہے، سائیکل ک
+ا پہیا پکڑے ہوئے ہے، جس کے چکا کا وزن سیسہ سے بڑھایا گیا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 868--870
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 طالب علم پہیے کو الٹ کرتا ہے (شکل 11.‏20
+b) لہٰذا اب فضا سے نیچے دیکھتے ہوئے پہیا گھڑی وار گھومتا ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 868--870
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اس کا زاوی معیار حرکت اب $\OMS/zplm/m/n/10
+ ^^@[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہو گا۔ پہیا الٹ کرنے کی وجہ سے طالب 
+علم، تپائی، اور پہیے کا وسط[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 868--870
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اپنے وسطی محور کے گرد گھومتا ہے، تاہم اس س
+ے مرکب جسم کا کمیتی تقسیم اثر انداز نہیں ہوتا؛ یوں $\OML/zplm/m/it/10 I[]$ \TU/
+JameelNooriNastaleeq(0)/b/n/10 کی قیمت وہی ہو گی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 868--870
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 چاہے پہیا گھومتا ہو یا نہ گھومتا ہو۔) پہیا
+ الٹ کرنے کے بعد، مرکب جسم کس زاوی رفتار $\OML/zplm/m/it/10 ![]$ \TU/JameelNoor
+iNastaleeq(0)/b/n/10 اور کس رخ[]
+ []
+
+[148]
+LaTeX Info: Redefining \rmfamily on input line 875.
+LaTeX Info: Redefining \sffamily on input line 875.
+LaTeX Info: Redefining \ttfamily on input line 875.
+
+Underfull \hbox (badness 4328) in paragraph at lines 874--877
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 زاوی رفتار $\OML/zplm/m/it/10 ![]$ \TU/J
+ameelNooriNastaleeq(0)/b/n/10 کا ، جو ہم جاننا چاہتے ہیں، تپائی کے محور گھماو پ
+ر ، مرکب جسم کے اختتامی زاوی معیار حرکت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--879
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 پہیے کی ابتدائی زاوی رفتار $\OML/zplm/m/
+it/10 ![]$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور پہیے کے وسط کے گرد ، پہیے کے 
+زاوی معیار حرکت $[]$ کا تعلق یہی مساوات[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کر سکتی تھی۔ (پہیا الٹ کرتے وقت، طالب علم 
+اور پہیے پر قوتوں سے پیدا قوت مروڑ نظام کی اندرونی ہیں۔)[]
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 883--886
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 حساب: \TU/JameelNooriNastaleeq(0)/
+b/n/10 شکل 11.‏20c میں سمتیات $[]$ کی بقا ظاہر کرتے ہیں۔اس بقا کو انتصابی محور 
+کے ہمراہ اجزاء[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 889.
+LaTeX Info: Redefining \sffamily on input line 889.
+LaTeX Info: Redefining \ttfamily on input line 889.
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--890
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں $\OML/zplm/m/it/10 i$ \TU/JameelNoori
+Nastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 f$ \TU/JameelNooriNastaleeq(0)/b/n/1
+0 بالترتیب (پہیا الٹ کرنے سے قبل) ابتدائی حال اور (پہیا الٹ کرنے کے بعد) اختتام
+ی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--890
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 حال ظاہر کرتی ہیں۔ پہیا الٹ کرنے سے پہیے ک
+ا زاوی معیار حرکت سمتیہ الٹ ہوا لہٰذا ہم $\OML/zplm/m/it/10 L[]$ \TU/JameelNoor
+iNastaleeq(0)/b/n/10 کی جگہ[]
+ []
+
+
+Underfull \hbox (badness 4328) in paragraph at lines 888--890
+[]$\OMS/zplm/m/n/10 ^^@\OML/zplm/m/it/10 L[]$ \TU/JameelNooriNastaleeq(0)/b/n/1
+0 ڈالتے ہیں۔ اب اگر $\OML/zplm/m/it/10 L[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0
+$ \TU/JameelNooriNastaleeq(0)/b/n/10 (ابتدائی طور پر طالب علم، تپائی، اور پہیے 
+کا وسط ساکن تھے) رکھا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 893.
+LaTeX Info: Redefining \sffamily on input line 893.
+LaTeX Info: Redefining \ttfamily on input line 893.
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--894
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مساوات [][]٥.٣١[][] []استعمال کرتے ہوئے، ہ
+م اب $\OML/zplm/m/it/10 I[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی جگہ $\OML/zp
+lm/m/it/10 I[]![]$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 L[
+]$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی جگہ $\OML/zplm/m/it/10 I[]![]$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 ڈال کر $\OML/zplm/m/it/10 ![]$ \TU/JameelNooriNasta
+leeq(0)/b/n/10 کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--899
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مثبت جواب کہتی ، فضا سے دیکھتے ہوئے، تپائی
+ کے محور پر طالب علم خلاف گھڑی گھومتا ہے۔ اگر طالب[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--899
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 علم رکھنا چاہے، اس کو پہیا واپس اصل حالت م
+یں لانا ہو گا (یعنی ایک مرتبہ دوبارہ پہیا الٹ کرنا ہو[]
+ []
+
+[149]
+Underfull \hbox (badness 10000) in paragraph at lines 904--906
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کمیت $\OT1/ppl/m/n/10 6.00\OML/zplm/m/it/1
+0 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور رداس $\OML/zplm/m/it/10 R$ \TU/Jame
+elNooriNastaleeq(0)/b/n/10 کے قرص پر کمیت $\OML/zplm/m/it/10 m$ \TU/JameelNoori
+Nastaleeq(0)/b/n/10 کا بھونرا سوار ہے۔قرص انتصابی وسطی محور پر $\OML/zplm/m/it/
+10 ![] \OT1/zplm/m/n/10 =$[]
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 904--906
+[]$\OT1/ppl/m/n/10 1.50 [] s[]$\TU/JameelNooriNastaleeq(0)/b/n/10 زاوی رفتار سے
+ گھوم رہا ہے۔ بھونرا جو ابتدائی طور $\OML/zplm/m/it/10 r \OT1/zplm/m/n/10 = \OT
+1/ppl/m/n/10 0.800\OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر تھ
+ا، کلبلا کر قرص کے چکا پر[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 908.
+LaTeX Info: Redefining \sffamily on input line 908.
+LaTeX Info: Redefining \ttfamily on input line 908.
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 (1) بھونرا کے کلبلانے سے بھونرا و قرص نظام
+ کی کمیتی تقسیم (لہٰذا گھمیری جمود) تبدیل ہوتی ہے۔ (2) بیرونی قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--912
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 حساب: \TU/JameelNooriNastaleeq(0)/
+b/n/10 ہم اختتامی زاوی رفتار جاننا چاہتے ہیں۔ہم اختتامی زاوی معیار حرکت $\OML/z
+plm/m/it/10 L[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 کو ابتدائی زاوی معیار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--912
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 حرکت $\OML/zplm/m/it/10 L[]$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 کے برابر رکھتے ہیں (چونکہ دونوں میں زاوی رفتار شامل ہے)۔ 
+ان میں گھمیری جمود بھی شامل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--915
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 وسطی محور پر گھومتے قرص کا گھمیری جمود ج
+دول 10.‏2c کے تحت $[]\OML/zplm/m/it/10 MR[]$ \TU/JameelNooriNastaleeq(0)/b/n/10
+ ہے۔ کمیت $\OML/zplm/m/it/10 M$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی جگہ $\OT1
+/ppl/m/n/10 6.00\OML/zplm/m/it/10 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ڈال کر[
+]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 920.
+LaTeX Info: Redefining \sffamily on input line 920.
+LaTeX Info: Redefining \ttfamily on input line 920.
+Missing character: There is no ِ ("650) in font zplmr7m!
+[150]
+LaTeX Info: Redefining \rmfamily on input line 941.
+LaTeX Info: Redefining \sffamily on input line 941.
+LaTeX Info: Redefining \ttfamily on input line 941.
+
+Underfull \hbox (badness 10000) in paragraph at lines 944--946
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 آپ دیکھ سکتے ہیں، چکا کی طرف بھونرا کے کلب
+لانے سے کچھ کمیت محور گھماو سے دور منتقل ہوتی ہے ، لہٰذا نظام کا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 955.
+LaTeX Info: Redefining \sffamily on input line 955.
+LaTeX Info: Redefining \ttfamily on input line 955.
+
+Underfull \hbox (badness 3503) in paragraph at lines 955--957
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 جان پائیں گے کہ چکر کھاتے \TU/AASameerSa
+garNastaleeqBold(0)/m/n/10 مسکن چرخی [][][] []\TU/JameelNooriNastaleeq(0)/b/n/1
+0 پر تجاذبی قوت عمل کر کے اس کے چکری زاوی معیار حرکت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 955--957
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سمتیہ کو (لہٰذا مسکن چرخی کو) انتصابی محور
+ کے گرد گھماتی ہے۔ اس گھومتی حرکت کو استقبالی حرکت کہتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--966
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 چکر کھاتی مسکن چرخی کے تیک سے گزرتی انتص
+ابی محور کے گرد مسکن چرخی ذیل شرح سے استقبالی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 976.
+LaTeX Info: Redefining \sffamily on input line 976.
+LaTeX Info: Redefining \ttfamily on input line 976.
+
+Underfull \hbox (badness 10000) in paragraph at lines 976--978
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دھرے پر نسب پہیا جو دھرے پر چکر کاٹ سکتا ہ
+و ، سادہ مسکن چرخی دیگا۔اگر ساکن مسکن چرخی کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 976--978
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دھرے کا ایک سر تیک پر رکھ کر (شکل 11.‏22a)
+ مسکن چرخی چوڑی جائے، وہ دھرے کے نچلے سر پر گھوم کر[]
+ []
+
+[151]
+Underfull \hbox (badness 10000) in paragraph at lines 980--983
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کو ہم پہیے کا مرکز تسلیم کرتے ہیں، عمل پیر
+ا تجاذبی قوت $\OML/zplm/m/it/10 M[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 قوت مرو
+ڑ $[]$ پیدا کرتی ہے۔ تیک کے سر[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 989.
+LaTeX Info: Redefining \sffamily on input line 989.
+LaTeX Info: Redefining \ttfamily on input line 989.
+
+Underfull \hbox (badness 10000) in paragraph at lines 988--990
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 تیز چکر کھاتی مسکن چرخی کا رویہ مختلف ہو
+ گا۔ فرض کریں دھرا افق سے اوپر وار زاویے پر رکھ کر مسکن چرخی رہا کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 988--990
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جاتی ہے۔ابتدا میں مسکن چرخی معمولی نیچے (گ
+رتے ہوئے) گھومتی ہے، لیکن اس کے بعد دھرے پر چکر کاٹتے[]
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 991--993
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 مسکن چرخی گرتی کیوں نہیں؟ \TU/Jame
+elNooriNastaleeq(0)/b/n/10 چکر نا کاٹتے ہوئے مسکن چرخی کی طرح چکر کاٹتی مسکن چر
+خی نیچے کیوں نہیں گرتی؟ رہا[]
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 991--993
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کرنے پر مسکن چرخی گرنا شروع کرتی ہے، تاہم 
+$\OML/zplm/m/it/10 M[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی پیدا کردہ قوت مرو
+ڑ ابتدائی زاوی معیار حرکت کو صفر[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 994.
+LaTeX Info: Redefining \sffamily on input line 994.
+LaTeX Info: Redefining \ttfamily on input line 994.
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--996
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 یہ سمجھنے کے لئے کہ ابتدائی غیر صفر زاوی
+ معیار حرکت کیسے مسکن چرخی کو استقبالی حرکت پر مجبور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--996
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کرتا ہے، ہمیں چکر سے پیدا مسکن چرخی کے زاو
+ی معیار حرکت $[]$ پر غور کرنا ہو گا۔ صورت حال آسان بنانے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--996
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی خاطر، ہم فرض کرتے ہیں کہ $[]$ کے لحاظ س
+ے استقبالی حرکت سے پیدا زاوی معیار حرکت قابل نظر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--996
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 انداز ہے۔ساتھ ہی ، جیسا شکل aa.‏22b میں دک
+ھایا گیا ہے، ہم فرض کرتے ہیں کہ جس لمحے استقبال حرکت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--1000
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں دھرے کے لحاظ سے $\OML/zplm/m/it/10 I$
+ \TU/JameelNooriNastaleeq(0)/b/n/10 مسکن چرخی کا گھمیری جمود اور دھرے پر چکر کا
+ٹنے کی پہیے کی زاوی رفتار $\OML/zplm/m/it/10 !$ \TU/JameelNooriNastaleeq(0)/b/n
+/10 ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--1000
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جیسا شکل 11.‏22b میں دکھایا گیا ہے سمتیہ $
+[]$ دھرے کے ہمراہ ہو گا۔ چونکہ $[]$ معیار اثر کے بازو $[]$ کو متوازی ہے،[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1001.
+LaTeX Info: Redefining \sffamily on input line 1001.
+LaTeX Info: Redefining \ttfamily on input line 1001.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1001--1003
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 مساوات [][]٥.٤١[][] []کہتی ہے، وقتی وقفہ
+ $[] \OML/zplm/m/it/10 t$ \TU/JameelNooriNastaleeq(0)/b/n/10 میں قوت مروڑ $[]$ 
+مسکن چرخی کے زاوی معیار حرکت کی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1006.
+LaTeX Info: Redefining \sffamily on input line 1006.
+LaTeX Info: Redefining \ttfamily on input line 1006.
+LaTeX Info: Redefining \rmfamily on input line 1008.
+LaTeX Info: Redefining \sffamily on input line 1008.
+LaTeX Info: Redefining \ttfamily on input line 1008.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 مساوات [][]٥.٤٤[][] []کے تحت $[] []$ کا 
+رخ $[]$ کے رخ ، $[]$ کو عمود دار ہو گا۔ زاوی معیار حرکت کی قدر $\OML/zplm/m/it/
+10 L$ \TU/JameelNooriNastaleeq(0)/b/n/10 تبدیل کیے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 بغیر، $[]$ کے رخ میں $[]$ تبدیل کرنے کا وا
+حد طریقہ، جیسا شکل 11.‏22c میں دکھایا گیا ہے، محور $\OML/zplm/m/it/10 z$ \TU/Ja
+meelNooriNastaleeq(0)/b/n/10 کے گرد[]
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 1008--1009
+[]$[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 گھمانا ہے۔ $[]$ کی قدر برقرار رہتی ہے
+،سمتیہ $[]$ کا سر دائری راہ پر چلتا ہے، اور $[]$ ہمیشہ اس راہ کو مماسی رہتا ہے۔
+[]
+ []
+
+[152]
+LaTeX Info: Redefining \rmfamily on input line 1011.
+LaTeX Info: Redefining \sffamily on input line 1011.
+LaTeX Info: Redefining \ttfamily on input line 1011.
+LaTeX Info: Redefining \rmfamily on input line 1011.
+LaTeX Info: Redefining \sffamily on input line 1011.
+LaTeX Info: Redefining \ttfamily on input line 1011.
+LaTeX Info: Redefining \rmfamily on input line 1016.
+LaTeX Info: Redefining \sffamily on input line 1016.
+LaTeX Info: Redefining \ttfamily on input line 1016.
+LaTeX Info: Redefining \rmfamily on input line 1016.
+LaTeX Info: Redefining \sffamily on input line 1016.
+LaTeX Info: Redefining \ttfamily on input line 1016.
+LaTeX Info: Redefining \rmfamily on input line 1016.
+LaTeX Info: Redefining \sffamily on input line 1016.
+LaTeX Info: Redefining \ttfamily on input line 1016.
+
+Underfull \hbox (badness 3189) in paragraph at lines 1015--1017
+[]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 استقبال حرکت کی شرح[][][] []$\OT1/zp
+lm/m/n/10 
+$ \TU/JameelNooriNastaleeq(0)/b/n/10 تلاش کر سکتے ہیں۔ باریک وقتی وقفہ $[] \OML
+/zplm/m/it/10 t$ \TU/JameelNooriNastaleeq(0)/b/n/10 میں $[]$ میں معمولی تبدیلی 
+رونما ہو گی،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1017
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دھرا اور $[]$ محور $\OML/zplm/m/it/10 z$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 کے گرد استقبال حرکت کرتے ہوئے چھوٹے زاویہ $[]
+ \OML/zplm/m/it/10 ^^^$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے گزرتے ہیں۔ (شکل 1
+1.‏22c میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1017
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 زاویہ $[] \OML/zplm/m/it/10 ^^^$ \TU/Jamee
+lNooriNastaleeq(0)/b/n/10 بڑھا چڑھا کر پیش کیا گیا ہے، تاکہ اس کی وضاحت ہو۔) مس
+اوات [][]٥.٤٣[][] []اور مساوات[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1025.
+LaTeX Info: Redefining \sffamily on input line 1025.
+LaTeX Info: Redefining \ttfamily on input line 1025.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1026
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 یہ نتیجہ اس مفروضے کے تحت درست ہو گا کہ چک
+ر کاٹنے کی شرح $\OML/zplm/m/it/10 !$ \TU/JameelNooriNastaleeq(0)/b/n/10 زیادہ ہ
+و۔ یاد رہے، $\OML/zplm/m/it/10 !$ \TU/JameelNooriNastaleeq(0)/b/n/10 بڑھانے سے 
+$\OT1/zplm/m/n/10 
+$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1026
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 گھٹتا ہے۔ساتھ ہی یاد رکھیں، اگر تجاذبی قوت
+ $\OML/zplm/m/it/10 M[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 مسکن چرخی پر عمل نہ
+ کرتی استقبالی حرکت نہ ہوتی،[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1027.
+LaTeX Info: Redefining \sffamily on input line 1027.
+LaTeX Info: Redefining \ttfamily on input line 1027.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1028
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 مساوات [][]٥.٤٦[][][]کا اطلاق اس چکر کاٹ
+تے مسکن چرخی پر بھی ہو گا جس کا دھرا افق کے ساتھ زاویے پر ہو۔ اس کا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1036.
+LaTeX Info: Redefining \sffamily on input line 1036.
+LaTeX Info: Redefining \ttfamily on input line 1036.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1036
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1036.
+LaTeX Info: Redefining \sffamily on input line 1036.
+LaTeX Info: Redefining \ttfamily on input line 1036.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1036
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢[][])[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1036--1038
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں پہیے کے مرکز کمیت کی خطی رفتار $\OML/
+zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور وسط کے گرد پہیے کی زاو
+ی رفتار $\OML/zplm/m/it/10 !$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ پہیے کو”سڑ
+ک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1036--1038
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 “کے نقطہ $\OML/zplm/m/it/10 P$ \TU/JameelN
+ooriNastaleeq(0)/b/n/10 کے، جہاں پہیا سڑک سے تماس میں ہے، گرد لمحاتی گھومتا تصو
+ر کیا جا سکتا ہے۔اس[]
+ []
+
+[153]
+LaTeX Info: Redefining \rmfamily on input line 1040.
+LaTeX Info: Redefining \sffamily on input line 1040.
+LaTeX Info: Redefining \ttfamily on input line 1040.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1040
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٥[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1040.
+LaTeX Info: Redefining \sffamily on input line 1040.
+LaTeX Info: Redefining \ttfamily on input line 1040.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1040
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٥[][])[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1042
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں مرکز کمیت پر پہیے کا گھمیری جمود $\OM
+L/zplm/m/it/10 I[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے اور پہیے کی کمیت $\OM
+L/zplm/m/it/10 M$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ اگر پہیا مسرع کیا جائے
+ اور[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1044.
+LaTeX Info: Redefining \sffamily on input line 1044.
+LaTeX Info: Redefining \ttfamily on input line 1044.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1044
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٦[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1044.
+LaTeX Info: Redefining \sffamily on input line 1044.
+LaTeX Info: Redefining \ttfamily on input line 1044.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1044
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٦[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1048.
+LaTeX Info: Redefining \sffamily on input line 1048.
+LaTeX Info: Redefining \ttfamily on input line 1048.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1048
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.١٠[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1048.
+LaTeX Info: Redefining \sffamily on input line 1048.
+LaTeX Info: Redefining \ttfamily on input line 1048.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1048
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.١٠[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1053.
+LaTeX Info: Redefining \sffamily on input line 1053.
+LaTeX Info: Redefining \ttfamily on input line 1053.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1053
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.١٤[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1053.
+LaTeX Info: Redefining \sffamily on input line 1053.
+LaTeX Info: Redefining \ttfamily on input line 1053.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1053
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.١٤[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1061.
+LaTeX Info: Redefining \sffamily on input line 1061.
+LaTeX Info: Redefining \ttfamily on input line 1061.
+LaTeX Info: Redefining \rmfamily on input line 1061.
+LaTeX Info: Redefining \sffamily on input line 1061.
+LaTeX Info: Redefining \ttfamily on input line 1061.
+LaTeX Info: Redefining \rmfamily on input line 1061.
+LaTeX Info: Redefining \sffamily on input line 1061.
+LaTeX Info: Redefining \ttfamily on input line 1061.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1061
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ( []٥.١٥[][]،  []٥.١٦[][]،  []٥.١٧[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1061.
+LaTeX Info: Redefining \sffamily on input line 1061.
+LaTeX Info: Redefining \ttfamily on input line 1061.
+LaTeX Info: Redefining \rmfamily on input line 1061.
+LaTeX Info: Redefining \sffamily on input line 1061.
+LaTeX Info: Redefining \ttfamily on input line 1061.
+LaTeX Info: Redefining \rmfamily on input line 1061.
+LaTeX Info: Redefining \sffamily on input line 1061.
+LaTeX Info: Redefining \ttfamily on input line 1061.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1061
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ( []٥.١٥[][]،  []٥.١٦[][]،  []٥.١٧[][])[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1063
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں $[]$ اور $[]$ کے بیچ زاویہ $\OML/zplm
+/m/it/10 ^^^$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، $[]$ کو عمود دار $[]$ کا ج
+زو $\OML/zplm/m/it/10 F[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، اور $[]$ کا م
+عیار اثر کا بازو $\OML/zplm/m/it/10 r[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔
+دائیں ہاتھ کا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1068.
+LaTeX Info: Redefining \sffamily on input line 1068.
+LaTeX Info: Redefining \ttfamily on input line 1068.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1068
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.١٨[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1068.
+LaTeX Info: Redefining \sffamily on input line 1068.
+LaTeX Info: Redefining \ttfamily on input line 1068.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1068
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.١٨[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1074.
+LaTeX Info: Redefining \sffamily on input line 1074.
+LaTeX Info: Redefining \ttfamily on input line 1074.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1074
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.١٩[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1074.
+LaTeX Info: Redefining \sffamily on input line 1074.
+LaTeX Info: Redefining \ttfamily on input line 1074.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1074
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢٠[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1074.
+LaTeX Info: Redefining \sffamily on input line 1074.
+LaTeX Info: Redefining \ttfamily on input line 1074.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1074
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢١[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1074.
+LaTeX Info: Redefining \sffamily on input line 1074.
+LaTeX Info: Redefining \ttfamily on input line 1074.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1074
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.١٩[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1074.
+LaTeX Info: Redefining \sffamily on input line 1074.
+LaTeX Info: Redefining \ttfamily on input line 1074.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1074
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢٠[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1074.
+LaTeX Info: Redefining \sffamily on input line 1074.
+LaTeX Info: Redefining \ttfamily on input line 1074.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1074
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢١[][])[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1074--1076
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں $[]$ اور $[]$ کے بیچ زاویہ $\OML/zplm
+/m/it/10 ^^^$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، $[]$ کو عمود دار $[]$ اور 
+$[]$ کے جزو $\OML/zplm/m/it/10 p[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OM
+L/zplm/m/it/10 v[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہیں، اور اٹل نقطے کا مبس
+وط $[]$ سے[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1081.
+LaTeX Info: Redefining \sffamily on input line 1081.
+LaTeX Info: Redefining \ttfamily on input line 1081.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1081
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢٣[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1081.
+LaTeX Info: Redefining \sffamily on input line 1081.
+LaTeX Info: Redefining \ttfamily on input line 1081.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1081
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢٣[][])[]
+ []
+
+[154]
+LaTeX Info: Redefining \rmfamily on input line 1088.
+LaTeX Info: Redefining \sffamily on input line 1088.
+LaTeX Info: Redefining \ttfamily on input line 1088.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1088
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢٦[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1088.
+LaTeX Info: Redefining \sffamily on input line 1088.
+LaTeX Info: Redefining \ttfamily on input line 1088.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1088
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢٦[][])[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1090
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اس زاوی معیار حرکت کا وقتی تفرق نظام پر صا
+فی بیرونی قوت مروڑ (نظام سے باہر ذروں کے ساتھ باہم[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1092.
+LaTeX Info: Redefining \sffamily on input line 1092.
+LaTeX Info: Redefining \ttfamily on input line 1092.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1092
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢٩[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1092.
+LaTeX Info: Redefining \sffamily on input line 1092.
+LaTeX Info: Redefining \ttfamily on input line 1092.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1092
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٢٩[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1098.
+LaTeX Info: Redefining \sffamily on input line 1098.
+LaTeX Info: Redefining \ttfamily on input line 1098.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1098
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٣١[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1098.
+LaTeX Info: Redefining \sffamily on input line 1098.
+LaTeX Info: Redefining \ttfamily on input line 1098.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1098
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٣١[][])[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1100--1102
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 زاوی معیار حرکت کی بقا \TU/JameelN
+ooriNastaleeq(0)/b/n/10 نظام پر صافی بیرونی قوت مروڑ صفر ہونے کی صورت میں نظام 
+کا زاوی معیار[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1105.
+LaTeX Info: Redefining \sffamily on input line 1105.
+LaTeX Info: Redefining \ttfamily on input line 1105.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1105
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٣٢[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1105.
+LaTeX Info: Redefining \sffamily on input line 1105.
+LaTeX Info: Redefining \ttfamily on input line 1105.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1105
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٣٣[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1105.
+LaTeX Info: Redefining \sffamily on input line 1105.
+LaTeX Info: Redefining \ttfamily on input line 1105.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1105
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٣٢[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1105.
+LaTeX Info: Redefining \sffamily on input line 1105.
+LaTeX Info: Redefining \ttfamily on input line 1105.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1105
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٣٣[][])[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1110
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 مسکن چرخی کی استقبالی حرکت \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 چکر کاٹتی مسکن چرخی تیک سے گزرتی انتصابی محور پر ذی
+ل شرح سے استقبال[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1112.
+LaTeX Info: Redefining \sffamily on input line 1112.
+LaTeX Info: Redefining \ttfamily on input line 1112.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1112
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٤٦[][])[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1112.
+LaTeX Info: Redefining \sffamily on input line 1112.
+LaTeX Info: Redefining \ttfamily on input line 1112.
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 1112
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ([]٥.٤٦[][])[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1121--1123
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.١:  ایک کمیت اور ایک مستقل رفتار پ
+ر چلتے ہوئے تین ذروں کے سمتی رفتار سمتیات شکل 11.‏23 میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1121--1123
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دکھائے گئے ہیں۔ نقاط $\OML/zplm/m/it/10 a$
+\TU/JameelNooriNastaleeq(0)/b/n/10 ، $\OML/zplm/m/it/10 b$\TU/JameelNooriNastal
+eeq(0)/b/n/10 ، $\OML/zplm/m/it/10 c$\TU/JameelNooriNastaleeq(0)/b/n/10 ، اور $
+\OML/zplm/m/it/10 d$ \TU/JameelNooriNastaleeq(0)/b/n/10 چوکور کی راس پر جبکہ $\
+OML/zplm/m/it/10 e$ \TU/JameelNooriNastaleeq(0)/b/n/10 اس کے مرکز پر ہے۔ان نقطو
+ں کی درجہ بندی،[]
+ []
+
+[155]
+Underfull \hbox (badness 10000) in paragraph at lines 1123--1127
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٢:  ذرہ $\OML/zplm/m/it/10 A$ \TU
+/JameelNooriNastaleeq(0)/b/n/10 اور ذرہ $\OML/zplm/m/it/10 B$ \TU/JameelNooriNa
+staleeq(0)/b/n/10 کا $\OML/zplm/m/it/10 xyz$ \TU/JameelNooriNastaleeq(0)/b/n/10
+ محدد $\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 1 m, 1 m, 0\OT1/zplm/m/n/10 )$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 اور $\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 1 m, 0, 1 m\
+OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے (شکل 11.‏24)۔ہر ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1123--1127
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ذرے پر تین گنتی دار قوت عمل کرتی ہیں، جن ک
+ی قدر ایک برابر اور رخ ایک ایک محددی محور کے رخ ہے۔ (ا) کون سی[]
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 1123--1127
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 قوت مبدا پر محور $\OML/zplm/m/it/10 y$ \TU
+/JameelNooriNastaleeq(0)/b/n/10 کے متوازی قوت مروڑ پیدا کرتی ہے؟ ( ب) مبدا کے ل
+حاظ سے آرے پر قوت مروڑ کی قدر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1127--1132
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٣:  ڈوری دار لٹو کا دھاگہ (ا) قوت
+ $[]$ سے (جس کا خط عمل میز پر نقطہ تماس سے گزرتا ہے)، (ب)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1127--1132
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 قوت $[]$ (جس کا خط عمل نقطہ تماس سے بلندی 
+پر گزرتا ہے)، اور (ج) قوت $[]$ (جس کا خط عمل نقطہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1132--1136
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٤:  کسی مقررہ نقطہ کے لحاظ سے ذرے
+ کے تعین گر سمتیہ $[]$ کی قدر $\OT1/ppl/m/n/10 3 m$ \TU/JameelNooriNastaleeq(0)
+/b/n/10 ، اور ذرے پر قوت $[]$ کی قدر[]
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 1136--1141
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٥:  مبدا پر رکھے ذرے پر ایک قدر ک
+ی تین قوت عمل کرتے ہیں (شکل 11.‏26)۔ ($[]$ سیدھا صفحے کے اندر[]
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 1136--1141
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 رخ عمل کرتی ہے۔) قوتوں کی درجہ بندی، اعظم 
+قیمت اول رکھ کر، (ا) نقطہ $\OML/zplm/m/it/10 P[]$ \TU/JameelNooriNastaleeq(0)/b
+/n/10 ، (ب) نقطہ $\OML/zplm/m/it/10 P[]$\TU/JameelNooriNastaleeq(0)/b/n/10 ، او
+ر (ج) نقطہ $\OML/zplm/m/it/10 P[]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1150
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٧:  انتصابی محور پر خلاف گھڑی گھو
+متے قرص کے چکا پر بھونرا بیٹھا ہے۔ بھونرا گھومنے کے رخ چکا پر چلنا شروع[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1150
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کرتا ہے۔ کیا ذیل مقادیر کی (محور گھماو پر 
+ناپی) قدر بڑھتی ہے، گھٹتی ہے، یا تبدیل نہیں ہوتی؟ (قرص خلاف گھڑی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1145--1150
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 چلتا رہتا ہے۔) (ا) بھونرا و قرص نظام کا زا
+وی معیار حرکت، (ب) بھونرا کا زاوی معیار حرکت اور زاوی سمتی[]
+ []
+
+) [156] (./answer.tex) [157
 
 
 
 
-] [150
+] [158
 
 
 ]
@@ -3921,12 +4810,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 58711 strings out of 476191
- 1586671 string characters out of 9562072
+ 58728 strings out of 476191
+ 1587046 string characters out of 9562072
  2352263 words of memory out of 7000000
- 78408 multiletter control sequences out of 15000+600000
+ 78425 multiletter control sequences out of 15000+600000
  495444 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 115i,18n,118p,2628b,647s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,18n,118p,2628b,710s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (33 pages).
+Output written on physics.pdf (41 pages).
