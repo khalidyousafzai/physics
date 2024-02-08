@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  6 FEB 2024 16:47
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  8 FEB 2024 16:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2024261007.tex)...disabled (restricted).
+runsystem(touch w18-test-202428982.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2024261007.tex)...disabled (restricted).
+runsystem(rm -f w18-test-202428982.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -1806,7 +1806,7 @@ No file ./tex/HR_p08bDone.aux.
 (./tex/HR_p09Done.aux) (./tex/HR_p57Done.aux)
 (./tex/potentialEnergyAndConservationOfEnergy.aux)
 (./tex/centerOfMassAndLinearMomentum.aux) (./tex/rotation.aux)
-(./tex/RollingTorqueAndAngularMomentim.aux))
+(./tex/RollingTorqueAndAngularMomentum.aux))
 \openout1 = `physics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
@@ -1985,9 +1985,9 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 \openout7 = `physics.toc'.
 
  [4]
-\openout2 = `./tex/RollingTorqueAndAngularMomentim.aux'.
+\openout2 = `./tex/RollingTorqueAndAngularMomentum.aux'.
 
- (./tex/RollingTorqueAndAngularMomentim.tex [122
+ (./tex/RollingTorqueAndAngularMomentum.tex [122
 
 
 
@@ -4733,12 +4733,509 @@ Underfull \hbox (badness 10000) in paragraph at lines 1145--1150
 وی معیار حرکت، (ب) بھونرا کا زاوی معیار حرکت اور زاوی سمتی[]
  []
 
-) [156] (./answer.tex) [157
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1155
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٨:  مستطیل سل جو وسطی نقطہ $\OML/
+zplm/m/it/10 O$\TU/JameelNooriNastaleeq(0)/b/n/10 سے گزرتی انتصابی محور کے گرد 
+گھوم سکتی ہے کا فضائی نظارہ شکل 11.‏27[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1155
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 میں پیش ہے۔ سات مقامات سے ہوائی بندوق سے چ
+ھرا سل پر مارا جا سکتا ہے، جو سل میں دھنس جاتا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1155
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ چھروں کی کمیت ایک جیسی اور رفتار ایک ب
+رابر ہے۔ (ا) مقامات کی درجہ بندی، اعظم قیمت اول رکھ[]
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 1150--1155
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کر، چھرا لگنے کے بعد سل (اور چھرا) کی زاوی
+ رفتار کے لحاظ سے کریں۔ (ب) فضا سے دیکھتے ہوئے کن راہ کے لئے سل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1159
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دار وقتی دورانیوں کی درجہ بندی پہیے پر عمل
+ پیرا قوت مروڑ کی قدر کے لحاظ سے کریں۔ اعظم قیمت اول[]
+ []
+
+[156]
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1168
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.١١:  توپ کا گولا اور کنچا ساکن حا
+لت سے میلان پر نشیب وار لڑھکتے ہیں۔ کیا توپ کے گولے کا کنچے سے (ا)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1172
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.١٢:  پیتل کے ٹھوس بیلن اور لکڑی ک
+ے ٹھوس بیلن کی کمیت اور رداس ایک ہیں (لکڑی کا بیلن زیادہ لمبا[]
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 1168--1172
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے)۔ ایک ساتھ رہائی کے بعد دونوں میلان پر 
+لڑھکتے اترتے ہیں۔ (ا) کونسا بیلن زمین پر پہلے پہنچے گا، یا کیا دونوں ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1172
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ساتھ پہنچتے ہیں؟ (ب) لکڑی کے بیلن کا سر کا
+ٹ کر بیلن کو پیتل کے بیلن جتنا بنایا جاتا ہے، اور پیتل کے بیلن[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1172
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی وسطی لمبی محور میں سوراخ کر کے کمیت گھٹ
+ا کر دونوں بیلن کی کمیت برابر کی جاتی ہے۔ اب کونسا بیلن مقابلے میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1180--1182
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.١٣:  ایک گاڑی $\OT1/ppl/m/n/10 80 
+[] h[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 رفتار سے استوا سڑک پر محور $\OML/zpl
+m/m/it/10 x$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے مثبت رخ چل رہی ہے۔اس کے[]
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 1180--1182
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پہیوں کا قطر $\OT1/ppl/m/n/10 66 []$ \TU/J
+ameelNooriNastaleeq(0)/b/n/10 ہے۔ گاڑی میں سوار شخص کے لحاظ سے ، اکائی سمتیہ تر
+قیم میں ، پہیے کے (ا) وسط، (ب) بالا سر، اور[]
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 1180--1182
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 (ج) نچلے سر کی سمتی رفتار $[]$ کیا ہو گی، 
+اور پہیے کے (د) وسط ، (ہ) بالا سر، اور (و) نچلے سر کے اسراع کی قدر $\OML/zplm/m
+/it/10 a$ \TU/JameelNooriNastaleeq(0)/b/n/10 کیا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1180--1182
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہو گی؟ سڑک کے کنارے شخص کے لحاظ سے ، اکائی
+ سمتیہ ترقیم میں، پہیے کے (ز) وسط، (ح) بالا سر، اور (ط) نچلے سر کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1182--1186
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.١٤:  ایک گاڑی ، جس کے پہیوں کا قط
+ر $\OT1/ppl/m/n/10 75.0 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، $\OT1/ppl/m/
+n/10 80 [] h[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے حرکت میں ہے ۔ (ا)[]
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 1182--1186
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پہیے کے دھرے کے لحاظ سے پہیے کا زاوی رفتار
+ کیا ہو گا؟ (ب) پہیے کے $\OT1/ppl/m/n/10 30.0$ \TU/JameelNooriNastaleeq(0)/b/n/
+10 مکمل چکر میں (بغیر پھسلے) گاڑی روکی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1194
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.١٥:  افقی زمین پر $\OT1/ppl/m/n/10
+ 140 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 کا گھیرا لڑھکتا ہے۔ گھیرے کا مرکز ک
+میت $\OT1/ppl/m/n/10 0.150 m s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 رفتار سے[]
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1198
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.١٦:  ٹھوس یکساں کرہ میلان پر لڑھک
+تا اترتا ہے۔ (ا) کرہ کے مرکز کمیت کے زاوی اسراع کی قدر $\OT1/ppl/m/n/10 0.10\OM
+L/zplm/m/it/10 g$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1198
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہونے کے لئے زاویہ میلان کیا ہو گا؟ (ب) اگر
+ بلا رگڑ سل اسی میلان پر پھسل کر اترے، کیا اس کے اسراع کی قدر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1198--1203
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.١٧:  ایک گاڑی ، جس کی کمیت $\OT1/
+ppl/m/n/10 1000 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، کا پہیا $\OT1/ppl/m/
+n/10 10 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ چلتی گاڑی کے کل حرکی توانائی
+ کا کتنا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1198--1203
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 حصہ (چار) پہیوں کے دھرے پر گھماو کی بدولت 
+ہو گا؟ پہیے کو یکساں قرص تصور کریں۔ آپ کو پہیے کا رداس[]
+ []
+
+[157]
+Underfull \hbox (badness 10000) in paragraph at lines 1203--1207
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.١٨:  شکل 11.‏30 میں، $\OT1/ppl/m/
+n/10 30[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 میلان پر $\OT1/ppl/m/n/10 0.500 [
+]$ \TU/JameelNooriNastaleeq(0)/b/n/10 کمیت اور $\OT1/ppl/m/n/10 6.00 []$ \TU/Ja
+meelNooriNastaleeq(0)/b/n/10 رداس کی لڑھکنی جسم کی رفتار $\OML/zplm/m/it/10 v$[
+]
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 1203--1207
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 بالمقابل وقت $\OML/zplm/m/it/10 t$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 ترسیم کی گئی ہے۔ رفتار کی محور کا پیمانہ $\OML/zplm
+/m/it/10 v[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 4.0 m s[]$ \TU/JameelNooriNasta
+leeq(0)/b/n/10 طے کرتا ہے۔ جسم کا گھمیری جمود کیا[]
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 1207--1212
+[]$\OT1/ppl/m/n/10 30[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 زاویے کی چھت پر $\O
+ML/zplm/m/it/10 L \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 6.0 m$ \TU/JameelNooriNast
+aleeq(0)/b/n/10 فاصلہ بغیر پھسلے لڑھک کر طے کرتا ہے (شکل 11.‏31)۔ (ا) چھت سے[]
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 1207--1212
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 گرتے لمحے طولی محور پر بیلن کا زاوی رفتار 
+کیا ہو گا؟ (ب) چھت کا کنارہ زمین سے $\OML/zplm/m/it/10 H \OT1/zplm/m/n/10 = \OT
+1/ppl/m/n/10 5.0 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 بلندی پر ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1212--1217
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٢٠:  شکل 11.‏32 میں $\OT1/ppl/m/n
+/10 0.400 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 کمیت کے ٹھوس یکساں گیند کی، جو
+ محور $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر ہموار لڑھک سک
+تا ہے، مخفی[]
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 1217--1221
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٢١:  ٹھوس گیند ساکن حالت سے $\OML
+/zplm/m/it/10 H \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 6.0 m$ \TU/JameelNooriNastal
+eeq(0)/b/n/10 بلندی سے آغاز کر کے ہموار لڑھکتا ہوا $\OML/zplm/m/it/10 h \OT1/zp
+lm/m/n/10 =$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1221--1226
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٢٢:  ایک کھوکھلا کرہ جس کا رداس $
+\OT1/ppl/m/n/10 0.15 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور مرکز کمیت سے گزر
+تی محور پر گھمیری جمود[]
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 1221--1226
+[]$\OML/zplm/m/it/10 I \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.040 [] m[]$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 ہے، افق سے $\OT1/ppl/m/n/10 30[]$ \TU/JameelNooriNa
+staleeq(0)/b/n/10 زاویہ کے میلان پر ہموار لڑھک کر اوپر وار حرکت کرتا ہے۔ ابتدائ
+ی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1226--1230
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٢٣:  رداس $\OT1/ppl/m/n/10 0.30 m
+$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور کمیت $\OT1/ppl/m/n/10 10 []$ \TU/Jamee
+lNooriNastaleeq(0)/b/n/10 پہیے پر $\OT1/ppl/m/n/10 10 N$ \TU/JameelNooriNastale
+eq(0)/b/n/10 قدر کی مستقل افقی قوت $[]$ لاگو کی جاتی ہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1226--1230
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 (شکل11.‏34)۔ پہیا افقی سطح پر ہموار لڑھکتا
+ ہے، اور اس کے مرکز کمیت کے اسراع کی قدر $\OT1/ppl/m/n/10 0.60 m s[]$ \TU/Jamee
+lNooriNastaleeq(0)/b/n/10 ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1226--1230
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 (ا) اکائی سمتیہ ترقیم میں پہیے پر رگڑی قوت
+ کیا ہے؟ (ب) مرکز کمیت سے گزرتی مرکز گھماو پر پہیے کا گھمیری جمود[]
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 1230--1235
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٢٤:  پیتل کا ٹھوس گیند، جس کی کمی
+ت $\OT1/ppl/m/n/10 0.280 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، گھیر در گھی
+ر راہ کے سیدھے حصے پر رہا کرنے سے[]
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 1230--1235
+[]$\OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ (ا) اگر گھیر کے 
+فراز پر پہنچ کر گیند راہ سے علیحدہ ہونے کے دہانے پر ہو، $\OML/zplm/m/it/10 h$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 کیا ہو گی؟ (ب) اگر گیند $\OML/zplm/m/it/10 h 
+\OT1/zplm/m/n/10 =$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1235--1239
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٢٥:  \TU/JameelNooriNastaleeq(2)/
+m/n/9 غیر یکساں گیند۔ \TU/JameelNooriNastaleeq(0)/b/n/10 ایک گیند ، جس کا رداس 
+$\OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور کمیت $\OML/zplm/m/
+it/10 M$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، ساکن حالت سے میلان پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1235--1239
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہموار لڑھک کر اترنے کے بعد رداس $\OT1/ppl/
+m/n/10 0.48 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے دائری گھیر پہنچتا ہے (شکل 
+11.‏36)۔ گیند کی ابتدائی بلندی[]
+ []
+
+[158]
+Underfull \hbox (badness 3713) in paragraph at lines 1239--1244
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٢٦:  ایک چھوٹا، ٹھوس، یکساں گیند 
+نقطہ $\OML/zplm/m/it/10 P$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے پھینکا جاتا ہے
+ تا کہ گیند افقی راہ پر ہموار لڑھک کر، میلان پر[]
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 1239--1244
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 چڑھ کر، سطح مرتفع پہنچے (شکل 11.‏37)۔ سطح 
+مرتفع کے کنارے سے افقی فاصلہ $\OML/zplm/m/it/10 d$ \TU/JameelNooriNastaleeq(0)/
+b/n/10 دور گیند دوسری ( نچلی )سطح[]
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 1244--1249
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٢٧:  رداس $\OML/zplm/m/it/10 R \O
+T1/zplm/m/n/10 = \OT1/ppl/m/n/10 11 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 کا گ
+یند افقی راہ پر روانا کیا جاتا ہے (شکل 11.‏38)۔ گیند ابتدائی رفتار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1249
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 راہ کے بیچ حرکی رگڑ کا مستقل $\OT1/ppl/m/n
+/10 0.21$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ حرکی رگڑی قوت $[]$ گیند پر عمل
+ پیرا ہو کر گیند کو خطی مسرع کرتی ہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1249
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اور ساتھ ہی قوت مروڑ پیدا کرتی ہے ، جو گین
+د کو زاوی مسرع کرتی ہے۔ خطی رفتار $\OML/zplm/m/it/10 v[]$ \TU/JameelNooriNastal
+eeq(0)/b/n/10 کافی گھٹنے اور زاوی رفتار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1249
+[]$\OML/zplm/m/it/10 !$ \TU/JameelNooriNastaleeq(0)/b/n/10 کافی بڑھنے کے بعد گی
+ند گھسٹنا بند کرتا ہے اور ہموار لڑھکنا شروع کرتا ہے۔ (ا) اس لمحے پر $\OML/zplm/
+m/it/10 !$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی صورت میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1249
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 گھسٹتا ہے؟ (ہ) گیند کتنے فاصلہ گھسٹتا ہے؟ 
+(و) جس لمحے گیند ہموار لڑھکنا شروع کرتا ہے اس لمحے $\OML/zplm/m/it/10 v[]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1249--1254
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٢٨:  \TU/JameelNooriNastaleeq(2)/
+m/n/9 غیر یکساں بیلنی جسم۔ \TU/JameelNooriNastaleeq(0)/b/n/10 شکل 11.‏39 میں کم
+یت $\OML/zplm/m/it/10 M$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور رداس $\OML/zplm
+/m/it/10 R$ \TU/JameelNooriNastaleeq(0)/b/n/10 کا بیلنی جسم ہموار لڑھک کر میلان
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1249--1254
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کے مادے سے بنا ہے) پر بیرونی بیلنی خول (جو
+ مختلف یکساں کثافت کے مادے سے بنا ہے) چڑھا کر جسم بنایا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1261
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اور ڈور کی لمبائی $\OT1/ppl/m/n/10 120 []$
+ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ ڈوری دار لٹو ساکن حالت سے ڈوری کے آخری 
+سر تک لڑھکتا ہے، (ا) اس کے[]
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 1261--1265
+[]$\OT1/ppl/m/n/10 3.2 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 رداس کے دھرے کے س
+اتھ جوڑ کر بنایا گیا ہے۔ (ا) اترنے اور (ب) چڑھنے کے دوران لٹو کے اسراع کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1261--1265
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 قدر کیا ہے؟ (ج)لڑھکاو کے دوران ڈور کا تناو
+ کیا ہے؟ (د) کیا یہ ڈور کے انتہائی تناو $\OT1/ppl/m/n/10 52 []$ \TU/JameelNoori
+Nastaleeq(0)/b/n/10 کے قریب ہے؟[]
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 1261--1265
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 فرض کریں آپ اس ڈوری دار لٹو کا بڑا نمونہ (
+اسی شکل و صورت اور مادے کا) بناتے ہیں۔ (ہ) کیا اتار کے دوران بڑے لٹو[]
+ []
+
+[159]
+Underfull \hbox (badness 10000) in paragraph at lines 1271--1273
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٣١:  قوت $[] \OT1/zplm/m/n/10 = (\
+OT1/ppl/m/n/10 3.0 N\OT1/zplm/m/n/10 )[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 او
+ر $[] \OT1/zplm/m/n/10 = (\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 2.0 N\OT1/zplm/m/
+n/10 )[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ایک پسو پر عمل کرتی ہیں ، جو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1271--1273
+[]$\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 0, \OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 4.0
+ m, 5.0 m\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(0)/b/n/10 محدد پر بیٹھا ہ
+ے۔ مبدا کے لحاظ سے پسو پر صافی قوت مروڑ اکائی سمتیہ ترقیم میں[]
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 1273--1278
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٣٢:  ایک ناشپاتی پر، جو $\OT1/zpl
+m/m/n/10 (\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 2.0 m, 0, 4.0 m\OT1/zplm/m/n/10 )
+$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر واقع ہے، عمل پیرا قوت کا واحد جزو (ا) $
+\OML/zplm/m/it/10 F[] \OT1/zplm/m/n/10 =$[]
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 1284--1295
+[]$\OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 7.00 N\OT1/zplm/m/n/10 )[] \OMS/zplm/m/n/1
+0 ^^@ \OT1/zplm/m/n/10 (\OT1/ppl/m/n/10 6.00 N\OT1/zplm/m/n/10 )[]$ \TU/JameelN
+ooriNastaleeq(0)/b/n/10 ہے، اور مبدا کے لحاظ سے مطابقتی قوت مروڑ $[] \OT1/zplm/
+m/n/10 = (\OT1/ppl/m/n/10 4.00 N m\OT1/zplm/m/n/10 )[] +$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1335--1337
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٣٨:  شکل 11.‏40 میں دکھائے لمحے پر
+ ذرہ $\OML/zplm/m/it/10 P$\TU/JameelNooriNastaleeq(0)/b/n/10 ، جس کی کمیت $\OT1
+/ppl/m/n/10 2.0 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، کا تعین گر سمتیہ $[]
+$ ہے جس کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1335--1337
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 میں واقع ہیں۔ مبدا کے لحاظ سے $\OML/zplm/m
+/it/10 P$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے زاوی معیار حرکت (ا) کی قدر اور 
+(ب) رخ کیا ہے، اور $\OML/zplm/m/it/10 P$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر 
+قوت[]
+ []
+
+[160]
+Underfull \hbox (badness 10000) in paragraph at lines 1349--1358
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہیں۔ اس لمحے پر، اکائی سمتیہ ترقیم میں (ا)
+ مبدا اور (ب) نقطہ $\OT1/zplm/m/n/10 (\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 2.0, 
+\OMS/zplm/m/n/10 ^^@\OT1/ppl/m/n/10 2.0\OT1/zplm/m/n/10 ) \OT1/ppl/m/n/10 m$ \T
+U/JameelNooriNastaleeq(0)/b/n/10 کے لحاظ سے جسم کا زاوی معیار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1362--1373
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٤٢:  جس لمحے $\OT1/ppl/m/n/10 2.0
+0 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 جسم کا مبدا کے لحاظ سے ہٹاو $[] \OT1/z
+plm/m/n/10 = (\OT1/ppl/m/n/10 2.00 m\OT1/zplm/m/n/10 )[] + (\OT1/ppl/m/n/10 4.0
+0 m\OT1/zplm/m/n/10 )[] \OMS/zplm/m/n/10 ^^@$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1362--1373
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مبدا کے لحاظ سے جسم کا زاوی معیار حرکت، (ج
+) مبدا کے لحاظ سے جسم پر عمل پیرا قوت مروڑ، اور (د) جسم کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1377
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٤٣:  ایک گیند جس کی کمیت $\OT1/pp
+l/m/n/10 0.400 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے $\OT1/ppl/m/n/10 40.0 
+m s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ابتدائی رفتار سے سیدھا اوپر وار پھینک
+ا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1377
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جاتا ہے (شکل 11.‏42)۔ نقطہ رہائی سے $\OT1/
+ppl/m/n/10 2.00 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 افقی فاصلے پر واقع نقطہ $
+\OML/zplm/m/it/10 P$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے لحاظ سے ، جب گیند (ا
+) بلند ترین[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1377
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 نقطے پر ہو اور جب (ب) واپس گرتے ہوئے نصف ب
+لندی پر ہو، گیند کا زاوی معیار حرکت کیا ہو گا؟ گیند پر تجاذبی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1377
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 قوت کی قوت مروڑ $\OML/zplm/m/it/10 P$ \TU/
+JameelNooriNastaleeq(0)/b/n/10 کے لحاظ سے اس وقت کیا ہو گی جب گیند (ج) بلند تری
+ن نقطے پر ہو اور جب گیند (د)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1383--1385
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٤٤:  مبدا کے لحاظ سے ذرے پر دو قوت
+ عمل کرتی ہیں: $[]$ کی قدر $\OT1/ppl/m/n/10 2.0 N m$ \TU/JameelNooriNastaleeq(0
+)/b/n/10 اور اس کا رخ محور $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(0)/b/
+n/10 کے[]
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 1383--1385
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مثبت رخ ہے، اور $[]$ جس کی قدر $\OT1/ppl/m
+/n/10 4.0 N m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور رخ محور $\OML/zplm/m/it/1
+0 y$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے منفی رخ ہے۔ اکائی سمتیہ ترقیم میں $[
+] [] \OT1/zplm/m/n/10 /  [] \OML/zplm/m/it/10 t$ \TU/JameelNooriNastaleeq(0)/b/
+n/10 تلاش کریں،[]
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 1385--1391
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 (ا) ذرے کا زاوی معیار حرکت، (ب) ذرے پر عمل
+ پیرا قوت مروڑ، اور (ج) زاوی معیار حرکت کی تبدیلی کی[]
+ []
+
+[161]
+Underfull \hbox (badness 10000) in paragraph at lines 1391--1400
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٤٦:  محور $\OML/zplm/m/it/10 z$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 کے مثبت جانب سے دیکھتے ہوئے ذرہ مستوی $\OML/z
+plm/m/it/10 xy$ \TU/JameelNooriNastaleeq(0)/b/n/10 میں مبدا کے گرد گھڑی وار حرک
+ت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1391--1400
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کرتا ہے۔ اگر مبدا کے لحاظ سے ذرے کے زاوی م
+عیار حرکت کی قدر (ا) $\OT1/ppl/m/n/10 4.0 [] m[] s[]$\TU/JameelNooriNastaleeq(0
+)/b/n/10 ، (ب)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1391--1400
+[]$\OT1/ppl/m/n/10 4.0\OML/zplm/m/it/10 t[] [] \OT1/ppl/m/n/10 m[] s[]$\TU/Jame
+elNooriNastaleeq(0)/b/n/10 ، (ج) $\OT1/ppl/m/n/10 4.0[] [] m[] s[]$\TU/JameelNo
+oriNastaleeq(0)/b/n/10 ، اور (د) $\OT1/ppl/m/n/10 4.0 \OT1/zplm/m/n/10 / \OML/z
+plm/m/it/10 t[] [] \OT1/ppl/m/n/10 m[] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 
+ہو، اکائی سمتیہ ترقیم میں ذرے پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1400--1407
+[]$\OT1/ppl/m/n/10 3.0 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ذرے کا مقام دیتا 
+ہے (جہاں $[]$ میٹر میں اور $\OML/zplm/m/it/10 t$ \TU/JameelNooriNastaleeq(0)/b/
+n/10 سیکنڈ میں ہے)۔ (ا) مبدا کے لحاظ سے ذرے پر عمل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1400--1407
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پیرا قوت مروڑ کا ریاضی فقرہ تلاش کریں۔ (ب)
+ کیا مبدا کے لحاظ سے ذرے کا زاوی معیار حرکت بڑھ رہا[]
+ []
+
+) [162] (./answer.tex) [163
 
 
 
 
-] [158
+] [164
 
 
 ]
@@ -4804,18 +5301,18 @@ No file ./tex/HR_p08bDone.aux.
 (./tex/HR_p09Done.aux) (./tex/HR_p57Done.aux)
 (./tex/potentialEnergyAndConservationOfEnergy.aux)
 (./tex/centerOfMassAndLinearMomentum.aux) (./tex/rotation.aux)
-(./tex/RollingTorqueAndAngularMomentim.aux))
+(./tex/RollingTorqueAndAngularMomentum.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
  58728 strings out of 476191
- 1587046 string characters out of 9562072
+ 1587043 string characters out of 9562072
  2352263 words of memory out of 7000000
  78425 multiletter control sequences out of 15000+600000
  495444 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,18n,118p,2628b,710s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (41 pages).
+Output written on physics.pdf (47 pages).
