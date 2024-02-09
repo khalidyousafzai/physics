@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  8 FEB 2024 16:22
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  9 FEB 2024 15:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-202428982.tex)...disabled (restricted).
+runsystem(touch w18-test-202429923.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-202428982.tex)...disabled (restricted).
+runsystem(rm -f w18-test-202429923.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -3859,21 +3859,21 @@ eq(0)/b/n/10 جب کھلاڑی دوڑ کر لمبی چھلانگ کے لئے ز�
  []
 
 
-Underfull \hbox (badness 3333) in paragraph at lines 851--853
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی ٹانگ آگے رخ گھماو کا زاوی معیار حرکت دی
-تا ہے۔ ایسا گھماو کھلاڑی کو زمین پر صحیح طریقے سے اترنے[]
- []
-
-
-Underfull \hbox (badness 1748) in paragraph at lines 851--853
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 نہیں دیتا۔زمین پر پہنچ کر کھلاڑی کی ٹانگیں
- اکٹھی اور اس زاویے پر آگے ہونی چاہیے کہ ریت میں ایڑیوں کا نشان زیادہ[]
+Underfull \hbox (badness 10000) in paragraph at lines 851--853
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 آگے رخ گھماو کا زاوی معیار حرکت دیتا ہے۔ ا
+یسا گھماو کھلاڑی کو زمین پر صحیح طریقے سے اترنے نہیں[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 851--853
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 سے زیادہ فاصلے پر بنے۔ اڑان کے بعد کوئی بی
-رونی قوت مروڑ عمل کرتی ہے لہٰذا زاوی معیار حرکت ( بقا کی[]
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دیتا۔زمین پر پہنچ کر کھلاڑی کی ٹانگیں اکٹھ
+ی اور اس زاویے پر آگے ہونی چاہیے کہ ریت میں ایڑیوں کا نشان زیادہ سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 851--853
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 زیادہ فاصلے پر بنے۔ اڑان کے بعد کوئی بیرون
+ی قوت مروڑ عمل کرتی ہے لہٰذا زاوی معیار حرکت (کی بقا کی[]
  []
 
 
@@ -5230,12 +5230,434 @@ Underfull \hbox (badness 10000) in paragraph at lines 1400--1407
  کیا مبدا کے لحاظ سے ذرے کا زاوی معیار حرکت بڑھ رہا[]
  []
 
-) [162] (./answer.tex) [163
+
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1415
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٤٨:  تین گھومتے قرص کو دو پٹے ملات
+ے ہیں ( شکل 11.‏43 )۔ ایک پٹہ قرص $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastalee
+q(0)/b/n/10 اور $\OML/zplm/m/it/10 C$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے چکا
+ پر لپٹا ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1415
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دوسرا پٹہ قرص $\OML/zplm/m/it/10 A$ \TU/Ja
+meelNooriNastaleeq(0)/b/n/10 کے وسطی نابھ اور قرص $\OML/zplm/m/it/10 B$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 کے چکا پر لپٹا ہے۔ پٹے ہمواری سے بغیر پھسلے چکا اور
+ نابھ پر حرکت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1415
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کرتے ہیں۔ قرص $\OML/zplm/m/it/10 A$ \TU/Ja
+meelNooriNastaleeq(0)/b/n/10 کا رداس $\OML/zplm/m/it/10 R$\TU/JameelNooriNastal
+eeq(0)/b/n/10 ؛ اس کے نابھ کا رداس $\OT1/ppl/m/n/10 0.500\OML/zplm/m/it/10 R$\T
+U/JameelNooriNastaleeq(0)/b/n/10 ؛ قرص $\OML/zplm/m/it/10 B$ \TU/JameelNooriNas
+taleeq(0)/b/n/10 کا رداس $\OT1/ppl/m/n/10 0.2500\OML/zplm/m/it/10 R$\TU/JameelN
+ooriNastaleeq(0)/b/n/10 ؛ اور قرص[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1415
+[]$\OML/zplm/m/it/10 C$ \TU/JameelNooriNastaleeq(0)/b/n/10 کا رداس $\OT1/ppl/m/
+n/10 2.000\OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ قرص $\OML
+/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 C$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 کی کثافت (کمیت فی اکائی حجم) اور موٹائیاں برا
+بر ہیں۔ قرص $\OML/zplm/m/it/10 C$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور[]
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1415--1419
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٤٩:  کمیت $\OML/zplm/m/it/10 m \O
+T1/zplm/m/n/10 = \OT1/ppl/m/n/10 23 g$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے تی
+ن ذرے ، تین بلا کمیت سلاخوں سے جھکڑے ہیں ، جن کی لمبائیاں $\OML/zplm/m/it/10 d 
+\OT1/zplm/m/n/10 =$[]
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 1415--1419
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 (ا)جامد جسم کا گھمیری جمود، (ب) درمیانے ذر
+ے کے زاوی معیار حرکت کی قدر، اور (ج) جامد جسم کے زاوی معیار[]
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 1419--1425
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٥٠:  ریگ مال کا قرص ، جس کا گھمیر
+ی جمود $\OT1/ppl/m/n/10 1.2 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] [] m[]$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 ہے، برقی برما سے جوڑا گیا ہے جس کی[]
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 1419--1425
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 موٹر قرص کے وسطی محور پر $\OT1/ppl/m/n/10 
+16 N m$ \TU/JameelNooriNastaleeq(0)/b/n/10 قدر کی قوت مروڑ پیدا کرتی ہے۔ اگر قو
+ت مروڑ $\OT1/ppl/m/n/10 33 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے لئے فراہم[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1430
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٥١:  وسطی محور پر اڑن پہیے کا گھم
+یری جمود $\OT1/ppl/m/n/10 0.140 [] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ 
+اس کا زاوی معیار حرکت $\OT1/ppl/m/n/10 1.5 s$ \TU/JameelNooriNastaleeq(0)/b/n/1
+0 میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1430
+[]$\OT1/ppl/m/n/10 3.00 [] m[] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے گھٹ ک
+ر $\OT1/ppl/m/n/10 0.800 [] m[] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہو جاتا
+ ہے۔ (ا) اس دورانیے میں اڑن پہیے پر ، وسطی محور کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1430
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 لحاظ سے، اوسط قوت مروڑ کی قدر کیا ہے؟ (ب) 
+مستقل زاوی اسراع فرض کرتے ہوئے، اس دورانیے میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1430--1435
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٥٢:  ایک قرص ، جس کا گھمیری جمود 
+$\OT1/ppl/m/n/10 7.00 [] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، تابع وقت ق
+وت مروڑ $\OML/zplm/m/it/10 ^^\ \OT1/zplm/m/n/10 =$[]
+ []
+
+[162]
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1439
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٥٣:  دائری گھیرا اور چوکور سے است
+وار جسم بنایا گیا ہے (شکل 11.‏45)۔ گھیرا کا رداس $\OML/zplm/m/it/10 R$ \TU/Jame
+elNooriNastaleeq(0)/b/n/10 اور کمیت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1439
+[]$\OML/zplm/m/it/10 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ چوکور چار پتلی ی
+کساں سلاخوں سے بنایا گیا ہے جہاں ایک سلاخ کی کمیت $\OML/zplm/m/it/10 m$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 اور لمبائی $\OML/zplm/m/it/10 R$ \TU/JameelNooriNas
+taleeq(0)/b/n/10 ہے۔[]
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 1435--1439
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 انتصابی محور پر استوار جسم $\OT1/ppl/m/n/1
+0 2.5 s$ \TU/JameelNooriNastaleeq(0)/b/n/10 دوری عرصہ کی مستقل رفتار سے گھومتا 
+ہے۔ فرض کریں $\OML/zplm/m/it/10 R \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.50 m$ \T
+U/JameelNooriNastaleeq(0)/b/n/10 اور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1444
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٥٤:  ابتدائی ساکن قرص پر ، شکل 11
+.‏46 میں پیش، قوت مروڑ $\OML/zplm/m/it/10 ^^\$ \TU/JameelNooriNastaleeq(0)/b/n/
+10 عمل کرتی ہے۔ قرص وسطی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1451.
+LaTeX Info: Redefining \sffamily on input line 1451.
+LaTeX Info: Redefining \ttfamily on input line 1451.
+LaTeX Info: Redefining \rmfamily on input line 1451.
+LaTeX Info: Redefining \sffamily on input line 1451.
+LaTeX Info: Redefining \ttfamily on input line 1451.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1450--1452
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی طرف پھسل کر حرکت میں ہیں ( شکل 11.‏47 )
+۔ ان کی آپس میں مخالف سمتی رفتار $\OT1/ppl/m/n/10 1.4 m s[]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1450--1452
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ ایک پھسلن باز بلا کمیت لمبا ڈنڈا، ایک 
+سر سے پکڑ کر ، اٹھائے ہوا ہے، اور دوسرا پھسلن باز قریب گزرتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1450--1452
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 حرکی توانائی کیا ہے؟ اس کے بعد، پھسلن باز 
+ڈنڈے کو کھینچ کر قریب آتے ہیں، حتٰی کہ ان کے بیچ فاصل $\OT1/ppl/m/n/10 1.0 m$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 رہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1452--1457
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٥٦:  ایک چوہا ، جس کی کمیت $\OT1/
+ppl/m/n/10 0.17 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے،انتصابی محور پر نسب ر
+داس $\OT1/ppl/m/n/10 15 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 قرص کے چکا پر[]
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 1452--1457
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کو چکا پر کھانے کو کچھ ملتا ہے لہٰذا وہ رک
+ کر کھانا شروع کرتا ہے۔ (ا) چوہا کے رکنے کے بعد قرص کی زاوی رفتار کیا ہو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1461
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٥٧:  ایک شخص چبوترا پر کھڑا ہے۔ چ
+بوترا (بلا رگڑ) $\OT1/ppl/m/n/10 1.2$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی
+ منٹ کی زاوی رفتار سے گھوم رہا ہے۔ شخص[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1461
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کے ہاتھ باہر کو پھیلے ہوئے ہیں اور اس کے د
+ونوں ہاتھوں میں ایک ایک اینٹ ہے۔ وسطی انتصابی محور پر شخص، اینٹیں، اور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1461
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 چبوترا پر مشتمل نظام کا گھمیری جمود $\OT1/
+ppl/m/n/10 6.0 [] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔دونوں ہاتھ قریب کر
+ نے سے نظام کا گھمیری جمود گھٹ کر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1457--1461
+[]$\OT1/ppl/m/n/10 2.0 [] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہو جا تا ہے۔ 
+(ا) چبوترے کی نئی زاوی رفتار کیا ہو گی اور (ب) نظام کی نئی حرکی توانائی اور پرا
+نی حرکی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1466
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٥٨:  انہدام پذیر چکر دار ستارے کے
+ گھمیری جمود کی قیمت ابتدائی قیمت کی $[]$ ہے۔ نئی گھمیری حرکی[]
+ []
+
+[163]
+Underfull \hbox (badness 10000) in paragraph at lines 1466--1471
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٥٩:  ایک بڑے پہیے پر ، جو انتصابی
+ محور کے گرد بلا رگڑ گھوم سکتا ہے، پٹری نسب ہے (شکل 11.‏48)۔ ساکن[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1466--1471
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پٹری پر کمیت $\OML/zplm/m/it/10 m$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 کی کھلونا ریل گاڑی رکھ کر ریل گاڑی کو برقی طاقت فرا
+ہم کی جاتی ہے۔ پٹری کے لحاظ سے ریل گاڑی[]
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 1466--1471
+[]$\OT1/ppl/m/n/10 0.15 m s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 رفتار کو پہنچ
+تی ہے۔ اگر پہیے کی کمیت $\OT1/ppl/m/n/10 1.1\OML/zplm/m/it/10 m$ \TU/JameelNoor
+iNastaleeq(0)/b/n/10 اور رداس $\OT1/ppl/m/n/10 0.43 m$ \TU/JameelNooriNastaleeq
+(0)/b/n/10 ہو، اس کی زاوی رفتار کیا ہو گی؟ (پہیے کو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1475
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٦٠:  ایک چوہا رداس $\OML/zplm/m/i
+t/10 R$ \TU/JameelNooriNastaleeq(0)/b/n/10 دائری قرص کے مرکز سے چکا کی طرف چلتا
+ ہے۔ قرص انتصابی محور پر،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1475--1480
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٦١:  دو قرص کم رگڑی انتصابی دھرے 
+پر یوں نصب کیے گئے ہیں کہ انہیں مزدوج کر کے ایک جسم کی طرح[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1475--1480
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 گھمایا جا سکے۔ پہلے قرص کا گھمیری جمود ، م
+حور گھماو پر، $\OT1/ppl/m/n/10 3.30 [] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 
+ہے اور یہ خلاف گھڑی $\OT1/ppl/m/n/10 450$ \TU/JameelNooriNastaleeq(0)/b/n/10 چک
+ر فی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1475--1480
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 منٹ گھوم رہا ہے۔ دوسرا قرص، جس کا محور گھم
+او پر گھمیری جمود $\OT1/ppl/m/n/10 6.60 [] m[]$ \TU/JameelNooriNastaleeq(0)/b/n
+/10 ہے، خلاف گھڑی $\OT1/ppl/m/n/10 900$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر[
+]
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 1475--1480
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 فی منٹ سے گھوم رہا ہے۔ انہیں مزدوج کیا جات
+ا ہے۔ (ا) ان کا زاوی رفتار اب کیا ہو گا؟ اس کے برعکس اگر ابتدائی[]
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 1475--1480
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 طور پر دوسرا قرص گھڑی وار $\OT1/ppl/m/n/10
+ 900$ \TU/JameelNooriNastaleeq(0)/b/n/10 چکر فی منٹ گھومتا، تب انہیں ملانے کے ب
+عد ان کی (ب) زاوی رفتار اور (ج)[]
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 1480--1485
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٦٢:  برقی موٹر کے مدور کا وسطی مح
+ور پر گھمیری جمود $\OML/zplm/m/it/10 I[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 2.0
+ \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] [] m[]$ \TU/JameelNooriNastaleeq(0)/
+b/n/10 ہے۔ تحقیق خلائی طیارے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1480--1485
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 میں موٹر نسب کر کے طیارے کی سمت بندی کی جا
+تی ہے۔ موٹر کا دھرا طیارے کے وسطی محور کے ہمراہ ہے؛ محور پر[]
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 1489--1494
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٦٤:  ایک بھونرا جس کی کمیت $\OML/
+zplm/m/it/10 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے ایک قرص کے چکا پر بیٹھا ہ
+ے۔قرص کی کمیت $\OT1/ppl/m/n/10 4.00\OML/zplm/m/it/10 m$ \TU/JameelNooriNastalee
+q(0)/b/n/10 ہے اور[]
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 1489--1494
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 یہ انتصابی محور پر آزادانہ گھوم سکتا ہے۔ ق
+رص اور بھونرا کی ابتدائی زاوی سمتی رفتار $\OT1/ppl/m/n/10 0.260 [] s[]$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 ہے۔اس کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1494
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 بعد بھونرا نصف رداسی فاصلہ طے کر کے دھرے ک
+ے قریب آتا ہے۔ (ا) بھونرا و قرص نظام کا زاوی سمتی رفتار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1494
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کیا ہو گا؟ (ب) نظام کی نئی حرکی توانائی $\
+OML/zplm/m/it/10 K$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور ابتدائی حرکی توانائی
+ $\OML/zplm/m/it/10 K[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی نسبت $\OML/zplm/
+m/it/10 K \OT1/zplm/m/n/10 / \OML/zplm/m/it/10 K[]$ \TU/JameelNooriNastaleeq(0)
+/b/n/10 کیا ہو گی؟ (ج) حرکی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1494--1499
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٦٥:  ایک یکساں پتلی سلاخ وسطی نقط
+ہ $\OML/zplm/m/it/10 O$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر واقع انتصابی محور
+ کے گرد گھوم سکتی ہے۔ سلاخ کی لمبائی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1494--1499
+[]$\OT1/ppl/m/n/10 0.500 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور کمیت $\OT1/p
+pl/m/n/10 4.00 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے (شکل 11.‏50)۔ ساکن سلا
+خ کے ایک سر پر $\OT1/ppl/m/n/10 3.00 g$ \TU/JameelNooriNastaleeq(0)/b/n/10 گولی
+ افقی چلائی جاتی[]
+ []
+
+[164]
+Underfull \hbox (badness 1584) in paragraph at lines 1499--1505
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ، جبکہ دھرے اور چھلے کو دھرے کے ساتھ جھکڑن
+ے والی تیلیوں کی کمیت قابل نظر انداز ہے۔ گھیر کے بیرونی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1505--1510
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 زاوی رفتار سے گھوم رہی ہے۔ محور گھماو پر ت
+ھالی کا گھمیری جمود $\OT1/ppl/m/n/10 5.0 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 1
+0[] [] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ کمیت $\OT1/ppl/m/n/10 0.020 
+[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی[]
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 1510--1517
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٦٨:  لمبی چھلانگ میں زمین سے اچھل
+تے وقت کھلاڑی کو زاوی معیار حرکت منتقل ہوتا ہے جو کھلاڑی کو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1510--1517
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 آگے کی طرف گھما کر طے شدہ فاصلہ کم بناتا ہ
+ے۔ اس اثر کو کم کرنے کی غرض سے کھلاڑی بازو سیدھے کر کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1510--1517
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 میں $\OT1/ppl/m/n/10 0.500$ \TU/JameelNoor
+iNastaleeq(0)/b/n/10 چکر اور دوسرا $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq
+(0)/b/n/10 چکر مکمل کرتا ہے۔ بازو کو $\OT1/ppl/m/n/10 4.0 []$ \TU/JameelNooriNa
+staleeq(0)/b/n/10 کمیت کی $\OT1/ppl/m/n/10 0.60 m$ \TU/JameelNooriNastaleeq(0)/
+b/n/10 لمبی سلاخ تصور کریں، جو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1510--1517
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ایک سر کے گرد گھومتی ہے۔ کھلاڑی کی حوالہ چ
+وکھٹ میں ، کندھوں سے گزرتی مشترک محور پر بازووں کا کل زاوی معیار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1521
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٦٩:  یکساں قرص، جس کی کمیت $\OT1/
+ppl/m/n/10 10\OML/zplm/m/it/10 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور رداس $
+\OT1/ppl/m/n/10 3.0\OML/zplm/m/it/10 r$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے ا
+نتصابی محور کے گرد گھوم سکتا ہے۔ دوسرا چھوٹا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1521
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 قرص، جس کی کمیت $\OML/zplm/m/it/10 m$ \TU/
+JameelNooriNastaleeq(0)/b/n/10 اور رداس $\OML/zplm/m/it/10 r$ \TU/JameelNooriNa
+staleeq(0)/b/n/10 ہے، بڑے قرص پر ہم مرکز رکھا گیا ہے۔ابتدائی طور پر دونوں قرص[]
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1521
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ایک ساتھ $\OT1/ppl/m/n/10 20 [] s[]$ \TU/J
+ameelNooriNastaleeq(0)/b/n/10 زاوی سمتی رفتار سے گھومتے ہیں۔ معمولی بیرونی لرزش
+ کی بنا چھوٹا قرص بڑے قرص پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1526
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٧٠:  دائری قرص کی شکل کا چبوترا و
+سطی انتصابی محور پر بلا رگڑ گھومتا ہے۔ چبوترے کی کمیت $\OT1/ppl/m/n/10 150 []$ 
+\TU/JameelNooriNastaleeq(0)/b/n/10 ،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1526
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 رداس $\OT1/ppl/m/n/10 2.0 m$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 ، اور محور گھماو کے گرد گھمیری جمود $\OT1/ppl/m/n/10 300 
+[] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ ایک طالب علم جس کی کمیت $\OT1/pp
+l/m/n/10 60 []$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1526
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے چبوترے کے چکا سے دھرے کی جانب آہستہ آہس
+تہ چلتا ہے۔جس وقت طالب علم چکا پر تھا، اگر اس[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1526
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 وقت نظام کی زاوی رفتار $\OT1/ppl/m/n/10 1.
+5 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہو، تب اس وقت زاوی رفتار کیا ہو گی
+ جب طالب علم وسط سے[]
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 1526--1531
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٥.٧١:  ایک سلاخ، جس کی کمیت$\OML/zp
+lm/m/it/10 M$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور رداس $\OT1/ppl/m/n/10 0.80
+0 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، وسطی انتصابی محور پر $\OT1/ppl/m/n/
+10 20.0 [] s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 زاوی[]
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 1526--1531
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 رفتار سے گھوم رہا ہے۔ ایک ذرہ، جس کی کمیت 
+$\OML/zplm/m/it/10 M \OT1/zplm/m/n/10 / \OT1/ppl/m/n/10 3.00$ \TU/JameelNooriNa
+staleeq(0)/b/n/10 ہے،اور جو سلاخ کے ایک سر سے چپکا ہوا ہے، علیحدہ ہو کر[]
+ []
+
+) [165] [166
 
 
 
 
-] [164
+] (./answer.tex) [167] [168
 
 
 ]
@@ -5307,12 +5729,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 58728 strings out of 476191
- 1587043 string characters out of 9562072
+ 58733 strings out of 476191
+ 1587113 string characters out of 9562072
  2352263 words of memory out of 7000000
- 78425 multiletter control sequences out of 15000+600000
+ 78430 multiletter control sequences out of 15000+600000
  495444 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,18n,118p,2628b,710s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (47 pages).
+Output written on physics.pdf (51 pages).
