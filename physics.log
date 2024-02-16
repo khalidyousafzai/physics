@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  12 FEB 2024 17:26
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  16 FEB 2024 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20242121046.tex)...disabled (restricted).
+runsystem(touch w18-test-20242161039.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20242121046.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20242161039.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -17025,12 +17025,393 @@ Underfull \hbox (badness 10000) in paragraph at lines 386--388
 LaTeX Info: Redefining \rmfamily on input line 393.
 LaTeX Info: Redefining \sffamily on input line 393.
 LaTeX Info: Redefining \ttfamily on input line 393.
-[184]) [185] [186
+[184]
+Underfull \hbox (badness 10000) in paragraph at lines 422--425
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کمیت، وسطی محور پر، $\OML/zplm/m/it/10 h \
+OT1/zplm/m/n/10 / \OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(0)/b/n/10 بلندی پ
+ر پایا جاتا ہے۔ شکل 12.‏8a میں بیلن سیدھا کھڑا ہے۔ شکل 12.‏8b میں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--425
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 فرض کریں، زمین صرف دو قوت بُرج پر پیدا کرت
+ی ہے۔ عمودی قوت $[]$ بائیں (شمالی) دیوار پر، اور عمودی[]
+ []
+
+Missing character: There is no ّ ("651) in font zplmr7m!
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--431
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کا حساب کرتے ہیں۔ سیدھا کھڑے بُرج پر عمل پ
+یرا قوت شکل 12.‏8c میں دیے گئے ہیں۔ تجاذبی قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--431
+[]$\OML/zplm/m/it/10 m[]$\TU/JameelNooriNastaleeq(0)/b/n/10 ، جو مرکز کمیت پر ع
+مل کرتی ہے،کا خط عمل انتصابی ہے اور اس کا معیار اثر کا بازو (چول سے خط عمل کا ع
+مود دار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--431
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 فاصلہ) $\OML/zplm/m/it/10 R$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 ہے۔ منتخب چول کے لحاظ سے اس قوت کے ساتھ وابستہ قوت مروڑ ب
+ُرج کو گھڑی وار گھمانے کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--431
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کوشش کرتی ہے لہٰذا یہ منفی ہو گی۔ جنوبی دی
+وار پر عمود دار قوت $[]$ کا خط عمل انتصابی ہے، اور اس کا معیار اثر کا بازو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--431
+[]$\OT1/ppl/m/n/10 2\OML/zplm/m/it/10 R$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔
+ چول پر اس قوت سے وابستہ قوت مروڑ خلاف گھڑی گھماو پیدا کرتی ہے لہٰذا یہ مثبت ہو
+ گی۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--439
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 یہ نتیجہ بغیر حل کیے ہم جان سکتے تھے: مرکز
+ کمیت وسطی محور پر پایا جاتا ہے، لہٰذا دایاں طرف بیلن کا[]
+ []
+
+[185]
+Underfull \hbox (badness 10000) in paragraph at lines 459--461
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 یوں ہمارے سادہ نمونہ کے تحت، اگرچہ جھکاو ب
+ہت معمولی ہے، جنوبی دیوار پر قوت میں اضافہ تقریباً $\OT1/ppl/m/n/10 30$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 فی[]
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 459--461
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 صد بڑھا ہے، جس کی وجہ سے جنوبی دیوار پچکنے
+ کا خطرہ لاحق ہے۔ بارش کے ساتھ بُرج کے نیچے سے مٹی نکل جانا جھکاو[]
+ []
+
+[186]
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کسری تبدیلی) اور اطلاقی جبر (اکائی رقبہ پر
+ قوت) کا (درج ذیل) رشتہ خطی ہے، جہاں تناسبی مستقل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--501
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں $\OT1/zplm/m/n/10 ^^A\OML/zplm/m/it/1
+0 x \OT1/zplm/m/n/10 / \OML/zplm/m/it/10 L$ \TU/JameelNooriNastaleeq(0)/b/n/10 
+جس کا قینچ بگاڑ، $\OT1/zplm/m/n/10 ^^A\OML/zplm/m/it/10 x$ \TU/JameelNooriNasta
+leeq(0)/b/n/10 لاگو قوت $[]$ کے رخ میں جسم کے ایک سر کا ہٹاو ، اور $\OML/zplm/m
+/it/10 G$ \TU/JameelNooriNastaleeq(0)/b/n/10 جسم کا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--506
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں $\OML/zplm/m/it/10 p$ \TU/JameelNoori
+Nastaleeq(0)/b/n/10 جسم پر سیال کا دباو (ماقوائی جبر)ہے، $\OT1/zplm/m/n/10 ^^A\
+OML/zplm/m/it/10 V \OT1/zplm/m/n/10 / \OML/zplm/m/it/10 V$ \TU/JameelNooriNasta
+leeq(0)/b/n/10 دباو کی پیدا (بگاڑ) جسم کے حجم میں مطلق کسری[]
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 511--512
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اس باب کے مسائل میں ہمارے پاس صرف تین غیر 
+تابع مساوات ہوں گے؛ عموماً توازن قوت کی دو اور محور[]
+ []
+
+[187]
+LaTeX Info: Redefining \rmfamily on input line 513.
+LaTeX Info: Redefining \sffamily on input line 513.
+LaTeX Info: Redefining \ttfamily on input line 513.
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 غیر متشاکل بوجھ سے لدے ہوئی گاڑی پر غور 
+کریں۔ اس کے چاروں پہیوں پر ایک دوسرے سے مختلف قوت کیا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہیں؟ چونکہ ہمارے پاس صرف تین مساوات ہیں لہ
+ٰذا ان قوتوں کو معلوم کرنا ممکن نہیں۔ اسی طرح، تین پائے کے میز[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کا توازن کا مسئلہ ہم حل کر سکتے ہیں، تاہم 
+چار پائے کے میز کے لئے حل ممکن نہیں ہو گا۔ اس طرح کے مسائل جن[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 اس کے باوجود، حقیقی دنیا میں بلا تعیین م
+سائل کے حل موجود ہیں۔ اگر آپ گاڑی کے پہیوں کو چار مختلف ترازو پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 رکھیں، یقیناً ترازو غیر مبہم نتائج دیں گی؛
+ جن کا مجموعہ عین گاڑی کے وزن کے برابر ہو گا۔ ایسی کونسی بات ہے جو ہم نہیں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 حقیقت یہ ہے، کہے بغیر ، ہم جن اجسام پر س
+کونی توازن کی مساوات کا اطلاق کرتے ہیں ، ہم انہیں کامل استوار تصور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کرتے ہیں۔یعنی ہم فرض کرتے ہیں کہ لاگو قوت 
+ان اجسام کو کسی طرح بھی مسخ نہیں کرتی۔ درحقیقت کامل استوار جسم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 آپ کا واسطہ چار پائے کے لڑکھڑاتے میز سے 
+ضرور پڑا ہو گا۔ایک پائے کے نیچے تہہ دار کاغذ رکھ کر اسے مستحکم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کیا جا سکتا ہے۔میز پر ہاتھی بٹھانے سے اگر 
+میز ٹوٹ نہ جائے، آپ یقین کر سکتے ہیں اس کے پائے گاڑی کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دوسرے سے مختلف) قیمت اختیار کریں گی، اور م
+یز لڑکھڑائے گا نہیں (شکل 12.‏9)۔ ایسی یا اس سے ملتی جلتی صورتوں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 بلا تعیین مسئلہ حل کرنے کے لئے، توازن کی
+ مساوات کے ساتھ ہمیں  \TU/JameelNooriNastaleeq(0)/m/n/9 لچک  \TU/JameelNooriNas
+taleeq(0)/b/n/10 کی معلومات بھی بروئے کار لانی ہو گی۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--528
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 چھت سے یکساں سلاخ ، جس کا وزن $\OT1/ppl/
+m/n/10 10 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، دو دھاگوں سے لٹکایا گیا ہے 
+، جو سلاخ پر اوپر وار $[]$ اور $[]$ قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 بہت سارے جوہر، تین بُعدی \TU/JameelNooriNa
+staleeq(0)/m/n/9 جالی  \TU/JameelNooriNastaleeq(0)/b/n/10 میں متوازن مقامات پر 
+بیٹھ کر ، دھاتی جسم، مثلاً ، کیل بناتے ہیں۔ تین بُعدی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جالی تکراری نظم و ضبط رکھتی ہے اور اس میں 
+ہر جوہر قریبی جوہر سے مقررہ فاصلے پر ہو گا۔ بین جوہر قوتیں، جنہیں شکل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 12.‏10 میں اسپرنگ سے ظاہر کیا گیا ہے، جوہر
+ کو اپنی جگہ پر رکھتی ہیں۔ یہ جالی حیرت کن استواریت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 رکھتی ہے؛ دوسرے لفظوں میں بین جوہر قوت نہا
+یت طاقتور ہیں، اور شکل 12.‏10 میں اسپرنگ بہت زیادہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اکڑ ہوں گے۔ یہی وجہ ہے، ہم عام اجسام، مثلا
+ً، دھاتی سیڑھی، میز، اور چمچ کو کامل استوار سمجھتے ہیں۔ ہاں ربڑ اور[]
+ []
+
+[188]
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 حقیقی ”استوار“ اجسام کسی حد تک لچکی ہوں 
+گے، اور یوں انہیں دبا کر، تان کر، اور مروڑ کر ہم ان کی شکل و صورت معمولی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 تبدیل کر سکتے ہیں۔ درپیش مقادیر جاننے کے ل
+ئے، چھت سے انتصابی لٹکی فولادی سلاخ پر غور کرتے ہیں، جس کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 لمبائی $\OT1/ppl/m/n/10 1 m$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 اور قطر $\OT1/ppl/m/n/10 1 []$ \TU/JameelNooriNastaleeq(0
+)/b/n/10 ہے۔ سلاخ کے سر سے چھوٹی گاڑی لٹکانے سے سلاخ کی لمبائی میں $\OT1/ppl/m/
+n/10 0.5 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 یعنی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 سلاخ سے دو گاڑیاں لٹکانے پر، سلاخ ہمیشہ 
+کے لئے کھنچ جاتی ہے، اور وزن ہٹانے سے اصل لمبائی اختیار نہیں کرتی۔ تین[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 گاڑیاں لٹکانے پر، سلاخ ٹوٹ جائے گی۔ عین ٹو
+ٹنے سے قبل، لمبائی میں اضافہ $\OT1/ppl/m/n/10 0.2 %$ \TU/JameelNooriNastaleeq(0
+)/b/n/10 سے کم ہو گا۔ اگرچہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جسامت کے اضلاع میں تبدیلی زیادہ نہیں، انجی
+نئری میں اس کے دور رس نتائج ہوں گے۔ (آیا جہاز کا پَر جہاز[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 542.
+LaTeX Info: Redefining \sffamily on input line 542.
+LaTeX Info: Redefining \ttfamily on input line 542.
+LaTeX Info: Redefining \rmfamily on input line 542.
+LaTeX Info: Redefining \sffamily on input line 542.
+LaTeX Info: Redefining \ttfamily on input line 542.
+
+Underfull \hbox (badness 3803) in paragraph at lines 541--543
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 تین طریقے۔ \TU/JameelNooriNastalee
+q(0)/b/n/10 قوت لاگو کرنے پر، ٹھوس جسم کا طول و عرض تین طرح تبدیل ہو سکتا ہے۔ ش
+کل 12.‏11a میں بیلن[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--543
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کھینچ کر لمبا کیا گیا ہے۔ شکل 12.‏11b میں 
+بیلن کی لمبی محور کو عمود دار قوت لاگو کر کے بیلن مسخ کیا گیا ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--543
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 شکل 12.‏11c میں سیال میں ٹھوس جسم رکھ کر ب
+لند داب کے زیر اثر تمام اطراف سے جسم دبایا گیا ہے۔ مسخ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--543
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہونے کی ان تین صورتوں میں یہ بات مشترک ہے 
+کہ \TU/AASameerSagarNastaleeqBold(0)/m/n/10 جبر[][][] []\TU/JameelNooriNastalee
+q(0)/b/n/10 ، یعنی اکائی رقبہ پر لاگو قوت، جسم میں \TU/AASameerSagarNastaleeqBo
+ld(0)/m/n/10 بگاڑ [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 (کسری[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--543
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 تبدیلی) پیدا کرتا ہے۔ شکل 12.‏11a میں \TU/
+JameelNooriNastaleeq(0)/m/n/9 تناوی جبر \TU/JameelNooriNastaleeq(0)/b/n/10 ، شک
+ل 12.‏11b میں  \TU/JameelNooriNastaleeq(0)/m/n/9 قینچ جبر\TU/JameelNooriNastale
+eq(0)/b/n/10 ، اور شکل 12.‏11c میں  \TU/JameelNooriNastaleeq(0)/m/n/9 ماقوائی[]
+
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 545.
+LaTeX Info: Redefining \sffamily on input line 545.
+LaTeX Info: Redefining \ttfamily on input line 545.
+LaTeX Info: Redefining \rmfamily on input line 550.
+LaTeX Info: Redefining \sffamily on input line 550.
+LaTeX Info: Redefining \ttfamily on input line 550.
+LaTeX Info: Redefining \rmfamily on input line 550.
+LaTeX Info: Redefining \sffamily on input line 550.
+LaTeX Info: Redefining \ttfamily on input line 550.
+LaTeX Info: Redefining \rmfamily on input line 550.
+LaTeX Info: Redefining \sffamily on input line 550.
+LaTeX Info: Redefining \ttfamily on input line 550.
+
+Underfull \hbox (badness 6910) in paragraph at lines 549--551
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 تناوی خاصیت کے معیاری پرکھ میں پرکھی بیلن 
+(جیسا شکل 12.‏12 میں دکھایا گیا ہے) پر تناوی جبر صفر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--551
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 قیمت سے آہستہ آہستہ بڑھایا جاتا ہے حتٰی کہ
+ بیلن ٹوٹ جائے، اور ساتھ ساتھ بگاڑ ناپ کر ترسیم کی جاتی ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--551
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 یوں شکل 12.‏13 کے طرز کی جبر بالمقابل بگاڑ
+ ترسیم حاصل ہو گی۔لاگو جبر کی وسیع حد تک جبر اور بگاڑ کا تعلق[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--551
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 خطی ہے، اور جبر ہٹانے پر پرکھی جسم واپس اص
+ل طول و عرض اختیار کرتا ہے؛ اس خطی خطہ میں مساوات [][]٦.٢٢[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--551
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 کا اطلاق ہو گا۔ پرکھی جسم کی  \TU/AASame
+erSagarNastaleeqBold(0)/m/n/10 مغلوبی مضبوطی [][][] []$\OML/zplm/m/it/10 S[]$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 سے جبر بڑھانے پر جسم ہمیشہ کے لئے مسخ ہو جاتا
+ ہے۔ جبر مسلسل[]
+ []
+
+[189]
+LaTeX Info: Redefining \rmfamily on input line 556.
+LaTeX Info: Redefining \sffamily on input line 556.
+LaTeX Info: Redefining \ttfamily on input line 556.
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سادہ تان یا داب کے لئے، جسم پر جبر کی تعری
+ف $\OML/zplm/m/it/10 F \OT1/zplm/m/n/10 / \OML/zplm/m/it/10 A$ \TU/JameelNooriN
+astaleeq(0)/b/n/10 ہے، جہاں جسم کے رقبہ $\OML/zplm/m/it/10 A$ \TU/JameelNooriNa
+staleeq(0)/b/n/10 پر عمود دار قوت کی قدر $\OML/zplm/m/it/10 F$[]
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 556--557
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ بگاڑ سے مراد بے بُعد مقدار $\OT1/zplm/
+m/n/10 ^^A\OML/zplm/m/it/10 L \OT1/zplm/m/n/10 / \OML/zplm/m/it/10 L$ \TU/Jamee
+lNooriNastaleeq(0)/b/n/10 ہے، جو جسم کی لمبائی میں کسری (یا بعض اوقات فی صد) تب
+دیلی ہو گی۔اگر[]
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 556--557
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جسم ایک لمبی سلاخ ہو اور جبر مغلوبی مضبوطی
+ سے تجاوز نہ کرے، نا صرف پوری سلاخ کا بگاڑ بلکہ اس کے ہر ٹکڑے کا بگاڑ[]
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 556--557
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دیے گئے جبر کے لئے ایک جتنا ہو گا۔ چونکہ ب
+گاڑ بے بُعد ہے، مساوات [][]٦.٢٢[][] []میں مقیاس کے بُعد وہی ہو گا جو جبر کا ہے؛
+[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 559.
+LaTeX Info: Redefining \sffamily on input line 559.
+LaTeX Info: Redefining \ttfamily on input line 559.
+LaTeX Info: Redefining \rmfamily on input line 559.
+LaTeX Info: Redefining \sffamily on input line 559.
+LaTeX Info: Redefining \ttfamily on input line 559.
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--561
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 تناوی اور دباو جبر کے مقیاس کو \TU/AASam
+eerSagarNastaleeqBold(0)/m/n/10 مقیاس ینگ [][][] []\TU/JameelNooriNastaleeq(0)/
+b/n/10 کہتے ہیں، جس کو انجینئری میں $\OML/zplm/m/it/10 E$ \TU/JameelNooriNastal
+eeq(0)/b/n/10 سے ظاہر کیا جاتا ہے۔ یوں[]
+ []
+
+) [190] (./answer.tex) [191
 
 
 
 
-] (./answer.tex) [187] [188
+] [192
 
 
 ]
@@ -17101,12 +17482,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 59185 strings out of 476191
- 1602149 string characters out of 9562072
- 2354191 words of memory out of 7000000
- 78840 multiletter control sequences out of 15000+600000
+ 59203 strings out of 476191
+ 1602412 string characters out of 9562072
+ 2353191 words of memory out of 7000000
+ 78858 multiletter control sequences out of 15000+600000
  495508 words of font info for 145 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,20n,118p,2628b,1068s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (194 pages).
+Output written on physics.pdf (198 pages).
