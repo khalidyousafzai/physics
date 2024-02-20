@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  18 FEB 2024 16:37
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  20 FEB 2024 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2024218997.tex)...disabled (restricted).
+runsystem(touch w18-test-2024220973.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2024218997.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2024220973.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -18257,12 +18257,462 @@ Underfull \hbox (badness 10000) in paragraph at lines 915--921
  گزر کر، سل کو پہنچ کر، سل کو پکڑ کر[]
  []
 
-) [199] [200
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--926
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٢٢:  شکل 12.‏39 میں چٹان پیما دکھ
+ایا گیا ہے، جو پیچھے جھک کر، شگاف کے ایک طرف[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--926
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہاتھوں سے کھینچ کر اور شگاف کی دوسری طرف پ
+اوں سے دکھیل کر، چٹان چڑھ رہا ہے۔شگاف کی چوڑائی[]
+ []
+
+
+Underfull \hbox (badness 7203) in paragraph at lines 921--926
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کے بیچ انتصابی فاصلہ $\OML/zplm/m/it/10 h$
+ \TU/JameelNooriNastaleeq(0)/b/n/10 کیا ہو گا؟ اگر راستے میں گیلا پتھر آئے جس ک
+ی بدولت $\OML/zplm/m/it/10 ^^V[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OML/
+zplm/m/it/10 ^^V[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی قیمتیں گھٹتی ہیں[]
+ []
+
+[199]
+Underfull \hbox (badness 10000) in paragraph at lines 926--930
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٢٣:  یکساں شہتیر، جس کا وزن $\OT1
+/ppl/m/n/10 222 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، کا ایک سر چول دار ہے؛
+ اس کا دوسرا سر رسّی کے ذریعہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 930--935
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٢٤:  چٹان پیما، جس کا وزن $\OT1/p
+pl/m/n/10 533.8 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، کو رسّی تھام کر رکھے 
+ہوئے ہے، جو لپیٹن کنڈا سے گزر کر اس کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 930--935
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کولھا پٹی سے بندھی ہے (شکل 12.‏41)۔ رسّی ک
+ی قوت کا خط عمل چٹان پیما کے مرکز کمیت سے گزرتا ہے۔ شکل[]
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 935--940
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٢٥:  شکل 12.‏42 میں پہیے کو سیڑھی
+ پر چڑھانے کے لئے پہیے کے دھرے پر افقی قوت $[]$ کی قدر کیا[]
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 946--950
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٢٧:  جرثقیل نظام سے $\OT1/ppl/m/n
+/10 15 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 سل اٹھائی گئی ہے (شکل 12.‏43)۔ شخ
+ص کا اوپری بازو انتصابی اور نچلا بازو افق[]
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 950--955
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٢٨:  شکل 12.‏45 میں یکساں شہتیر ک
+ی لمبائی $\OML/zplm/m/it/10 L \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 3.00 m$ \TU/Ja
+meelNooriNastaleeq(0)/b/n/10 ، وزن $\OML/zplm/m/it/10 W \OT1/zplm/m/n/10 = \OT1
+/ppl/m/n/10 300 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 ، اور زاویہ[]
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 950--955
+[]$\OML/zplm/m/it/10 ^^R \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 30.0[]$ \TU/JameelN
+ooriNastaleeq(0)/b/n/10 ہے۔ سل کا وزن $\OML/zplm/m/it/10 W \OT1/zplm/m/n/10 = \
+OT1/ppl/m/n/10 300 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ رسّی زیادہ سے زیاد
+ہ $\OT1/ppl/m/n/10 500 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 تناو برداشت کر سکت
+ی[]
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 950--955
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ (ا) رسّی نہ ٹوٹنے کے لئے $\OML/zplm/m/
+it/10 x$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی زیادہ سے زیادہ قیمت کیا ہے؟ اگر 
+سل $\OML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی اس زیادہ سے زیاد
+ہ پر ہو، چول سے شہتیر پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 955--960
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٢٩:  ایک دروازے کی اونچائی، انتصا
+بی محور $\OML/zplm/m/it/10 y$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے ہمراہ $\OT1
+/ppl/m/n/10 2.1 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور چوڑائی، افقی محور $\O
+ML/zplm/m/it/10 x$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے ہمراہ $\OT1/ppl/m/n/10
+ 0.91 m$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 955--960
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ دروازے کے بالا سر سے $\OT1/ppl/m/n/10 
+0.30 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر چول اور نچلے سر سے $\OT1/ppl/m/n/
+10 0.30 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر چول دروازے کی آدھی آدھی کمیت ا
+ٹھاتے[]
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 960--966
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی لمبائی $\OML/zplm/m/it/10 d[] \OT1/zplm
+/m/n/10 = \OT1/ppl/m/n/10 3.0 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، سے لٹکی
+ ہے۔ سلاخ کے سر سے رسّی ، چول سے $\OML/zplm/m/it/10 d[] \OT1/zplm/m/n/10 = \OT1
+/ppl/m/n/10 4.00 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 بلند نقطے[]
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 960--966
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پر، دیوار سے باندھی گئی ہے۔ (ا) رسّی میں ت
+ان تلاش کریں۔ دیوار سے سلاخ پر قوت کے افقی جزو (ب) کی قدر اور (ج) رخ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 966--971
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٣١:  غیر یکساں سلاخ دو بلا کمیت ر
+سّیوں سے افقی لٹکا ہو ہے (شکل 12.‏47)۔ ایک رسّی انتصاب کے ساتھ[]
+ []
+
+[200]
+Underfull \hbox (badness 10000) in paragraph at lines 971--975
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٣٢:  ایک ڈرائیور افقی سڑک پر چلتے
+ ہوئے ہنگامی بریک لگاتا ہے (شکل 12.‏48)۔گاڑی کے چاروں جکڑ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 971--975
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 بند پہیے سڑک پر پھسلتے ہیں۔ سڑک اور پہیوں 
+کے بیچ حرکی رگڑ کا مستقل $\OT1/ppl/m/n/10 0.40$ \TU/JameelNooriNastaleeq(0)/b/n
+/10 ہے۔ اگلے اور پچھلے دھروں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 971--975
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 قوت کی قدر، (ج) اگلے ایک پہیے پر انتصابی ق
+وت کی قدر، (د) پچھلے ایک پہیے پر قوت روک کی قدر، اور (ہ) اگلے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 971--975
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ایک پہیے پر قوت روک کی قدر تلاش کریں۔ (\TU
+/JameelNooriNastaleeq(0)/m/n/9 اشارہ: \TU/JameelNooriNastaleeq(0)/b/n/10 اگرچہ 
+گاڑی حرکی توازن میں نہیں، یہ گھمیری توازن[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--979
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٣٣:  انتصابی یکساں شہتیر ، جس کی 
+لمبائی $\OML/zplm/m/it/10 L$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، کا نچلا سر 
+چول دار ہے (شکل 12.‏49a)۔ نچلے سر سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--979
+[]$\OML/zplm/m/it/10 y$ \TU/JameelNooriNastaleeq(0)/b/n/10 فاصلے پر افقی قوت $[
+]$ شہتیر پر لاگو کی جاتی ہے۔ شہتیر کا بالا سر رسّی سے باندھا ہوا ہے، جو افق کے 
+ساتھ زاویہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--979
+[]$\OML/zplm/m/it/10 ^^R$ \TU/JameelNooriNastaleeq(0)/b/n/10 بناتی ہے۔ اس رسّی 
+کی بدولت، لاگو قوت کے باوجود، شہتیر سیدھا کھڑا رہتا ہے۔ شکل 12.‏49b میں رسّی کا
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--979
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سے رکھا گیا ہے۔ شکل 12.‏49c میں چول سے شہت
+یر پر افقی قوت کی قدر $\OML/zplm/m/it/10 F[]$ \TU/JameelNooriNastaleeq(0)/b/n/1
+0 بالمقابل $\OML/zplm/m/it/10 y \OT1/zplm/m/n/10 / \OML/zplm/m/it/10 L$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 ترسیم کی گئی ہے۔ (ا)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 979--984
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٣٤:  شکل 12.‏45 میں پتلی افقی سلا
+خ $\OML/zplm/m/it/10 AB$\TU/JameelNooriNastaleeq(0)/b/n/10 ، جس کی لمبائی $\OML
+/zplm/m/it/10 L$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور وزن قابل نظر انداز ہے، 
+انتصابی دیوار[]
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 979--984
+[]$\OML/zplm/m/it/10 ^^R$ \TU/JameelNooriNastaleeq(0)/b/n/10 بناتی ہے، نقطہ $\O
+ML/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے باندھا گیا ہے۔ سلاخ پر
+ $\OML/zplm/m/it/10 W$ \TU/JameelNooriNastaleeq(0)/b/n/10 وزن کی سل کہیں بھی رک
+ھی جا سکتی ہے۔دیوار سے سل کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 984--988
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٣٥:  ریت سے بھرے کعبی ڈبے کا وزن 
+$\OT1/ppl/m/n/10 890 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ اس کے ایک بالا ک
+نارے پر افقی دکھیل سے ہم ڈبے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 984--988
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کو پلٹنا چاہتے ہیں۔ (ا) کتنی کم سے کم قوت 
+درکار ہو گی؟ (ب) فرش اور ڈبے کے بیچ کم سے کم سکونی رگڑ کا مستقل کتنا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 984--988
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 درکار ہے؟ (ج) اگر ڈبہ پلٹنے کا زیادہ موثر 
+طریقہ موجود ہو، ڈبے پر بلاواسطہ کتنی کم سے کم قوت درکار ہو گی؟ (\TU/JameelNoori
+Nastaleeq(0)/m/n/9 اشارہ: \TU/JameelNooriNastaleeq(0)/b/n/10 عین پلٹتے[]
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 988--993
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٣٦:  ایک شخص ، جس کی کمیت $\OT1/p
+pl/m/n/10 70 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، شکل 12.‏50 میں ایک ہاتھ
+ کی انگلیوں کے پور سے لٹک رہا ہے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 999--1005
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٣٨:  یکساں شہتیر $\OML/zplm/m/it/
+10 A$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 B$ \TU/JameelNo
+oriNastaleeq(0)/b/n/10 دیوار کے ساتھ چول سے منسلک ، اور آپس میں ڈھیلے قابلے سے 
+جڑے[]
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 999--1005
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہیں (ایک شہتیر دوسرے پر قوت مروڑ لاگو نہیں
+ کر سکتا)۔ شہتیر $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی لم
+بائی $\OML/zplm/m/it/10 L[] \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 2.40 m$ \TU/Jame
+elNooriNastaleeq(0)/b/n/10 اور کمیت[]
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 999--1005
+[]$\OT1/ppl/m/n/10 54.0 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے؛ شہتیر $\OML/
+zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی کمیت $\OT1/ppl/m/n/10 68.
+0 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے (شکل 12.‏52)۔چولوں کے بیچ فاصلہ $\O
+ML/zplm/m/it/10 d \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 1.80 m$ \TU/JameelNooriNas
+taleeq(0)/b/n/10 ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 999--1005
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اکائی سمتیہ ترقیم میں (ا) شہتیر $\OML/zplm
+/m/it/10 A$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر اس کے چول کی قوت ، اور (ب) شہ
+تیر $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر قابلے کی قوت ، 
+(ج) شہتیر $\OML/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر[]
+ []
+
+[201]
+Underfull \hbox (badness 10000) in paragraph at lines 1005--1009
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٣٩:  شکل 12.‏53 میں گھریلو استعما
+ل کی سیڑھی دکھائی گئی ہے۔ $\OML/zplm/m/it/10 AC$ \TU/JameelNooriNastaleeq(0)/b/
+n/10 اور $\OML/zplm/m/it/10 CE$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی لمبائیاں 
+$\OT1/ppl/m/n/10 2.44 m$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1005--1009
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہیں اور ان کے بیچ $\OML/zplm/m/it/10 C$ \T
+U/JameelNooriNastaleeq(0)/b/n/10 پر چول ہے۔ نصف بلندی پر ٹیک سلاخ $\OML/zplm/m/
+it/10 BD$\TU/JameelNooriNastaleeq(0)/b/n/10 ، جس کی لمبائی $\OT1/ppl/m/n/10 0.7
+62 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، نصب کی گئی ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1005--1009
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 تصور کریں۔ (ا) ٹیک سلاخ میں تان اور زمین س
+ے سیڑھی پر قوت کی قدر نقطہ $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(0)/b/
+n/10 اور $\OML/zplm/m/it/10 E$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر تلاش کریں۔
+ (\TU/JameelNooriNastaleeq(0)/m/n/9 اشارہ:[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1009--1014
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٤٠:  شکل 12.‏54a میں یکساں افقی ش
+ہتیر دکھائی گئی ہے، جس کی کمیت $\OML/zplm/m/it/10 m[]$ \TU/JameelNooriNastaleeq
+(0)/b/n/10 اور لمبائی $\OML/zplm/m/it/10 L$ \TU/JameelNooriNastaleeq(0)/b/n/10 
+ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1009--1014
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 شہتیر کا بایاں سر دیوار پر نصب چول سے جوڑا
+ گیا ہے جبکہ اس کا دایاں سر رسّی سے لٹکا ہے، جو افق کے ساتھ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1009--1014
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 زاویہ $\OML/zplm/m/it/10 ^^R$ \TU/JameelNo
+oriNastaleeq(0)/b/n/10 پر ہے۔ شہتیر کے بائیں سر سے $\OML/zplm/m/it/10 x$ \TU/Ja
+meelNooriNastaleeq(0)/b/n/10 فاصلے پر، شہتیر پر $\OML/zplm/m/it/10 m[]$ \TU/Jam
+eelNooriNastaleeq(0)/b/n/10 کمیت کا ڈبہ رکھا گیا ہے۔ کل کمیت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1014--1019
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٤١:  کعبی کریٹ ،جس کا ضلع $\OT1/p
+pl/m/n/10 1.2 m$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، میں کل (مشین) رکھی گئی 
+ہے۔ کریٹ اور کل کا مرکز کمیت[]
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 1014--1019
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ $\OML/zplm/m/it/10 ^^R$ \TU/JameelNoor
+iNastaleeq(0)/b/n/10 کی قیمت صفر سے بتدریج بڑھانے سے آخر وہ زاویہ پہنچتا ہے جس 
+پر کریٹ الٹ جائے گا یا (میلان[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1019--1024
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٤٢:  شکل 12.‏7 اور اس سے وابستہ ن
+مونی سوال میں فرش اور سیڑھی کے بیچ سکونی رگڑ کا مستقل $\OT1/ppl/m/n/10 0.53$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1033
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جسم لٹکایا گیا ہے۔ سلور کا مقیاس قینچ $\OT
+1/ppl/m/n/10 3.0 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] N m[]$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 ہے۔ سلاخ کی کمیت نظرانداز کریں۔ (ا) سلاخ پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1041
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٤٥:  شکل 12.‏56 میں بیلن $\OML/zp
+lm/m/it/10 A$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 B$ \TU/
+JameelNooriNastaleeq(0)/b/n/10 پر اینٹ افقی رکھی گئی ہے۔ بیلن کے بالا سر کے رقب
+وں کا تعلق[]
+ []
+
+
+Underfull \hbox (badness 7796) in paragraph at lines 1037--1041
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ایک تھی۔ اینٹ کی کمیت کا کتنا حصہ (ا) بیلن
+ $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور (ب) بیلن $\OML/zp
+lm/m/it/10 B$ \TU/JameelNooriNastaleeq(0)/b/n/10 اٹھاتا ہے؟ اینٹ کے مرکز کمیت س
+ے[]
+ []
+
+[202]
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1048
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٤٦:  مکڑے کے جال کی ڈور کی تخمینی
+ جبر و بگاڑ منحنی شکل 12.‏57 میں جبر $\OT1/ppl/m/n/10 2.00$ \TU/JameelNooriNast
+aleeq(0)/b/n/10 تک پیش[]
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 1041--1048
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے، جس پر ڈور ٹوٹتی ہے۔ انتصابی محور کا پی
+مانہ $\OML/zplm/m/it/10 a \OT1/zplm/m/n/10 = \OT1/ppl/m/n/10 0.12 [] m[]$\TU/Ja
+meelNooriNastaleeq(0)/b/n/10 ، $\OML/zplm/m/it/10 b \OT1/zplm/m/n/10 = \OT1/ppl
+/m/n/10 0.30 [] m[]$\TU/JameelNooriNastaleeq(0)/b/n/10 ، اور[]
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 1041--1048
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 عمودی تراش $\OT1/ppl/m/n/10 8.0 \OMS/zplm/
+m/n/10 ^^B \OT1/ppl/m/n/10 10[] m[]$\TU/JameelNooriNastaleeq(0)/b/n/10 ، اور( ک
+ھینچ کے دوران ) حجم مستقل ہے۔ ڈور کی لمبائی میں تبدیلی اور ڈور کی ابتدائی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1048
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 لمبائی کی نسبت ڈور کا بگاڑ ہے؛ قوت تصادم ا
+ور ابتدائی رقبہ عمودی تراش کی نسبت ڈور پر جبر ہے۔ فرض کریں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1048
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 منحنی کے نیچے رقبہ ڈور پر قوت تصادم کا سرا
+نجام کام دیتا ہے۔ ساتھ ہی فرض کریں، جب ایک ڈور اڑتے ہوئے[]
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 1041--1048
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کیڑے کو پکڑتی ہے، کیڑے کی حرکی توانائی اس 
+ڈور کو کھینچ کر لمبا کرنے میں صرف ہوتی ہے۔ (ا) کتنی حرکی توانائی ڈور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1048
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کو ٹوٹنے کے دہانے پہنچاتی ہے؟ (ب) ایک مکھی
+ ، جس کی کمیت $\OT1/ppl/m/n/10 6.00 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور 
+رفتار $\OT1/ppl/m/n/10 1.70 m s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، کی حر
+کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1048
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 توانائی کیا ہو گی؟ ایک سارنگ، جس کی کمیت $
+\OT1/ppl/m/n/10 0.388 g$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور رفتار $\OT1/ppl
+/m/n/10 0.420 m s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے، کی حرکی توانائی کیا
+ ہو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1053
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سہارا دیں گے۔ ستون کا عمودی تراش رقبہ $\OT
+1/ppl/m/n/10 960 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہو گا۔ زمین کی $\OT1/pp
+l/m/n/10 1.0 [][]$ \TU/JameelNooriNastaleeq(0)/b/n/10 مٹی کی کمیت $\OT1/ppl/m/n
+/10 2.8 g$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ (ا)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1053
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ستون کل کتنا وزن اٹھائیں گے؟ (ب) ستون پر د
+باو جبر ، ستون کی مغلوبی مضبوطی کا نصف رکھنے کے لئے ستونوں کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1057--1062
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 Q49 p350 سوال  ٦.٤٩:  شکل 12.‏60 میں $\OT
+1/ppl/m/n/10 103 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 کا یکساں شہتیر فولادی ت
+ار ، $\OML/zplm/m/it/10 A$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OML/zplm/m/
+it/10 B$\TU/JameelNooriNastaleeq(0)/b/n/10 ، سے لٹکا دکھایا گیا ہے۔[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1057--1062
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 تاروں کا رداس $\OT1/ppl/m/n/10 1.20 []$ \T
+U/JameelNooriNastaleeq(0)/b/n/10 ہے۔ تار $\OML/zplm/m/it/10 A$ \TU/JameelNooriN
+astaleeq(0)/b/n/10 کی ابتدائی لمبائی $\OT1/ppl/m/n/10 2.50 m$ \TU/JameelNooriNa
+staleeq(0)/b/n/10 تھی جو $\OML/zplm/m/it/10 B$ \TU/JameelNooriNastaleeq(0)/b/n/
+10 کی لمبائی سے $\OT1/ppl/m/n/10 2.00 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 کم
+ تھی۔ اب[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1062--1067
+[] \TU/JameelNooriNastaleeq(0)/b/n/10 سوال  ٦.٥٠:  مکڑے کے جال کی ڈور کے وسطی ن
+قطہ پر کیڑا پھنسا ہوا شکل 12.‏61 میں دکھایا گیا ہے۔ ڈور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1062--1067
+[]$\OT1/ppl/m/n/10 8.20 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] N m[]$ \TU/Ja
+meelNooriNastaleeq(0)/b/n/10 جبر اور $\OT1/ppl/m/n/10 2.00$ \TU/JameelNooriNast
+aleeq(0)/b/n/10 بگاڑ پر ٹوٹے گی۔ ابتدائی طور ڈور افقی تھی؛ اس کی لمبائی $\OT1/p
+pl/m/n/10 2.00 []$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور رقبہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1062--1067
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 عمودی تراش $\OT1/ppl/m/n/10 8.00 \OMS/zplm
+/m/n/10 ^^B \OT1/ppl/m/n/10 10[] m[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 تھا۔ ک
+یڑے کے وزن کے زیر اثر کھنچ کر لمبا ہونے کے دوران ڈور کا حجم تبدیل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1062--1067
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 نہیں ہوتا۔ اگر کیڑا ڈور کو ٹوٹنے کے دہانے 
+پہنچائے، کیڑے کی کمیت کیا ہو گی؟ (مکڑا جال یوں بناتا ہے کہ بڑا اور[]
+ []
+
+) [203] [204
 
 
 
 
-] (./answer.tex) [201] [202
+] (./answer.tex) [205] [206
 
 
 ]
@@ -18335,10 +18785,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  59223 strings out of 476191
  1602748 string characters out of 9562072
- 2353191 words of memory out of 7000000
+ 2354191 words of memory out of 7000000
  78878 multiletter control sequences out of 15000+600000
  495508 words of font info for 145 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,20n,118p,2628b,1068s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (208 pages).
+Output written on physics.pdf (212 pages).
