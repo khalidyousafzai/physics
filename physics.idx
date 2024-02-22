@@ -57,195 +57,220 @@
 \indexentry{تارہ!نیوٹران}{\arabicdigits {16}}
 \indexentry{light house}{\arabicdigits {16}}
 \indexentry{منارہ نور}{\arabicdigits {16}}
-\indexentry{motorway}{\arabicdigits {27}}
-\indexentry{تیز رو شاہراہ}{\arabicdigits {27}}
-\indexentry{escape ramp}{\arabicdigits {27}}
-\indexentry{روک میلان}{\arabicdigits {27}}
-\indexentry{exhaust}{\arabicdigits {35}}
-\indexentry{خرج}{\arabicdigits {35}}
-\indexentry{rocket}{\arabicdigits {35}}
-\indexentry{ہوائی بان}{\arabicdigits {35}}
-\indexentry{launching pad}{\arabicdigits {36}}
-\indexentry{چبوترہ!روانگی}{\arabicdigits {36}}
-\indexentry{nozzle}{\arabicdigits {36}}
-\indexentry{ٹونٹی}{\arabicdigits {36}}
-\indexentry{deep space}{\arabicdigits {36}}
-\indexentry{فضائے ماورا}{\arabicdigits {36}}
-\indexentry{thrust}{\arabicdigits {37}}
-\indexentry{قوت دھکیل}{\arabicdigits {37}}
-\indexentry{multistage}{\arabicdigits {38}}
-\indexentry{کثیرالمراحل}{\arabicdigits {38}}
-\indexentry{logarithm!natural}{\arabicdigits {38}}
-\indexentry{لوگارتھم!قدرتی}{\arabicdigits {38}}
-\indexentry{lizard!basilisk}{\arabicdigits {48}}
-\indexentry{چھپکلی!افعی}{\arabicdigits {48}}
-\indexentry{titanium}{\arabicdigits {53}}
-\indexentry{طیطانیم}{\arabicdigits {53}}
-\indexentry{nucleus}{\arabicdigits {54}}
-\indexentry{مرکزہ}{\arabicdigits {54}}
-\indexentry{particle!alpha}{\arabicdigits {54}}
-\indexentry{ذرہ!الفا}{\arabicdigits {54}}
-\indexentry{collapse!pancake}{\arabicdigits {56}}
-\indexentry{انہدام!پرت دار}{\arabicdigits {56}}
-\indexentry{factor!safety}{\arabicdigits {56}}
-\indexentry{حفاظتی ضربیہ}{\arabicdigits {56}}
-\indexentry{neutrino}{\arabicdigits {57}}
-\indexentry{نیوٹرینو}{\arabicdigits {57}}
-\indexentry{nucleus!daughter}{\arabicdigits {57}}
-\indexentry{مرکزہ!دختر}{\arabicdigits {57}}
-\indexentry{nucleus!parent}{\arabicdigits {57}}
-\indexentry{مرکزہ!والدینی}{\arabicdigits {57}}
-\indexentry{video game}{\arabicdigits {59}}
-\indexentry{بصری کھیل}{\arabicdigits {59}}
-\indexentry{elevator}{\arabicdigits {60}}
-\indexentry{برقی زینہ}{\arabicdigits {60}}
-\indexentry{slingshot}{\arabicdigits {61}}
-\indexentry{فلاخن کا وار}{\arabicdigits {61}}
-\indexentry{rigid body!defined}{\arabicdigits {66}}
-\indexentry{استوار جسم!تعریف}{\arabicdigits {66}}
-\indexentry{fixed axis!defined}{\arabicdigits {66}}
-\indexentry{مقررہ محور!تعریف}{\arabicdigits {66}}
-\indexentry{rotation axis!defined}{\arabicdigits {66}}
-\indexentry{ محور گھماو!تعریف}{\arabicdigits {66}}
-\indexentry{angular position!defined}{\arabicdigits {66}}
-\indexentry{زاوی مقام!تعریف}{\arabicdigits {66}}
-\indexentry{angular position!zero}{\arabicdigits {66}}
-\indexentry{زاوی مقام!صفر}{\arabicdigits {66}}
-\indexentry{radian}{\arabicdigits {66}}
-\indexentry{ریڈیئن}{\arabicdigits {66}}
-\indexentry{angular velocity!average, defined}{\arabicdigits {68}}
-\indexentry{زاوی سمتی رفتار!اوسط، تعریف}{\arabicdigits {68}}
-\indexentry{angular velocity!instantaneous, defined}{\arabicdigits {68}}
-\indexentry{زاوی سمتی رفتار، لمحاتی،تعریف}{\arabicdigits {68}}
-\indexentry{angular speed!defined}{\arabicdigits {68}}
-\indexentry{زاوی رفتار!تعریف}{\arabicdigits {68}}
-\indexentry{angular acceleration, average, defined}{\arabicdigits {68}}
-\indexentry{زاوی اسراع!اوسط،تعریف}{\arabicdigits {68}}
-\indexentry{angular acceleration!instantaneous, defined}{\arabicdigits {69}}
-\indexentry{زاوی اسراع!تعریف}{\arabicdigits {69}}
-\indexentry{merry go round}{\arabicdigits {79}}
-\indexentry{گھومنے والا جھولا}{\arabicdigits {79}}
-\indexentry{inertia!moment of}{\arabicdigits {84}}
-\indexentry{معیار اثر!جمودی}{\arabicdigits {84}}
-\indexentry{inertia!rotational}{\arabicdigits {84}}
-\indexentry{جمود!گھمیری}{\arabicdigits {84}}
-\indexentry{theorem!parallel axis}{\arabicdigits {87}}
-\indexentry{مسئلہ!متوازی محور}{\arabicdigits {87}}
-\indexentry{test!engineer}{\arabicdigits {90}}
-\indexentry{آزمائش کار معمار}{\arabicdigits {90}}
-\indexentry{torque!defined}{\arabicdigits {92}}
-\indexentry{قوت مروڑ!تعریف}{\arabicdigits {92}}
-\indexentry{moment!arm}{\arabicdigits {93}}
-\indexentry{معیار اثر! کا بازو}{\arabicdigits {93}}
-\indexentry{line of action}{\arabicdigits {93}}
-\indexentry{خط عمل}{\arabicdigits {93}}
-\indexentry{torque!resultant}{\arabicdigits {93}}
-\indexentry{قوت مروڑ!ماحصل}{\arabicdigits {93}}
-\indexentry{torque!net}{\arabicdigits {93}}
-\indexentry{قوت مروڑ!صافی}{\arabicdigits {93}}
-\indexentry{rim}{\arabicdigits {96}}
-\indexentry{چکا}{\arabicdigits {96}}
-\indexentry{engine}{\arabicdigits {109}}
-\indexentry{کل}{\arabicdigits {109}}
-\indexentry{flywheel}{\arabicdigits {109}}
-\indexentry{اڑن پہیا}{\arabicdigits {109}}
-\indexentry{pulsar}{\arabicdigits {110}}
-\indexentry{نابض}{\arabicdigits {110}}
-\indexentry{nebula!Crab}{\arabicdigits {110}}
-\indexentry{سدیم!السرطان}{\arabicdigits {110}}
-\indexentry{supernova}{\arabicdigits {110}}
-\indexentry{مستعر اعظم}{\arabicdigits {110}}
-\indexentry{tower!leaning, Pisa}{\arabicdigits {110}}
-\indexentry{پیسا کا جھکا برج}{\arabicdigits {110}}
-\indexentry{centrifuge}{\arabicdigits {111}}
-\indexentry{مرکز گریزہ}{\arabicdigits {111}}
-\indexentry{record!vinyl}{\arabicdigits {111}}
-\indexentry{تھالی}{\arabicdigits {111}}
-\indexentry{gramophone}{\arabicdigits {111}}
-\indexentry{گراموفون}{\arabicdigits {111}}
-\indexentry{latitude}{\arabicdigits {111}}
-\indexentry{خط عرض بلد}{\arabicdigits {111}}
-\indexentry{equator}{\arabicdigits {111}}
-\indexentry{خط استوا}{\arabicdigits {111}}
-\indexentry{steam engine}{\arabicdigits {111}}
-\indexentry{دخانی کل}{\arabicdigits {111}}
-\indexentry{bearing}{\arabicdigits {111}}
-\indexentry{بیرم}{\arabicdigits {111}}
-\indexentry{turntable}{\arabicdigits {111}}
-\indexentry{تختی گھوم}{\arabicdigits {111}}
-\indexentry{gyroscope}{\arabicdigits {112}}
-\indexentry{مسکن چرخی}{\arabicdigits {112}}
-\indexentry{diving board}{\arabicdigits {114}}
-\indexentry{تختہ غوطہ}{\arabicdigits {114}}
-\indexentry{pulley}{\arabicdigits {114}}
-\indexentry{جرثقیل}{\arabicdigits {114}}
-\indexentry{crankshaft}{\arabicdigits {116}}
-\indexentry{دھرا!خمدار}{\arabicdigits {116}}
-\indexentry{hoop}{\arabicdigits {117}}
-\indexentry{گھیرا}{\arabicdigits {117}}
-\indexentry{آہستہ کن}{\arabicdigits {118}}
-\indexentry{retarding}{\arabicdigits {118}}
-\indexentry{radius!of gyration}{\arabicdigits {119}}
-\indexentry{رداس!دوار}{\arabicdigits {119}}
-\indexentry{Ferris wheel}{\arabicdigits {119}}
-\indexentry{چرخ ہنڈولا}{\arabicdigits {119}}
-\indexentry{event!Tunguska}{\arabicdigits {119}}
-\indexentry{وقوعہ!تنگسکا}{\arabicdigits {119}}
-\indexentry{galaxy!Milky Way}{\arabicdigits {121}}
-\indexentry{کہکشاں!دودھیا}{\arabicdigits {121}}
-\indexentry{hub}{\arabicdigits {121}}
-\indexentry{نابھ}{\arabicdigits {121}}
-\indexentry{skateboard}{\arabicdigits {126}}
-\indexentry{پہیے دار تختہ}{\arabicdigits {126}}
-\indexentry{time!exposure}{\arabicdigits {127}}
-\indexentry{وقتی!افشا}{\arabicdigits {127}}
-\indexentry{Yo-Yo}{\arabicdigits {133}}
-\indexentry{لٹو!ڈوری دار}{\arabicdigits {133}}
-\indexentry{torque!defined}{\arabicdigits {135}}
-\indexentry{قوت مروڑ!تعریف}{\arabicdigits {135}}
-\indexentry{momentum!angular, defined}{\arabicdigits {138}}
-\indexentry{معیار حرکت!زاوی، تعریف}{\arabicdigits {138}}
-\indexentry{conservation law!angular momentum}{\arabicdigits {148}}
-\indexentry{قانون بقا!زاوی معیار حرکت}{\arabicdigits {148}}
-\indexentry{gyroscope}{\arabicdigits {153}}
-\indexentry{مسکن چرخی}{\arabicdigits {153}}
-\indexentry{precession}{\arabicdigits {154}}
-\indexentry{استقبالی حرکت}{\arabicdigits {154}}
-\indexentry{precession!rate}{\arabicdigits {155}}
-\indexentry{استقبالی حرکت!شرح}{\arabicdigits {155}}
-\indexentry{skaters}{\arabicdigits {165}}
-\indexentry{پھسلن باز}{\arabicdigits {165}}
-\indexentry{skates}{\arabicdigits {165}}
-\indexentry{پھسلن تختہ}{\arabicdigits {165}}
-\indexentry{granite}{\arabicdigits {170}}
-\indexentry{سنگ خارا}{\arabicdigits {170}}
-\indexentry{equilibrium}{\arabicdigits {174}}
-\indexentry{توازن}{\arabicdigits {174}}
-\indexentry{equilibrium!static}{\arabicdigits {175}}
-\indexentry{توازن!سکونی}{\arabicdigits {175}}
-\indexentry{center of gravity}{\arabicdigits {177}}
-\indexentry{مرکز ثقل}{\arabicdigits {177}}
-\indexentry{indeterminate}{\arabicdigits {188}}
-\indexentry{بلا تعیین}{\arabicdigits {188}}
-\indexentry{strain}{\arabicdigits {189}}
-\indexentry{بگاڑ}{\arabicdigits {189}}
-\indexentry{stress}{\arabicdigits {189}}
-\indexentry{جبر}{\arabicdigits {189}}
-\indexentry{modulus of elasticity}{\arabicdigits {189}}
-\indexentry{مقیاس لچک}{\arabicdigits {189}}
-\indexentry{strength!yield}{\arabicdigits {190}}
-\indexentry{مضبوطی!مغلوبی}{\arabicdigits {190}}
-\indexentry{strength!ultimate}{\arabicdigits {190}}
-\indexentry{مضبوطی!اخیر}{\arabicdigits {190}}
-\indexentry{modulus!Young's}{\arabicdigits {190}}
-\indexentry{مقیاس!ینگ}{\arabicdigits {190}}
-\indexentry{gauge!strain}{\arabicdigits {190}}
-\indexentry{پیما!بگاڑ}{\arabicdigits {190}}
-\indexentry{modulus!shear}{\arabicdigits {190}}
-\indexentry{مقیاس!قینچ}{\arabicdigits {190}}
-\indexentry{modulus!bulk}{\arabicdigits {191}}
-\indexentry{مقیاس!حجم}{\arabicdigits {191}}
-\indexentry{equilibrium!static}{\arabicdigits {194}}
-\indexentry{توازن!سکونی}{\arabicdigits {194}}
-\indexentry{meter!stick}{\arabicdigits {198}}
-\indexentry{میٹر!مسطر}{\arabicdigits {198}}
+\indexentry{ductile}{\arabicdigits {17}}
+\indexentry{تار پذیر}{\arabicdigits {17}}
+\indexentry{clouds!cumulus}{\arabicdigits {18}}
+\indexentry{بادل!تودہ ابر}{\arabicdigits {18}}
+\indexentry{mole}{\arabicdigits {18}}
+\indexentry{مول}{\arabicdigits {18}}
+\indexentry{inch}{\arabicdigits {20}}
+\indexentry{انچ}{\arabicdigits {20}}
+\indexentry{پاو}{\arabicdigits {20}}
+\indexentry{سیر}{\arabicdigits {20}}
+\indexentry{دھڑی}{\arabicdigits {20}}
+\indexentry{maund}{\arabicdigits {20}}
+\indexentry{من}{\arabicdigits {20}}
+\indexentry{چھٹانک}{\arabicdigits {20}}
+\indexentry{ماشہ}{\arabicdigits {20}}
+\indexentry{tola}{\arabicdigits {20}}
+\indexentry{تولہ}{\arabicdigits {20}}
+\indexentry{shake}{\arabicdigits {21}}
+\indexentry{شیک}{\arabicdigits {21}}
+\indexentry{astronomical unit}{\arabicdigits {21}}
+\indexentry{فلکیاتی اکائی}{\arabicdigits {21}}
+\indexentry{ken}{\arabicdigits {21}}
+\indexentry{کین}{\arabicdigits {21}}
+\indexentry{motorway}{\arabicdigits {33}}
+\indexentry{تیز رو شاہراہ}{\arabicdigits {33}}
+\indexentry{escape ramp}{\arabicdigits {33}}
+\indexentry{روک میلان}{\arabicdigits {33}}
+\indexentry{exhaust}{\arabicdigits {41}}
+\indexentry{خرج}{\arabicdigits {41}}
+\indexentry{rocket}{\arabicdigits {41}}
+\indexentry{ہوائی بان}{\arabicdigits {41}}
+\indexentry{launching pad}{\arabicdigits {42}}
+\indexentry{چبوترہ!روانگی}{\arabicdigits {42}}
+\indexentry{nozzle}{\arabicdigits {42}}
+\indexentry{ٹونٹی}{\arabicdigits {42}}
+\indexentry{deep space}{\arabicdigits {42}}
+\indexentry{فضائے ماورا}{\arabicdigits {42}}
+\indexentry{thrust}{\arabicdigits {43}}
+\indexentry{قوت دھکیل}{\arabicdigits {43}}
+\indexentry{multistage}{\arabicdigits {44}}
+\indexentry{کثیرالمراحل}{\arabicdigits {44}}
+\indexentry{logarithm!natural}{\arabicdigits {44}}
+\indexentry{لوگارتھم!قدرتی}{\arabicdigits {44}}
+\indexentry{lizard!basilisk}{\arabicdigits {54}}
+\indexentry{چھپکلی!افعی}{\arabicdigits {54}}
+\indexentry{titanium}{\arabicdigits {59}}
+\indexentry{طیطانیم}{\arabicdigits {59}}
+\indexentry{nucleus}{\arabicdigits {60}}
+\indexentry{مرکزہ}{\arabicdigits {60}}
+\indexentry{particle!alpha}{\arabicdigits {60}}
+\indexentry{ذرہ!الفا}{\arabicdigits {60}}
+\indexentry{collapse!pancake}{\arabicdigits {62}}
+\indexentry{انہدام!پرت دار}{\arabicdigits {62}}
+\indexentry{factor!safety}{\arabicdigits {62}}
+\indexentry{حفاظتی ضربیہ}{\arabicdigits {62}}
+\indexentry{neutrino}{\arabicdigits {63}}
+\indexentry{نیوٹرینو}{\arabicdigits {63}}
+\indexentry{nucleus!daughter}{\arabicdigits {63}}
+\indexentry{مرکزہ!دختر}{\arabicdigits {63}}
+\indexentry{nucleus!parent}{\arabicdigits {63}}
+\indexentry{مرکزہ!والدینی}{\arabicdigits {63}}
+\indexentry{video game}{\arabicdigits {65}}
+\indexentry{بصری کھیل}{\arabicdigits {65}}
+\indexentry{elevator}{\arabicdigits {66}}
+\indexentry{برقی زینہ}{\arabicdigits {66}}
+\indexentry{slingshot}{\arabicdigits {67}}
+\indexentry{فلاخن کا وار}{\arabicdigits {67}}
+\indexentry{rigid body!defined}{\arabicdigits {72}}
+\indexentry{استوار جسم!تعریف}{\arabicdigits {72}}
+\indexentry{fixed axis!defined}{\arabicdigits {72}}
+\indexentry{مقررہ محور!تعریف}{\arabicdigits {72}}
+\indexentry{rotation axis!defined}{\arabicdigits {72}}
+\indexentry{ محور گھماو!تعریف}{\arabicdigits {72}}
+\indexentry{angular position!defined}{\arabicdigits {72}}
+\indexentry{زاوی مقام!تعریف}{\arabicdigits {72}}
+\indexentry{angular position!zero}{\arabicdigits {72}}
+\indexentry{زاوی مقام!صفر}{\arabicdigits {72}}
+\indexentry{radian}{\arabicdigits {72}}
+\indexentry{ریڈیئن}{\arabicdigits {72}}
+\indexentry{angular velocity!average, defined}{\arabicdigits {74}}
+\indexentry{زاوی سمتی رفتار!اوسط، تعریف}{\arabicdigits {74}}
+\indexentry{angular velocity!instantaneous, defined}{\arabicdigits {74}}
+\indexentry{زاوی سمتی رفتار، لمحاتی،تعریف}{\arabicdigits {74}}
+\indexentry{angular speed!defined}{\arabicdigits {74}}
+\indexentry{زاوی رفتار!تعریف}{\arabicdigits {74}}
+\indexentry{angular acceleration, average, defined}{\arabicdigits {74}}
+\indexentry{زاوی اسراع!اوسط،تعریف}{\arabicdigits {74}}
+\indexentry{angular acceleration!instantaneous, defined}{\arabicdigits {75}}
+\indexentry{زاوی اسراع!تعریف}{\arabicdigits {75}}
+\indexentry{merry go round}{\arabicdigits {85}}
+\indexentry{گھومنے والا جھولا}{\arabicdigits {85}}
+\indexentry{inertia!moment of}{\arabicdigits {90}}
+\indexentry{معیار اثر!جمودی}{\arabicdigits {90}}
+\indexentry{inertia!rotational}{\arabicdigits {90}}
+\indexentry{جمود!گھمیری}{\arabicdigits {90}}
+\indexentry{theorem!parallel axis}{\arabicdigits {93}}
+\indexentry{مسئلہ!متوازی محور}{\arabicdigits {93}}
+\indexentry{test!engineer}{\arabicdigits {96}}
+\indexentry{آزمائش کار معمار}{\arabicdigits {96}}
+\indexentry{torque!defined}{\arabicdigits {98}}
+\indexentry{قوت مروڑ!تعریف}{\arabicdigits {98}}
+\indexentry{moment!arm}{\arabicdigits {99}}
+\indexentry{معیار اثر! کا بازو}{\arabicdigits {99}}
+\indexentry{line of action}{\arabicdigits {99}}
+\indexentry{خط عمل}{\arabicdigits {99}}
+\indexentry{torque!resultant}{\arabicdigits {99}}
+\indexentry{قوت مروڑ!ماحصل}{\arabicdigits {99}}
+\indexentry{torque!net}{\arabicdigits {99}}
+\indexentry{قوت مروڑ!صافی}{\arabicdigits {99}}
+\indexentry{rim}{\arabicdigits {102}}
+\indexentry{چکا}{\arabicdigits {102}}
+\indexentry{engine}{\arabicdigits {115}}
+\indexentry{کل}{\arabicdigits {115}}
+\indexentry{flywheel}{\arabicdigits {115}}
+\indexentry{اڑن پہیا}{\arabicdigits {115}}
+\indexentry{pulsar}{\arabicdigits {116}}
+\indexentry{نابض}{\arabicdigits {116}}
+\indexentry{nebula!Crab}{\arabicdigits {116}}
+\indexentry{سدیم!السرطان}{\arabicdigits {116}}
+\indexentry{supernova}{\arabicdigits {116}}
+\indexentry{مستعر اعظم}{\arabicdigits {116}}
+\indexentry{tower!leaning, Pisa}{\arabicdigits {116}}
+\indexentry{پیسا کا جھکا برج}{\arabicdigits {116}}
+\indexentry{centrifuge}{\arabicdigits {117}}
+\indexentry{مرکز گریزہ}{\arabicdigits {117}}
+\indexentry{record!vinyl}{\arabicdigits {117}}
+\indexentry{تھالی}{\arabicdigits {117}}
+\indexentry{gramophone}{\arabicdigits {117}}
+\indexentry{گراموفون}{\arabicdigits {117}}
+\indexentry{latitude}{\arabicdigits {117}}
+\indexentry{خط عرض بلد}{\arabicdigits {117}}
+\indexentry{equator}{\arabicdigits {117}}
+\indexentry{خط استوا}{\arabicdigits {117}}
+\indexentry{steam engine}{\arabicdigits {117}}
+\indexentry{دخانی کل}{\arabicdigits {117}}
+\indexentry{bearing}{\arabicdigits {117}}
+\indexentry{بیرم}{\arabicdigits {117}}
+\indexentry{turntable}{\arabicdigits {117}}
+\indexentry{تختی گھوم}{\arabicdigits {117}}
+\indexentry{gyroscope}{\arabicdigits {118}}
+\indexentry{مسکن چرخی}{\arabicdigits {118}}
+\indexentry{diving board}{\arabicdigits {120}}
+\indexentry{تختہ غوطہ}{\arabicdigits {120}}
+\indexentry{pulley}{\arabicdigits {120}}
+\indexentry{جرثقیل}{\arabicdigits {120}}
+\indexentry{crankshaft}{\arabicdigits {122}}
+\indexentry{دھرا!خمدار}{\arabicdigits {122}}
+\indexentry{hoop}{\arabicdigits {123}}
+\indexentry{گھیرا}{\arabicdigits {123}}
+\indexentry{آہستہ کن}{\arabicdigits {124}}
+\indexentry{retarding}{\arabicdigits {124}}
+\indexentry{radius!of gyration}{\arabicdigits {125}}
+\indexentry{رداس!دوار}{\arabicdigits {125}}
+\indexentry{Ferris wheel}{\arabicdigits {125}}
+\indexentry{چرخ ہنڈولا}{\arabicdigits {125}}
+\indexentry{event!Tunguska}{\arabicdigits {125}}
+\indexentry{وقوعہ!تنگسکا}{\arabicdigits {125}}
+\indexentry{galaxy!Milky Way}{\arabicdigits {127}}
+\indexentry{کہکشاں!دودھیا}{\arabicdigits {127}}
+\indexentry{hub}{\arabicdigits {127}}
+\indexentry{نابھ}{\arabicdigits {127}}
+\indexentry{skateboard}{\arabicdigits {132}}
+\indexentry{پہیے دار تختہ}{\arabicdigits {132}}
+\indexentry{time!exposure}{\arabicdigits {133}}
+\indexentry{وقتی!افشا}{\arabicdigits {133}}
+\indexentry{Yo-Yo}{\arabicdigits {139}}
+\indexentry{لٹو!ڈوری دار}{\arabicdigits {139}}
+\indexentry{torque!defined}{\arabicdigits {141}}
+\indexentry{قوت مروڑ!تعریف}{\arabicdigits {141}}
+\indexentry{momentum!angular, defined}{\arabicdigits {144}}
+\indexentry{معیار حرکت!زاوی، تعریف}{\arabicdigits {144}}
+\indexentry{conservation law!angular momentum}{\arabicdigits {154}}
+\indexentry{قانون بقا!زاوی معیار حرکت}{\arabicdigits {154}}
+\indexentry{gyroscope}{\arabicdigits {159}}
+\indexentry{مسکن چرخی}{\arabicdigits {159}}
+\indexentry{precession}{\arabicdigits {160}}
+\indexentry{استقبالی حرکت}{\arabicdigits {160}}
+\indexentry{precession!rate}{\arabicdigits {161}}
+\indexentry{استقبالی حرکت!شرح}{\arabicdigits {161}}
+\indexentry{skaters}{\arabicdigits {171}}
+\indexentry{پھسلن باز}{\arabicdigits {171}}
+\indexentry{skates}{\arabicdigits {171}}
+\indexentry{پھسلن تختہ}{\arabicdigits {171}}
+\indexentry{granite}{\arabicdigits {176}}
+\indexentry{سنگ خارا}{\arabicdigits {176}}
+\indexentry{equilibrium}{\arabicdigits {180}}
+\indexentry{توازن}{\arabicdigits {180}}
+\indexentry{equilibrium!static}{\arabicdigits {181}}
+\indexentry{توازن!سکونی}{\arabicdigits {181}}
+\indexentry{center of gravity}{\arabicdigits {183}}
+\indexentry{مرکز ثقل}{\arabicdigits {183}}
+\indexentry{indeterminate}{\arabicdigits {194}}
+\indexentry{بلا تعیین}{\arabicdigits {194}}
+\indexentry{strain}{\arabicdigits {195}}
+\indexentry{بگاڑ}{\arabicdigits {195}}
+\indexentry{stress}{\arabicdigits {195}}
+\indexentry{جبر}{\arabicdigits {195}}
+\indexentry{modulus of elasticity}{\arabicdigits {195}}
+\indexentry{مقیاس لچک}{\arabicdigits {195}}
+\indexentry{strength!yield}{\arabicdigits {196}}
+\indexentry{مضبوطی!مغلوبی}{\arabicdigits {196}}
+\indexentry{strength!ultimate}{\arabicdigits {196}}
+\indexentry{مضبوطی!اخیر}{\arabicdigits {196}}
+\indexentry{modulus!Young's}{\arabicdigits {196}}
+\indexentry{مقیاس!ینگ}{\arabicdigits {196}}
+\indexentry{gauge!strain}{\arabicdigits {196}}
+\indexentry{پیما!بگاڑ}{\arabicdigits {196}}
+\indexentry{modulus!shear}{\arabicdigits {196}}
+\indexentry{مقیاس!قینچ}{\arabicdigits {196}}
+\indexentry{modulus!bulk}{\arabicdigits {197}}
+\indexentry{مقیاس!حجم}{\arabicdigits {197}}
+\indexentry{equilibrium!static}{\arabicdigits {200}}
+\indexentry{توازن!سکونی}{\arabicdigits {200}}
+\indexentry{meter!stick}{\arabicdigits {204}}
+\indexentry{میٹر!مسطر}{\arabicdigits {204}}
+\indexentry{pulley}{\arabicdigits {214}}
+\indexentry{جرثقیل}{\arabicdigits {214}}
