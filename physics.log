@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  22 FEB 2024 18:04
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  23 FEB 2024 10:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-20242221084.tex)...disabled (restricted).
+runsystem(touch w18-test-2024223642.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20242221084.tex)...disabled (restricted).
+runsystem(rm -f w18-test-2024223642.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -1761,9 +1761,13 @@ Package: newfile 2009/09/03 v1.0c Output and input files
 x)
 (./tex/myCircuitDimensionsAndMathematicalSymbols.tex)
 (./tex/myTikzCommandsCircuitAnalysis.tex) (./tex/myUrduShortLetters.tex)
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 124.
+
+No file ,./tex/gravitation.
 \@indexfile=\write6
 \openout6 = `physics.idx'.
-
 
 Writing index file physics.idx
 (./physics.aux
@@ -1990,9 +1994,13 @@ e 24.
 \openout7 = `physics.toc'.
 
  [4]
+\openout2 = `./tex/quantumMechanicsPreface.aux'.
+
+
+No file ./tex/quantumMechanicsPreface.tex.
 \openout2 = `./tex/prefaceFirstBook.aux'.
 
- (./tex/prefaceFirstBook.tex
+(./tex/prefaceFirstBook.tex
 LaTeX Font Info:    Font shape `TU/JameelNooriNastaleeq(2)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
 
@@ -2080,6 +2088,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
  []
 
 [5
+
+
 
 
 
@@ -2789,6 +2799,113 @@ LaTeX Info: Redefining \ttfamily on input line 30.
 
 
 ]) [12]
+\openout2 = `./tex/HR_p08bDone.aux'.
+
+ (./tex/HR_p08bDone.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 استعمال کی جائیں گی۔ بین الاقوامی معاہدوں
+ کے تحت اساسی مقداروں کے معیار طے کیے گئے ، جو ہر ایک کے لیے قابل[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 رسائی اور غیر تغیر ہیں۔ اساسی مقدار اور ا
+ن سے اخذ دیگر مقادیر کی تمام طبیعی پیمائشیں انہی معیار کے تحت کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جاتی ہے۔ جدول 1.‏2 میں پیش علامتیں اور سا
+بقے استعمال کر کے پیمائشی ترقیم کی سادہ صورت حاصل ہوتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 اکائیوں کی تبدیلی \TU/JameelNooriNastalee
+q(2)/m/n/9 زنجیری طریقے  \TU/JameelNooriNastaleeq(2)/m/sl/10 سے جا سکتی ہے، جس 
+میں اصل مواد کو یک بعد دیگرے تبادلی ضربیوں سے،[]
+ []
+
+
+Underfull \hbox (badness 4279) in paragraph at lines 12--13
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 جنہیں ایک $\OT1/zplm/m/n/10 (\OT1/ppl/m/n
+/10 1\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے روپ میں لکھا گی
+ا ہو، ضرب دے کر ، اکائیوں سے الجبرائی مقادیر کی طرح نپٹا جاتا ہے حتٰی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 پیرس شہر کے قریب رکھے گئے پلاٹینم و اریڈی
+م کمیتی معیار ، کلوگرام کی تعریف ہے۔ جوہری پیمانہ پر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 پیمائش کے لیے جوہری کمیتی اکائی استعمال ک
+ی جاتی ہے جس کی تعریف کاربن $\OT1/ppl/m/n/10 12$ \TU/JameelNooriNastaleeq(2)/m/
+sl/10 جوہر کی صورت میں کی جاتی[]
+ []
+
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 27
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 (١.٨)[]
+ []
+
+
+\endL or \endR problem (1 missing, 0 extra) detected at line 27
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 (١.٨)[]
+ []
+
+[13
+
+
+
+]
+Underfull \hbox (badness 4634) in paragraph at lines 33--35
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ١.١:  زمین تخمیناً ایک کرہ ہے جس کا
+ رداس $\OT1/ppl/m/n/10 6.37 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[] m$ \TU/Ja
+meelNooriNastaleeq(2)/m/sl/10 ہے۔اس کا (ا) محیط کلومیٹر میں، (ب)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ١.٢:  اشاعت کاری میں لمبائی کی مست
+مل اکائی \TU/JameelNooriNastaleeq(2)/m/n/9 نقطہ  \TU/JameelNooriNastaleeq(2)/m/
+sl/10 کہلاتی ہے ، جو انچ کے $[]$ حصے کے برابر ہے۔ \TU/JameelNooriNastaleeq(2)/m
+/n/9 مربع نقطہ  \TU/JameelNooriNastaleeq(2)/m/sl/10 کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--43
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ١.٣:  ایک مائیکرو میٹر $\OT1/zplm/
+m/n/10 (\OT1/ppl/m/n/10 1 []\OT1/zplm/m/n/10 )$ \TU/JameelNooriNastaleeq(2)/m/s
+l/10 کو عموماً  \TU/JameelNooriNastaleeq(2)/m/n/9 مائیکران  \TU/JameelNooriNast
+aleeq(2)/m/sl/10 کہتے ہیں۔ (ا) کتنے مائیکران $\OT1/ppl/m/n/10 1 []$ \TU/JameelN
+ooriNastaleeq(2)/m/sl/10 کے برابر ہیں؟ (ب)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--49
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 برابر۔ اگر کتاب میں ایک شکل $\OT1/ppl/m/n
+/10 0.80 []$ \TU/JameelNooriNastaleeq(2)/m/sl/10 غلط رکھی گئی ہو، تب یہ (ا) پیک
+ا اکائیوں میں اور (ب) نقطہ اکائیوں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--54
+[] \TU/JameelNooriNastaleeq(2)/m/sl/10 سوال  ١.٥:  ایک مقابلے میں گھوڑے $\OT1/p
+pl/m/n/10 4.0$ \TU/JameelNooriNastaleeq(2)/m/sl/10 فرلانگ دوڑ لگا کر طے کرتے ہی
+ں۔ اس فاصلے کو (ا) عصا اور (ب)[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--54
+[]\TU/JameelNooriNastaleeq(2)/m/sl/10 زنجیر کی صورت میں لکھیں۔ (ایک فرلانگ $\OT
+1/ppl/m/n/10 201.168 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 کے برابر ہے۔ ایک عص
+ا $\OT1/ppl/m/n/10 5.0292 m$ \TU/JameelNooriNastaleeq(2)/m/sl/10 اور ایک[]
+ []
+
+) [14]
 \openout2 = `./tex/HR_p09Done.aux'.
 
  (./tex/HR_p09Done.tex
@@ -2885,7 +3002,6 @@ T1/ppl/m/n/10 15 s$ \TU/JameelNooriNastaleeq(2)/m/sl/10 دیتی ہے، اس و�
  []
 
 [15
-
 
 
 
@@ -19613,18 +19729,120 @@ Underfull \hbox (badness 10000) in paragraph at lines 1245--1250
 
  (./tex/gravitation.tex
 باب \arabicdigits{7}.
-) [215
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 دو ذروں کی کمیت اور ان کے بیچ فاصلے کا ذ
+روں کی باہمی تجاذبی قوت کے ساتھ تعلق نیوٹن کے قانون تجاذب سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 جان پائیں گے کہ مادے کا یکساں کروی خول ذ
+رے کو ، جو خول سے باہر ہو، بالکل اس طرح کھینچتا ہے جیسے خول کی کمیت خول[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[][]
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 23--24
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 وسیع اجسام کے بیچ تجاذبی قوت معلوم کرنے 
+کی خاطر، جسم کے اندر تمام انفرادی ذروں پر انفرادی قوت[]
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 23--24
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کا مجموعہ (تکمل) لینا ہو گا۔ تاہم، اگر ایک
+ جسم یکساں کروی خول یا کروی تشاکل ٹھوس جسم ہو،بیرونی جسم پر اس کی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 27.
+LaTeX Info: Redefining \sffamily on input line 27.
+LaTeX Info: Redefining \ttfamily on input line 27.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 طبیعیات کا ایک مقصد ، قوت تجاذب کا سمجھنا 
+ہے۔ قوت تجاذب ہمیں زمین پر رکھتی ہے، چاند کو زمین[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کے گرد مدار، اور زمین کو سورج کے گرد مدار 
+میں رکھتی ہے۔اس کا اثر ہماری  \TU/AASameerSagarNastaleeqBold(0)/m/n/10 دودھیا ک
+ہکشاں [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 کے ہر کونے تک پہنچ کر،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اربوں ستاروں، لاتعداد جوہر اور ستاروں کے ب
+یچ دھول کے ذروں کو کہکشاں میں جکڑ کر رکھتا ہے۔ ہم دودھیا کہکشاں، جو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ستاروں کا قرص نما جھرمٹ ہے، کے کنارے کے قر
+یب، کہکشاں کے مرکز سے $\OT1/ppl/m/n/10 2.6\OML/zplm/m/it/10 e\OT1/ppl/m/n/10 4$
+ \TU/JameelNooriNastaleeq(0)/b/n/10 نوری سال[]
+ []
+
+[215
 
 
 
 
 
-] [216
+]
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 29--190
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 تجاذبی قوت بین کہکشانی فاصلے طے کر کے کہ
+کشاں کے مقامی گروہ کو، جس میں دودھیا کہکشاں کے علاوہ  \TU/AASameerSagarNastalee
+qBold(0)/m/n/10 اندرومدا [][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--190
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ کہکشاں کا مقامی گروہ از خود  \TU/AASam
+eerSagarNastaleeqBold(0)/m/n/10 مقامی عظیم خوشہ [][][] []\TU/JameelNooriNastale
+eq(0)/b/n/10 کا حصہ ہے، جس کو تجاذبی قوت انتہائی زیادہ کمیتی خطہ کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--190
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 طرف، جو \TU/AASameerSagarNastaleeqBold(0)/
+m/n/10 عظیم جالب [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 کہلاتا ہے، کھنچ رہ
+ا ہے۔ یہ خطہ زمین سے $\OT1/ppl/m/n/10 3.0\OML/zplm/m/it/10 e\OT1/ppl/m/n/10 8$ 
+\TU/JameelNooriNastaleeq(0)/b/n/10 نوری سال کے فاصلے پر، دودھیا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--190
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کہکشاں کی دوسرے طرف ، واقع ہے۔ تجاذبی قوت 
+اس سے بھی زیادہ دور رس ہے، چونکہ یہ پوری کائنات کو ،[]
+ []
+
+[216] (./answer.tex) [217
 
 
 
 
-] (./answer.tex) [217] [218
+] [218
 
 
 ]
@@ -19696,12 +19914,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 59301 strings out of 476191
- 1604504 string characters out of 9562072
- 2354393 words of memory out of 7000000
- 78938 multiletter control sequences out of 15000+600000
+ 59351 strings out of 476191
+ 1606429 string characters out of 9562072
+ 2355141 words of memory out of 7000000
+ 78985 multiletter control sequences out of 15000+600000
  495508 words of font info for 145 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,20n,118p,2628b,1068s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (222 pages).
+Output written on physics.pdf (224 pages).
