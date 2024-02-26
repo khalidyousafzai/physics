@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  23 FEB 2024 10:42
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.6.20)  26 FEB 2024 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1710,9 +1710,9 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
 \verbatim@out=\write4
-runsystem(touch w18-test-2024223642.tex)...disabled (restricted).
+runsystem(touch w18-test-20242261017.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-2024223642.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20242261017.tex)...disabled (restricted).
 
 runsystem(rm -f "physics.gnuploterrors")...disabled (restricted).
 
@@ -19780,13 +19780,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 یچ دھول کے ذروں کو کہکشاں میں جکڑ کر رکھتا ہے۔ ہم دودھیا کہکشاں، جو[]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 ستاروں کا قرص نما جھرمٹ ہے، کے کنارے کے قر
-یب، کہکشاں کے مرکز سے $\OT1/ppl/m/n/10 2.6\OML/zplm/m/it/10 e\OT1/ppl/m/n/10 4$
- \TU/JameelNooriNastaleeq(0)/b/n/10 نوری سال[]
- []
-
 [215
 
 
@@ -19809,40 +19802,508 @@ LaTeX Info: Redefining \ttfamily on input line 29.
 LaTeX Info: Redefining \rmfamily on input line 29.
 LaTeX Info: Redefining \sffamily on input line 29.
 LaTeX Info: Redefining \ttfamily on input line 29.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 29--190
+LaTeX Info: Redefining \rmfamily on input line 31.
+LaTeX Info: Redefining \sffamily on input line 31.
+LaTeX Info: Redefining \ttfamily on input line 31.
+LaTeX Info: Redefining \rmfamily on input line 31.
+LaTeX Info: Redefining \sffamily on input line 31.
+LaTeX Info: Redefining \ttfamily on input line 31.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
 [][]\TU/JameelNooriNastaleeq(0)/b/n/10 تجاذبی قوت بین کہکشانی فاصلے طے کر کے کہ
 کشاں کے مقامی گروہ کو، جس میں دودھیا کہکشاں کے علاوہ  \TU/AASameerSagarNastalee
 qBold(0)/m/n/10 اندرومدا [][][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--190
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ کہکشاں کا مقامی گروہ از خود  \TU/AASam
-eerSagarNastaleeqBold(0)/m/n/10 مقامی عظیم خوشہ [][][] []\TU/JameelNooriNastale
-eq(0)/b/n/10 کا حصہ ہے، جس کو تجاذبی قوت انتہائی زیادہ کمیتی خطہ کی[]
+Underfull \hbox (badness 6510) in paragraph at lines 29--32
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 کہکشاں (شکل 13.‏1) جو زمین سے $\OT1/ppl/
+m/n/10 2.3 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[]$ \TU/JameelNooriNastaleeq(
+0)/b/n/10 نوری سال فاصلے پر ہے، اور کئی  \TU/AASameerSagarNastaleeqBold(0)/m/n/
+10 بالشتیا [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 کہکشاں، جیسے  \TU/AASame
+erSagarNastaleeqBold(0)/m/n/10 سحاب کبیر [][][] []\TU/JameelNooriNastaleeq(0)/b
+/n/10 ،[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--190
-[]\TU/JameelNooriNastaleeq(0)/b/n/10 طرف، جو \TU/AASameerSagarNastaleeqBold(0)/
-m/n/10 عظیم جالب [][][] []\TU/JameelNooriNastaleeq(0)/b/n/10 کہلاتا ہے، کھنچ رہ
-ا ہے۔ یہ خطہ زمین سے $\OT1/ppl/m/n/10 3.0\OML/zplm/m/it/10 e\OT1/ppl/m/n/10 8$ 
-\TU/JameelNooriNastaleeq(0)/b/n/10 نوری سال کے فاصلے پر، دودھیا[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--190
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
 []\TU/JameelNooriNastaleeq(0)/b/n/10 کہکشاں کی دوسرے طرف ، واقع ہے۔ تجاذبی قوت 
 اس سے بھی زیادہ دور رس ہے، چونکہ یہ پوری کائنات کو ،[]
  []
 
-[216] (./answer.tex) [217
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 سے ایک ہے، کا دارومدار بھی اسی قوت پر ہے۔ 
+جب سورج سے بڑا ستارہ زندگی کے اختتام کو پہنچتا ہے، اس کے ذروں کے بیچ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 تجاذبی قوت ستارے کو اپنے آپ پر منہدم کر کے
+ ثقب اسود پیدا کرتی ہے۔ منہدم ستارے کی سطح پر تجاذبی قوت اتنی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 زیادہ ہوتی ہے کہ سطح سے کوئی ذرہ نکل نہیں 
+سکتا اور نا ہی روشنی نکل سکتی ہے (اسی لئے اس کو ”ثقب اسود “ یعنی ”سیاہ سوراخ “ 
+کہتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہیں)۔ اگر کوئی ستارہ ثقب اسود کے زیادہ قری
+ب پہنچے، ثقب اسود کی توانا تجاذبی قوت ستارے کو چیرپھاڑ کر ثقب (سوراخ) کے[]
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 29--32
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اندر کھینچ لیتی ہے۔ متعدد ستارے نوچنے پر ا
+س سے \TU/AASameerSagarNastaleeqBold(0)/m/n/10 بے پناہ کمیتی ثقب اسود [][][] []\
+TU/JameelNooriNastaleeq(0)/b/n/10 بنتا ہے۔ ایسے بھیانک اور پراسرار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اجسام سے کائنات بھری نظر آتی ہے۔یقیناً ہما
+ری اپنی دودھیا کہکشاں کے مرکز پر ایک ثقب اسود پایا جاتا ہے،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جو القوس $\OML/zplm/m/it/10 A[]$ \TU/Jamee
+lNooriNastaleeq(0)/b/n/10 کہلاتا ہے، اور جس کی کمیت تقریباً $\OT1/ppl/m/n/10 3.
+7 \OMS/zplm/m/n/10 ^^B \OT1/ppl/m/n/10 10[]$ \TU/JameelNooriNastaleeq(0)/b/n/10
+ شمسی کمیت کے برابر ہے۔ اس کی تجاذبی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 قوت اتنی توانا ہے کہ قریبی ستارے مدار میں 
+گھومتے ہوئے صرف $\OT1/ppl/m/n/10 15.2$ \TU/JameelNooriNastaleeq(0)/b/n/10 سال م
+یں القوس $\OML/zplm/m/it/10 A[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 کے گرد چکر[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مختلف مساوات پر بات کرنے سے قبل ذرہ سوچتے 
+ہیں۔ہم زمین کے ساتھ مس رہتے ہیں؛ مس رکھنے کی قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 اتنی زیادہ نہیں کہ ہمیں گھسیٹ کر چلنا پڑے 
+اور نا ہی اتنی کم ہے کہ آئے دن سر چھت سے ٹکرائے۔ ساتھ ہی یہ قوت ہمیں[]
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 38--39
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 زمین پر رکھتی ہے، تاہم اتنی طاقتور نہیں کہ
+ ہم ایک دوسرے کے ساتھ جڑ جائیں۔ یقیناً قوت کشش کا دارومدار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جسم میں مادے کی مقدار پر ہے۔ زمین میں مادے
+ کی مقدار بہت زیادہ ہے، لہٰذا زمین کی کشش بھی بہت زیادہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے، جبکہ انسان کے جسم میں مادے کی مقدار بہ
+ت کم ہے، اور اسی لئے دو انسانی اجسام کے بیچ قوت کشش اتنی کم ہے کہ[]
+ []
+
+[216]
+LaTeX Info: Redefining \rmfamily on input line 40.
+LaTeX Info: Redefining \sffamily on input line 40.
+LaTeX Info: Redefining \ttfamily on input line 40.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 ماضی میں انسان جانتا تھا کہ زمین ہمیں نش
+یب وار کھینچتی ہے (خاص کر اس وقت جب زمین پر گر نے سے[]
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 40--42
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کھینچتا ہے۔ اجسام کا ایک دوسرے کی طرف حرکت
+ کرنے کے رجحان کو \TU/AASameerSagarNastaleeqBold(0)/m/n/10 تجاذب [][][] []\TU/J
+ameelNooriNastaleeq(0)/b/n/10 کہتے ہیں، اور اجسام میں وہ[]
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 40--42
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی کمیت اور زمین کی کمیت کے بیچ کشش سیب کے
+ گرنے کا سبب تھی۔ زمین کی کمیت اتنی زیادہ ہے کہ یہ قوت ، جو[]
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 40--42
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 تقریباً $\OT1/ppl/m/n/10 0.80 N$ \TU/Jamee
+lNooriNastaleeq(0)/b/n/10 ہو گی، محسوس کی جا سکتی ہے۔ اس کے برعکس، دو قریب کھڑے
+ اشخاص کے بیچ قوت ، جو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 دو وسیع اجسام، جیسے دو شخص، کے بیچ تجاذب
+ی توانائی کا حساب کرنا مشکل ہو گا۔ ہم دو ذروں (جن کی جسامت صفر تصور کی جائے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 گی) کے بیچ نیوٹن کے قانون تجاذب کے اطلاق پ
+ر غور کرتے ہیں۔ فرض کریں ذروں کی کمیت $\OML/zplm/m/it/10 m[]$ \TU/JameelNooriNa
+staleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 m[]$ \TU/JameelNooriNastaleeq(0)/b/n/1
+0 اور ان کے بیچ[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 48.
+LaTeX Info: Redefining \sffamily on input line 48.
+LaTeX Info: Redefining \ttfamily on input line 48.
+LaTeX Info: Redefining \rmfamily on input line 56.
+LaTeX Info: Redefining \sffamily on input line 56.
+LaTeX Info: Redefining \ttfamily on input line 56.
+LaTeX Info: Redefining \rmfamily on input line 56.
+LaTeX Info: Redefining \sffamily on input line 56.
+LaTeX Info: Redefining \ttfamily on input line 56.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 شکل 13.‏2a میں ذرہ $\OT1/ppl/m/n/10 1$ \TU
+/JameelNooriNastaleeq(0)/b/n/10 (کمیت $\OML/zplm/m/it/10 m[]$\TU/JameelNooriNas
+taleeq(0)/b/n/10 ) پر ذرہ $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(0)/b/n/1
+0 (کمیت $\OML/zplm/m/it/10 m[]$\TU/JameelNooriNastaleeq(0)/b/n/10 ) کی تجاذبی ق
+وت $[]$ پیش ہے۔ قوت کا رخ ، ذرہ $\OT1/ppl/m/n/10 2$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی طرف ہے اور چونکہ ذرہ $\OT1/ppl/m/n/10 2
+$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی طرف ذرہ $\OT1/ppl/m/n/10 1$ \TU/JameelN
+ooriNastaleeq(0)/b/n/10 کشش محسوس کرتا ہے لہٰذا یہ \TU/JameelNooriNastaleeq(0)/
+m/n/9 قوت کشش  \TU/JameelNooriNastaleeq(0)/b/n/10 کہلاتی ہے۔ قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی قدر مساوات [][]٧.١[][] []سے حاصل ہو گی۔
+ ذرہ $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے رداسی باہر نکلتی
+ محور $\OML/zplm/m/it/10 r$ \TU/JameelNooriNastaleeq(0)/b/n/10 ، جو ذرہ $\OT1/p
+pl/m/n/10 2$ \TU/JameelNooriNastaleeq(0)/b/n/10 سے بھی گزرتی ہے، کے مثبت رخ کے[
+]
+ []
+
+[217]
+LaTeX Info: Redefining \rmfamily on input line 62.
+LaTeX Info: Redefining \sffamily on input line 62.
+LaTeX Info: Redefining \ttfamily on input line 62.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 ذرہ $\OT1/ppl/m/n/10 2$ \TU/JameelNooriN
+astaleeq(0)/b/n/10 پر ذرہ $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(0)/b/n/1
+0 کی قوت کی قدر وہی ہے جو ذرہ $\OT1/ppl/m/n/10 1$ \TU/JameelNooriNastaleeq(0)/b
+/n/10 پر ذرہ $\OT1/ppl/m/n/10 2$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی قدر ہے، 
+تاہم اس کا رخ مخالف ہو گا۔ دونوں قوت مل کر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 قانون سوم جوڑی قوت دیتے ہیں، اور ہم دو ذرو
+ں کے بیچ قوت تجاذب کی بات کر سکتے ہیں جس کی قدر مساوات [][]٧.١[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 دیتی ہے۔ دو ذروں کے بیچ قوت تجاذب پر دیگ
+ر اجسام کا اثر نہیں پایا جاتا، اگرچہ یہ اجسام ان ذروں کے درمیان ہی کیوں[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 دی گئی کمیت کے ذروں کی ، جو کسی مخصوص فا
+صلے پر ہوں،تجاذبی قوت کا زور تجاذبی مستقل $\OML/zplm/m/it/10 G$ \TU/JameelNoori
+Nastaleeq(0)/b/n/10 پر منحصر ہے۔ اگر جادو سے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]$\OML/zplm/m/it/10 G$ \TU/JameelNooriNastaleeq(0)/b/n/10 کی قیمت دس گنّا کی ج
+ائے، زمین کی کشش آپ کو زمین پر گرا دیگی، اور $\OML/zplm/m/it/10 G$ \TU/JameelNo
+oriNastaleeq(0)/b/n/10 کی قیمت دس گنّا کم کر دی جائے،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 دیگر اجسام۔ \TU/JameelNooriNastale
+eq(0)/b/n/10 اگرچہ، نیوٹن کا قانون تجاذب ذروں کے لئے ہے، جب تک اجسام کی جسامت ،
+ اجسام کے بیچ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 فاصلے کے لحاظ سے بہت کم ہو، قانون تجاذب کا
+ اطلاق وسیع اجسام پر بھی ممکن ہے۔ زمین اور چاند ایک[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دوسرے سے اتنی دوری پر ہیں کہ انہیں تخمیناً
+ ذرے تصور کیا جا سکتا ہے؛ لیکن سیب اور زمین کا کیا ہو گا؟ سیب کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی تمام کمیت واقع ہو۔ یوں سطح زمین سے اوپر
+ ذرے کو تمام خول یوں کھینچتے ہیں گویا زمین کی پوری کمیت زمین کے مرکز[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 پر واقع ہو۔ یوں، سیب کے نقطہ نظر سے زمین ا
+س ذرے کی مانند ہے جو زمین کے مرکز پر واقع ہے اور جس کی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 قانون سوم جوڑی قوت۔ \TU/JameelNoor
+iNastaleeq(0)/b/n/10 فرض کریں، جیسا شکل 13.‏3 میں دکھایا گیا ہے، سیب کو زمین $\
+OT1/ppl/m/n/10 0.80 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 قدر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی قوت سے نیچے کھینچتی ہے۔ اب زمین کو سیب 
+$\OT1/ppl/m/n/10 0.80 N$ \TU/JameelNooriNastaleeq(0)/b/n/10 قدر کی قوت سے اوپر 
+کھینچے گا اور یہ قوت زمین[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کے مرکز پر عمل پیرا ہو گی۔ باب 5 کی زبان م
+یں یہ قوت مل کر نیوٹن کے قانون سوم میں جوڑی قوت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 دیتی ہیں۔ اگرچہ، ان کی قدر ایک ہے، جب سیب 
+رہا کیا جائے وہ قوت سیب پر مختلف اسراع عائد کرتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہیں۔ سیب کے اسراع کی قدر $\OT1/ppl/m/n/10 
+9.8 m s[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 ہو گی، جو سطح زمین کے قریب ، جانی
+ پہچانی، آزاد جسمی اسراع[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہے۔ سیب و زمین نظام کے مرکز سے جڑی حوالہ چ
+وکھٹ کے لحاظ سے زمین کے اسراع کی قدر صرف[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 ایک ذرہ باری باری درج ذیل اجسام کے باہر 
+رکھا جاتا ہے، جن کی انفرادی کمیت $\OML/zplm/m/it/10 m$ \TU/JameelNooriNastaleeq
+(0)/b/n/10 ہے۔ (1) ایک بڑا یکساں ٹھوس[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کرہ، (2) ایک بڑا یکساں کروی خول، (3) ایک چ
+ھوٹا یکساں ٹھوس کرہ، اور (4) ایک چھوٹا یکساں خول۔ ہر مرتبہ ذرے اور[]
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 83--84
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کرہ کے مرکز کا فاصلہ $\OML/zplm/m/it/10 d$
+ \TU/JameelNooriNastaleeq(0)/b/n/10 رکھا جاتا ہے۔ ذرے پر قوت کی قدر کے لحاظ سے،
+ اعظم قیمت اول رکھ کر، ان اجسام کی[]
+ []
+
+[218]
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں ذرے پر ایک سے زیادہ تجاذبی قوت عمل 
+پیرا ہوں، قوتوں کو ظاہر کرنے والا آزاد جسمی خاکہ بنا پائیں گے ،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 جہاں ایک سے زیادہ تجاذبی قوت ذرے پر عمل 
+پیرا ہوں، انفرادی قوت کو سمتیہ تصور کر کے تمام کا مجموعہ[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 تجاذبی قوت اصول انطباق پر پورا اترتی ہے؛
+ یعنی، جہاں $\OML/zplm/m/it/10 n$ \TU/JameelNooriNastaleeq(0)/b/n/10 ذرے باہم ع
+مل کرتے ہوں، ایک ذرے پر ، جس کا[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 117.
+LaTeX Info: Redefining \sffamily on input line 117.
+LaTeX Info: Redefining \ttfamily on input line 117.
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 اصول انطباق [][][] []\TU/JameelNoori
+Nastaleeq(0)/b/n/10 استعمال کر کے ، ذروں کے گروہ میں ، ایک ذرے پر باقی ذروں کی 
+صافی (یا ماحصل) تجاذبی قوت معلوم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کی جاتی ہے۔ یہ ایک عمومی اصول ہے، جو کہتا 
+ہے انفرادی اثرات کا مجموعہ صافی اثر دیگا۔یہاں،اس اصول[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کے تحت منتخب ذرے پر باقی تمام ذروں کا (ایک
+ ایک کر کے) انفرادی قوت تجاذب حاصل کر کے ان کا سمتی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مجموعہ لے کر صافی تجاذبی قوت حاصل کیا جائے
+ گا۔ سمتیات کا مجموعہ لینا ہم جانتے ہیں۔ قوت کے[]
+ []
+
+[219]
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 مذکورہ بالا آخری دو جملوں میں پیش دو نقط
+وں پر دوبارہ غور کرتے ہیں۔ (1) قوت درحقیقت سمتیہ ہیں جن کے رخ مختلف ہو[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 رخ کھینچیں، ان کی صافی قوت یقیناً اس سے مخ
+تلف ہو گی جب دونوں آپ کو ایک رخ کھینچیں۔) (2) ہم انفرادی قوتوں کا[]
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 119--120
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 حال کے مطابق مختلف ہوتی، یا اگر ایک قوت کی
+ موجودگی دوسری قوت پر اثر انداز ہوتی۔ ہماری خوش قسمتی ہے کہ دنیا اتنی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--128
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 یہاں ذرہ $\OT1/ppl/m/n/10 1$ \TU/JameelNoo
+riNastaleeq(0)/b/n/10 پر صافی قوت $[]$ ہے اور ، مثال کے طور پر، ذرہ $\OT1/ppl/m
+/n/10 1$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر ذرہ $\OT1/ppl/m/n/10 3$ \TU/Jame
+elNooriNastaleeq(0)/b/n/10 کی قوت $[]$ ہے۔اس مساوات کو[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 133.
+LaTeX Info: Redefining \sffamily on input line 133.
+LaTeX Info: Redefining \ttfamily on input line 133.
+LaTeX Info: Redefining \rmfamily on input line 133.
+LaTeX Info: Redefining \sffamily on input line 133.
+LaTeX Info: Redefining \ttfamily on input line 133.
+
+Underfull \hbox (badness 3364) in paragraph at lines 132--135
+[][]\TU/AASameerSagarNastaleeqBold(0)/m/n/10 حقیقی اجسام۔ \TU/JameelNooriNastal
+eeq(0)/b/n/10 ذرے پر حقیقی (وسیع) جسم کی تجاذبی قوت کیا ہو گی؟ ہم جسم کو اتنے چ
+ھوٹے چھوٹے ٹکڑوں میں تقسیم کرتے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 ہیں کہ ہر ٹکڑے کو ذرہ تصور کرنا ممکن ہو۔اس
+ کے بعد مساوات [][]٧.٥[][] []استعمال کر کے ذرے پر تمام ٹکڑوں کی قوتوں کا سمتی[]
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 مجموعہ لیتے ہیں۔ تحدیدی صورت میں ہم وسیع ج
+سم کو تفریقی ٹکڑوں میں تقسیم کرتے ہیں جن کی انفرادی[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+LaTeX Info: Redefining \rmfamily on input line 138.
+LaTeX Info: Redefining \sffamily on input line 138.
+LaTeX Info: Redefining \ttfamily on input line 138.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--141
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 خول ہو، مساوات [][]٧.٦[][] []کے سمتی تکمل 
+سے چھٹکارہ حاصل کیا جا سکتا ہے؛ ہم جسم کی کمیت اس کے مرکز کمیت پر[]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 147.
+LaTeX Info: Redefining \sffamily on input line 147.
+LaTeX Info: Redefining \ttfamily on input line 147.
+
+Underfull \hbox (badness 3514) in paragraph at lines 147--148
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 سے حاصل ہو گی۔ (2) ذرہ $\OT1/ppl/m/n/10 
+1$ \TU/JameelNooriNastaleeq(0)/b/n/10 پر تجاذبی قوت اس ذرے کے رخ ہو گی جو قوت پ
+یدا کرتی ہے۔ (3) یہ قوتیں ایک محور پر[]
+ []
+
+[220]
+LaTeX Info: Redefining \rmfamily on input line 150.
+LaTeX Info: Redefining \sffamily on input line 150.
+LaTeX Info: Redefining \ttfamily on input line 150.
+
+Underfull \hbox (badness 2351) in paragraph at lines 167--169
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 قوت $[]$ مثبت محور $\OML/zplm/m/it/10 y$ \
+TU/JameelNooriNastaleeq(0)/b/n/10 رخ (شکل 13.‏4b) ہے جس کا صرف $\OML/zplm/m/it/
+10 y$ \TU/JameelNooriNastaleeq(0)/b/n/10 جزو $\OML/zplm/m/it/10 F[]$ \TU/Jameel
+NooriNastaleeq(0)/b/n/10 ہو گا۔ اسی طرح $[]$ منفی محور $\OML/zplm/m/it/10 x$ \T
+U/JameelNooriNastaleeq(0)/b/n/10 رخ ہے[]
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 167--169
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 جس کا صرف $\OML/zplm/m/it/10 x$ \TU/Jameel
+NooriNastaleeq(0)/b/n/10 جزو $\OMS/zplm/m/n/10 ^^@\OML/zplm/m/it/10 F[]$ \TU/Ja
+meelNooriNastaleeq(0)/b/n/10 ہو گا (شکل 13.‏4c)۔ (یاد رہے، ہم قوتوں کی دم اس ذر
+ے پر رکھتے ہیں جو قوت محسوس کرتا[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[][]\TU/JameelNooriNastaleeq(0)/b/n/10 ذرہ $\OT1/ppl/m/n/10 1$ \TU/JameelNooriN
+astaleeq(0)/b/n/10 پر صافی قوت $[]$ تلاش کرنے کے لئے ہمیں دونوں قوت کو سمتیات ک
+ی طرح جمع کرنا ہو گا (شکل 13.‏4d اور[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 شکل 13.‏4e)۔ یہاں $\OMS/zplm/m/n/10 ^^@\OM
+L/zplm/m/it/10 F[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 F
+[]$ \TU/JameelNooriNastaleeq(0)/b/n/10 قوت $[]$ کے $\OML/zplm/m/it/10 x$ \TU/Ja
+meelNooriNastaleeq(0)/b/n/10 اور $\OML/zplm/m/it/10 y$ \TU/JameelNooriNastaleeq
+(0)/b/n/10 جزو ہیں۔ یوں مساوات 3.‏6 استعمال کر کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--182
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 کیا یہ زاویہ درست معلوم ہوتا ہے (شکل 13.‏4
+f)؟ بالکل نہیں، چونکہ $[]$ کا زاویہ $[]$ اور $[]$ کے[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--182
+[]\TU/JameelNooriNastaleeq(0)/b/n/10 درمیان ہو گا۔ باب 3 سے یاد کریں، حساب کار 
+( کلکولیٹر ) $[][]$ کی دو ممکنہ جوابات میں سے ایک دیگا۔ دوسرا[]
+ []
+
+[221]) [222] (./answer.tex) [223
 
 
 
 
-] [218
+] [224
 
 
 ]
@@ -19914,12 +20375,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 59351 strings out of 476191
- 1606429 string characters out of 9562072
- 2355141 words of memory out of 7000000
- 78985 multiletter control sequences out of 15000+600000
+ 59367 strings out of 476191
+ 1606697 string characters out of 9562072
+ 2355294 words of memory out of 7000000
+ 79001 multiletter control sequences out of 15000+600000
  495508 words of font info for 145 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,20n,118p,2628b,1068s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on physics.pdf (224 pages).
+Output written on physics.pdf (230 pages).
