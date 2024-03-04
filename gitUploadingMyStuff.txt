@@ -1,0 +1,5 @@
+git add .
+git commit -m "my text"
+git push origin master
+khalidyousafzai@comsats.edu.pk
+enter password
