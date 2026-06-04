@@ -1,0 +1,4239 @@
+english term	urdu equivalent	suggestions only			
+ہم، ہمہ	ہمہ وقت، ہم سفر				
+above, below a line	لکیر سے اوپر، لکیر سے نیچے				
+above: energy above the ground state	زمینی حال سے زائد توانائی				
+abscissa	افقی قدر				
+accelerate, [accelerator]	اسراع پزیر، [سرعت کار]				
+accelerate [to], accelerated flow, acceleration coefficient	تسریع بنانا، تسریع بہاو،اسراع ضریب				dic,maths,indian
+acceleration: angular acceleration, accelerated	زاوی اسراع، تسریع شدہ				dic,maths,indian
+accelerate, [decelerate]	اسراع، [رد اسراع]				
+acceleration, accelerating	اسراع، مسرع یا سرعت پزیر				
+acceleration: free-fall acceleration	کھلا  [آزاد] گراو اسراع				
+accelerometer	سرعت پیما				
+AC, DC	یک سمت رو، بدلتا رو				
+AC voltage, DC voltage	یک سمت رو برقی دباو، بدلتا رو برقی دباو				
+AC motor, DC motor	یک سمت رو موٹر، بدلتا رو موٹر				
+acre	ایکڑ				
+across	آرپار، پار، عبوری، عبوری کرنا				
+act	عمل کرنا				
+action at a distance	فاصلاتی عمل				
+action: line of action	خط عمل				
+action potential	عمل مضمر				dic,maths,indian
+about	ارد گرد، گردونواہ				
+about: rotate about an axis, [rotate around an axis]	محور پر گھومنا، [محور کے گرد گھومنا]				
+above; lying above a circle	ٹھیک دائرہ کے اوپر کچھ بلندی پر پایا جاتا ہے				
+absolute value	مطلق قیمت (میٹرک کتاب)				
+absolutely integrable	مطلق قابل تکمل، مطلق متکامل				
+absorber, absorption rate, absorptive, absorbent	جذب کار، شرح  انجذاب، جاذبی شرح؟ جاذب،  جاذبی، جاذب				
+abstract, [abstraction]	تصوراتی، خلاصہ،، مجرد، [تجرید]				dic,maths,indian
+absudity	لایعنی				dic,maths,indian
+AC current، AC voltage	بدلتا رو، بدلتا برقی دباؤ				
+accretion disc	ملحقاتی قرص				
+accumulation point	نقطہ اجتماع				
+acquarium	مچھلی گھر				
+ADC: analog to digital converter	مماثل سے عددی مبادل کار				
+admit; admit a solution	تسلیم کرنا؛ حل تسلیم کرتا ہے				
+Adrien Marie Legendre	اڈریان مری لیژانڈر				
+advanced text, [advanced education]	اعلٰی درجے کی کتاب،درجہ اعلٰی کتاب، [اعلٰی تعلیم]	اعلٰی نصاب			
+Aharonov-Bohm effect	اہارونو و بوہم اثر				
+ASICs	خصوصی استعمال کے مخلوط ادوار				
+acceptor	قبول کار				
+accessible states	قابل رسائی حالات				
+accuracy, [accurate]	صحت، [صحیح]				
+Accuracy, 3 digit accuracy	درستگی، اشاریہ کے بعد تین ہندسوں تک درستگی				
+Achille Ernest Delesse’r rule	اشیلہ ارنسٹ دولس، قاعدہ دولس				
+acoustic	صوتیاتی				
+acoustic impedance	صوتی مزاحمت				
+active voice, [passive voice]	فعل معروف، [فعل مجہول]				
+active, passive component: resistor and transistor	عامل پرزہ، غیع عامل پرزہ، معروف، مجہول پرزہ				conflicts with operator
+active mode :transistor	افزائندہ حال				
+active: active low, active high, inactive	بلند عمل پیرا، غیر عمل پیرا				
+active: active low, active high, inactive	پست فعال، بلند فعال، غیر فعال				dic,maths,indian
+acute angle (less than 90)	زاویہ حادہ				
+adapter	وصیلیہ				
+adamant: be adamant	ٹس سے مس نہ ہونا				
+adder, subtractor, adder-subtractor	جمع کار، منفی کار، جمع و منفی کار				
+addition or deletion	شمولیت یا کٹوتی				
+addition, subtraction	جمع، تفریق				
+add, [sum], multiplication, [product], division, [quotient,]	جمع، [حاصل جمع، مجموعہ]، ضرب، [حاصل ضرب]، تقسیم، [حاصل تقسیم]				
+additional	اضافی، زائد، فاضل				
+additive	جمعی				
+additivity	جمع پذیری				
+adiabatic process; near adiabatic	حر نا گزر عمل؛ قریب حر نا گزر				
+adiabatic process; near adiabatic	حرارت نا گزر عمل؛ قریب حرارت نا گزر				
+adiabaticity	حر ناگزر پن				
+adjacent [states]	ہمسایہ، پڑوسی، برابر والا، قریب قریب، ساتھ ساتھ	ساتھ ملا ہوا			
+adjoint matrix	شریک قالب				
+adjoint: self adjoint	خود شریک قالب				
+adjust	درست کرنا، مطابق بنانا				
+Admittance, impedance (electrical)	برقی رکاوٹ، برقی فراوانی				
+Adolf Fick	اڈولف فک				
+advantage, disadvantage	افادیت، قباحت				
+aerialist	بازیگر				
+aerodynamics	ہوائی حرکیات				
+aerofoil	ہوائی پترا				
+ageing	عمر رسیدگی				
+agnostic position	انکاری سوچ				
+agree, agreement	موافق ہونا، موافقت				
+air bag	ہوا تھیلی				
+air conditioner	ایئر کنڈشنر				
+air foil (this is american spelling), aerofoil	ہوائی پترا				
+air gun [pellet]	ہوائی بندوق [چھرا]				
+air shaft	ہوا دان				
+air tight	ہوا بند				
+air track	ہوائی ڈگر				
+Airy’s equation, functions	مساوات ایئری، تفاعلات ایئری				
+Akbar: ain-e-akbari	آئینِ اکبری				
+Alaska	ایلاسکا				
+alcalii (base)	القلی (اساس)				
+Aleksander Mikhailovich Lyapunov (russian Maths)	سکندر میکائل لیاپونو				
+Alexander	سکندر				
+Alexandria	سکندریا				
+all, [same]	ہمہ، [ہم]				
+algebraic multiplicity	الجبرائی کثرت				
+algebraic, transcendental functions or numbers	الجبرائی اور ماورائی تفاعل یا اعداد				
+align, alignment, aligned	سیدھ میں لانا، صف بندی، ہم صف، صف بستہ کئے ہوئے ہے				
+align: oppositely aligned	مخالف صف بند				
+algorithm algorithmic	الخوارزم، الخوارزمی	محمد ابن مومی الخوارزمی			
+allot	مقرر کرنا				
+along	ساتھ ساتھ, ہمراہ				
+allowed energy	جائز توانائی				
+alphabet (english)	لاطینی حروف تہجی				
+alternate	باری باری، ایک کے بعد دوسرا				
+alternating current	بدلتا رو	 			
+alternating series	بدلتا تسلسل				
+alternating series theorem	مسئلہ بدلتا تسلسل				
+altitude, altimeter	بلندی، بلندی پیما				
+always	ہمیشہ				
+amino	امینو				
+ammonia	ایمونیا				
+ammeter	ایمپیئر پیما				
+amorphous	نقلما				
+ampere	ایمپیئر				
+ampere's circuital law	ایمپیئر کا دوری قانون				
+amplification	افزائش				
+amplifier	افزائش کار، ایمپلی فائر				
+amplifier: preamplifier, power amplifier	ابتدائی ایمپلی فائر، قوی ایمپلی فائر؛ افزائش کار				
+amplification	افزائش				
+amplitude	حیط، حیطہ				
+amplitude	حیط: کسی لہر کے وسطی حصہ سے اس کے بالائی یا نچلے حصوں کے درمیان کا فاصلہ	 			
+amusement park	تفریحی چمن، تفریح گاہ				
+analog electronics	مماثل برقیات				
+analogy	تمثیل				
+analysis, DC, AC	تجزیہ، یک سمت تجزیہ، بدلتا تجزیہ				
+analytic continuation	تحلیلی استمرار				
+analytic function	تحلیلی تفاعل				
+analytic method	تحلیل طریقہ کار یا ترکیب				
+analytical analysis	تحلیلی تجزیہ				
+analyticity	تحلیلی ہونا، تحلیل پذیری				
+analytical tools	تجزیاتی آلات				
+anatomical	جسمانی				
+anatomy	علم الاعضا				
+and/or: this and/or this …	دونوں یا(ان میں سے) کوئی ایک				
+AND, OR, NOT	ضرب گیٹ، جمع گیٹ، نفی گیٹ				
+Andre Louis Cholesky	اندرِ لوئی شولسکی				
+andromeda galaxy	اندرومدا کہکشاں				
+anihilation	فنا				
+angle, [angled]	زاویہ، [زاویہ دار]				
+angle of elevation; angle of depression , [dip angle]	زاویہ صعود؛ زاویہ نزول ،[میلان زاویہ]	matric			
+angular speed	زاوی رفتار				dic,maths,indian
+angular displacement	زاویائی ہٹاو، زاوی ہٹاو				
+angular form: of writing complex numbers=r, theta	زاویائی طرز، زاوی طرز				
+angular frequency	زاویاتی تعدادِ ارتعاش، زاوی				
+angular speed, velocity: ω	زاویاتی رفتار، سمتیہ زاویاتی رفتار، زاوی				
+anomalous magnetic moment	بے ضابطہ مقناطیسی معیار اثر				
+antarctica	بحر منجمد جنوبی				
+antireflective coating	غیر انعکاسی تہہ، انٹارکٹیکا				
+anion, (cation)	منفی باررداریہ (مثبت بارداریہ)				
+anisotropic	سمتی خاصیت				
+anode	مثبت برقیرہ				
+annihilation	نابودی،  فنا				
+annulus, (washer)	چھلا				
+antenna	اینٹینا				
+antenna: end-fire antenna	محوری انٹینا				
+antenna: pattern: primary pattern, secondary pattern	انفرادی نقش، قطاری نقش				
+antenna: transmitting, receiving	وصولی اینٹینا، اخراجی اینٹینا				
+anticlockwise, clockwise	گھڑی کی سوئی کے مخالف رخ، گھڑی مخالف رخ	گھڑی وار، خلاف گھڑی			
+antiderivative	الٹ تفرق				
+antilog	الٹ لاگ				
+anti matter	ضد مادہ				
+aperiodic	غیر دوری				
+aperture	روزن				
+aperture: effective aperture (antenna)	اخراجی رقبہ یا اخارجی سطح				
+Apollo	اپالو				
+apparent power: absolute value of complex power	ظاہری طاقت				
+apparent weight	ظاہری وزن				
+aphelion	اوج شمس، اوج شمسی				
+apojee	اوج				
+appendix	ضمیمہ				
+applicable, fit	موزوں، کا اطلاق ہو سکتا ہے، [دائرہ اطلاق کے اندر ہونا]				
+Application: practical application	استعمال: عملی استعمال؛ کی اطلاق				
+applied mathematics	اطلاقی ریاضی				
+applied	لاگو، عملی، اطلاقی، اطلاقی				
+apply force	قوت لگانا				
+apply, apply voltage	لاگو کرنا، برقی دباؤ لاگو کرنا				
+appreciable	نمایاں				
+approach	پہنچنے کی کوشش کرنا				
+approach zero	صفر کے قریب تر				
+appropriate	موزوں، مناسب، درست				
+approximate, approximately, approximation	تخمین، تخمینہ، تخمیناً، تخمینی				
+Approximate: we can approximate sinx by its taylor series	ہم سائن کو تخمیناً اس کی ٹیلر تسلسل سے ظاہر کر سکتے ہیں				
+approximate: find approximate value of x	ایکس کی قیمت کا تخمینہ لگائیں				
+approximation errors	خلل تخمین				
+approximation polynomial	تخمینی کثیر رکنی				
+approximation: impulse approximation	تخمین ضرب				
+Approximate: approximate the curve with a chord	مشابہ				
+approximate	قریب قریب قیمت دینا				
+approximate: to approximate with	تخمیناً برابر کرنا				
+approximate value	اندازاً قیمت				
+approximation	تقریب				
+approximation polynomial	مشابہ کثیر رکنی				
+arbitrarily large (f is non-negative for arbitrarily large x means for every real number n, f is non-negative for an x greater than n)	کسی بھی بڑے عدد سے زیادہ بڑا				
+arbitrary	اختیاری، کوئی سا				
+arbitrary: arbitrary constant	اختیاری مستقل				
+arbitrary:divide in arbitrary manner	بے قاعدہ				
+arc, major arc, minor arc, sub arc	قوس، قوسِ کبیرہ، قوسِ صغیرہ, قوسچہ				
+arc length	اوسی فاصلہ				
+arch	محراب				
+archer fish	تیز انداز مچھلی				
+Archimedese: archimedian principle	اصول آرشمیدسی، آرشمیدس				
+Argand diagram: Jean Robert Argand	ژاں غوبغ اغگن  (فرانسیسی تلفظ)				
+argument: the argument of function f(wt+a) is wt+a	دلیل				
+Arithmetic (+ -  * /)	علم حساب، حساب				
+arithmetic mean	حسابی اوسط				
+arm: forearm, [upper arm]	ساعد یا نچلا بازو، [عضد یا اوپری بازو]				
+arms	بازو، شاخ				
+armature coil, field coil	میدانی لچھا، قوی لچھا				
+around: rotate around (revolve) and rotate about (spin)	محور کے گرد طواف اور محور پر چکر				
+around a closed loop	بند دائرہ کے گرد، دائرہ کے ہمراہ				
+array: broadside, end-fire	چوڑائی جانب اخراجی قطار، لمبائی جانب اخراجی قطار				
+artery	شریان				
+artillery	توپ خانہ				
+ascent, ascension	صعود				
+ascent, descent, [ascend, descend]	اترنا، چڑھنا				
+ascension, descent	صعود، نشیب				
+ascending, dsecending	صعودی، نشیب وار، نشیبی				
+ascendance	صعودیت				
+ascii codes	ایسکی رموز				
+ash	راکھ				
+astronomical unit (au)	فلکیاتی اکائی   149,597,870  کلومیٹر				
+Aspect, Grangier, Roger	اسپکٹ، گرنگیر، روجر				
+Aspect; aspect ratio	پہلو؛ تناسب پہلو				
+assembled structure or the assembly {english}	جامد جسم				
+assembly language, machine language	مادری زبان، مشینی زبان				
+assert	وثوق سے کہنا، دعویٰ کرنا				
+assign values	قیمت مقرر کرنا، مختص				
+assign: preassigned	پیشگی مختص				
+associate	وابستہ				
+associated Legendre functions	شریک لیژانڈر تفاعل				
+Associative, associative law	قانون تلازمی، تلازم				
+assume (probability)	اختیار کرنا				
+assumption: accept similar assumptions	اسی طرح کے مفروضے تسلیم کرتے ہیں				
+assume: make assumption	ہم فرض کرتے ہیں				
+asterisk	ستارہ				
+astroids (not asteroids)	ستارہ نما				
+astronomy: radio astronomy	ریڈیائی فلکیات				
+astronaut	خلا باز				
+asymptote, asymptotically	متقارب، متقاربی طور پر				
+asymptotic expansion	متقارب اتساع				
+asymptotically equal	متقاربی برابر				
+athlete	کھلاڑی				
+Atlantic ocean	بحرالقیانوس				
+atmosphere, one atmosphere	زمینی ہوا, ایک زمینی ہوا، کرہ  باد، کرہ ہوا				
+Atom , subatomic, [atoms]	جوہر، زیر جوہر، [جوہروں]				
+atomic bomb	ایٹمی بم				
+atomic clock	جوہری گھڑی				
+atomic mass unit (amu)	جوہری کمیت اکائی				
+atomic: interatomic forces	بین جوہر قوت				
+atomizer, atomization	عرق پاش، عرق پاشی				
+attenuation constant (waves), attenuation	تضعیفی مستقل، تضعیف				
+attractor: Great Attractor (physics)	عظیم جالب				
+audible	قابلِ سماعت				
+audio 	سمعی، سامعہ				
+audio frequency	سمعی تعدد				
+audio tape	سمعی فیتہ				
+autonomous (ordinary differential equations)	خود مختار				
+auxiliary equation (euler-cauchy eq)	ذیلی مساوات				
+available	دستیاب				
+axial length	محوری لمبائی، دُھرے کی سمت میں لمبائی				
+axial ratio (AR) of polarized wave	شرح رداس				
+axiom, axioms	مسلمہ، مسلمات				
+axiom (matric)	اصول متعارفہ				
+axis	کسی چیز کے اندر وہ خطِ مستقیم جس پر وہ چیز مساوی طور پر گھوم سکتی ہے				
+axis, easy axis	آسان محور، آسان سمت، نرم محور، نرم سمت				
+axis major, minor axis	محور اکبر، محور اصغر				
+axis of oscillation	محور اہتزاز				
+axis of polarization	محور تقطیب				
+axis of projection	سایہ اندازی کا محور، محور ظل	تظلیلی محور یا تظلیل کا محور			
+axis of revolution	محورِ طواف				
+axis of rotation	گھومنے کا محور، [یا محور گھماو]				
+axis of rotation	گھومنے کا محور				
+axis of symmetry	محورِ تشاکل				
+axis of torque	مروڑ کا محور				
+axis of twist	محورِ پیچ، موڑ کا محور				
+axis of x	 کا محور x				
+axis by axis	محور با محور				
+axis: like axis of motor	محور: وہ فرضی خط جس پر کوئی جسم  گھومتا ہے				
+axis: vertical axis	انتصابی محور				
+azimuth, [azimuths]	اسّمت، [اسُّموت]				
+azimuthal quantum number	 شمالی کوانٹائی عدد، اسّمتی کوانٹائی عدد،				
+back	پشت				
+background, backdrop	پس منظر				
+balanced three phase currents	متوازن تین دور کی برقی رو				
+balanced transmission line	متوازن ترسیلی تار				
+balance: this force balances that force	یہ قوت اس قوت کو توازن میں رکھتی ہے، توازن قائم رکھنا				
+balance: pan	پلڑا				
+balancing equation	توازن کی مساوات				
+balancing force	توازنی قوت				
+ball:open closed	کھلا گیند، بند گیند				
+ballistic pendulum	منجنیقی رقاص				
+balloon; hot-air balloon	گرم ہوا کا غبارہ				
+Balthasar van der Pol	بلتاسار ون در پول				
+band: energy band	توانائی پٹی				
+Band: frequency band	پٹی: تعددی پٹی				
+band pass filter	پٹی گذار فلٹر				
+Band structure	پٹی دار ساخت				
+band stop filter	پٹی روک فلٹر				
+bandwidth	عرض پٹی				
+bandwidth: 3dB bandwidth	تین ڈیسی بیل  پٹی				
+banked angle curve, [angled curve]	خمیازہ ساحل زاویہ موڑ ،[زاویہ دار موڑ]				
+Barkhausen criteria	برکہازن کا اصول				
+bar graph	ڈبہ ترسیم				
+bar: z bar (overline over z)	زیڈ چھت				
+barge (boat)	بجرا				
+barn [nucleus’ cross sectional area unit]	گودام				
+barometer	باد پیما				
+barrel (or drum)	ڈرم				
+barrier	روک				
+baryon	بیریان				
+base (of a parametric curve)	بنیاد، بنیادی نقطہ				
+Base-2 (digital), basis(maths)	اساس دو، اساس				
+base (of say a table)	تلا،  پیندا (جیسے پائدان)				
+base, perpendicular, hypotenuse	قاعدہ، عمود، وتر				
+basilisk lizard	افعی چھپکلی				
+Basis (maths, vectors)	اساس				
+basis function	اساسی تفاعل				
+batch	کھیپ				
+batter (cricket, baseball)	بلے باز				
+BCD binary coded decimal	ثنائی مرموز اعشاریہ				
+bead	سوراخ دار موتی				
+beam, log	لکڑ، شہتیر، شہتیری				
+beam solid angle (antenna)	اخراجی ٹھوس زاویہ				
+bearing	سہارا،  محمول فیہ، بیرم				
+beats	تھاپ				
+beautiful (english)	شائستہ				
+bedrock, bed rock	تحتی چٹان				
+bee: honey bee, [bumble bee]	شہد کی مکھی، [سارنگ]				
+beetle	بھونرا				
+behavior, behave	رویہ				
+belay device (used in rock climbing)	لپیٹن کنڈا				
+bell: bell curve	جرس،  قوس جرس				
+Bell: John Bell	جان بل				
+belt (for trousers)	کمر بند، پیٹی				
+belt (for coupling two wheels)	پٹہ				
+bend, turn	مڑنا، واپس پلٹنا				
+bending moment	خماو کا معیار اثر				
+benzene	بنزین				
+Bernard Bolzano (german pronunciation)	برنارت بُلزانو				
+Bernoulli: Jacob Bernoulli (ordinary diff eq)	یعقوب برنولی				
+Berry’s phase	ہیّت بیری				
+Bessel function, spherical bessel function	بیسل تفاعل، کروی بیسل تفاعل				
+belly flopping	پیٹ کے بل گرنا				
+Beta function	بیٹا تفاعل				
+between	بیچ				
+bias, bias point	نکتہ کارکردگی				
+bifurcation value	دو لختی  قیمت				
+big bang (universe)	ابتدائی دھماکا				
+bin	ٹوکرا				
+binary data, number	ثنائی مواد، عدد				
+binding energy	بندشی توانائی				
+binomial theorem: persian mathematician Al-Karaji	الکراجی کا مسئلہ ثنائی	Abu Bakr ibn Muhammad ibn al Husayn al Karaji [953-1030]			
+binomial coefficient, binomial distribution	ثنائی ترتیب، ثنائی سر، ثنائی تقسیم	الکراجی ثنائی سر، الکراجی ثنائی ترتیب	ثنائی عددی سر		
+binomial series	الکراجی ثنائی تسلسل				
+binormal vector	دوہری عمودی سمتیہ				
+biochemistry	حیاتی کیمیا				
+biophysicist	ماہر حیاتی طبیعیات				
+Biot-savart law	بایوٹ و سیوارٹ کا قانون				
+bisector	مساوی متقاطع				
+bit	دہرا ہندسہ: ہندسہ				
+bit: binary code, binary digit, binary arithmetic	ثنائی need to change in digital book				
+blackbody	سیاہ جسم				
+blackbody radiation	سیاہ جسمی شعاعی اخراج، سیاہ جسمی اشعاع				
+blackboard	تختہ سیاہ				
+Black box [airplane]	سیاہ ڈبہ				
+black hole	ثقب اسود				
+blade (of say a knife, or helicopter)	دھار دار پھل، پھل				
+blade (fan blade)	پنکھے کا پر				
+Bliss’s theorem	مسئلہ بلس				
+Bloch theorem	مسئلہ بلوخ				
+block	سِل				
+blocked rotor test	جامد موٹر معائنہ				
+blocking line	ناگزار لکیر				
+block diagram, [one block]	خانے دار شکل، [ایک خانہ]				
+blood pressure	فشار خون				
+blood sugar	شکر خون				
+blow up, blows up	بے قابو بڑھنا				
+blower	پھکنی				
+Blunt : (blunt mark, as if hit by a blunt object)	کُند  (کند گڑھا)				
+boat, [boat paddler], sail boat	کشتی، [کشتی بان]،بادبانی کشتی				
+bob	بلور				
+bobbin	پھرکی، چرخی				
+Bode: Hendrik Wade Bode	ہنڈرک واڈ بوڈا				
+Bode plots	بوڈا خطوط				
+body: celestial body, astronomical body	جِرم فلکی				
+Bohr formula, bohr radius	کلیہ بوہر، رداس بوہر				
+Bohr magneton	بوہر مقناطیسہ				
+bolt, nut	قابلہ، ڈھبری				
+Boltzmann constant	بولٹزمن کا مستقل				
+bond, bonded, covalent bond, [bonds], {bonding}	 { بندھن}بندھ، شریک گرفتی بندھ، [بندھن پیدا ہونا]				
+bond: bonding electron	بندھ کار الیکٹران				
+boost converter: power supply	اٹھان منبع				
+boring, to get bored, [boredom]	اجیرن، اجیرن ہونا، [اکتاہٹ]				
+Born approximation	بارن تخمین				
+Born interpretation	بارن مفہوم				
+Born-Oppenheimer approximation	بارن و اوپن ہائیمر تخمین				
+borrow, carry	حاصل، ادھار				
+Bose condensation	بوس انجماد				
+Bose-Einstein distribution	بوس و آئنشٹائن تقسیم				
+Boson (quantum mech)	بوسن				
+bounce back	ٹکرا کر واپس پلٹنا				
+bounce, bouncing	ٹپا کھانا یا دینا، ٹپٹپیاں کھانا یا دینا، ٹپکی				
+bound: upper bound	بالائی حد بندی				
+bound: upper bound; bounded from above (sequences)	بالائی حد بندی؛ اوپر سے محدود				 
+bound: least upper bound (sequences)	کم سے کم بالائی حد بندی				
+bound electron, charge (used in dielectrics)	مقید یا قید الیکٹران (برقیہ)، بار				
+bound state (quantum mech)	مقید حال				
+boundary conditions	سرحدی شرائط				
+boundary value problems	سرحدی قیمت مسئلے				
+Bounded, unbounded (maths)	محدود، غیر محدود				
+bounded by sphere	کرہ میں محدود				
+boundedness	محدود ہونا				
+Braces {}	کنگنی قوسین				
+brachistochrone	کم وقتی منحنی				
+brackets	قوسین				
+brake, brake fail	بریک، روک، بریک نا کارہ ہونا				
+braking acceleration, braking force	رکنے کا اسراع، قوت روک				
+bra and ket (quantum mechanics)	تفاعلیہ، سمتاویہ	vector and function			
+branch point (Riemann surface)	تقسیمی نقطہ				
+brass	پیتل				
+Brazil nut	جوز برازیل				
+breakdown, breakdown voltage	تعطل، تعطل برقی دباو				
+break even point	نا منافع نا نقصان				
+breaking strength	طاقت توڑ				
+Brewster angle	بریوسٹر زاویہ؛ داؤد بریوسٹر کا نام ہے				
+bridge: suspension bridge	معلق پل				
+briefly	مختصراً				
+bright lines	منور لکیر				
+Brinell hardness	برینل سختی				
+britain, scotland, england, english	ولایت، سکاٹستان، انگلستان، فرنگی				
+broadside array, end-fire array	چوڑائی جانب اخراجی قطار، لمبائی جانب اخراجی قطار				
+bronze	کانسی				
+brown	بھورا				
+brute force	طاقت کے بل بوتے پر				
+bubble chamber	بلبلہ خانہ				
+buckle, turn buckle	بکسوا، چکردار بکسوا				
+buffer	مستحکم کار				
+buffer distance	حفاظتی فاصلہ				
+buffer, inverting, non inverting (digital circuits)	وابسطہ: منفی وابسطہ، متمم مستحکم کار، غیر متمم مستحکم کار				
+building	عمارت				
+build a function	تفاعل تیار کرنا				
+bulb	بتی				
+bulge	ابھار				
+bulk modulus	مقیاس حجم				
+bump	موڑا، ابھار				
+bumps and pots	پیچ و خم				
+bundle	گٹھا				
+burst	انفجار				
+burst of gunfire	گولیوں کی بھرمار				
+bushel [american bushel]	بشل				
+but	تاہم				
+buttered	مکھن لگا				
+bypass capacitor	قصری کپیسٹر				
+byte, 8-bit (binary) data, (bit=binary ??)	بائٹ، ہشتم دہری عدد				
+By: 3m by 3m square	تین با تین مربع				
+by the way	ویسے				
+by: axis by axis	محور با محور				
+cable 	رسی، رسا				
+calculus	علم الاحصاء، احصا				
+calculate, compute	بذریعہ حساب تلاش کریں، حساب لگانا، حساب کرنا				
+calculate, calculation, calculating machine	تحسیب کرنا، حساب کتاب، محاسبی مشین				
+calculator	کیلکولیٹر، محاسب	عداد	 		
+calculus	احصاء،  حسابیات				
+calculus of differences	الاحصاء فرقیات				
+calibrated scale	پیمانہ بند پٹی، [مدرج پیمانہ]				
+calibration, [calibrated], {calibrating}	پیمانہ بندی، [پیمانہ بند]، {پیمانہ بندی کرنا}				
+californium	کیلی فورنیم				
+cam shaft	کیم دھرا				
+Can : can f sardines	ٹین کا ڈبہ				
+cancel (common factor}	مشترک جزو ضربی کاٹنا، منسوخ کرنا				
+cancellation laws (matrix multiplication)	قواعد تنسیخ				
+cancer: anna kane laird, Banjamin Gompertz	سرطان: اینا کین لایرڈ، بنجامن گامپرٹز				
+canned	ڈبہ بند				
+canonical, canonical substitution (quantum mech)	باضابطہ، باضابطہ متبادل پر کرتے ہوئے				مستند
+canonical minterm, non-canonical minterm	تفصیلی رکنِ ضرب، سادہ رکنِ ضرب				
+canopy (of plane)	چھتر				
+Cantor-Dedekind axiom	مسلملہ کنتور و دے دے کند				
+capacitance, inductance	برقی گنجائش، امالہ یا امالیت				
+capacitor, inductor	برق گیر، امالہ گیر				
+capacitive, inductive	برق گیر کی خاصیت، امالہ کی خاصیت رکھنا، امالی، برق گیری				
+capacity, rating	استعداد				
+capacity (volume)	سمائی، گنجائش				
+capillary, capillary attraction, capillary depression	بال نلی، شعریہ، شعری کشش، شعری زوال				
+carbon dating	کاربنی تعین زمان				
+carbon paper	نقل گیر کاغذ				
+cardiac output	اخراج قلب				
+cardiod [r=a(1-cos x)]	قلب نما				
+cargo	سازوسامان				
+carrier, carrier frequency	حامل، حامل تعدد				
+carrier of energy	انتقالِ توانائی				
+carrier frequency, modulating frequency, carrier wave	تعددِ سوار، تعددِ سواری، سوار موج، سواری موج				
+carry, transfer	منتقل				
+Carry , borrow, sum, end carry	حاصل، ادھار، جمع،بقایا، آخری حاصل				
+carry: a quark carries spin ½	کوارک 1/2 چکر کا حامل ہوتا ہے				
+cart	ریڑھی				
+Cartesian co-ordinates system	کارتیسی نظامِ محدد				
+carton	گتے کا ڈبا				
+cases: three cases	تین صورتیں				
+cast [metal casting]	ڈھالنا				
+casual	غیر محتاط، بے احتیاطی				
+category	زمرہ				
+catalyst, autocatalyst, [catalysis]	عمل انگیز، خود عمل انگیز، [عمل انگیزی]				
+catapult	منجنیق، منجنیقی				
+catenary (maths: hanging chain)	لیزم				
+cathode	منفی برقیرہ				
+cation	مثبت بارداریہ				
+Cauchy	کوشی				
+Cauchy: Augustin Louis Cauchy	آگستن لوئی کوشی				
+Cauchy condensation test	کوشی پرکھ جمود				
+Cauchy's determinant	کوشی مقطع				
+Cauchy-Riemann equation	کوشی و ریمان مساوات				
+Cauchy-Schwarz inequality, Herman Amandus Schwarz	کوشی شوارز عدم مساوات، ہرمن امندس شوارز				
+cause [english]	وجہ، سبب، جواز، مائل کرنا				
+cause, causal, causality	سبب، سببی  ، سببیت				
+causal: [ethereal]	[غیر حقیقی]				
+caution	انتباہ				
+Cavalieri’s theorem ( Bonaventura Francesco Cavalieri)	مسئلہ کوالئیرے (بوناونتورا کوالئیرے)				
+cavity	جوف				
+ceiling fan {english}	چھت کا پنکھا				
+ceiling and floor function	عدد صحیح چھت تفاعل، کم ترین عدد تفاعل				
+celestial, celestial coordinate system	سماوی، سماوی محددی نظام				dic,maths,indian
+center of gravity	مرکز ثقل				
+center of mass	مرکز کمیت				
+central angle	وسطی زاویہ				
+centrifugal force	مرکز گریز قوت				
+centrifugal term	مرکز گریز جزو				
+centrifuge	مرکز گریزہ				
+centroid	وسطانی مرکز	میٹریک			
+celsius, fahrenheit	سیلسیئس، فارن ہائیٹ				
+centripetal force	مرکز مائل قوت، مرکز جو قوت				
+chance	امکان، اتفاق				
+chaos	ابتری				
+Chambers [name]	چیمبرز				
+chamber, turbine chamber, [spin chamber]	خانہ، چرخی خانہ، [چکر خانہ]				
+Chandrasekhar limit	چندرشیکھر حد				
+chapter	باب				
+chain reaction	مسلسل تعامل				
+change (loose change, coins)	ریزگاری				
+characteristic, characteristics	خاصیت، خصوصیات ، خصلت				
+characteristic: magnitude characteristic, phase characteristic (Bode plot)	مقداری خصلت، زاویائی خصلت				
+characteristics	خصوصیات، خط، خطِ منحنی، منحنی				
+characteristic equation,  (differential equations as^2+bs+c=0)	امتیازی مساوات				
+characterize	تصویر کشی کرنا				
+charge, free, bound	آزاد اور بندھا بار				
+charge, discharge a capacitor	بار بھرنا، بار کا نکاس				
+charged	بار بردار				
+charging (say a flywheel with energy by rotation)	بھرائی				
+Charles Dalziel (electrical shock)					
+chain effect: domino effect	زنجیری اثر				
+chain reaction	زنجیری عمل؟ لڑی دار عمل				
+chain rule (differentiation)	زنجیری طریقہ، زنجیری قاعدہ	زنجیری قاعدہ			لڑی دار قاعدہ
+Chebyshev polynomials: Pafnuty Lvovich Tchebichef	چبیشف کثیر رکنی۔ پفنوٹی لوو وچ چبیشف				
+check	جانچ پڑتال، جانچنا، تصدیق				
+checkmate	شہ مات، مات دینا				
+checkpoint	آزمائش				
+cheetah	چیتا				
+chemist	کیمیا دان				
+chemistry	علم کیمیا				
+chess, [king, queen, knight, bishop, castle, pawn]	شطرنج، [شاہ، وزیر ، گھوڑا، ہاتھی، قلعہ، پیادہ]				
+chess board	شطرنج کی بساط				
+chimney	آتش دان				
+chirp (dispersion)	چہچہاہٹ				
+chlorine	کلورین				
+choose	چن				
+choice: multiple choice, choices	کثیر انتخابی، ممکنات				
+chord: taut chord	تناو میں رسی، کھچی ہوئی رسی، کھچاو میں رسی				
+chord	خط مستقیم	وتر			
+circle, concentric circles	گول دائرہ، ہم مرکز دائرے				
+circle of curvature	دائرہ انحنا				
+circuit breaker	خود کار منقطع کار				
+circuit,  electric circuit	برقی دور:موصل کا کوئی ایسا نظام جسے اس طرح ترتیب دیا جائے اور یوں ملایا جائے کہ برقی رو اس کے ذریعے گزر سکے 				
+circuit, phase					
+circular motion	دائرے پر حرکت، دائری حرکت				
+circulation (fluid motion leading to CURL)	دائری بہاو	دورانیت؟؟			
+circumference	محیط				
+circumstances	ماحول، صورت حال				
+Circus , [circus performer]	تماش گاہ، نمائش، [شعبدہ گر]				
+classical	کلاسیکی				
+classification	جماعت بندی	جماعت بندی (matric)			
+class	جماعت	matric			
+class midpoints, class marks	جماعتی وسطی نقطے، جماعتی نشان	matric			
+class interval	جماعتی وقفہ	matric			
+class room	تدریسی کمرہ				
+clear, preset	زبردستی بلند، زبردستی پست				
+clearly	صراحت، صریحاً				
+Clebsch-Gordan coefficients	کلیبش و گورڈن عددی سر				
+cliff	کھڑی چٹان				
+cliff climber (rock climber)	چٹان پیما				
+clockwise, anti clock wise	گھڑی کی سوئی کے رخ، گھڑی کی سمت	گھڑی وار، خلاف گھڑی			
+clock signal	ساعتی اشارہ				
+clone	قلمیہ				
+closed, open	بند، کھلا				
+closed loop	بند دائرہ	بند حلقہ (میٹرک)			
+closed solution, closed form	بند حل، بند روپ				
+closest, farthest	دور تر، نزدیک تر				
+clouds: nimbostratus clouds, [cumulus clouds]	گھٹائیں، [تودہ ابر]				
+cluster: Local super cluster	خوشہ: مقامی عظیم خوشہ				
+clutter, declutter (donot write subscripts to reduce clutter)	نظر پوش (زیر نوشت کو نظر پوش کرتے ہوئے نہیں لکھتے)				
+clutter: declutter	روپوش کر کے صفائی پیدا کی گئی (تا کہ صفائی آئے)				
+CMRR	مشترکہ اشارہ رد کرنے کے صلاحیت				
+coalesce	پیوست ہونا				
+coating	قلعی				
+coaxial cable	ہمہ محوری تار				
+Cobolt	کوبالٹ				
+code, codes	رمز، رموز، رمزیات، رمزوں				
+coding, [coded]	رمز نویسی، [مرموز]				
+code: decode, [decoder]	رمز کشائی، [رمز کشا]				
+coefficient	ضربیہ، عددی سر				
+coefficient matrix	عددی سر قالب				
+coefficient: reflection, transmission	شرح انعکاس، شرح ترسیل				
+Cofactor (determinants and matrices)	ہم ضربی				
+coherence, incoherence, [decoherence]	اتساق، عدم اتساق، [ختمیت اتساق]				
+coherent, incoherent states (quantum mech)	منطقی حالات، اتساقی حال، غیر اتساقی حال				
+co-president	ہم صدر				
+coil	لچھا،گچھ لچھا، تقسیم شدہ لچھا				
+coincidence, coincident lines	ہم مکانیت، ہم مکان خطوط				
+coin flipping	سکہ پھیکنا				
+collapse (wave function)	بیٹھنا، گر پڑتا ہے، گرنا، انہدام، منہدم				
+Collect, collection	اکٹھا کرنا، ذخیرہ				
+collimator, collimation, [collimate]	توازی گر، متوازیت، [متوازی کرنا]				
+collinear, noncollinear	ہم خطی، غیر ہم خطی				
+collision, colliding	تصادم، متصادم				
+collision diameter	تصادم قطر				
+colours: red, yellow, green, blue, orange, white, black, purple	سرخ، پیلا، سبز، نیلا، نارنجی، سفید، کالا، جامنی				
+column of a building	ستون				
+column (matrix)	قطار				
+combination: linear combination (maths y3=ay1+by2)	ملاپ: خطی مجموعہ				
+combinations, [permutations]	اجتماعات [ترتیبی اجتماعات]، غیر مرتب اجتماعات، [مرتب اجتماعات]	 			
+combination: triplet combination (Quantum mech)	سہ تا ملاپ				
+combinatorial	غیر مرتب اجتماعی				
+combinational circuits	ترکیبی ادوار				
+combine, combined	ملائیں، ملاپ				
+Combine, combined state (quantum mech)	مجموعی حال	یکجا، یکجان حال			
+combine: combined wave function (quantum mech)	مجموعی تفاعل موج				
+combining results (Urdu)	نتائج کی یکجاہیت، نتائج کی یکجائی				
+comet	دم دار ستارہ				
+Comma (,)	مختصر وقفہ				
+comment, [discuss]	تبصرہ، [بحث، جائزہ لینا، تبصرہ کرنا، بات کرنا، تبادلہ خیال کرنا، گفتگو کرنا]				
+common emitter amplifier, common collector and common base	ایمٹر مشترک ایمپلیفائر، کلکٹر مشترک اور بیس مشترک				
+common mode signal	مشترکہ اشارہ				
+communication	 ابلاغ، ذرائع ابلاغ				
+communication satellite	مواصلاتی سیارچہ				
+commutes [QM] (A commutes with B)	اے اور بی قابل تبدل ہیں۔				
+commuting, noncommuting [QM]	قابل تبادل، ناقابل تبادل				
+commutation [QM]: canonical commutation relation	باضابطہ تبادلی رشتہ				
+commutative, commutation	قابل تبادل، تبادلی				
+commutator (quantum mech)	تبادل کار				
+commute: A and B commute	الف اور ب آپس میں قابل تبادل ہیں۔				
+commutative law, commutative law of multiplication (maths)	قانون تبادل، ضرب کا استبدالی قانون				
+commutator [DC machines]	میکانی سمت کار				
+Commutation [quantum mech]	مقلبیت				
+commutation [QM]: canonical commutation relation	باضابطہ مقلبیت رشتہ				
+commutator, commutators  (quantum mech)	مقلب، مقالب				
+Commutes (quantum mech)	مقلوب؛ الف اور ب مقلوب ہیں۔  الف کے ساتھ ب مقلوب ہے،				
+commuting [QM]	مقلوبی				
+Commutes [QM] (A commutes with B)	اے اور بی آپس میں مقلوب ہیں۔ اے اور بی مقلوب ہیں۔				
+commutative[QM]	مقلبی				
+company	ادارہ				
+comparable	مد مقابل، ہم پلّہ				
+compare	موازنہ، مقابلہ				
+comparison test	تقابلی پرکھ				
+compass: magnetic compass	مقناطیسی قطب نما				
+compatible, incompatible	ہم آہنگ، غیر ہم آہنگ				
+compensate, compensated, compensating, compensation, [compensator] 	تلافی کرنا، تلافی شدہ، تلافی کار، تلافی، [تلافی کار]				
+complement	متمم	تتمہ (matric)			
+complementation	اتمام				
+complementary	تتمی	matric			
+complementary angle, antenna	زاویہ مکملہ، تکملہ اینٹینا	زاویہ متمم (بہتر اصطلاح ہے)			
+complementary solution: natural response (diff eq)	فطری رد عمل				
+Complete, completeness	مکمل، مکملیت				
+complex analysis, advanced complex analysis	مخلوط تجزیہ، اعلٰی درجہ مخلوط تجزیہ				
+complex number	مخلوط عدد: ایک حقیقی عدد جو کسی فرضی عدد کے ساتھ شامل کر لیا جائے				
+complex number: real number, imaginary number	مخلوط عدد: حقیقی عدد، خیالی عدد، تخیلی عدد				
+complex conjugate, complex conjugate of alpha	 مخلوط جوڑی دار، مخلوط جوڑی دار الفا				
+complex plane	مخلوط سطح	مخلوط  مستوی			
+complicated	پیچیدہ				
+component	جزو، پرزہ، پرزہ جات				
+composite function	مرکب تفاعل	used for compound machine			
+composition (linear transformations)	نظم تبادلہ				
+compound machine: DC	مرکب مشین				
+compound machine:short compound machine	قریب مرکب اور دور مرکب مشین				
+comprehensive theory	 جامع نظریعہ				
+compressibility, compressibility factor, compressibility coefficient	داب پذیری، جزو داب پذیری، دابیت شرح				
+compressible	داب پذیر				
+compression, extension [of a spring]	داب، توسیع				urdu maths dictionary
+compression	دباؤ کی موج				
+compressor	داب گر				
+computation	تحسیب				
+compute	حساب لگانا				
+computer	حاسب	 			
+computer algebra system	محاسب الجبرائی نظام				
+concave, (convex)	مجوف، (محدب) ؟؟ حدبی	مقعر عدسہ، (محدب عدسہ) matric			
+concavity	محدبیت				
+concentration, concentrated, concentrate	گاڑھاپن، گاڑھا، گاڑھا بنانا، گھنا پن	ارتکاز  conflicts with convergence 			
+concentrated at a point	نقطہ پر منجمد				
+concept	تصور				
+conclude	نتیجہ اخذ کرنا				
+conclusive, inconclusive, (conclusion)	فیصلہ کن، غیر فیصلہ کن، (ماخوذ)				
+condition (grammatical use)	  پابندی				
+condition: under these conditions	شرائط				
+conductance (Y=1/Z=G+jB, G is conductance) it is like 1/R	ایصالیت				
+conduction current	ایصالی رو				
+conduction heat	ایصال حرارت				
+conductor, conductivity	موصل، موصلیت،غیر موصل				
+conductivity	موصلیت کا مستقل				
+cones, rods: eye	مخروطے، سلاخ				
+Confidence, confidence interval	اعتماد، وقفہ اعتماد				
+confidence: lower and upper confidence limits	نچلی اور بالائی حد اعتماد	بالائی اور زیریں حد اعتماد			
+confidence level	سطح اعتماد				
+configuration,[configured], {configure}	تشکیل، [متشکل]، {تشکیلی}				
+conflicting requirements	متصادم ضروریات، تضاد ضروریات				
+confocal	ہم ماسکہ				
+conformal mapping, conformality	محافظ زاویہ نقشہ، محافظت زاویہ				
+confusion	غلط فہمی				
+congruent triangles	مماثل تکون، تماثل تکون				
+conic	مخروطی				
+conjugate complex number	زوجی مخلوط اعداد، جوڑی دار مخلوط اعداد				
+conjugate harmonic function	جوڑی دار ہارمونی تفاعل				
+connected region (simple, multiply)	تعلق (دار) خطہ؟؟				
+connected (set)	جڑا  ہوا (سلسلہ)	 			
+connected: star, Delta	ستارا نما جُڑے، تکونی جُڑے یا تکون نما جُڑے				
+connection, connected	جوڑ، جوڑا ہوا				
+connection formulas (quantum mech)	کلیات جوڑ				
+connectivity	ربط				
+consecutive	متواتر				
+conservation of energy	اٹل				
+conservative field	بقائی میدان				
+conserved: is conserved	بقائی ہے، برقرار رہنا				
+consider	ملاحظہ، مشاہدہ، تجزیہ				
+consist	مبنی ہونا				
+consistent, inconsistent (systems, maths)	بلا تضاد، متضاد				
+consistent,  inconsistent, [consistency]	ثبات، غیر ثبات، [ثباتی]				
+constant (noun), [constant (adj)]	مستقلہ، [مستقل]				
+Constant (matric book), constancy	مستقل، استقلال				
+constants	مستقلات				
+constant: constant current	مستقل برقی رو				
+constant: separation constant	علیحدگی مستقل، علیحدگی مستقلہ				
+constant, variable	مستقل،اٹل،  متغیر				
+constant of integration or arbitrary constant	تکمل کا مستقل یا اختیاری مستقل؛ اختیاری مستقلہ				
+constellation: aquarius, aries, gemine, leo, libra, sagittarius	بُرج: دلو، حمل، جوزا، اسد، میزان، قوس القوس				
+constellation:capricon, pisces, taurus, cancer, virgo, scorpion	بُرج: جدی، حوت، ثور، سرطان، سنبلہ، عقرب				
+constitute	 قائم کرنا				
+constrained, constrained maxima and minima	جبراً پابند، جبری پابند, مشروط زیادہ سے زیادہ اور کم سے کم قیمتیں				
+constraint	مسلط شرط، مسلط پابندی				
+construction (matric)	عمل بناوٹ (تشکیلات)				
+construct (spherical harmonic Y_l^m)	تشکیل دینا، مرتب کرنا، بنانا				
+consumption matrix	قالب صرف				
+contact, bring into contact, [READ TOUCH too]	تماس میں لانا، [مس]				
+contact angle, contact area, contact point	لمس زاویہ،  رقبہ لمس، نقطہ لمس				
+contact potential	مس مخفیہ				
+container	برتن، ظرف				
+content	مشمول				
+context	سیاق و سباق				
+continent, [continental plate]	براعظم، براعظمی پرت (پرتیں)				
+continues to move	حرکت کیے جاتا ہے				
+continued: example continued	مثال جاری				
+continual	مستمِر				
+continuity	استمرار				
+continuity equation	استمراری مساوات، مساوات استمرار				
+continuity: uniform continuity	یکساں استمرار				
+continuous extension	استمراری توسیع				
+continuous field, discontinuous	بلا جوڑ میدان، جوڑ دار	استمراری (مسلسل)، غیر استمراری			
+continuous: piecewise	ٹکڑوں میں استمراری				
+continuous: right-continuous, left-continuous	دائیں استمراری، بائیں استمراری				
+continuum	استمراریہ				
+contour, contour integral	خط ارتفاع، ارتفاعی تکمل				
+contraction and expansion	 سکڑاو اور توسیع				
+contract, expand (muscles)	سکڑنا، پھیلنا				
+control	قابو، قابو پانا				
+control chart	نقشہ ضبط				
+control: out of control	بے قابو				
+control process	عمل قابو				
+controlled voltage source, controlled current source	تابع منبع دباو، تابع منبع رو				
+controlled: voltage controlled voltage source	دباو تابع منبع دباو				
+controlled:voltage controlled current source	دباو تابع منبع رو				
+control:current controlled voltage source	رو تابع منبع دباو				
+control:current controlled current source	رو تابع منبع رو				
+convection current (electrical)	اتصالی رو				
+convection heat	اتصال حرارت				
+convenience	اپنی سہولت کے لئے				
+converge, convergent	مرکوز، مرتکز				
+convergence	مرکوزیت، ارتکاز				
+convergence: absolute, conditional	مطلق مرتکز، مشروط مرتکز				
+convergence: Gauss's convergence theorem	گاوسی مسئلہ ارتکاز				
+convergence factor	ارتکازی جزو				
+convergence interval	ارتکازی وقفہ				
+convergence radius	رداس ارتکاز				
+convergent: absolutely convergent	مطلق مرکوز، مطلق مرتکز				
+convergent series, divergent series	مرکوز تسلسل، منفرج تسلسل				
+convenient	پر آسائش، موزوں				
+convention	روایت، رائج				
+conventional	روایتی				
+conventionally	روایتاً				
+convex, convex o concave, convexity	حدبی، حدب جوف، حدبیت				
+Conveyor belt	منتقل کار پٹی، سامان رساں پٹی				
+convolution integral	تکمل الجھاو				
+convolution theorem	مسئلہ الجھاو				
+convolution: time convolution (Fourier transform)	وقتی الجھاو				
+cooler, [cooling], {cooling agent}, coolant	خنکارہ، [خنکی]، {خنکی کار}، خنکار				
+coplanar	ہم سطحی				
+copper	تانبہ، تانبے کا بنا ہوا				
+copy	نقل، نقشے سے اتارنا				
+core, transformer core also called transformer iron	ٹرانسفارمر قالب	ٹرانسفارمر قالب			
+core laminations	ٹرانسفارمر پتری	ٹرانسفارمر پتری			
+core loss	ضیاع قالب: قالبی ضیاع	ضیاع قالب: قالبی ضیاع			
+core, iron core, air core, core-less	لوہے کی قالب؛ خلائی قالب؛ بے قالب	لوہے کی قالب؛ خلائی قالب؛ بے قالب			
+Coriolis effect	کوریولس اثر				
+cork, stopper of bottle	ڈاٹ				
+corollary	ضمنی نتیجہ				
+corpuscle	ذرّیچہ				
+correction	درستگی، تصحیح				
+correlation	ہم رشتگی				
+correlation analysis (statistics)	تجزیہ باہمی رشتہ				
+correlation, anti-correlation	باہمی رشتہ، باہم ضد رشتہ				
+corresponding point	نظیری نقطہ، مطابقتی نقطہ	مطابقتی نقطہ			
+corrugated	نالیدار				
+Copenhagen	کوپن ہیگن				
+cosine, cosine integral, complementary cosine integral	کوسائن، کوسائن تکمل، متمم کوسائن تکمل	 			
+cosine law	قانون کوسائن				
+cosmic rays	کائناتی شعاعیں				
+cost	لاگت				
+coupled: magnetically coupled circuits	رابطے میں ہیں۔مقناطیسی میدان کے ذریعہ آپس میں رابطے میں ہیں۔	مربوط لچھے			
+coupled circuits	جفتہ ادوار				
+Coulomb	کولمب				
+counter	گنت کار				
+counter	متضاد، بالمقابل				
+counter clock wise	متضاد گھڑی				
+counter emf	متضاد امالی برقی دباؤ				
+couple (to couple rotating disks with a belt)	مزدوج کرنا				
+coupled: magnetically coupled circuits	رابطہ: مقناطیسی رابطہ				
+coupled circuits	مزدوج ادوار				
+coupler	وابستہ کار				
+coupling, coupler [english]	پیوست ہونا، پیوست کار، جوڑ				
+coupling capacitor, bypass capacitor	جفتی کپیسٹر 				
+coupling coefficient: M=k(L1 L2)^(0.5)	ارتباطی مستقل				
+course (in education)	درس، مقررہ درس				
+covalent bond, bonded	شریک گرفتی بندھ، بندھا				
+CPLDs	مخلوط قابلِ تشکیل ترتیبی ادوار				
+Cramer's rule	کریمر کا قاعدہ				
+cranberry: cranberry drum	کروندا: کروندا ڈرم؟؟				
+crane	کرین				
+crank (to crank something)	دھری پھیر حرکت دینا				
+crankshaft	خمدار دھرا، کرینک شافٹ				
+crate	ٹھوکرا				
+crater (e.g. formed by an explosion)	گڑھا: دھماکے سے پڑنے والا گڑھا				
+creep	رینگ				
+crest: (read wave) (of wave or mountain)	فراز				
+criteria	مسلمہ معیار، (نقطہ فاصل جانچنے کا مسلمہ معیار)				
+critical: critical damping	فاصل تقصیر				
+critical equilibrium, critical angle, critical function, value	نازکی توازن [فاصل توازن]، زاویہ فاصل، فاصل تفاعل، فاصل قیمت				
+critical point, value	فاصل نقطہ، فاصل قیمت، نقطہ فاصل				
+critical points (phase plane) improper node, proper node, saddle point, centre, spiral point and degenerate node	غیر مناسب جوڑ، مناسب جوڑ، نقطہ زین، وسط، نقطہ مرغولہ، انحطاطی جوڑ				
+critical race	بحرانی دوڑ				
+rejection region	خطہ نا منظوری				
+cross multiply (two men eat 4 eggs, how many men would eat 10 eggs)	ترچھی ضرب	ضرب چلیپائی (میٹرک کتاب)			
+cross product, vector product	صلیبی ضرب، ضربِ صلیبی، سمتی ضرب				
+cross section	عرضی تراش				
+cross section	عمودی تراش، قطع عمودی: زاویہ قائمہ بناتے ہوئے لمبائی میں کسی چیز کی کٹائی				
+cross sectional area	تراشی رقبہ	میڑرک			
+cross: a surface crosses itself	قطع کرنا				
+crude	خام				
+crush	کچلنا				
+crystal, [amorphous]	قلم، [نقلما]				
+cube root	جذر الکعب				
+cubic equation	کعبی مساوات				
+cubic polynomial	کعبی کثیر رکنی				
+cumulus clouds	تودہ ابر بادل				
+curious	غور طلب				
+curl of a function	گردش				
+curl free	بغیر گردش				
+curly	لہریا				
+current: conduction current, convection current, displacement current	ایصالی، اتصالی اور انتقالی رو				
+current flow	برقی رو کا گزر				
+current transformation	بروی رو کا تبادلہ				
+current, current carrying	رو، رو بردار				
+current: output HIGH current, output LOW current, input HIGH current	بلند خارجی برقی رو، پست خارجی برقی رو، بلند داخلی برقی رو، پست داخلی برقی رو				
+current sink	خارج کار برقی رو	گڑھا رو			
+current source	داخل کار برقی رو، پیدا کار برقی رو	منبع رو			
+curvature	انحنا				
+curvature: circle of curvature, radius of curvature	دائرہ انحنا، رداس انحنا				
+curvature: total curvature	مکمل انحنا				
+curve, curved surface	قوس، قوسی سطح				
+Curve	منحنی۔خطِ منحنی، منحنیات				
+curve fitting	تلاش موزوں منحنی	منحنی بٹھانا، موافقت منحنی			
+curve: simple curve	سادہ منحنی				
+curved   	مڑا ہوا، جھکا	انحنائی (میٹرک)			
+curved line	خم دار خط، مُڑی لکیر، جھکی لکیر				
+curved surface	خم دار سطح				
+cusp	کنگرہ				
+customer	صارف، گاہک، خریدار				
+Cut-off mode: transistor	منقطع حال				
+cycle, cyclic	پھیرا، چکر، چکردار				
+cycle	چکر، پھیرا				
+cycloid, hypocycloid, epicycloid	تدویر، فلک تدویر، بر تدویر				
+cyclone	چکردار آندھی				
+cyclotron	سائکلوٹران				
+cylinder	اسطوانہ، بیلن				
+cylinder	نلی، یکساں قطر والی نلی				
+cylindrical co-ordinate system	نلکی نظامِ محدد				
+current supply	برقی رو کی سپلائی				
+cylindrical surface	بیلنی سطح، اسطوانی سطح				
+dagger	خنجر				
+D'Alembert's solution: Jean Baptiste Le Rond d'Alembert	ژاں باٹِیسٹ لی غوں دا لومبیغ				
+dark space	تاریک				
+Darwin	ڈارون				
+dashpot	روک، جاذب				
+data	مواد				
+data: primary, secondary	ابتدائی مواد، ثانوعی مواد				
+datasheet	معلوماتی صفحات				
+damage	تباہ				
+damped, undamped	قصری، مقصور؛ غیر تقصیری، بلا تقصیر				
+damped: under, over, critically	کم مقصور، زیادہ یا زائد  مقصور، فاصل مقصور				
+damped motion, damped waves	قصری حرکت، مقصور حرکت، قصری امواج، مقصور امواج				
+damping constant, ratio	تقصیری مستقل، تقصیری تناسب				
+damping: under damping, over damping, critically damping	کم تقصیر، زیادہ تقصیر، فاصل تقصیر				
+undamped	غیر تقصیری، بلا تقصیر، غیر قصری				
+data points, numerical data points	موادی نقاط، اعدادی  موادی نقاط				
+David, David Scott	داؤد، داؤد سکاٹ				
+David Bohm	داؤد بوہم				
+DC current, DC voltage	یک سمت رو، یک سمت برقی دباؤ				
+DC parallel connected self excited generator	یک سمتی متوازی جُڑی خُود ہیجان جنریٹر	یک سمتی متوازی جُڑی خُود ہیجان برق زا			
+DC self excited compound generator	یک سمت خُود ہیجان مرکب جنریٹر	یک سمت خُود ہیجان مرکب برق زا			
+DC separately excited generator	یک سمتی بیرونی ہیجان جنریٹر	یک سمتی بیرونی ہیجان برق زا			
+DC series connected self excited generator	یک سمت سلسلہ وار جُڑی خُود ہیجان جنریٹر	یک سمت سلسلہ وار جُڑی خُود ہیجان برق زا			
+death valley, california	وادی موت، کیلیفارنیا				
+De  … (used with words as a prefix)	رد، خاتم، انسداد				
+deamplify	انسداد افزائش				
+de Broglie	ڈی بروگ لی				
+Deca; deca meter	ڈیکا				
+decay	تنزل				
+decay mode [quantum mech, of excited state]	انداز تنزل				
+decay: radioactive decay	تابکاری تحلیل، تابکاری تنزل				
+decay: inverse beta decay	مخالف بیٹا تحلیل، مخالف بیٹا تنزل				
+decelerate	رد اسراع				
+decimal: 3D accuracy	تین اعشاریہ درست				
+decimal number	اعشاری عدد، عشری عدد				
+decimal point	نقطہ اعشاریہ				
+declare (a function in wxmaxima)	قرار دینا				
+decoder	شناخت کار				
+decoder (digital), [decode]	رما کشا، [رمز کشائی]				
+De ..…[decoherence]	ختمیت اتساق				
+decreasing: nondecreasing sequence	غیر گھٹتا تسلسل				
+decrement, increment	بڑھوتری، کٹوتی				
+deep space	فضائے ماورا				
+defect (in maths eigenvalues)	خامی	retain two separate words for defect and defective			
+defective, non defective (statistics)	عیب دار، بے عیب				
+define, definition	تعریف، متعارف، تعریف پیش کرنا				
+define: is defined as	کی تعریف یہہ ہے۔ کی تعریف یوں کی جاتی ہے				
+defined	مراد ہونا				
+defined: derivative may be defined on an interval	تفرق معین ہو سکتا ہے				
+defined on an interval (means that it has a value)	معین				
+definition: by definition	تعریف کی رو سے، تعریفاً				
+defined: well defined, [ill defined]	پوری طرح معین،  [بد معین]، اچھی طرح معین				
+defining rule, defining function	تعریفی قاعدہ، تعریفی تفاعل				
+defines (english)	پہچان				
+definite, indefinite	غیر مبہم، مبہم				
+deflect	موڑنا، جھکنا				
+deform: to deform,deformed, {deformation}	مسخ کرنا، مسخ شدہ، {مسخ ہو جانا}				
+deform, deformed, mutilate, distort	مسخ کرنا، مسخ شدہ؟؟ [جھکنا، بیٹھنا، جگہ چھوڑنا]				شہتیر وزن تلے بیٹھتا ہے
+degeneracy pressure	انحطاطی دباو				
+degenerate, degeneration, degeneracy	انحطاطی، انحطاط، انحطاط یا انحطاطیت				
+degenerate: its degeneracy is 4	اس کا انحطاط 4 ہے، اس کی انحطاطیت 4 ہے				
+degeneracy: lifting of degeneracy	انحطاط کا خاتمہ				
+degree, quartic	درجہ، چو درجی	 			
+Delta connected, star connected (Y-connected)	تکونی جُڑے یا تکون نما جُڑے، ستارا نما جُڑے				
+deltoid	مثلثی				
+de Moivre theorem	مسئلہ ڈی موے ور				
+de Morgan laws	قانون ڈی مارگن				
+demand matrix	قالب مانگ، قالب طلب				
+demand and supply	طلب اور رسد				
+demonstrate, demonstration	ظاہر کرنا، مظاہرہ کرنا، اثباتی مظاہرہ کرنا، مظاہرہ،  تصدیق کرنا، دکھانا				
+Demonstrative (matric)	اثباتی				
+demultiplexer	خارجی منتخب کار				
+denominator	نسب نما (gender=masculine)				
+dense	کثیف				
+density	کسی متغیرہ کی اکائی سطح پر قل مقدار کو اس متغیرہ کی کثافت کہتے ہیں				
+density: free electron density	کثافت آزاد الیکٹران				
+density, mean density,surface & volume density	کثافت،درمیانی کثافت، سطحی اور حجمی کثافت				
+department	محکمہ				
+dependence, independence	تابعیت، غیر تابعیت یا غیر انحصار				
+dependent and independent set	غیر تابع سلسلہ	غیر تابع مجموع			
+dependent, independent variables	تابع اور آزاد متغیرہ				
+dependent and independent voltage source	تابع اور غیر تابع منبع دباو				
+dependent: independently goes to zero	غیر مختارانہ طور پر صفر کو پہنچتا ہو				
+dependent: path independence	راہ سے آزادی، راہ پر غیر انحصار	راہ سے بے نیاز	 		
+depends	منحصر				
+deposit	چڑھانا				
+derivation	اشتقاق، اشتقاقایت، اشتقاقاً، استنباط، استخراج	اشتقاق کا مطلب ہے شق حاصل کرنا			
+derivative, (differential)	تفرق (تفریقی، تفریق)	 			
+derive	اخذ کرنا				
+derived units	مشتق اکائیاں				
+describe, [description]	بیان کرنا، [بیان]				
+design, designed, design voltage	بناوٹ، بنائی گئی ہو، تخلیق، بناوٹی دباو				
+design voltage, current, frequency	بناوٹی دباو، رو،تعدد				
+designate, designated	نامزد، نامزد شدہ				
+designer	تخلیق کار				
+detector, [sensor]	کاشف، محسس				
+detect	معلوم کرنا، کشف کرنا				
+Determinant  (symbol=D or |A| )	مقطع، مقطع قالب (میٹرک کتاب)				
+determinant: characteristic determinant of A matrix	امتیازی مقطع				
+determinate, indeterminate	 تعیین، بلا تعیین				
+determinacy, indeterminacy	تعیّنیت، عدم تعیّنیت				
+determine, [determined]	تعین کرنا، طے کرنا، [تعین شدہ، متعین]				
+determined upto multiples of 2	دو کی مضرب تک تعین کی جا سکتی ہے				
+deterministic	تعیینی				
+develop	تیار				
+diagnose	تشخیص				
+diagonal: body diagonal	جسمی وتر				
+diagonal, main diagonal	وتر، مرکزی وتر				
+diagonalizable	وتر پذیر				
+diagonalization	وترئت، وترانہ کاری				
+diagonalizing matrix	وتر کار قالب				
+diagonally dominant	وتری غالب				
+diagonally opposite	وتری مقابل				
+diagram	شکل				
+diameter	قطر				
+dianion	دوہرا منفی بارداریہ				
+diatomic	دو جوہری				
+dication	دوہرا مثبت بارداریہ				
+Die, dice (ludo game), roll a die	پانسہ (لوڈو کھیل)، پانسہ پھینکنا				
+dice: fair	منصفانہ پانسہ				
+dielectric	ذوبرق				
+diffraction, diffraction grating	انکسار امواج، انکساری جالی				
+difference	فرق				
+difference equation, calculus of differences	مساوات فرق، احصاء فرقیات				
+Differences: finite differences	متناہی فرق				
+differences: first, second, third	پہلا فرق، دوسرا فرق، تیسرا فرق، چوتھا فرق	فرق اول، فرق دوم، فرق سوم، فرق چہارم			
+difference: central difference	وسطی فرق				
+difference: forward difference	آگے فرق				
+difference:backward difference	پپیچھے فرق				
+difference: divided difference	منقسم فرق				
+difference: difference vector	سمتیہ فرق				
+difference quotient	تفریقی حاصل تقسیم	فرقی حاصل تقسیم			
+differential  (Δf=f(x0+h)-f(x0)), whereas differential equation remains    تفرقی مساوات	تفریق	تفرقی (is more consistent)			
+differential calculus	احصاء تفرقیات				
+differential mode signal	تفرقی اشارہ				
+differential equation, partial differential equation	تفرقی مساوات، جُزوی تفرقی مساوات				
+differential form:exact differential	قطعی تفرقی روپ	 	 		
+differential form: first order differential form	ایک رتبی تفرقی روپ، یک رتبی تفرقی روپ	 			
+differential operator	تفرقی عامل	 			
+differential, partial differential	تفرق، جُزوی تفرق				
+differentiate	تفریق کرنا	تفرق لینا			
+differentiability	تفرق پذیری				
+differentiable: single, double, triple, infinitely	ایک گنا، دو گنا، تین گنا قابل تفرق، لامتناہی گنّا قابل تفرق				
+differentiation, partial differentiation	تفریق، جُزوی تفریق				
+diffusion, diffusion current	نفوذ، نفوذی برقی رو				
+diffused, (diffusible)	نفوذ شدہ، (نفوذ پذیر)				
+diffusive	منفوذی				
+digit	ہندسہ				
+digital form: digitize	عددی صورت: عددی صورت دینا				
+dilution	رقت				
+dimensions (of a body)	طول و عرض				
+dimension, dimensionless	بُعد، بے بعدی، غیر بعدی				
+dimension	طرف، تین طرفہ				
+dimension, dimensional	بُعد،ابعاد: ایک مخسوس سمت میں ناپی گئی وسعت				
+dimensional: two dimensional	دو ابعاد، دو ابعادی				
+dimensional: three dimensional	ابعاد ثلاثہ والا				
+dimensional:three dimensional plot	تین بعدی ترسیم، سہ ابعادی ترسیم				
+dimple	ٹویا، ٹوئے				
+dining room	میز خانہ، کھانے کا کمرہ				
+dioxide	ڈائی اکسائیڈ				
+dip [dip angle]	گہرائی??، [میلان زاویہ]				
+dipole, dipole moment, [moments]	جفت قطب، جفت قطب کا معیار اثر، [معیار حرکات]				
+dipole: quadrupole, multipole	چو قطب، متعدد قطب				
+dipole antenna	جفت قطبی اینٹینا				
+Dirac: Paul Adrien Maurice Dirac	پال اڈرین مارث ڈیراک				
+Dirac comb	ڈائی رک کنگھی، ڈیراک کنگھی				
+Dirac delta function	ڈائی رک ڈیلٹائی تفاعل، ڈیراک ڈیلٹائی تفاعل				
+direct, indirect [english]	براہ راست اور گھوم کر جانے والے راستے				
+direct integral (quantum mech)	بلا واسطہ تکمل،بالراست تکمل				
+direct method	بلا واسطہ ترکیب، بالراست				
+direct current  DC	راست رُو، یک سمت رُو	 			
+direct reception (antenna)	سیدھی رسائی، سیدھی وصولی، بالراست رسائی یا وصولی				
+directed line	سمت بند خط				
+direction	رخ				
+direction cosines, direction angles	کوسائن رخ، زاویات رخ				
+direction field (maths)	میدان سمت یا میدان ڈھال				
+direction:positive direction (another name for positive sense of a curve)	مثبت سمت				
+directional derivative	رخی تفرق				
+directivity (antenna)	سمتیت				
+directly proportional, inversely proportional	راست متناسب، بالعکس متناسب				
+directrix	ناظمہ				
+Dirichlet's discontinuous factor; Johann Peter Gustav Lejeune Dirichlet	ڈرشلے غیر استمراری جزو؛ یوہان پیٹر گستاف لیژون ڈرشلے				
+disadvantage	قباحت، عیب				
+discharge,  charge a capacitor	بار بھرنا، بار کا نکاس				
+discharge: gas discharge tube	گیس خروج نلی				
+discipline	انضباط				
+disconnect	منقطع				
+discontinuous	جوڑ دار	غیر استمراری			
+discontinuity	عدم تسلسل	عدم استمرار			
+discontinuity: removable,non-removable, jump, infinite	قابل ہٹاو عدم استمرار، نا قابل ہٹاو عدم استمرار، چھلانگ، لا متناہی				
+discount	قیمت میں چھوٹ، کٹوتی				
+discrete	انفرادی، الگ الگ ٹرانزسٹر، غیر مسلسل	غیر مسلسل (میٹرک کتاب)			
+discrete and continuous variables (from matric book)	غیر مسلسل اوراستمراری متغیر				
+discriminant (indian matric maths)	مقطع [ہندستانی کتاب میں اس کو "ممیز" کہا گیا ہے]	 			
+discuss	بحث، جائزہ لینا، تبصرہ کرنا، بات کرنا، تبادلہ خیال کرنا، گفتگو کرنا				
+disintegration	ٹکڑے ٹکڑے ہونا				
+disjoint event	بے ربط وقوعہ				
+disk, circular disk, disks	قرص، دائری قرص، اقراص				
+displacement	ہٹاو				
+displacement current	انتقالی رو				
+displacement vector	ہٹاو سمتیہ				
+Dispersion (waves) (matric book)	انتشار، اثر انتشار، منتشر ہونا				
+dispersion parameter	انتشاری مستقل				
+dispersion relation	انتشاری رشتہ				
+distance: kos, parsang {mughal era}	کوس، پرسنگ یا فرسخ				
+distilled water	مقطر پانی				
+distinct	منفرد				
+distinguish	وضاحت کرنا، تمیز کرنا				
+distinguishable particles, indistinguishable particles (quantum mech)	قابل ممیز، غیر قابل ممیز				
+distorted, [distort]	بگڑی شکل، مسخ شدہ، [مسخ]				
+distribution:binomial, poisson, multinomial, normal	تقسیم:ثنائی، پوئسن، متعدد رکنی، عمومی				بٹاو
+distribution: charge distribution	تقسیم بار				
+distributed winding	تقسیم شدہ اور غیر تقسیم شدہ لچھے				
+distributive law	قانون تقسیم، جزئیتی تقسیم				
+distributive law [maths a(b+c)=ab+ac]	قانون جزئیتی تقسیم				
+distributive	جزئیتی تقسیمی ہونا				
+distributor	تقسیم کار				
+distribution board	تقسیم کار تختہ				
+disturb	چھیڑ، سکون خراب کرنا				
+disturb, to disturb a particle,disturbed	اضطراب، ذرہ کو مضطرب کرنا				
+disturbance	خلل				
+dive: nose dive (plane)	غوطہ لگانا				
+dive: dive and fire (plane)	غوطہ بمباری				
+diver: skydiver	فضائی غوطہ باز				
+divergence, divergent	انفراج، منفرج				
+divergence theorem	مسئلہ پھیلاو				
+divergent (series), convergent series	منفرج تسلسل، مرکوز تسلسل				
+dividend (maths: the number being divided)	مقسوم				
+diving board	تختہ غوطہ				
+divisor (maths: the number that divides)	قاسم	تقسیم کنندہ matric			
+DNA	ڈی این اے				
+dock	بندر گاہ میں گودی جہاں سامان لادا اور اتارا جاتا ہے				
+dock; to dock a ship	لنگرڈالنا				
+domain: frequency domain, time domain (laplace transform)	دائرہ کار: وقتی دائرہ کار، تعددی دائرہ کار				
+Domain (t=0:3)	میدان عمل	دائرہ کار			
+domain: natural domain	قدرتی دائرہ کار				
+dome	گنبد				
+dominant, recessive gene	غالب، مغلوب جین				
+dominant  (dominant TE11 mode)	غالب				
+domination	غلبہ				
+don't care states	غیر استعمال شدہ حالات				
+dopant	ملاوٹ				
+dot graph	نقطہ ترسیم				
+dot product, scalar product	ضربِ نکتہ، مقداری ضرب، غیر سمتی ضرب				
+double integral	دوہرا تکمل				
+double: double root	دوہرا: دوہرا جذر				
+double helix	دوہرا مرغولہ				
+doubler	دگنا کار				
+doublet [strength of doublet]	دوگانی کی ۔۔۔، دوگانہ				
+doubly	دو چند، دو چند طور پر، دوہرے طور پر				
+Down stream, up stream	بہاو کے موافق، بہاو کے ساتھ				
+down along a slope	میلان پر اترتے ہوئے، یا اترائی کے رخ				
+downward, upward	اوپر وار، نشیب وار				dic,maths,indian
+drag force, [drag coefficient]	قوت گھساٹ، [گھساٹی مستقل؟؟]				
+drag	کشید				dic, phy, indian
+draw (draw a line or vector)	کھینچنا				
+draw out from a bottle	نکالنا				
+drift	بہاو برقی رو				
+drift velocity	رفتار بہاو				
+drill: electric drill, [drilling}, {to drill}	برما، برقی برما، [برما کاری]، {برمانا}				
+drive: four wheel drive	چار پہیوں کی طاقت؛ چار پہی طاقت				
+driving force	متحرک قوت، جبری قوت				
+driving frequency	جبری تعدد				
+driving function: (forcing function)	جبری تفاعل				
+drone	نکھٹو				
+dual: dual angle, dual category	تثنیہ: تثنیہ زاویہ، تثنوی زمرہ				
+dualism; principle of duality	دوئی؛ دوئی کا اصول				
+ductile	تار پذیر				
+Duffing equation	ڈفنگ مساوات				
+dummy variable (of integration)	نقلی متغیر				
+dust and cloud	دھول اور بادلوں				
+duty cycle	فعال عرصہ				
+dye	رنگ				
+dynamic variable	تغیر پذیر متغیر				
+dynamics, hydrodynamics	حرکیات، ماقوا حرکیات				
+dynamic procedure	متحرک حکمت عملی				
+Each:: each point	ہر ایک؛ ہر ایک نقطہ، ایک ایک نقطہ، انفرادی نقطہ				
+each: each force	انفرادی قوت				
+ear phone	سماعیہ				
+early (english)	پرانی ترکیب				
+early, earlier, earlier definition	وہ تعریف جو ہم پہلے پیش کر چکے ہیں				
+earth: inner core, outer core, [mantle], crust	اندرونی قلب، بیرونی قلب، [وسطی خول]، قشر				
+earth epicenter	مرکز زلزلہ				
+easy axis	آسان محور، آسان سمت، نرم محور، نرم سمت				
+eccentricity, (eccentric)	سنک، (سنکی)، عن المرکزیت	پشتو کی کتاب میں اس کو عن المرکزیت کہا گیا ہے			
+ecg	برقی قلب نگار				
+echelon form (matrix), reduced echelon form	زینہ دار، سادہ زینہ دار صورت				
+echelon: row echelon form	صف زینہ دار				
+economist	ماہر اقتصادیات				
+economy	معیشت				
+eddy currents	بھنور نما رو				
+edge	کنارہ، دھار				
+Edward Goursat	ایڈورڈ گرسا				
+Edward Lowry Norton: norton theorem	ایڈورڈ لوری نارٹن				
+effective current	موثر رو				
+effective aperture (antenna)	اخراجی رقبہ				
+effectively (english)	تمام مقاصد کے لئے، عملاً				
+effectiveness	موثریت				
+efficiency	کارگزاری				
+efficient	موثر				
+Ehrenberg-Siday effect	اہرنبرگ و سڈے اثر				
+Ehrenfest’s theorem	مسئلہ اہرنفسٹ				
+Eigenvalues, Eigenvectors, Eigenspace	آئگنی قدر، آئگنی سمتیات، آئگنی اقدار،  آئگنی فضا، امتیازی	امتیازی اقدار			
+eigenfunction: position eigenfunction, momentum eigenfunction	امتیازی تفاعل مقام، امتیازی تفاعل معیار حرکت				
+Einstein: theory of relativity: Albert Einstein	آئن سٹائن: نظریہ اضافت: البرت آئن شٹائن				
+ejector, ejection item	برانداز، برانداز رکن				
+elastic, [elasticity], inelastic	لچک، لچک دار، لچکی [لچک]، غیر لچکی				
+elastic fluid, elastic collision, 	لچکدار سیال، لچکدار تصادم				
+elastic constant, elastic energy, elastic limit, elastic curve, elastic fatigue	لچکدار، لچک مستقل، لچک توانائی، لچک حد، لچک منحنی، لچک تکان				
+Elastic ,elastic force	لچکی،لچکدار قوت				
+elastic potential energy	لچکی مخفی توانائی				
+elasticity: Young's modulus of elasticity	ینگ کا مقیاس لچک				
+elbow, upper and lower arm	کوہنی، اوپری اور نچلا بازو				
+electric circuit	برقی دور				
+electric current	برقی رو				
+electric flux	برقی بہاو	 			
+electric power	برقی طاقت				
+electric supply	برقی بھم رسانی				
+electricity	برق	matric			
+electrode	برقیرہ				
+electrodynamics	برقی حرکیات				
+electrolysis	برق پاشی				
+electronics analog	تناسبی برقیات				
+electromagnetic waves	برقی مقناطیسی امواج				
+electromagnetism	برقناطیسیت				
+electromagnetically	برقی مقناطیسیت کے ذریعہ				
+electrostatics, magnetostatics	برقی سکون، مقناطیسی سکون، برقی سکونیات				
+electrostatic potential	برقی ساکن مخفی قوہ، برق ساکن مخفیہ				
+element	رکن				
+element: mass element (english)	کمیتی ٹکڑا				
+element of area (maths)	رکن رقبہ				
+elementary function (maths), non elementary	بنیادی تفاعل، غیر بنیادی تفاعل				
+elevator,lift , [escalator]	برقی زینہ، [رواں زینہ]				
+eleven, twelve, thirteen, fourteen, fifteen, sixteen,…	گیارہ، بارہ، تیرہ، چودہ، پندرہ، سولہ، سترہ، اٹھارہ، انیس، بیس				
+eleventh, twelfth, thirteenth, fourteenth, fifteenth, sixteenth	گیارھویں، بارھویں، تیرھویں،چودھویں، پندرھویں، سولھویں، سترھویں، اٹھارویں، انیسویں				
+elimination	اسقاط				
+elimination: gauss elimination method	رکیب گاوسی اسقاط				
+elliptic integral, elliptic polarization of waves, elliptic polarized	بیضوی تکملہ، بیضوی تقطیب موج، بیضوی قطبی				
+ellipse (maths)	ترخیم				
+ellipsoid	ترخیمی سطح				
+elongation	تطویل				
+elusive, non elusive	مبہم، غیر مبہم، ابہام				
+email	برقیاتی پتہ، برقیاتی رابطہ				
+emf	محرک برقی دباؤ: شروع میں بروی طاقت حرکت سے ہی پیدا ہوتی تھی جس سے اس کا نام محرک برقی دباؤ پڑا				
+emitter follower	تابع مخارج				
+empirical relation	تجربی رشتہ				
+empty, non empty	خالی، غیر خالی				
+enable, disable	مجاز کرنا، معذور کرنا				
+enamel	روغن				
+enclosed	ملفوف، لف شدہ				
+encounter	پیش آنا، دیکھنے کو ملنا				
+end effects	سروں کے اثرات				
+energize	طاقت مہیا کرنا				
+energy, co-energy	توانائی، ہم توانائی				
+energy: carrier of energy	انتقالِ توانائی				
+energies	توانائیاں				
+energy barrier	توانائی روک				
+energy content	توانائی مشمول				
+energy gap	درز توانائی				
+energy levels	سطحیں توانائی				
+energy loss	ضیاع توانائی				
+engine	انجن، کل				rekhta dictionary
+engineer, test engineer	معمار، آزمائش کار معمار	مہندس			
+engineering, engineering practice	انجینئری، انجینئری شعبہ میں				
+ensemble	فرقہ	یکساں ہجوم (بہتر معلوم ہوتا ہے)			
+entail	قدرتی تنتیجہ ہونا				
+Entangle: entangled, [entanglement]	ہمبستہ، ہمبستگی				
+entire function	سالم تفاعل				
+entropy	ناکاگی؟				
+entry (matrix a_11 etc)	اندراجات				
+envelope (of AM signal)	غلاف				
+environment	ماحول				
+epicycloid	بر تدویر				
+EPR paradox (einstein, podolsky and rosen)	آئنشٹائن، پوڈلسکی و روزن تضاد				
+equation	مساوات				
+equation: point-slope and slope-intercept equations	نقطہ و ڈھلوان اور ڈھلوان و قطع مساوات				
+Equate, equating two equations	ان مساوات کو مساوی رکھتے ہوئے، برابر رکھتے ہوئے				
+equator	خط استوا	خط استوا			
+equal, equality, [equality relation]	مساوی، مساویت، [تساوی رشتہ]				
+equatorial plane, equatorial radius	استوائی مستوی، استوائی رداس				
+equidistant	ہم فاصلہ				
+equilateral triangle	متساوی الاضلاع مثلث				
+equilibrium: stable equilibrium, [static equilibrium]	مستحکم توازن، [سکونی توازن]				
+equilibrium state	متوازن حال، صورت				
+equilibrium distance	توازنی فاصلہ				
+equipment	سازوسامان				
+equipotential surface, line	ہم قوہ سطح، خط				
+equivalence point, equivalence relation	نقطہ معادلت، معادلت رشتہ				
+equivalent, (equivalence)	معادل، (تعادل)				
+equivalent weight, function	معادل وزن، تفاعل معادل				
+equivalent, equivalently	مساوی، مترادف، برابر، مساوی طور پر				
+Ernest Rutherford	ارنسٹ ردرفورڈ				
+error	خلل، سہو	سہو ؟؟			
+error curve	سہو خم				
+error analysis	تجزیہ خلل				
+error bound	حد خلل				
+error: building-up error	اجتماع خلل				
+error function	تفاعل خلل				
+error function: complementary error function	متمم تفاعل خلل				
+error estimation	اندازہ خلل				
+error: experimental error	تجربی خلل				
+error:truncation error	قطع چال خلل	حذفی خلل			
+error: rounding error	پور و پور خلل	تعداد ہندسہ خلل			
+error:rounding up, rounding down	اوپر پورا کرنا، نیچے پورا کرنا، اپور پور و پور، نیچے پور و پور				
+escalator	زینہ رواں				
+escape	فرار، بچ نکلنا				
+escape velocity	گریزی رفتار، فرار کی رفتار				
+escape ramp	حفاظتی روک میلان				
+escribed circle (matric)	جانبی دائرہ				
+essential	لازمی				
+estimate, estimation	اندازہ لگانا، اندازاً قیمت	تخمینہ			
+estimate: interval estimate, confidence interval	وقفہ اندازہ، وقفہ اعتماد				
+estimate: maximum likelihood method	زیدہ سے زیادہ امکان کی ترکیب				
+estimate: maximum likelihood estimates	زیادہ سے زیادہ امکانی  اندازے				
+estimate: point estimate, interval estimate	نقطی اندازہ، وقفی اندازہ				
+Euclidean space	اقلیدسی فضا				
+Euler's identity	یولر مماثل				
+Euler: Leonhard Euler	لیون آرڈ یولر	even though it is pronounced oiler, I am retaining the urdu name as currently used			
+europe	یورپ				
+evaluate	قیمت تلاش کرنا	قیمت تلاش کرنا			
+evaluation	تخمینہ، تحسیب	قدر پیمائی، قیمت کا اندازہ لگانا			
+evanescent wave (in  lighter medium during total internal reflection)	فنا پذیر موج				
+evaporation	بخارات، تبخیر				
+even	جفت	matric			
+event: disjoint; mutually exclusive	بے ربط؛ باہمی بلا شرکت				
+event, events, elementary event	وقوعہ، بنیادی وقوعہ	matric			
+event: empty, impossible	خالی وقوعہ، نا ممکن وقوعہ، وقوعات				
+event: event horizon (black hole)	افق وقوعہ				
+event: independent events	غیر تابع وقوعات				
+event: subevent	ذیلی وقوعہ				
+even ,even ness	جفت، جفت پن				
+even function symmetry	جفت تفاعل تشاکل				
+everest (mount everest)	سگرماتا				
+Evert Johannes Nystrom	ایورٹ جوہانس نیستروم				
+Everett formula (interpolation)	کلیہ ایورٹ				
+evidently	ظاہراً، ظاہری طور پر				
+evolution, evolves, [evolving]	ارتقا، ارتقا پانا، [ارتقائی]				
+evolve from another equation	نکلنا				
+exact	عین				
+exact answer	اصل جواب				
+exact; exactly 5	بالکل درست، ٹھیک؛ ٹھیک پانچ				
+exchange operator, interchange	عامل مبادلہ؛ باہمی مبادلہ				
+exchange integral (quantum mech)	مبادلہ تکمل				
+excitation current	ہیجان انگیز برقی رو				
+excitation table (DLD)	ہیجان انگیز جدول				
+excitation voltage	 ہیجان انگیز برقی دباؤ				
+excite: to excite	ہیجان پیدا کرنا				
+excited	ہیجان شدہ				
+exciter	ہیجان انگیز				
+exciting (english)	پُر لطف، مزیدار				
+exhaust [noun, the smoke out of the car]	خَرج				
+exhaust [the hole or gap for exhaust]	دخان راہ				
+exhaust speed	خَرج رفتار				
+existence of solution	وجودیت				
+expand: expand in power series of x	ایکس کی طاقتی تسلسل توسیع میں لکھ کر				
+expand:expand in taylor series	ٹیلر تسلسل میں کھولیں				
+expansion	اتساع، توسیع				
+expansion coefficients	توسیعی عددی سر				
+expansion: fourier, power series expansion	فورئیر توسیع، طاقتی تاسیع				
+expansion and contraction	 سکڑاو اور توسیع				
+expectation: mathematical expectation	حسابی  توقع				
+expectation value, expectation	قیمت توقع، توقع،توقعاتی قیمت				
+expected	متوقع				
+experimentalist	تجربیت پسند				
+experimenter	تجربہ گر				
+explicit function	صریح تفاعل				
+explicit integration	صریح تکمل				
+explicitly	صریحاً				
+exploit	فائدہ اٹھانا				
+explore, explorer	سراغ رساں				
+exponent	قوت نما				
+exponential decay	قوت نمائی انحطاط، قوت نمائی تنزل				
+exponential function	قوت نمائی تفاعل				
+exponential Fourier series	قوت نمائی فوریئر تسلسل				
+expression: mathematical expression	ترکیب، کلیہ، تعلق، جملہ	بیان ریاضی			
+Extended function, (extension of function)	وسیع تفاعل، (تفاعل کی توسیع)، توسیعی تفاعل				
+extended complex plane	مبسوط مخلوط سطح	مبسوط مخلوط  مستوی			
+extended power series method	مبسوط طاقتی تسلسل				
+extension (of idea)	توسیع، توسیعی حالت				
+external, internal	بیرونی، اندرونی				
+external,[exterior], out, outside, outer	بیرونی،[بیرون]، کے باہر، باہر، باہر والا				
+extra	زائد				
+extrapolate, (extrapolation)	غیر باہمی تحریف	(ورائی ادراج)، ورائی ادراج کریں			
+extrema, local extrema, absolute extrema	انتہا، مقامی انتہا، مطلق انتہا				
+extreme position, values	انتہائی مقام،انتہا مقام، انتہا قیمتیں				
+eye blink	آنکھ جھپکنا				
+fabricate, [fabrication]	وضع کرنا، بنانا، [وضع]				ind dic
+face	رخ				
+face centered lattice	پہلو رخی جالی، رخ مرکزی مکعب جالی				
+face value	پہلوی قیمت				
+factor	جزو ضربی، اجزائے ضربی				
+factor (english)	وجہ، وجوہات				
+factor analysis	جزو ضربی تجزیہ				
+factor: safety factor	حفاظتی ضربیہ کے تحت بنانا				
+factor: winding factor, power factor, power factor angle	لچھے کا جُزو ضربی، طاقت کا جُزو ضربی، طاقت کے جُزو ضربی کا زاویہ				
+factorization	تجزی؛ بذریعہ تجزی				
+factorial	عدد ضربیہ، ضربیہ				
+fabrication industry	اختراعی صنعت				
+Fabry-Perot interferometer	فیبری و پیروٹ طیف پیما				
+Fabry-Perot: free spectral range	طیفی حد				
+factors	اجزائے ضربی				
+factorization	تجزی				
+Fade, [fading],fade in, fade out	ماند ہونا، [ماندگی]، سُست ظہور، سُست غیاب				
+fails	ناکارہ ہونا				
+failure	ٹوٹ پھوٹ				
+failure (of system)	ناکامی				
+fall time, rise time	دورانیہ اترائی، دورانیہ چڑھائی				
+family of curves	خطوط کی نسل				
+fan blade	پنھکے کا پر				
+far region	بعید علاقہ				
+Farad, Michael Faraday	فیراڈ، مائکل فیراڈے، میکائل فیرڈے				
+faraday shield; shielded wire	فیراڈے پناہ گاہ، پناہ دار تار				
+fatigue,  [fatigue failure], fatigue effect, fatigue crack	تکان، [تکان ناکامی]، تکان اثر، تکان دراڑ {indian dic}				
+fault, [faulty instrument]	نقص، [نقص دار]				
+fault	نقص				
+Fault (geology) ، fault line, fault surface, [rock fault]	دراڑ، خط دراڑ، سطح دراڑ، [دراڑ چھٹان]				
+faulty, working	غیر فعال، فعال				
+features	پہلو، خدوخال				
+feedback system, feedback circuit	واپسی دور، واپسی نظام				
+feedback signal	واپسی اشارہ، واپسی خبر، خارجی خبر				
+feedback positive, negative	مثبت واپسی ایمپلیفائر، منفی واپسی ایمپلیفائر				
+feed (signal)	 رسائی				
+feedback, [feedback signal], positive feedback, negative feedback	باز رسی، [باز رسی اشارہ]، مثبت باز رسی، منفی باز رسی				
+feedback, [feed forward]	باز رسی، [پیش رسی]				
+femto	فیمٹو				
+fence	باڑ				
+Ferris wheel	چرخ ہنڈولا (جو انتصابی یا افقی محور کے گرد گھومتا ہے)				
+Fermi-Dirac distribution	فرمی و  ڈیراک تقسیم				
+Fermi’s Golden rule	فرمی کا سنہرا قانون				
+Fermi temperature	فرمی درجہ حرارت، فرمی تاپ				
+fermion	فرمیان				
+ferrite	فیرائٹ				
+ferroelectric	برقی چال				
+ferromagnetic	فولادی مقناطیسی اشیاء				
+Feynman diagrams	فائن من اشکال				
+Feynman-Hellmamm theorem	مسئلہ فائنمن  و ہلمن				
+Fibonacci numbers	فبونیکی اعداد				
+Field: magnetic field	حلقہ عمل: وہ علاقہ یا جگہ جس میں کسی قوت کا اثر محسوس کیا جائے	مذکر			
+field, armature	میدان، قوی لچھا  ؟؟				
+field: direction field (maths)	میدان ڈھال یا میدان سمت				
+field, static	ساکن میدان				
+file: computer file	دستاویز				
+filing	بُرادہ				
+filter, low pass, high pass, band pass, band stop	پٹی گزار چھلنی، پٹی روک چھلنی، پست گزار چھلنی اور بلند گزار چھلنی				
+filter, low pass, high pass, band pass, band stop	پٹی گزار فلٹر، پٹی روک فلٹر،بلند گزار اور پست گزار فلٹر				
+finally	الغرض				
+fine	باریک				
+fine structure, hyperfine structure (quantum mech)	مہین ساخت، نہایت مہین ساخت				
+finger parts	بند 				
+finger tips	انگلی کے پور				
+finite processes	متناہی چال				
+finite sum	متناہی مجموعہ				
+Finland	فن لینڈ				
+fired, to fire (a gun etc)	داغا، داغنا				
+fishing line	ماہی گیری کی ڈوری				
+fission	انشقاق				
+fissure	شگاف				
+fire fighter	آگ بجھانے والا				
+fireworks	آتش بازی				
+first, second, third, fourth	اول، دوم، سوم، چہارم (چہارمی، چہارمیں)				
+first fundamental form (maths area)	بینادی صورت اول				
+first order equation	یک رتبی	 			
+first order method (numerical methods)	رتبہ اول ترکیب				
+fit, applicable	موزوں				
+fit properly	ٹھیک بیٹھنا				
+fixed	قطعی، معین، پکا جڑا، جکڑ بند، ساکن	مقررہ، غیر تغیر پذیر، مستقل، مستحکم	باندھا ہوا		
+fixed axis	مقررہ محور				
+Fixed : end of rope is fixed	 رسی کا ایک سر (کیل یا ستون کے ساتھ) باندھ کر (ساکن) رکھا جاتا ہے				
+Fixed : end of rope is fixed	جبکہ دوسرا سر آزاد ہے، جس کے ساتھ پتھر بندھا ہو اہے				
+fix	جکڑنا، مضبوط باندھنا				
+fixed point (linear fractional transformation)	مقررہ نقطہ				
+fixed point system (number representation)	مقررہ نقطہ نظام				
+flange, flanged	کگر، کگردار				
+flatcar (rail car that is open)	کھلی ریل گاڑی				
+flat ground	برابر زمین				
+flat surface	چپٹی سطح	میٹرک			
+fleming's left hand rule	فلیمنگ کا بائیں ہاتھ کا قانون: اس قانون کے مطابق اگر آپ اپنے بائیں ہاتھ کے انگوٹھے، پہلی انگلی اور درمیانی انگلی کو اس طرح پھیلاِئیں کہ تینوں ایک دوسرے کے ساتھ قائمہ زاویہ بنائیں اگر پہلی انگلی مقناطیسی میدان کا رُخ اور درمیانی انگلی برقی رو کا رُخ ظاہر کرے تو انگوٹھا موصل پر لگنے والی قوت کی سمت کو ظاہر کرتا ہے				
+flexible, flexibility	لچکیلا،لچکیلی، لچکیلا پن				
+floating pin	غیر وابسطہ پنیا				
+floating point system (number representation)	غیر مقررہ نقطہ نظام				
+floor	فرش				
+floor function	عدد صحیح زمین تفاعل، بڑا ترین عدد تفاعل				
+flopping frequency: Rabi’s flopping frequency	رابی پلٹنی تعدد 				
+flow of water	پانی کا بہنا				
+flow chart	عملی خاکہ				
+flow integral	تکمل بہاو				
+fluctuation	اتار چڑھاو				
+fluid, fluid mechanics	سیال، سیالی میکانیات				
+fluid lubrication	سیال چکناؤ				
+fluid pressure	فشار سیال				
+fluorescence	ثانوی درخشاں				ind dic
+flux	بہاو				
+flux linkage	اِرتَباطِ بہاو				
+flywheel	اڑن پہیہ				
+focal axis	محور ماسکہ				
+focal length	طول ماسکہ				
+focus	ماسکہ				
+focus (at something)	مرکز نگاہ، کسی چیز پر توجہ رکھنا، توجہ کا مرکز ہونا				
+fold: two fold	 دو پڑتا				
+follow, follower	پیروی کرنا، پیرو کار				
+foot mark	قدم کی چھاپ				
+for, if, then, else, stop	کے لئے، اگر، تب، ورنہ، روک				
+forbidden band	ممنوعہ پٹی				
+forbidden energies	ممنوعہ توانائیاں				
+force	قوت				
+force: attractive force acts	قوتِ کشش عمل کرتا ہے				
+force: attractive, repulsive	قوتِ کشش، قوتِ دفع، دافع قوت				
+force: force pair	جوڑی قوت				
+force: principle of superposition of forces	قوتوں کا اصول انطباق				
+force unit [unit force]	قوت کی اکائی [اکائی قوت]				
+forced vibration, forced motion	جبری ارتعاش، جبری حرکت				
+forced response	جبری رد عمل				
+forcing function: (differential equations)	جبری قوت				
+foreground, [background]	پیش منظر، [پس منظر]				
+form: form vector space	سمتی فضا پیدا کرنا				
+formal, informal	با ضابطہ، غیر رسمی				
+formalize	دستوری شکل دینا				
+former, latter	اول الذکر، موخر الذکر				
+fossil fuel, fossil bones	حجریہ ایندھن، حجریہ ہڈی				
+Foucault pendulum	فوقو لٹکن، فوقو رقاص				
+fourier: Jean Baptiste Joseph Fourier	ژاں باٹِیسٹ یوسف فوریئر				
+fourier series, double fourier series	فوریئر تسلسل، دوہرا فوریئر تسلسل				
+fourier series: exponential series, trignometric series	قوت نمائی فوریئر تسلسل، تکونیاتی فوریئر تسلسل				
+fourier transform, inverse fourier transform	فوریئر بدل، الٹ فوریئر بدل				
+FPGAs	جائے استعمال کر تشکیل کے قابل گیٹوں کے صف				
+fractals (Benoit Mandelbrot)	گنج غیر ہموار منحنی (بنوا منڈلبرا)				
+fraction, fractions, [fractional]	کسر، کسور، [کسری]	matric			
+fraction:fraction defective (stats)	نسبت عیب دار				
+fractional change	کسری تبدیلی				
+frame	چوکھٹا، ڈھانچہ				
+freedom: degrees of freedom	درجہ آزادی				
+freedom:number of degrees of freedom	درجہ آزادی کی تعداد				
+free body, free body diagram	آزاد جسم، آزاد جسمی خاکہ				
+free electron, charge	آزاد الیکٹران (برقیہ)، بار				
+free fall acceleration	آزاد گرنے کا اسراع				
+free spectral range (fabry-perot interferometer)	طیفی حد				
+freight ton	مال برداری ٹن				
+french	فرانسیسی				
+frequency, angular	تعدد، زاویائی تعدد، زاوی				
+frequency dependent (circuit)	تعدد تابع				
+frequency domain: laplace transform	تعددی دائرہ کار				
+frequency, natural frequency	تعدادِ ارتعاش، قدرتی تعدادِ ارتعاش				
+frequency: carrier frequency, modulating frequency	تعددِ سوار، تعددِ سواری				
+frequency: cumulative	مجموعی تعدد				
+frequency: relative frequency	اضافی تعدد				
+frequency: cumulative relative frequency	مجموعی اضافی تعدد				
+frequency: dot frequency diagram	تعددی نقطہ ترسیم				
+frequency: bar chart	ڈبہ ترسیم				
+frequency: frequency histogram	تعددی مستطیلی ترسیم				
+frequency: frequency polygon	تعددی کثیر الااضلاع ترسیم				
+frequent	کثرت سے پایا جانا				
+Frermat's difference quotient	فرمٹ تفریقی حاصل تقسیم	فرمنت حاصل تقسیم فرق			
+Fresnel integrals  (Augustin-Jean Fresnel)	اگستن ژاں فرسنل، فرسنل تکملات				
+fresnel integral; complementary fresnel integral	فرسنل تکمل؛ متمم فرسنل تکمل				
+friction	رگڑ				
+frictional force, static frictional force, kinetic frictional force	رگڑی قوت، سکونی  رگڑی قوت، حرکی رگڑی قوت				
+friction less	بے رگڑ				
+frictional loss	رگڑی ضیاع				
+friction: mu_k=coefficient of kinetic friction, [mu_s coefficient of static friction]	حرکی رگڑ کا مستقل، [سکونی رگڑ کا مستقل]				
+Friis  (radar formula)	فرائس				
+fringing	پھول جانا، پھولنا				
+Frobenius: Ferdinand Georg Frobenius	فرڈینانڈ گیوگ فروبنیوس				
+Frobenius method	ترکیب فروبنیوس				
+frustum	مخروط مقطوع				
+fuel rod	ایندھن چھڑ				
+fulcrum	ٹیک 				rekhta dictionary
+full adder	جمع کرنے والا مکمل دور				
+full stop	ختمہ				
+full width at half maximum	زیادہ سے زیادہ قیمت کی نصف پر پوری چوڑائی				
+function: knowing acceleration as a function of time	اسراع کو وقت کا تفاعل جانتے ہوئے				
+function: two variable function	دو متغیری تفاعل				
+function boundary	تفاعلی سرحد				
+function y(x)	تفاعل۔وائی ایکس کا تفاعل ہے				
+fundamental	بنیادی				
+fundamental assumption of statistical mechanics	شماریاتی میکانیتا کا بنیادی مفروضہ				
+fundamental mode (harmonics)	بنیادی انداز				
+furlong, rod, chain [old units]	فرلانگ، عصا، زنجیر				
+fuse	فتیلہ				
+gabriel	جبرائیل				
+gain, voltage gain, current gain, transconductance gain, transresistance gain	افزائش، افزائشِ برقی دباؤ، افزائش برقی رو، افزائش موصلیت-نما، افزائش مزاحمت نما				
+galactic, galaxy	کہکشانی، کہکشاں				
+Gamma function; incomplete gamma function	گیما تفاعل، غیر مکمل گیما تفاعل				
+Gamov’s theory of alpha decay	الفا تحلیل کا نظریہ گامو، الفا تنزل کا نظریہ گامو				
+gate: AND, OR, NOT, XOR	منطقی ضرب، جمع، نفی یا متمم، بلاشرکت جمع				
+gate: NAND, NOR, XNOR	منطقی ضد ضرب، ضد جمع، منطقی ضد بلا شرکت جمع				
+gate: NAND-NAND, NOR-NOR	ضرب متمم و ضرب متمم، جمع متمم و جمع متمم				
+gap, air gap	درز، خلائی درز، فصل				
+gauge: strain gauge	بگاڑ پیما				
+gauge invariant, gauge transformation	گیج غیر متغیر، گیج  تبادلہ، ماپ غیر متغیر، ماپ تبادلہ				
+Gauss: Johann Carl Friedrich Gauss	یوہان کارل فرڈرش گاوس				
+Gauss's convergence theorem	گاوسی مسئلہ ارتکاز				
+Gauss, Gaussian	گاوس، گاوسی				
+gauss elimination method	گاوسی اسقاط				
+gaussian	گاوسی				
+Gauss-Jordan elimination (Wilhelm Jordan)	گاوس و جارڈن اسقاط (ولہلم جارڈن)				
+Geiger:Hans Geiger	ہانس گائیگر				
+general: in general	عام طور پر، معمولاً				
+general solution (differential equations)	عمومی حل				
+generality: without loss of generality	عمومیت کھوئے بغیر				
+generally, more generally	عمومی طور پر				
+generalization, generalize	عمومیت، تعمیم،تعمیماً، تعمیمی				
+generalized	متعمم				
+generating function (that generates say Legendre's series)	پیداکار تفاعل				
+generator	پیدا کار	برق زا			
+generator of translations in space (quantum mech)	فضا میں انتقال کا پیداکار				
+generator of translations in time (quantum mech)	وقت میں انتقال کا پیداکار				
+generic	کلی، عام				
+genetics	جینیات				
+geostationary orbit, geosynchronous	ہم عصر مدار				
+geology, geologist	ارضیات، ماہر ارضیات				
+geometric mean, geometric series	ہندسی اوسط، ہندسی تسلسل				
+geometric multiplicity	جیومیٹریائی کثرت				
+geometric phase	جیومیٹریائی ہیّت				
+geometry, geometrical	جیومیٹری، جیومیٹریائی، ہندسہ				
+Georg Cantor (german pronunciation)	گیورگ کانتور				
+Gershgorin: Semyon Aronovich Gershgorin	سمیون ارانووچ گرشگرین				
+ghost image	باطل شبیہہ				
+Gibbs phenomenon; Josiah Willard Gibbs	مظہر گبس؛ جوشیا ولرڈ گبس				
+giga byte	گیگا بائیٹ				
+Girolamo Cardano	جرولامو کردانو				
+glacier	برف کا تودہ				
+glider	تیراک طیارہ، تیراک				
+glitch:positive glitch, negative glitch	مثبت برقی لرزش، منفی برقی لرزش				
+global variable	عالمگیر متغیر				
+glucose	گلوکوز				
+goldsmith	سنار				
+golf	گالف				
+Goodness: goodness of fit	عمدگی: عمدگی موافقت				
+gradient	ڈھلوان				
+gradient vector	سمتیہ ڈھلوان				
+graduated, [graduation] of a measuring flask	نشان بند، [نشان بندی]				
+grainy nature	دانہ دار طبع				
+gramophone	گراموفون				
+Gram-Schmidt	گرام و شمد				
+grand total	میزان کل				
+granite	سنگ خارا				
+graph paper	کاغذ ترسیم				
+graph: to graph	ترسیم: ترسیم کرنا				
+graphical analysis	ترسیمی تجزیہ				
+graphing: computer graphing	کمپیوٹر ترسیم کشی				
+gravitation, newton’s law of gravitation	تجاذب، نیوٹن کا  قانون تجاذب				
+gravitational collapse	تجاذبی انہدام				
+gravitational force, constant (G)	تجاذبی قوت، تجاذبی مستقل				
+graviton	گریویٹان				
+gravity: center of	مرکز ثقل				
+grazing angle	سطح لمسی زاویہ				
+greatest, greatest lower bound, greatest first	اعظم، اعظم زیریں حد، اعظم پہلے یا اول رکھ کر				
+greatest first (often used in questions when ranking answers)	اعظم اول رکھ کر، یا اعضم قیمت اول رکھ کر				
+Gregor Johann Mendel	گرگر یوہان مینڈل				
+Greek	یونانی				
+Green's theorem (George Green)	مسئلہ گرین (جارج گرین)				
+Green's first and second formulae	گرین کلیہ اول، گرین کلیہ دوم				
+Green: first form of Green's theorem	مسئلہ گرین کی پہلی صورت، مسئلہ گرین کی دوسری صورت				
+grid,  mesh	جال، خانے				
+grinder	ہتھ چکی، چکی، گرنی				
+grindstone, grind stone	پاٹ				
+grocery	کریانہ				
+groove	جھری				
+gross, [net]	اجمالی، [صافی]				
+grounded [electricity]	زمین گیر				
+group velocity, phase velocity	دوری سمتی رفتار، مجموعی رفتار، گروہی سمتی تفرات	دوری رفتار، گروہی رفتار			
+group delay (dispersion)	مجموعی تاخی، گروہی تاخیرر	گروہی تاخیر			
+group, grouping	گروہ، گروہ بندی				
+group theory	گروہی نظریہ				
+growth	بالیدگی				
+growth rate	شرح نمو				
+guarantee	ضمانت				
+guard ring	محافظ حلقہ				
+guided by (english)	سے سبق حاصل کر کے				
+guided wave	زیر ہدایت لہر				
+guide rails	محافظ پٹڑی، محافظ پٹری				
+gyration, radius of gyration	دوار، حرکت دواری، رداس دوار				
+H11 (hybrid parameters)	قصر دور داخلی رکاوٹ				
+h12	کھلے سر الٹ افزائش دباو				
+h21	قصر دور افزائش رو				
+h22	کھلے سر خارجی فراوانی				
+hack saw	دستی آرا				
+hail, hail storm	اولے، ژالہ باری				
+half adder	نصف جمع کرنے والا دور				
+half life	نصف زندگی، نصف حیات	نصف حیات			
+Half-wave matching (transmission lines)	نصف طول موج کی ترکیب، نصف طول موج سے ہم رکاؤت بنانا				
+Hall effect	ہال اثر				
+Halley comet	ہالی دم دار ستارہ				
+Hamiltonian, hamiltonians	ہیملٹنی، ہیملٹنیاں، ہیملٹنیوں، ہیملٹنیے				
+hand bag	دستی بٹوہ				
+handle [of a bicycle etc]	ہتا				
+Hankel functions; Hermann Hankel	ہینکل تفاعل؛ ہرمن ہینکل				
+Hans Ferdinand Mayer: norton theorem	ہنس فرڈینانڈ میئر				
+happen: it so happens	ایسا ہوتا ہے، ایسے ہے کہ				
+harmonic	ہارمونی، سمعیاتِ موسیقی				
+HCF (highest common factor)	عاد اعظم				
+head down, feet down	سر نیچے، پیر نیچے				
+head on	رو بہ رو				
+head on collision	آمنے سامنے سے ٹکرانا، آمنے سامنے سے تصادم				
+heat capacity, specific heat capacity	مخصوص حراری استعداد، نوعی حری استعداد				
+heat conduction	ایصال حرارت				
+heat convection	اتصال حرارت				
+heat energy	حرارتی توانائی				
+heat equation	حراری مساوات				
+heat sink	سرد کار				
+hedge (plant)	باڑ				
+height (above sea level or ground)	ارتفاع، بلندی، اونچائی، قامت				
+Heisenberg	ہیزنبرگ				
+helical, spiral	پیچ دار				
+helicopter	ہیلی کاپٹر				
+helium, parahelium, [orthohelium]	ہیلیم, نزدہیلیم، [ہیلیم پرست]				
+helix	پیچ دار				
+Helmholtz vector equation (Herman Ludwig von Helmholtz)	ہرمن لڈوگ فرڈینانڈ ون ہلم ہولٹز				
+Helsinki	ہلسنکی				
+Henry	ہینری				
+Hermite polynomials	ہارمائٹ کثیر رکنیر				
+Hermitian matrix; Charles Hermite	چارلس ہرمائٹ؛ ہرمشی قالب				
+hermitian, anti-hermitian, skew hermitian	ہرمشی، خلاف ہرمشی، منحرف ہرمشی				
+hermiticity	ہرمشی پن				
+hertz: heinrich hertz	ہائنرک ہرٹز				
+hesperoyucca [fastest growing plant]	ہسپرویوکا				
+heuristic	تجسسی				
+hexadecimal (hex)	سادس عشری، [ششدہی نظام یا ستہ عشری نظام]				
+hexagon, hexagonal	مسدس، مسدسی				
+hidden variable	درپردہ متغیر				
+hierarchy	تنظیمی ڈھانچہ				
+high energy	بیش توانائی				
+high, highest, low lowest	بلند، بلند تر، کم، کم تر				
+higher functions or special functions (maths)	اعلٰی تفاعل				
+high impedance state	بلند رکاؤٹ حال				
+higher mathematics	اعٰٰلی ریاضیات				
+highest order (polynomial term)	اعضم درجہ	اعضم رتبہ			
+Hilbert space, David Hilbert	ہلبرٹ فضا، داؤد ہلبرٹ				
+hilbert space: live in hilbert space	ہلبرٹ فضا میں بستے ہیں				
+hint	اشارہ				
+Hiroshima, Nagasaki	ہیروشیما، ناگاساکی				
+hold: equation or theorem holds 	کارآمد رہنا، قائم و دائم رہنا، برقرار رہنا، مطمئن ہونا				
+hold: strong hold	مضبوط گرفت				
+hole, [electron]	خلو، [الیکٹران]				ind phy dic
+hole {english}	سوراخ				
+hollow	کھوکھلا				
+homogeneous, non homogeneous	ہر طرف یکساں خاصیت، ہر طرف غیر یکساں خاصیت، یکساں خاصیت				
+homogeneous equation, heterogeneous equation	متجانس مسوات، غیر متجانس مساوات				
+Hooke's law; Robert Hooke	قانون ہک؛ روبرٹ ہک				
+hoop	گھیرا				
+horizontal, [horizon]	اُفقی، [افق]				
+hot wire, live wire	گرم تار، زندہ تار				
+hour	گھنٹہ				
+however	البتہ				
+hub (of wheel)	نابھ				rekhta dictionary
+humidity, relative humidity	رطُوبت، اضافی رطُوبت				
+Hund’s rules	قواعد ہن				
+hunting	تعاقب کرنا				
+hurricane, tornado [both mean the same but differ in locality]	گردابی طوفان				
+Huygen's principle	اصول ہائی گن				
+hydraulic, [hydraulics], hydraulic engineer	ماقوائی، [ماقوائیات]،  ماقوائی معمار				
+hydraulic press	ماقوائی شکنجہ				
+hydrogen, deuterium, [deuteron]	ہائیڈروجن، ڈیوٹریم، [ڈیوٹیران]				
+hydronium (ion)	ہائیڈرونیم (برق پارہ)				
+hydrogenic	ہائیڈروجنی				
+hygrometer: hair hygrometer	بال نمی پیما				
+hyper	بر				
+hypo	تحت، زیر، فلک				
+hyperbola, hyperbolas	قطع زائد، قطعات زائد				
+hyperbolic function, sinh	ہذلولی تفاعل، ہذلولی سائن				
+hyperboloid	قطع زائد سطح				
+hypergeometric function	بیش ہندسی تفاعل				
+hypocycloid	فلک تدویر				
+Hypothesis: default hypothesis, alternative hypothesis	قیاس: پسندیدہ قیاس، متبادل قیاس				
+hysteresis, hysteresis loop	مقناطیسی چال، مقناطیسی چال کا دائرہ				
+ibn Sahl's law of refraction	ابن سھل کا قانون انحراف				
+IC integrated circuit	مخلوط دور				
+Icarus asteroid, [Eros asteroid], ceres asteroid	آئکارس سیارچہ، [ایراس سیارچہ]، سیرس سیارچہ				
+ice	سخت برف، جما ہوا برف				
+ice boat	برفانی کشتی				
+icy road	پھسلن زدہ برفیلا سڑک [zain abbas]				
+ice age	برفانی عہد				
+ice block	برف کی سل				
+idea	تصور				
+ideal	مثالی				
+ideal, non ideal	کامل: غیر کامل				
+ideal gas law	مثالی گیس کا قانون				
+idempotent	یک طاقتی				
+if ever, if any	اگر ایسا ہو بھی، اگر کبھی ایسا ہو بھی				
+identical	متماثل	میٹرک			
+identical particles	یکساں ذرات، متماثل ذرات				
+identical states (quantum)	یکساں حالات، متماثل حالات				
+identically zero (maths)	مکمل صفر				
+identity: euler identity	مماثل: یولر مماثل	یولر تماثل			
+identity function	شناختی تفاعل  f(x)=x	تماثل تفاعل			
+identity operator I (maths  Iy=y)	مماثلی عامل	تماثلی عامل			
+Ill-conditioned equation	بد خو مساوات				
+Ill-conditioning	بد خوئی				
+illustrate	اجاگر کرنا				
+image (maths), preimage	عکس، قبل عکس				
+Imaginary, pure imaginary (maths)	خیالی، خالص خیالی، تخیلی				
+imaginary number: (read complex number above)	فرضی عدد، تخیلی عدد				
+Impedance Z, admittance Y=1/Z	برقی رکاوٹ، برقی فراوانی				
+impedance: inductive and capacitive	امالی رکاوٹ، برق گیری رکاوٹ				
+impedance=resistance+reactance	رکاوٹ=مزاحمت+متعاملیت				
+impedance transformation	برقی رکاؤٹ کا تبادلہ، تبادلہ رکاوٹ				
+impedance: transverse electric wave impedance	عرضی برقی موج کی رکاوٹ				
+impirical	عملی				
+implementation	جامع عمل پہنانا				
+implication	مضمر، مضمرات				
+implicit function	خفی تفاعل				
+implied	مضمر				
+imply	مراد ہونا				
+improper point (infinity)	غیر مناسب				
+impulse function: unit impulse function, Dirac delta function	اکائی ضرب تفاعل، ڈیراک ڈیلٹائی تفاعل				
+impulse response	اکائی ضرب تفاعل ردعمل				
+incandescent lamp	بتی				
+in, [in circular motion]	یکساں دائری حرکت میں مبتلا				
+in, out, input, output, input value, output value	،درآمد، برآمد، داخل، خارج	مداخل، مخارج، داخلی قیمت، خارجی قیمت			
+input variable of a function	داخلی متغیر				
+In-phase	ہم زاویہ، ہم دور				
+incident, reflected, transmitted, refracted waves	آمدی موج، موج واقع، موج منعکس، ترسیلی موج، موج منعطف				
+incidently	اتفاقی طور پر، اتفاقاً				
+inclination:angle of inclination	زاویہ میلان				
+inclination: inclined surface [english]	مائل مستوی، مجہول سطح				
+include	شامل کرنا				
+inclusion set	شمولی سلسلہ				
+inclusive: for x between a and b, inclusive, A>B	بشمول، بشمول الف اور ب اور ان کے بیچ ش کے لئے ۔۔۔				
+incoming, outgoing vector	آمدی، رخصتی سمتیہ				
+incompressibility	داب نا پذیری				
+incompatible observables (quantum mech)	غیر ہم آہنگ قابل مشاہدہ				
+Increase , decrease	اضافہ، کمی				
+increasing, decreasing	بڑھتا، گھٹتا				
+increment, decrement	بڑھوتری، کٹوتی،  کمی، بیشی، کم، بیش				
+incremental change	معموعلی تبدیلی				
+incremental work	بہت چھوٹی مقدار میں کام				
+indeed	یقیناً، درحقیقت				
+Index (of a book)	فرہنگ				
+index (m=0,1,2,..)	اشاریہ				
+index number	شمارہ اشاری				
+index of refraction (light)	انحرافی مستقل				
+indicial equation	اشاری مساوات				
+indirect method	بالواسطہ ترکیب				
+inductive, capacitive	کپیسٹر خاصیت یا امالہ خاصیت رکھنا، امالی، برق گیری				
+induce	مائل کرنا				
+induced	امالی				
+induced voltage	امالی دباؤ				
+inductance, inductor	امالہ یا امالیت، امالہ گیر				
+induction: mathematical induction, [induction, inductive] 	الکراجی ماخوذ، ریاضی ماخوذ،[ترغیب، ترغیبی]	Abu Bakr ibn Muhammad ibn al Husayn al Karaji [953-1030]			ind phy dic
+induction coil	امالی لچّھا				
+induction motor, squirrel cage induction motor	پنجرہ نما امالی موٹر				
+inductivity	امالیت				
+inductor	امالہ گیر				
+industry	صنعت، کارخانہ				
+inertia, rotational inertia, [rotational kinetic energy]	جمود،  گھمیری جمود، [گھمیری حرکی توانائی]				
+inertial frame	جمودی  چھوکٹ				
+in fact	حقیقت میں				
+infinite; finite	لامتناہی؛ متناہی				
+infinitesimal	لامتناہی چھوٹا				
+inflate	ہوا بھرنا، پھولنا				
+inflection point	نقطہ تصریف				
+infrared	زیریں سرخ، زیر بصری شعاع، زیریں بصری شعاع				
+Ing : as in bonding electron	بندھ کار الیکٹران				
+initial conditions	ابتدائی حالت، ابتدائی شرائط				
+initial value: initial value problem	ابتدائی قیمت: ابتدائی قیمت سوال				
+initialize	ابتدائی صورت، ابتدا				
+initially	آغاز میں				
+injection	ٹیکہ				
+inner product, inner product space	اندرونی ضرب، اندرونی ضرب فضا				
+input (the thing that is being input), output	درآئدہ، ماحصل				
+input bias current	داخلی میلان برقی رو				
+input offset current	داخلی انحرافی برقی ر				
+input offset voltage	داخلی انحرافی برقی دباؤ				
+input, input pin, input port	درآمد، درآمدی پنیہ، درآمدی راہ				
+Input-output	مدخل و مخرج				
+input, output, 3-inputs gate	درآمد، برآمد، تین درآمدی گیٹ				
+input offset voltage, output offset voltage	داخلی انحرافی برقی دباؤ، خارجی انحرافی برقی دباؤ				
+inscribed circle (matric)	محصور دائرہ				
+insect	کیڑا، کیڑے مکوڑے				
+inspection	معائنہ				
+instantaneous	لمحاتی، فوراً				
+instead	اس کے بجائے				
+insulated	حاجز شدہ				
+insulator	غیر موصل، حاجز				
+insulation	حجز				
+integer	عدد صحیح				
+integrable, absolutely integrable	قابل تکمل،مطلق قابل تکمل، متکامل، مطلق متکامل				
+integrability	متکاملیت				
+integral curve	منحنی تکمل				
+integral: definite integral, indefinite integral	قطعی تکمل، غیر قطعی تکمل				
+integral: line integral	خطی تکمل (khati is linear and nor line)، لکیری تکمل	لکیری تکمل			
+integer: integer floor function, greatest integer function	بڑا ترین عدد صحیح، عدد صحیح زمین تفاعل				
+integer:  least integer function, integer ceiling function	کم ترین عدد صحیح تفاعل،  عدد صحیح چھت تفاعل				
+integral, integrals	تکملہ، تکمل، تکملات، تکملی				
+integral calculus	احصائے تکملی، احصائے تکملات	تکملی احصا			
+integral: repeated integral	بارہا تکمل				
+integral sign	علامت تکمل				
+integral: single, double, triple	ایک گنا، دو گن (دوہرا)، تین گنا تکمل (تہرا)				
+integrand	متکمل				
+integration (integral)	تکمل (تکملہ)				
+integration by parts, integrate	تکمل بالحصص، تکمیل کرنا				
+integration limits	تکمل کے حدود 				
+integration, to integrate	تکمل، تکمیل کرنا 				
+integration: tabular integration	جدولی تکمل				
+Integro-differential equation	تکمل و تفرقی مساوات				
+interaction	ردِ عمل، باہم عمل	 			
+interacting, noninteracting	باہم متعامل، باہم غیرمتعامل				
+intercept: x-intercept, y-intercept	قطعات: قطع ایکس، قطع وائے، محوری قطع	used for intersection too			
+interchange	ادل بدل، باہمی مبادلہ				
+interest, continuous compound	مسلسل سود در سود				
+interference	مداخلت، خلل اندازی				
+interference: constructive, destructive	تباہ کن مداخلت،  تعمیری مداخلت				
+interlaced	باہم پیچاں				
+intermediate	درمیانی، درمیانہ				
+intermediate region	 درمیانہ خطہ				
+intermediate value property	متوسط قیمت خاصیت				
+intersection [road]	چوراہا				
+Inter molecular, [intra molecular]	بین سالمی، [درون سالمی]، سالماتی				
+internal, external, [outer]	اندرونی، بیرونی، [باہری]				
+internal,[interior], in, inside, inner	اندرونی،[اندرون]، کے اندر، اندر، اندر والا				
+Interpolate, (interpolation); linear interpolation	باہمی تحریف؛ خطی باہمی تحریف، ورائی تحریف	اندرونی ادراج کریں، (اندرونی ادراج)، خطی اندرونی ادراج			
+interpretation	تشریح، تعبیر، مفہوم				
+intersection (set)	تقاطع				
+intersection: angle of intersection	زاویہ تقاطع				
+Interferometer, Fabry-Perot	طیف پیما، فیبری پیروٹ				
+interval: confidence interval	وقفہ اعتماد				
+interval; open interval	کھلا وقفہ، کھلا فاصلہ				
+interval: sub interval	ذیلی وقفہ				
+intra molecular	درون سالمی،   درون سالماتی				
+intravenous	درون وریدی				
+intrinsic impedance (wave)	قدرتی رکاوٹ				
+introduction	تعارف				
+into, onto (transformation)	میں، پر				
+intution, [intutive]	وجدان، [وجدانی]				
+intuition, intuitively	الہام، اندیشہ، الہاماً، الہامی، اندیشاً				
+invariance	عدم تغیر				
+invariant	غیر متغیر				
+inventor	موجد				
+inverse function	الٹ تفاعل				
+inverse law	مقلوب قانون، معکوس قانون	میٹرک			
+inverse matrix	ریاضی معکوس، معکوس قالب				
+inversely proportional, directly proportional	بالعکس متناسب، راست متناسب				
+inverse transform	الٹ بدل				
+inverse vector	مخالف سمتیہ				
+inversion	الٹ جانا، الٹنا				
+inversion, [inversion curve, formula]	تعکوس، تعکیس، [تعکوس منحنی، تعکوس کلیہ]				
+inversion: inverse	معکوس				
+inversion: population inversion	الٹ جانا، الٹنا [آبادی الٹنا ؟؟]				
+inverting, non-inverting input	مثبت مداخل، منفی مداخل				
+inverting amplifier, non-inverting amplifier	منفی ایمپلیفائر، مثبت ایمپلیفائر				
+investigation, investigate	تحقیق، تفتیش				
+involute	در پیچیدہ				
+involved	ملوث				
+inward, outward	اندر کی طرف، باہر کی طرف				
+ion	آئن، بارداریہ	 			
+ionization	بارداری عمل، بارداریت				
+ionization energy, second ionization energy	بارداریتی توانائی، دوم بارداریتی توانائی				
+input output (input-output)	اخراجات و پیداوار				
+input output, I/O port	دخول و خروج روزن				
+interstellar	بین نجمی				
+Irish (of Ireland)	آئرستانی				
+ironically	ستم ظریفی کی بات ہے				
+Isaac Newton	اسحاق نیوٹن				
+isochore, [isochoric]	ہم حجم، [ہم حجمی]				
+isochromatic	ہم رنگ				
+isoclines (lines of equal inclination)	ہم میلان				
+isolated	تنہا، علیحدہ، جدا، الگ تھلگ				
+isolate, isolator, isolation, [isolated]	جدا، جدا کار، جدا کاری، [جدا شدہ]				
+isolated system	جدا نظام				
+isolated point	تنہا نقطہ				
+isomagnetic	ہم مقناطیسی				
+isomerism, [isomeric]	ہم ترکیبیت، [ہم ترکیبی]، ہم عنصریت، [ہم عنصر]				
+isometric	ہم پیما				
+isomorphous	ہم شکل				
+isosceles triangle	مساوی الساقین مثلث				
+isotherm	ہم حرارت خط، ہم تاپ				
+isotope, isotopic, [isotopy]	ہم جا، ہم جائی، [ہم جائیت]				
+isotropic, [isotropy]	غیر سمتی خاصیت، ہم سمت، [ہم سمتیت]				
+Issai Schur	اسائے شُر				
+issue	معاملہ				
+italy, italian	اطالیہ، اطالوی				
+item	جزو، رکن، مد (مدات)				
+iteration	اعادہ، اعادوں، اعادے	بار بار دہرانا			
+iteration matrix	اعادہ قالب				
+iteration:method of false position	اعادہ: ترکیب مقام غیر حقیقی				
+iteration path	راہ توالی				
+iodine	آیوڈین				
+Jacobian (maths) Carl Gustav Jacob Jacobi	یعقوبی: کارل گستاف یعقوب یعقوبی				
+jagged surface	دنتی سطح				
+Jansky (radio astronomical SI unit)	جانسکی				
+jerk	چھٹکا				
+John	جان				
+John-Nicolson method; John Crank, Phyllis Nicolson	ترکیب کرینک نکلسن؛ جان کرینک، فلس نکلسن				
+John Wallis	جان والس				
+Joseph Liouville	یوسف لییویل				
+july	جولائی				
+joule	جاول				
+journal	جریدہ				
+jump 	کودنا				
+jump (discontinuity)	چھلانگ، جست				اچھال
+junction	چوک				
+jupiter planet	مشتری				
+just before, just after	عین قبل، عین بعد میں				
+justified	جائز ہونا				
+kaon	کاون				
+kappa (greek alphabet)	کاہپا				
+Karl Weierstrass	کارل وائشسٹراس				
+Kelvin	کیلون				
+ken [japanese unit of length]	کین				
+Kepler; Johannes Kepler	یوہانس کپلر				
+key (typewriter keys or keys on keyboard)	کلید				rekhta dictionary
+key ideas, key point	اہم تصورات، اہم نکات، کلیدی نکتہ یا نکات، کلیدی تصور				
+kick: inductive kick: kickback voltage	امالی لات				
+kilo	کِلو				
+Kilowatt-hour	کلو واٹ گھنٹہ؛ برقی توانائی کی تجارتی اکائی				
+kinematics	مجرد حرکیات				
+kinetic energy	حرکی توانائی				
+kink (quantum mech)	بل				
+Kirchoff: Gustav Robert Kirchoff	گستاف روبرٹ کرخوف				
+Kirchoff's current law, voltage law	کرخوف قانونِ رو، کرخوف قانونِ دباو				
+Knife edge	تلوار کی دھار				
+Kramers relation	رشتہ کرامرس				
+Kronecker delta, Leopold Kronecker	لیوپولڈ کرونیکر، کرونیکر ضرب، کرونیکر ڈیلٹا				
+Kronig-Penny model	کرانگ و پینی نمونہ				
+krypton	کرپٹن				
+lab, laboratory	دارالتجربہ، تجزیہ گاہ، تجربہ گاہ				
+label	سرخی، نام ونشان،چھٹی، پرچہ، سرنامہ				
+label	نام دینا، ٹھپہ				
+label [programming]	عرف				
+ladder	سیڑھی				
+ladder rungs	پایہ				
+lag, lead	آگے، پیچھے، پیش قدم، پس قدم	پیش، تاخیر			پس قد، پیش قدم
+lag effect in time	وقت میں پس قدم				
+lagging angle	زاویہ تاخیر، پس قدم زاویہ				
+lagging angle, leading angle	آگے زاویہ، پیچھے زاویہ	تاخیری زاویہ، پیش زاویہ			
+lagging: inductive circuits are called lagging circuits	امالی ادوار پیچھے رہنے والے ادوار کہلاتے ہیں	تاخیری ادوار			
+Lagrange: Joseph Louis Lagrange (mathematician)	یوسف لوئی لیگرینج، [لگرانج]				
+Lagrange identity	لیگرینج مماثل، [لگرانج مماثل]				
+Lagrange multipliers	لیگرینج مضرب، [لگرانج مضرب]				
+Laguerre's equation: Edmond Nicolas Laguerre	ایڈمنڈ نیکولس لاگیغ				
+Laguerre: associated Laguerre polynomial	شریک لاگیغ کثیر رکنی				
+lake	جھیل				
+Lamb shift	لیمب انتقال 				
+lamina, laminar flow	ورقہ، ورقی بہاو				
+lamination	باریک چادر یا پتری کو تہ در تہ رکھ کر بنایا جاتا ہے				
+land, landing, [take off]	اتار، اٹھان				
+Lande g factor	لنڈے جی جزو ضرب				
+Landau levels	لنڈو سطحیں				
+lane [road]	اپنی قطار				
+laplacian operator	لاپلاسی عامل				
+laplace transform; inverse laplace transform	لاپلاس بدل؛ الٹ لاپلاس بدل				
+Laplace transformation,  Laplacian	لاپلاس تبادلہ، لاپلاسی				
+largest and smallest values	سب سے بڑی اور سب سے چھوٹی قیمت	matric			
+Larmor precession, precesses	لارمر استقبالی حرکت، استقبالی حرکت کرنا				
+laser	لیزر				
+LCAO (quantum mechanics)	جوہری مدارچوں کا خطی جوڑ				
+later	دیر بعد، کچھ دیر بعد، بعد میں				
+lateral, lateral area	پہلو کا، رقبہ پہلو				
+Latex	لاٹک				
+latitude	خط عرض بلد				
+lattice, [net]	شبکہ، جال یا جالی، [جنگلہ]				
+launch	روانا کرنا				
+launch, launched (stone or projectile)	پھینکنا، پھینکا گیا، مارنا				
+launch angle (shot put)	زاویہ پھینک (دھاتی کرہ یا گیند)				
+launching pad	چبوترہ روانگی				
+laurent series: Pierre Alphonse Laurent	لوغوں تسلسل: پیّر الفنس لوغوں				
+layer, upper layer	پرت، بالا پرت				
+LCM (least common multiple)	ذواضعاف اقل				
+lead (metal)	سیسہ				
+lead, lag 	دیر، تاخیر، پہل، پس و پسش قدم				
+leader	سرخیل				
+leading angle	زاویہ پہل	پیش زاویہ			
+leading angle, lagging angle	آگے زاویہ، پیچھے زاویہ	زاویہ تاخیر، پیش زاویہ			
+least squares: method; normal equations	کمتر مربع: ترکیب؛ عمودی مساوات				
+capacitive circuits are called leading circuits	برق گیر کے ادوار کو آگے رہنے والے ادوار کہا جاتا ہے				
+leakage	رِستا رہا۔رِس رہا ہے۔ رِسنام  رساو				
+leakage inductance	رِستا امالہ				
+leakage magnetic flux	رِستا مقناطیسی رو				
+leakage reactance	 رِستا متعاملیت، رِستا متعاملہ				
+LED	نوری ڈایوڈ				
+Legendre function (Adrien Marie Legendre)	لیژانڈر تفاعل (اڈریان مری لیژانڈر)				
+Legendre: associated Legendre functions	شریک لیژانڈر تفاعل				
+legitimate	قانونی، قانوناً درست				
+Leibniz, Leibniz test: Gottfried Wilhelm von Leibniz	لیبنٹز، معیار لبنیٹز: گٹفرڈ ولہلم ون لیبنٹز				
+lemniscate	دو چشمہ				
+length	لمبائی				
+lepton	لپٹان ؟				
+lens: eye lens	عدسہ چشم				
+Leontief model (Wassily Wassilyevich Leontief)	لیونٹف۔ وسلی وسلی وچ لیونٹف				
+Leslie model of population growth	نمو آبادی کا لزلی نمونہ				
+less, [least]	کم، [سب سے کم]				
+let y=3	ہم y=3 فرض کرتے ہیں				
+level ground [flat ground] {english usage}	برابر زمین، استوا سطح				
+levelled	مسطح، استوا سطح				
+level surfaces, level curves (maths), [isosurface]	ہم قد سطحیں، ہم قد منحنیات، [ہم سطحہ]				must change to استوا
+lever, lever arm	بیرم، بیرم کا بازو				
+Levi Civita	لوی  و چَویتا				
+L Hospital's rule	ال ہوس پٹل کا قاعدہ	قاعدہ لھوپیٹال			
+license	اجازت نامہ، لائسنس				
+licorice	ملٹھی				
+Liebmann method	ترکیب لیبمن				
+lifetime	عرصہ زندگی، عرصہ حیات				
+lift, elevator	مصعد  (صعود اور نزول سے ماخوذ)، لفٹ، بلند کُن	used in arab countries			
+lift, elevator, [escalator]	برقی زینہ، [رواں زینہ]				
+lift: negative lift	منفی اٹھان				
+light house	منارہ نور				
+light year	نوری سال				
+likelihood function (estimates, statistics)	تفاعل امکان				
+limacons	گھونگے، گھونگا				
+Limit; (as t tend to zero, etc), limits	حد، حدیں				
+limit: in the limit as x tend to 0	جب ایکس کی حد صفر کو پہنچتی ہے				
+limit cycle (maths, phase plane)	تحدیدی دائرہ				
+limit: left-handed limit, right-handed limit, two-sided limit	بائیں ہاتھ حد، دائیں ہاتھ حد، دو طرفہ حد				
+limit point	تحدیدی نقطہ				
+limit state	تحدیدی حال				
+limit upper, lower	زیریں حد، بالائی حد				
+limit vector	تحدیدی سمتیہ				
+limiting: limiting slope	تحدیدی ڈھلوان				
+line	لکیر، سطر				
+linear accelerator	مسرع خطی، خطی سرعت کار				
+line current, line voltage	دباو تار، رو تار				
+linear component R,L,C	خطی پرزہ، خطی مزاحمت				
+linear element (of curve, maths)	خطی جزو				
+line charge density	خطی کثافت بار  (khati is linear and not line)	لکیری کثافت بار			
+line voltage, line current	تار کی برقی دباؤ، تار کی برقی رو				
+line, surface, volume integral	خطی، سطحی، حجمی تکملہ				
+line, surface, volume integration	خطی تکمل، سطحی تکمل، حجمی تکمل				
+line: vertical line	انتصابی خط				
+linear, linearity 	خطی، خطی نوعیت				
+linear	بتدریج تبدیل ہونے والا				
+linear combination	خطی جوڑ، خطی مجموعہ				
+linear dependence	خطی طور تابعیت				
+linear equation	سادہ مساوات	خطی مساوات			
+linear expansion	طولی توسیع				
+linear function	سادہ تفاعل	خطی تفاعل			
+linear independence	خطی طور غیر تابعیت				
+linear polarized	خطی قطبی، خطی تقطیب شدہ				
+linear relationship	وہ ترسیمی تعلق جو خطِ مستقیم کی صورت ظاہر کیا جائے اور دو متغیرات میں بلا واسطہ تعلق کق ظاہر کرے				
+linearity	خطیّت				
+linearization, linearized	خط بندی، خط بند				
+linearize	خطوط کی شکل دینا				
+linearly	خطی طور پر				
+linearly dependent, linearly independent	خطی طور تابع، خطی طور غیر تابع				
+Lissajous figures	لساجس اشکال				
+lithium	لتھیم				
+litre	لٹر				
+liquid	مائع				
+liquefaction	رقیق کاری				
+list	درج کرنا، فہرست				
+live wire, hot wire	زندہ تار، گرم تار				
+load data (digital circuits)	مواد چڑھانا، مواد بھرنا				
+load, loaded, unloaded	بوجھ، بار ، بار بردار، بے بار، میکانی بار، برقی بار				
+loader	بار کار				
+lobe, main lobe (antenna)	مرکزی شعاع				
+lobe, minor lobe (antenna)	ثانوی شعاع				
+local, nonlocal [quantum mech]	مقامی، غیر مقامی				
+localization: principle of locality	اصول مقامیت				
+locality	مقام				
+locality	مقامیت ؟؟				
+localized	مقامی				
+lock, unlock	بندھن جوڑنا، بندھن توڑنا، [مقفل کرنا، قفل کھولنا]				
+locked: locked wheels, tyres	جکڑ بند پہیے				
+locus (of points)	طریق				
+Log-log, semi-log axis	لاگ لاگ، نیم لاگ محور	لوگارتھم؛ نیم لوگارتھمی محور			
+logarithm, logarithmic decrement	لوگارتھم، لوگارتھمی گھٹاو				
+logarithmic differentiation	    				
+logarithm, common, natural	قدرتی اور عام لوگارتھم				
+longitude	خط طول بلد				
+longitudinal wave	طولی موج				
+loop: loop-the-loop, loop the loop	گھیر: گھیر در گھیر				
+loop analysis	دائری تجزیہ				
+loop, node	دائرہ، جوڑ				
+loop closed	بند دائرہ				
+loop current	دائری رو				
+loophole, loopholes	کمی، کمیاں، کمزوری				
+loosely speaking	غیر محتاط طور پر ، سرسری طور پر ہم کہتے ہیں 				
+Lorentz force equation, Hendrik Lorentz	لورنز قوت کی مساوات، ہینڈرک لورنز				
+loss	ضائع کرنا، ضیاع				
+loss less, lossy	بے ضیاع، ضیاع کار				
+loss tangent	مماس ضیاع				
+lossy, loss less	ضیاع کار، بے ضیاع				
+lot	ڈھیر (ایک ہی ڈھیر)				
+lot: indifferent lot	لا تعلق کھیپ				
+lothar collatz	لوٹار کولٹز				
+Lotka-Volterra (predator-prey model); Alfred Jmaes Lotka, Vito Volterra	الفرڈ جیمز لوٹکا، ویٹو ولٹیرا				
+lower bound (of sequence)	زیریں حد بندی				
+lower: bounded from below (sequences)	نیچے سے محدود				
+lower limit	زیریں حد				
+lubricated	چکنا				
+luminosity	تابندگی				
+lunar	قمری				
+Lyman, Balmer, Paschen	لیمان، بالمر، پاشن				
+machine	کل				
+machine: working, faulty	فعال، غیر فعال				
+machine language, assembly language	مادری زبان، مشینی زبان				
+maclaurin's series: Colin Maclaurin	مکلارن تسلسل: کولن مکلارن				
+macroscopic, macroscopic level	کلاں، کلاں بینی سطح				
+magellanic cloud: mini magellanic and large megallanic cloud	سحاب کبیر اور سحاب صغیر				
+magnetic circuit	مقناطیسی دور				
+magnetic field	مقناطیسی میدان				
+magnetic field intensity	مقناطیسی شدت				
+magnetic flux	مقناطیسی بہاو	 			
+magnetic flux density	کثافت مقناطیسی بہا	 			
+magnetic quantum number	مقناطیسی کوانٹائی عدد				
+magnetic susceptibility	مقاناطیسی اثر پذیری				
+magnetic tape	مقناطیسی پٹی				
+magnetically coupling	مقناطیسی رابطہ				
+magnification	تکبیر				
+magnifier, [magnifying]	تکبیر کار، [تکبیری]				
+magnified	تکبیر کردہ				
+magnify	بڑا دکھانا				
+magnitude	مقدار، جسامت، قدر				
+major, semimajor 	اکبر، نصف اکبر				
+majority	اکثریت				
+malaysia	ملائیشیا				
+manipulate	سلجھانا				
+Manual (machine)	دستی				
+Manufacturer, manufacture	گھڑی ساز، دوا ساز، دوا سازی				
+Map, mapping (maths)	نقش، نقشہ، نقشہ کشی				
+map onto, [map into set]	بر نقش، [نقش در سلسلہ]				
+map: one to one	ایک تا یک نقش، یک یک نقش				
+mapping	تنقیش				
+marble, marbles	کنچا۔ کنچے				
+marginal cost of production	حاشیہ لاگت پیداوار				
+marginal distribution	حاشیہ تقسیم				
+Maria Agnesi’s witch	مریا اگنیسی کی چڑیل				
+mark, label, [trade mark]	مارکہ، [تجارتی مارکہ]				
+Mars planet	مریخ				
+mask	نقاب				
+match	ہم پلہ، جوڑیں				
+mathematician	ریاضی دان				
+Malthus' law; Thomas Robert Malthus	قانون مالتُھس؛ طامس روبرٹ مالتُھس				
+mass	کمیت	کمیت			
+mass production	بڑے پیمانے پر پیداوار				
+matched	ہم رکاوٹ				
+matching stub (transmission lines)	ہم رکاوٹی بنانے والا تار کا ٹکڑا؛ تار کا ٹکڑا				
+matching: half-wave matching (transmission lines)	نصف طول موج کی ترکیب				
+material	مادّہ،  مواد				
+material strength	مادی مضبوطی				
+mathematics, [mathematical]	ریاضیات، [ریاضیاتی]				
+matrix, matrices	قالب، قالبوں،قوالب				
+matrix: augmented matrix	افزودہ قالب				
+matrix: band matrix	پٹی قالب				
+matrix: coefficient matrix	عددی سر قالب				
+matrix, determinant	قالب، مقطع				
+matrix: diagonal matrix	وتری قالب				
+matrix: diagonalizable	وتری بنانے کے قابل؟				
+matrix: diagonalization	وتری بنانا؟				
+matrix: orthogonal matrix	قائمہ قالب				
+matrix: tridiagonal matrix	سہ وتری قالب				
+matrix: echelon form, reduced echelon form	زینہ دار، سادہ زینہ دار صورت				
+matrix: row echelon form	صف زینہ دار				
+matrix elements; vector components	قالب کے ارکان اور سمتیہ کے اجزاء				
+matrix: entry, row, column	قالب، اندراجات، صف، قطار				
+matrix:scalar matrix	غیر سمتی قالب				
+matrix:size	قالب کی جسامت				
+matrix: skew	منحرف قالب				
+matrix: unit, transpose,inverse	اکائی قالب، تبدیلی محل قالب، معکوس قالب				
+matrix equation	قالبی مساوات				
+maund, dhri, ser, pao, chatak	من، دڑی، سیر، چھٹانک				
+Max-min theorem	مسئلہ کم سے کم اور زیادہ سے زیادہ				
+maxima, minima	زیادہ سے زیادہ نقاط، کم سے کم نقاط، اعظم،  عظیم، اقل، قلیل	نقطہ اعظم، نقطہ اقل (dr anees rasheed khan)			
+maximal, minimal	عظیمی، قلیلی				
+maximum, minimum	کم سے کم، زیادہ سے زیادہ، انتہا، انتہائی، اعظم، اقل	نوٹ: کمتر اور بلند تر کے الفاظ highest and lowest کے لئَ مختص ہیں			
+maximum, minimum (in subscript like A_max)	بلندتر،کمتر، اعظم، اقل				
+maximum power transfer theorem	زیادہ سے زیادہ طاقت منتقل کرنے کا مسئلہ، اعظم طاقت منتقلی کا مسئلہ				
+maximize, minimize	اعظم، اقل بنانا				
+maximized, minimized	عظمیت کردہ، قلیل کردہ، اعظم کردہ				
+maxterms, minterms	ارکانِ جمع، ارکانِ ضرب				
+maxima program, winmax ubuntu program	میکسما پروگرام				
+Maxwell, James Clerk Maxwell	میکسویل، جیمس کلارک میکسویل				
+Maxwell-Boltzmann distribution	میکسویل و بولٹزمن تقسیم				
+maze	پھول بھلیاں				
+mean, median, mode	اوسط، وسطانیہ، عادہ				
+mean position, extreme position	وسطی نقطہ، انتہائی مقام				
+mean value theorem	مسئلہ اوسط قیمت				
+meanwhile	ساتھ ہی، اس دوران، اس اثنا میں				
+measure, [what will it measure], measurable	ناپنا، [کیا پیمائش دے گا]، پیمائش پذیر، قابل پیمائش				
+measures of dispersion	انتشاری پیمانے				
+mechanism	تکنیکی پہلو، میکانیت				
+median (meddle quartile), lower & upper quartile, interquartile range	نصف چوتھائی، نچلی اور بالائی چوتھائی، چوتھائی سعت				
+median of a triangle	وسطانیہ	matrix			
+medical researcher	طبی محقق				
+medium	ذریعہ				
+mega: mega meter	میگا				
+membrane	جھلی				
+Memory: RAM=volatile memory, ROM=non-volatile memory	حافظہ: عارضی حافظہ، پختہ حافظہ				
+mercury (planet)	عطارہ				
+meridian	نصف النھار				
+merry go round	گھومنے والا جھولا				
+mesh, mesh analysis	جال، ترکیب جال، افقی جھولا				
+mesh size	جسامت جال				
+mesh point, nodal point (iteration, maths)	نقطہ جال، جوڑ				
+meson, [pi meson]	میانیہ، میزون، [پائے میزون]				
+metabolism	تحول				
+metal, [steel],{ iron}	دھات، [فولاد]، {لوہا}				
+meteor	شہاب				
+meteorite	شہاب ثاقب				
+meteorological	موسمیاتی				
+method of least squares	ترکیب کمتر مربع				
+Michael	میکائل				
+micro,[micron]	مائیکرو ،[مائیکران]				
+microbes	جرثومے				
+microcentury	مائکرو صدی				
+microcontroller	مائکروکنٹرولر				
+microphone	مائکروفون				
+microwaves	خوردامواج				
+mid, centre	وسط				
+milky way galaxy	دودھیا کہکشاں				
+milli	مِلی				
+minimum, maximum	کم سے کم، زیادہ سے زیادہ				
+minterms, maxterms	ارکانِ جمع، ارکانِ ضرب				
+minor, semiminor	اصغر، نصف اصغر				
+minor lobe (antenna)	ثانوی شعاع				
+minor (matrix)	اصغر				
+minus sign, plus sign	نفی کی علامت، منفی نشان، جمع کی علامت				
+Misra, Sudarshan	مسرا، سدرشان				
+missile	مزائل				
+mistake	غلطی				
+mixed differential du^2/dudy	مدغم تفرق				
+mixer	آمیز کار				
+mmf	مقناطیسی دباؤ				
+Mobius strip:August Ferdinand Mobius	موبیوس پٹی: اگست فرڈینانڈ موبیوس				
+mobility, surface mobility, bulk mobility	سطحی حرکت پذیری، گہرائی پر حرکت پذیری، جسیم حرکت پذیری				
+modeling	نمونہ کشی				
+model;transistor model (mathematical model)	ریاضی نمونہ؛ باریک اشاراتی پائے ریاضی نمونہ				
+model	کو کسی طریقہ سے ظاہر کرنا				
+mode, mode of operation	طریقِ کار، اندازِ کارکردگی، طرز				
+mode [waves]	انداز				
+mode:higher order mode	انداز: بلند رتبی انداز				
+mode: higher mode frequency (wave guide)	انداز: بلند انداز تعدد				
+moderate	معتدل				
+modify	ترمیم کرنا				
+modular surface	مقیاسی سطح				
+modulate: modulate amplitude, modulate frequency	حیطہ ترمیم کرنا، تعدد ترمیم کرنا	started using in quantum mech			
+modulating frequency, carrier frequency, modulating wave	تعددِ سوار، تعددِ سواری، سوار موج، سواری موج				
+module: cargo module	سازوسامان کا ڈبہ یا حصہ				
+module, air module (that measures some aspect of air)	مقیاسہ، مقیاسہ الہوا				
+modulus (absolute value of complex number)	معیار				
+modulus of elasticity, Young's modulus of elasticity	مقیاس لچک، (معیار لچک)، ینگ مقیاس لچک				
+molecule, molecular	سالمہ، سالماتی				
+momentum	معیار حرکت، معیار حرکات				
+moment	معیار اثر				
+moment, moment of force, dipole moment	معیار اثر، جفت قطب کا معیار اثر، قوت کا معیار اثر				
+moment: bending moment	خماو کا معیار اثر				
+moment: first and second moments	معیار اثر اول، معیار اثر دوم؛ پہلا معیار اثر، دوسرا معیار اثر				
+moment: kth moment	کے ویں معیار اثر				
+moment: kth central moment	کے ویں وسطی معیار اثر				
+moment of inertia	جمودی معیار اثر				
+moment arm of torque	مروڑی اثر کا بازو، قوت مروڑ کا بازو				
+moment: method of moments	ترکیب معیار اثر				
+momentum	معیار حرکت (جنس مذکر)	?			
+momentum operator	عامل معیارحرکت				
+momentum space wave function	معیار حرکی فضا تفاعل موج				
+momentum transfer	منتقلی معیار حرکت				
+momentarily	لمحاتی طور پر، عارضی طور پر، پل بھر کے لئے				
+monoatomic ion, polyatomic ion	یک جوہری بارداریہ،  کثیر جوہری بارداریہ				
+monoatomic ion, polyatomic ion					
+monochromatic	یک رنگی				
+monotone: monotone increasing, decreasing	یک سر بڑھتا، گھٹتا، یک کیفی بڑھتا یا گھٹتا				
+monotonic function	یک سُر تفاعل، یک کیفی تفاعل				
+moose	بارہ سنگا				
+moral	سبق				
+morphic:meromorphic	جزوی شکلہ				
+morphic: holomorphic	کل شکلہ				
+MSB, LSB	بلند تر رتبی بِٹ، کم تر رتبی بِٹ				
+mountaineer	کوہ پیما				
+muscles, [tendons]	عضلہ، عضلات، [پٹھا، پٹھے]				 
+most, [more]	سب سے زیادہ، [زیادہ]				
+motivate	آمادہ کرنا				
+motivation	حوصلہ افزائی				
+motor region [in brain]	حرکی ریشہ				
+motorway	موٹروے؛ تیز رو شاہراہ				
+mount fuji	کوہسار فیوجی				
+mounted	نصب ہونا				
+move	حرکت،  ہلنا، ادھر ادھر کرنا، ہٹنا، ہلچل				
+multistage	کثیرالمراحل				
+multiple 	متعدد				
+multiple integrals	تکمل بالکثرت				
+multiple: common multiple	مشترک ضعف				
+multiple: multiple of ex	مضرب: ایکس کا مضرب				
+multiple point (of a curve)	متعدد نقطہ				
+multiple root	مرکب جذر؟				
+multiplexer, mux	داخلی منتخب کار				
+multiplier, (multiplicand), [multlipliers]	ضارب یا ضریب، (مضروب)، [ضاربین]				
+multiply connected, multiply connected domain	مضرب تعلق، مضرب تعلق دائرہ کار				
+multiply, [product], add, [sum]	ضرب، [حاصل ضرب]، جمع، [حاصل جمع]				
+multivalued	کثیر قیمتی				
+mun, seer, pao, masha, ruttie, tola, chattak, dhRi	من، سیر، پاو، ماشہ، رتی، تولہ، چھٹانک، دھڑی				
+muon, muonic	میون، میونی				
+muonic hydrogen	میونی ہائیڈروجن				
+muonium	میونیئم				
+mushroom	کھمبی				
+mutivariable function	کثیر المتغیر تفاعل				
+mutual	باہمی، مشترکہ،اجتماعی				
+mutual distance	باہمی فاصلہ				
+mutual flux linkage	مشترکہ اِرتَباطِ رو				
+mutual inductance	مشترکہ امالہ				
+nabla	نیبلا				
+Nagasaki (japan)	ناگاساکی				
+naive	سادہ لوح				
+Napier (Neper)	نیپر				
+natural frequency	قدرتی تعدد ارتعاش				
+natural frequency: damped, undamped	بلا تقصیر قدرتی تعدد، مقصور قدرتی تعدد				
+name plate	معلوماتی تختی	تختی پہچان			
+named; lettered, [lettered points]	نام زد؛ حرف سے موسوم،  [حرفی نقطے]، حرف وار، حرف دار				
+nano	نینو				
+narrow range	محدود حد				
+natural response: complementary solution (diff eq)	فطری رد عمل				
+navigate, navigation	سمت شناسی				
+nebula, crab nebula	سدیم، سدیم السرطان				
+necessary (condition, maths)	لازم				
+negative	نفی				
+negate	نفی				
+negligible	قابل نظر انداز				
+neighbourhood	پڑوس				
+Neils Henrik Abel	نیلز ہنری ایبل				
+Neper (wave attenuation), John Neper	نیپر (جان نیپر)				
+Neptune planet	نیپچون				
+nested triangles	تکون میں تکون				
+net force	خالص، [کل، یا مجموعی]، صافی قوت				
+net force	کل قوت، خالص قوت				
+net, [gross]	خالص،صافی،[کل]، [اجمالی]				
+Netherland	نیدرلینڈ				
+network: electrical network	جال: دوری جال				
+Neumann function; spherical neumann function	نیومن تفاعل، کروی نیومن تفاعل				
+neutral, neutral atom	تعدیلی، تعدیلی ایٹم	تعدیلی جوہر			
+neutral wire, cold wire	تعدیلی تار، سرد تار، ٹھنڈی تار				
+neutralization	تعدیل				
+nevertheless	اس کے باوجود				
+newton's law of cooling	نیوٹن کا قانون ٹھنڈک				
+newtonian mechanics	نیوٹنی میکانیات				
+niagra fall	نیاگرا آبشار				
+nichrome	نائیکروم				
+nine sided, [ten sided]	متسع ضلع، [معشر ضلع]				
+Nobel prize	نوبل انعام یافتہ				
+nodal point, nodal lines (vibrations)	نقطہ صفر ہٹاو، صفر ہٹاو لکیر				
+node, anti node (string)	نقطہ صفر ہٹاو، عقدہ (عقدوں)، ضد عقدہ				
+node, loop, branch	جوڑ، دائرہ، بازو				
+node: super node	مخلوط جوڑ				
+nodal analysis	تجزیہ جوڑ				
+nodal voltage	دباو جوڑ				
+noise power (in resistor)	طاقت شور				
+noise temperature	حرارت شور، حری شور، تاپ شور				
+nomenclature	تسمیہ، اسم بندی				
+nonholonomic:  process	ہمہ قواعد؟؟؟؟؟، گرگٹی عمل				
+non homogeneous	ہر طرف غیر یکساں				
+non linear	غیر تدریجی				
+non-sinusoidal	غیر سائن نما				
+non zero	غیر صفر				
+Norm; norm of functions (orthogonal functions)	معیار				
+normal matrix	عمودی قالب، [عماد، عمادی]				these matrices arise from normal equations where A-bX is normal to A. hence عمودی قالب  is an excellent name
+normal (not special)	عمومی				
+Normal, binormal , principal normal (maths)	عمودی، خطِ عمود، دوہرا عمودی، صدر عمودی 				
+normal distribution, normal distributed	عمومی تقسیم، عمومی بانٹی ہوئی	here normal is used in this sense			
+normal mode:nth normal mode (vibrating string)	این ویں عمودی انداز				
+normalization condition	معمول زنی شرط				
+normalizable, non-normalizable	قابل معمول زنی، [ناقابل معمول زنی]				
+normalization, normalization constant	معمول زنی، مستقل معمول زنی				
+normalize, normalize with alpha	معمول زنی کرنا	طبعی حال بنانا			
+normalized	معمول شدہ	معیاری صورت،  طبعی حال			
+normal (in the sense of perpendicular)	عمودی				
+normal line	خطِ عمودی				
+north pole	شمالی قطب				
+Norton Theorem: Edward Lawry Norton	ایڈورڈ لوری نارٹن				
+Norway	ناروے				
+nose: nose of plane	جہاز کا منہ				
+notation	علامت نویسی، علامتی اظہار، ترقیم	علامتیت			
+notation: short notation	مختصر علامت، مختصر ترقیم				
+notch filter	دندانہ چھلنی				
+note	تبصرہ، رقعہ، تذکرہ، توجہ کریں				
+note that	یاد رہے کہ، دھیان، توجہ				
+noting that…	یہ جانتے ہوئے کہ۔۔۔				
+notice, [notice that..], noticed that	محسوس کرنا، دھیان دینا، [دیکھیں کہ]، دیکھا کہ				
+nozzle	ٹونٹی				
+Nucleus, nuclei	مرکزہ، مراکزہ				
+nucleus: parent, daughter	والدہ مرکزہ، بیٹی مرکزہ، مرائی مرکزہ، والدینی مرکزہ، دختر مرکزہ				
+nuclear	مرکزوی				
+nuclear fission reaction, [nuclear fusion reaction]	مرکزوی انشقاق تعامل، [مرکزوی ملاپ تعامل]، [مرکزوی اختلاطی تعامل]				
+nuclear: nuclear  short range, midrange, long range forces	مرکزوی کم فاصلہ، درمیانی فاصلہ، طویل فاصلہ قوت				
+Nucleus (cell)	مرکزہ				
+nucleon	مرکزویہ				
+Null, nullity (set, maths), null space	معدوم، معدومیت، معدوم فضا				
+null point	معدوم نقطہ				
+number theory	اعدادی نظریہ				
+numbered from 1 to n	ہم انہیں 1 تا 10 کی شمار سے ظاہر کرتے ہیں۔				
+numerator	شمار کنندہ				
+numerical aperture (optical fiber sin theta)	عددی شگاف، اعدادی شگاف				
+numerical, iteration	عددی، دہرانا	numerical=اعدادی			
+numerical method	اعدادی طریقہ				
+numerical technique	اعدادی ترکیب				
+number 	عدد				
+numbered, lettered	گنتی دار، حرف دار ؟؟				
+numbered	شمار، شمارہ، (شمارہ گنتی وار گنتی کو کہتے ہیں)				
+number: to number something	شمارہ لگانا				
+number: equation number	مساوات شمار				
+numbered, numbered labels, numbered list	گنتی وار، گنتی وار نام، گنتی وار سلسلہ				گنتی دار؟؟
+nut cracker, nutcracker	سروتا				
+neutron star	نیوٹران ستارہ، نیوٹران تارا				
+neutrino	نیوٹرینو				
+Nyquist criterion	اصول نی کوسٹ				
+observables	قابل مشاہدہ				
+observation	مشاہدہ				
+object	چیز				
+observed (probability)	مشاہدہ کرنا				
+observed values	مشاہدے سے حاصل قیمتیں				
+observer,observatory	مشاہدہ کار، مشاہِد، مشاہدہ گاہ				
+obtuse angle (greater than 90)	زویہ منفرجہ				
+oasis	نخلستان				
+occupy: (occupy the same state)[QM]	مکین ہونا، ایک حال کے مکین ہیں				
+occupational number	تعداد مکین				
+occupied state, unoccupied state, [empty state]	، [خالی حال،غیر خالی حال] آباد حال، غیر آباد حال				
+octant	ثُمن ، مثمن				
+octave((software)	آکٹیو				
+odd, oddness	طاق، طاق پن				
+odd function symmetry	طاق تفاعل تشاکل				
+ODE (ordinary differential equation)	سادہ تفرقی مساوات				
+odometer	مسافت پیما				
+Of : circle of friction	رگڑ دائرہ				
+ofcourse	یقیناً				
+offset voltage: read output offset voltage					
+Ohm :Georg Simon Ohm	اوہم : جارج سائمن اوہم	گیورگ سیمون اوہم			
+ohm meter	مزاحمت پیما				
+oil refinery	تیل صاف سازی کا کارخانہ				
+omit	ترک کرنا				
+omnidirectional antenna	غیر سمتی اینٹینا				
+one to one correspondence	ایک ایک مطابقت، یک یک مطابقت				
+one to one, [map one to one]	ایک سے ایک,  ایک تا ایک نقش، [یک یک نقش]				
+one, precisely one	واحد ایک				
+onto, into (transformation of Domain onto/into Range)	میں، پر				
+opaque	غیر شفاف				
+open, closed	بند، کھلا				
+open circuit	کھلا برقی دور				
+open loop, open surface	کھلا دائرہ، کھلی سطح				
+operand	زیر عمل				
+operating characteristic (OC, testing of hypothesis, maths)	خاصیت کارکردگی				
+operating characteristic curve	منحنی خاصیت کارکردگی				
+operation (maths: add, subtract, etc)	عمل				
+operation	کارکردگی				
+operation	چلن				
+operator, operators	عامل، عاملین				
+operator; differential operator D, identity operator I (Iy=y)	عامل؛ تفرقی عامل ؛ مماثلی عامل				
+operator; ladder, raising, (lowering)	سیڑھی عامل، عامل رفعت، عامل تقلیل				
+optics	بصریات				
+optical fibre	شیش ریشہ				
+optical frequency, optical wavelength	بصری تعدد، بصری طول موج				
+optic nerve	عصب بصری، عصب بینائی				
+optimum	بہترین				
+optimize	بہترین بنانا				
+options; a bit containing d distinct options	 ایک ٹوکرا جس میں  حق انتخاب ہوں				
+opto coupler	ضیاعی وابستہ کار				
+orbit	مدار				
+orbital, orbitals	مدارچہ، مدارچے				
+orbital angular momentum	مدارچی زاویائی معیار حرکت، زاوی				
+order: order something	منگوانا				
+order: cost of placing order	مال منگواتے وقت ادائگی				
+order	رتبہ				
+order	نظم				
+order: first-order correction, second-order correction	اول رتبی تصحیح، دوم رتبی تصحیح				
+Order: 10^5 has order 5	رتبہ				
+order: has 83 orders of magnitude	قدر کے 83 رتبوں پر پھیلا				
+order: x will have to be of the order y	ایکس کو لگ بھگ وائے کے برابر ہونا ہو گا				
+order of zeroes	رتبہ				
+order: write them in a certain order	منظم کرنا، نظم				
+order of magnitude	مقدار کا رتبہ				
+Ordered pair, ordered triples	مرتب جوڑی، مرتب تین اعداد				
+ordinary	سادہ				
+ordinary differential equation	سادہ تفرقی مساوات				
+ore: metal ore, coal ore	خام دھات، خام کوئلا				
+orientable	قابل سمت بند				
+orientation	سمت بندی	تشریق (میٹرک)			
+origin, coordinate system	مبدا				
+original; continue in original direction	اصل؛ رخ برقرار رکھنا				
+orthodox (interpretation)	تقلید پسند مفہوم				
+orthogonal, [orthogonals]	قائمہ،[قوائم] عمودی				
+Orthogonal ; mutually orthogonal	باہمی عمودی، باہم عمودی، باہم قائمہ				
+orthogonal projection	تظلیل قائمہ: وہ تظلیل جس میں روشنی کی شعاعیں عمودی پڑتی ہیں، قائمہ ظل				
+orthogonal trajectories	عمودی  خطوط، قائمہ خطوط				I am still using orthogonal to mean normal when used in conjunction with the thing in mind, such as قائمہ زاویہ
+orthogonality	قائمیت، عمودیت				
+orthogonally	قائمی طور پر				
+Orthonormal	معیاری قائمہ الزاویہ، معیاری عمودی،				
+orthonormality	معیاری قائمیت، معیاری عمودیت				
+orthonormalization	معیاری عمود زنی				
+orthonormalized	معیاری عمود شدہ				
+orthorhombic	قائمی معّین				
+oscar perron	اسکار پیغوں				
+oscillate: to oscillate	ارتعاش پذیر				
+oscillation, oscillations	ارتعاش، ارتعاشات				
+oscillator	مرتعش، مرتعشات				
+oscilloscope, telescope, microscope	لہربین، دوربین، خوردبین				
+oscillograph	لہر نگار				
+osmosis	انجذاب				
+other: the other way around	الٹ کر کے				
+otherwise	بصورت دیگر				
+out / in	خارج، داخل				
+outer electron, outer shell	باہری الیکٹران، باہری خول				
+outgoing spherical wave	رخصتی کروی موج				
+outcome	انجام				
+output offset voltage, input offset voltage	داخلی انحرافی برقی دباؤ، خارجی انحرافی برقی دباؤ				
+out of phase: when angles are not equal	الگ زاویہ ہونا				
+output	ماحصل				
+output	پیداوار				
+output pin, output port	خرجی پنیہ، خارجی راہ, برآمد، برآمدی				
+over damped	زیادہ مقصور، زائد مقصور				
+over voltage	زائد برقی دباو				
+overhead view, [aerial view]	اوپری نظارہ یا جائزہ، [فضائی جائزہ]				
+overkill	توپ سے چوہا مارنا				
+overlapped, partially overlapped region	منطبق، جزوی منطبق خطہ				
+overlap	ڈھانپنا، چڑنا، چھانا				
+overlap integral (quantum mech)	ڈھانپائی تکمل				
+overview	 جائزہ، سرسری جائزہ				
+oxidant, [oxidation], oxidise, oxidised, oxidisable	تکسیدکار، [تکسید]،  تکسین کرنا یا تکسید،  تکسید کیا ہوا، تکسید پذیر				
+Pacific ocean	بحرالکاہل				
+packet: spectral packet	شعاعی پٹی				
+packet: wave packet (quantum mech)	موجی اکٹھ				
+paddle wheel	چپو پہیا				
+pair, force pair	جوڑی، جوڑا، جوڑی قوت				
+pair annihilation	نابودی جفت، نابودگی جوڑا				
+PAL	قابلِ تشکیل ایند جوڑ کے منتقی ترکیبی دور				
+pancake collapse of buildings	پرت دار انہدام				
+paper: scientific paper	مقالہ				
+Pappus theorem (maths)	مسئلہ پاپس				
+parabola, parabolas	قطع مکافی، قطعات مکافی				
+paraboloid	قطع مکافی مجسم  قطع مکافی سطح				
+parachute, parachutist	چھتری، چھتری باز				
+paradox	تضاد	متناقضہ بہتر معلوم ہوتا ہے لیکن استعمال نہیں کیا گیا ہے			
+paragraph	رکع، رکوع، نثر پارہ، بند				
+parahelium	نزد ہیلیم				
+parallel (parallel circuit)	متوازی				
+parallel, anti-parallel	متوازی، ضد متوازی				
+parallel axis theorem	مسئلہ متوازی محور				
+parallel lines	مماثلت، مماثل لکیر				
+parallel load register	متوازی بھرائی دفتر				
+parallel port	متوزی راہ				
+parallelogram law	متوازی الاضلاع: سمتیوں کا متوازی الاضلاع				
+parallelepiped, hexagonal; rectangular	مسدسی متوازی السطوح، مستطیلی متوازی السطوح	 			
+parameter	مقدار معلوم	 			
+parameter: impact parameter	ٹکراو مقدار معلوم				
+parametric curve	منحنی مقدار معلوم				
+parametric representation, parametric form	مقدار معلوم روپ				
+parametrization	مقدار معلوم روپ کا حصول، مقدار معلوم گری				
+parametrized	مقدار معلوم شدہ				
+parasitic	غیر مطلوب				
+paratrooper	چھتر سپاہ				
+Paris	پیرس				
+park	چمن، باغ،  گلشن، باغیچہ				
+parsec [unit of angle]	پارسیک				
+Parseval's theorem	مسئلہ پارسیوال				
+partial differential equations: elliptic, parabolic, hyperbolic	بیضوی، قطع مکافی اور قطع زائد جزوی تفرقی مساوات				
+partial fraction	جزوی کسر				
+partial fraction expansion	 جزوی کسری توسیع				
+partial fractions: method of partial fractions	جزوی کسری ترکیب				
+partial sum	جزوی مجموعہ				
+partial wave analysis	جزوی موج تجزیہ				
+partial wave amplitude	جزوی موج حیطہ				
+particle: one-particle, two-particle, three-particle state	ایک ذروی، دو ذروی، تین ذروی حال				
+particle, particles	ذرہ، ذرات				
+particle physicist	ماہر طبیعیات ذرات				
+particular solution	مخصوص حل				
+partition: the partition, partitions	خانے بنانا، خانہ یا خانے، خانہ بندی				
+partition norm	خانہ بندی کا معیار				
+Pascal triangle	پاسکل تکون،  الکراجی تکون	 			
+Pashen	پاشن				
+Pashen-Back effect	پاشن و بیک اثر				
+passive sign convention	انفعالی رائج سمت				
+password	شعار				
+Pasternack relation	پسترنک رشتہ				
+patch	قطعہ				
+patch, patching wave function (quantum mech)	پیوند کرنا، پیوند کار تفاعل موج				
+patching region	پیوندکار خطہ				
+patent	سند ایجاد				
+path	راہ				
+path: independent of path	راہ سے آزاد	راہ سے بے نیاز			
+pathological	غمگیر، گھمبیر				
+pattern	طرز				
+pattern: primary, secondary (antenna)	انفرادی نقش، قطاری نقش				
+Pauli spin matrices (Wolgang Ernst Pauli)	ولگنگ ارنسٹ پالی، پالی قالب چکر				
+Pauli exclusion principle	پالی  اصول مناعت				
+pause, brief pause	توقف، مختصر توقف				
+payload capsule	ساز و سامان کی ڈبی				
+pea	چنا، دال، [zain]، {اگرچہ انتخاب کے لئے چنا گیا یا چنی گئی استعمال ہو گا}				
+peak	چوٹی، فراز				
+peaked	نوکیلے ابھار جیسی (جیسا)				
+pedal	پائیدان				
+peel off	چھیلنا				
+pelvic	پیڑو، (زیر ناف جانبی ہڈیاں)				
+pendulum: simple pendulum	لٹکن، سادہ رقاص	پشتو کی کتاب میں اس کو “رقاص" کہا گیا ہے			
+penguin	پینگوین				
+penicillin	پینسلین				
+pepper: hot pepper	تتیا مرچ				
+percentile	صدویہ				
+perfect square	مکمل چوکور				
+perform	سرانجام دینا				
+perigee	حضیض				
+perihelion	حضیض شمس				
+period (general usage)	میعاد				
+periodic, aperiodic, periodicity	دوری، غیر دوری، دوریت				
+periodic table	دوری جدول				
+period: time period	دوری عرصہ				
+periodic motion	دوری حرکت				
+perimeter	محیط				
+permanent	دائمی				
+permeability, relative permeability	مقناطیسی مستقل، اضافی مقناطیسی مستقل	مقناطیسی مستقل			
+permitivity, relative permitivity	برقی مستقل، اضافی برقی مستقل	 			
+permute	ردوبدل				
+perpendicular	سیدھا کھڑا، عمود دار				
+perpendicular, drop a perpendicular	عمودی، عمود گرانا				
+perpendicular axis theorem	مسئلہ عمودی محور				
+perturbation: perturbation theory	خلل، اضطراب، نظریہ اضطراب	 			
+perturbation: first order theory, second order theory	رتبہ اول نظریہ، رتبہ دوم نظریہ				
+perturbation: first order correction, (second order)	رتبہ اول درستگی، اول رتبی تصحیح، ، (دوم رتبی)				
+perturbed, unperturbed	مضطرب، غیر مضطرب				
+pH (acidity)	طاقت ہائیڈروجن				
+phalanges	پور				
+pharmaceutical	دوا ساز				
+pharmacist	دوا ساز				
+phase	زاویاتی دور، زاویائی فرق،  ہیّت	 			
+phase: single phase and three phase system	یک دوری، تین دوری نظام، 				
+phase angle	زاویائی فاصلہ				
+phase constant, attenuation constant (waves)	زاویائی مستقل، تقلیلی مستقل				
+phase current, phase voltage	دوری دباو، دوری رو				
+phase difference	زاویائی فرق	 			
+phase plane, phase diagram, phase plane representation	سطح مرحلہ، شکل مرحلہ، سطح مرحلہ اشکال				
+phase shift (quantum mech)	منتقلی ہیّت، ہیّتی انتقال				
+phase velocity, group velocity	دوری سمتی رفتار، مجموعی سمتی رفتار، گروہی سمتی رفتار				
+phase voltage, phase current	دوری برقی دباؤ، دوری برقی رو				
+phase: in phase: when angles are equal	ہم زاویہ				
+phase: out of phase: when angles are not equal	الگ زاویہ ہونا				
+phase point	زاویائی نقطہ				
+phase portrait (maths)	پیکر مرحلہ				
+phasor	دوری سمتیہ	 			
+phillip ludwig von seidel	فلپ لڈوگ ون زائڈل				
+philosopher	فلسفی				
+photocopier	نقل گیر آلہ، نوری نقال، ضیائی نقال				
+photon, photons	نوریہ، نوریے، نوریوں	نوریہ			
+photosynthesis	ضیائی تالیف				
+physics: what is physics	طبیعیات کس کو کہتے ہیں؛ طبیعیات کیا ہے				
+pica, point, inch,yard, furlong,mile, rod, chain	پیکا، نقطہ، گز، فرلانگ،میل،عصا، زنجیر				
+Picard’s method  (french pronunciation)	ترکیب پکاغ				
+Picard: Charles Emile Picard (french pronunciation)	شاغل مل پکاغ				
+pick	اٹھانا				
+picul, gin, tahil, chee, houn (malaysian weights)	پکول، جن، تاہل، چی، ہون				
+piecewise continuous	ٹکڑوں میں استمراری				
+piecewise defined function	ٹکڑوں میں معین تفاعل				
+pier	گھاٹ				
+Pierre de Fermat	پیئغ د فغما				
+piezoelectric crystal	داب برقی قلم				
+pilot	ہواباز				
+pin, pins	پنیا، پنیے				
+pint [measure of blood]	پنٹ				
+pipe	نالی، نل				
+piston	بوکا				
+pivot, pivoted, [pivoted at]	چول، چول دار، [کا چول  الف پر پایا جاتا ہے]				rekhta dictionary
+pivot point (for a rod that is pivoted at a point)	نقطہ چول				
+pivot point (interpolation)	چول قیمت				
+pivotal coefficient	چول عددی سر				
+pivotal equation	چول مساوات				
+PLA	قابلِ تشکیل اینڈ اور آر جوڑ کے منتقی ترکیبی دور				
+plan: sampling plan	منصوبہ: نمونی منصوبہ				
+Plancherel theorem	مسئلہ پلانشرال				
+Planck's constant	مستقل پلانک				
+plane: jumbo plane	جمبو طیارہ				
+plane: MIG-25	مِگ -25				
+plane curve	مستوی منحنی				
+plane; plane wave	مستوی موج				
+plane: infinite plane, infinite surface	لامحدود وسعت کی سطح	لامحدود وسعت کا مستوی اور سطح			
+plane line, plane surface	سیدھی لکیر، سیدھی سطح	مستوی لکیر، مستوی سطح			
+plane (surface)	مسطح (سطح)	dr anees rasheed khan			
+planar sheet	مسطح چادر				
+planet, planets, [planetary]	سیارہ، سیارات، [سیاروی]				
+planimeter	سطح پیما				
+plastic	پلاسٹک، [نرم]				
+plastic record	پلاسٹک نوشتہ ؟؟				
+plate (geology)	تہہ، پٹی، پرت (پرتیں)				
+plate	مستوا				
+plateau	سطح مرتفع				
+platform	چبوترا				
+platinum iridium	پلاٹینم و اریڈیم				
+plausible	بظاہر معقول				
+plinth	پایہ				
+Pluto	پلوٹو				
+point and pica [publishers units]	پوائنٹ اور پکا				
+point=dot or location, [point of view], important or main point	نقطہ، [نکتہ]، کلیدی نکتہ				
+point:dotted line	نقطہ دار لکیر				
+point: interior, left endpoint, right endpoint,exterior point	اندرونی نقطہ، دائیں سر نقطہ، بائیں سر نقطہ، بیرونی نقطہ				
+point:starting point, criticize, points of discussion	ابتدائی نقطہ، نکتہ چینی، نکات				
+pointed [as sharp pointed]	نکیلا، نکیلی، نوک دار				
+pointer (that moves on a scale)	سوئی				
+Poisson integral formula, Simeon Denis Poisson	پوسوں تکملی کلیہ؛ سمیوں دنی پوسوں				
+polar, non polar	قطبی، غیر قطبی				
+polar coordinates	قطبی محدد				
+polar representation, polar form	قطبی روپ				
+polar	قطبی				
+polarizing	تقطیبی				
+polarizable	قابل تقطیب				
+polarizability	تقطیبیت				
+Polarization: wave polarization, linear, elliptic and circular	تقطیب: تقطیب موج، خطی، بیضوی، دائری تقطیب				
+polarization: to polarize, polarized	تقطیب زنی، تقطیب شدہ				
+polarized	تقطیب شدہ				
+pole [english]	کھمبا				
+pole, poles	قطب، قطبین				
+Pole-zero plot	ترسیم قطبین و صفر				
+pollution, (pollutant)	آلودگی، (نجاست)				
+polished, to polish	چمکدار، چمکدار بنانا، پالش شدہ				
+polish, polished [surfaces]	جلا کرنا، مجلی سطح				
+polygon	کثیر الاضلاع				
+Polynomial	کثیر رکنی				
+polystyrene	پالی اسٹرن				
+population	آبادی				
+port, dry port	بندر گاہ، خشک بندر گاہ				
+position	مقام، درجہ، صورت، حالت، انداز، جگہ				
+position distribution	موضعی تقسیم				
+position wave function	موضع تفاعل موج، مقامی تفاعل موج				
+position space wave function	موضع و فضائی تفاعل موج، مقام و فضائی تفاعل موج				
+position: extreme position	انتہائی مقام				
+position vector, function	تعین گر سمتیہ، تفاعل				
+positional	مقام کے متعلق، موضع کے متعلق				
+positioner	مقام  تعین کرنے والا				
+positron, [positronium]	ضد برقیہ، ضد الیکٹران، [پازیٹرانیم]				
+possible, impossible	ممکن، ناممکن				
+possibilities	ممکنات				
+post	اسامی				
+post man	نامہ بر				
+Postulate (matric)	اصول موضوعہ				
+potential, potentials	مخفی قوہ، مخفیہ، مخفیے	 			
+potential: chemical potential	کیمیاوی مخفیہ				
+potential: complex potential	مخلوط مخفی قوہ، مخلوط مخفیہ				
+potential hill	پہاڑ مخفیہ				
+Potential: potential theory	نظریہ مخفی قوہ، نظریہ مخفیہ				
+potential energy	مخفی توانائی				
+powder	برادہ				
+power	طاقت				
+power function (testing hypothesis, maths)	تفاعل طاقت				
+power relation of complex, real and reactive: S=P+jQ					
+power:complex S, real P, reactive Q, apparent abs(S)	مخلوط، حقیقی، متعاملی اور ظاہری				
+power unit, [unit power]	طاقت کی اکائی ،[اکائی طاقت]				
+power units:complex=VA, real=Watt, reactive=var					
+power amplifier	قوی ایمپلی فائر				
+power electronics	طاقت سنبھالنے والی الیکٹرانکس،  پُرطاقت الیکٹرانکس، قوی الیکٹرانکس				
+power factor correction	درستگی جزو طاقت؛ جزو طاقت کی درستگی تصحیح				
+power factor, power factor angle	طاقت کا جُزو ضربی، جُزو ضربی طاقت، طاقت کے جُزو ضربی کا زاویہ	changed from this			
+power factor	جزو طاقت	to this			
+power factor angle	زاویہ جزو طاقت				
+power loss	ضیاع طاقت				
+power plant	بجلی گھر				
+power series	طاقتی سلسلہ ، طاقتی تسلسل				
+power supply	برقی طاقت کی سپلائی				
+power supply. AC, DC	یک سمت منبع، بدلتا منبع				
+power triangle (electric circuits)	طاقتی تکون				
+poynting vector, John Henry Poynting	پوئنٹنگ سمتیہ، جان ہنری پوئنٹنگ				
+practical formula	عملی کلیہ				
+practically	عملی طور پر، عملاً				
+practice (exercise)	مشق				
+Pre-image	ماقبل عکس				
+preamplifier	ابتدائی ایمپلی فائر				
+precession	استقبالی حرکت				تقدیم، ind math dic
+precession rate	استقبالی حرکت کی شرح				
+precipitation, [precipitate]	استقبالی حرکت کی شرح				
+precise definition	باضابطہ تعریف				
+precisely: more precisely	یہ کہنا زیادہ درست ہو گا کہ				
+precisely one	واحد ایک				
+precision	حتمیت؛ اس کی قیمت نہایت پرکھیت کے ساتھ حاصل کی گئی ہے				
+predict, prediction	پیشنگوئی				
+Predictor-corrector method	پیش گو، مصحح ترکیب				
+prefix	سابقہ، سابقہ لگانا				
+prefixes: yotta, zetta, exa, peta, tera, giga, mega, kilo, hecto	یوٹا، زٹا، اکسا، پٹا، ٹیرا، گیگا، میگا، کلو، ہکٹو				
+prefixes: deka (deca), deci, centi, milli, micro, nano, pico	ڈیکا، ڈسی، سنٹی، ملی، مائیکرو، نینو، پکو				
+prefixes: femto, atto, zepto, yocto	فیمٹو، اٹو، زپٹو، یکٹو				
+prejump	قبل از وقت چھلانگ				
+prescribed	معینہ				
+prescription	طرز عمل				
+preset, clear	زبر دستی بلند، زبر دستی پست				
+Press, [presses]	دبانا [دباو ڈالنا]				
+pressure: atmospheric pressure	زمینی ہوائی دباو				
+pressure: one atmospheric	ایک کرہ ہوائی دباو				
+pretend	ڈھونگ رچانا				
+presumably not know	غالباً نہیں جانتے				
+price	نرخ				
+primary, secondary side	ابتدائی جانب، ثانوی جانب				
+prime factor, prime factors	جزو مفرد، اجزاء مفرد				
+prime mover	اصل محرک				
+prime number	عدد مفرد				
+prime symbol ` y’	زبر جیسا بَ				
+primitive model	سادہ نمونہ، تاریخی نمونہ				
+principal axis, principal part	صدر محور، صدر حصہ				
+principal quantum number	صدر کوانٹم عدد				
+principal value, principal unit normal vector	صدر قیمت، صدر اکائی عمودی سمتیہ				
+principle	صدر قیمت، صدر اکائی عمودی سمتیہ				
+priori	قبل از وقت				
+prism	منشور				
+prism: temporal prism	وقتی منشور، زمانی منشور				
+probable	محتمِل				
+probabilities	احتملات				
+probability: conditional probability	مشروط احتمال				
+probability current	رو احتمال				
+probability density	کثافت احتمال				
+probability distribution	تقسیم احتمال				
+probability function	تفاعل احتمال				
+probability; probability theory	احتمال، نظریہ احتمال	matric, male			
+probabilistically	احتمالاً				
+problem: dirichlet problem	معمہ: معمہ ڈرشلے				
+procedure	حکمت عملی، طریقہ کار				
+process	عمل، ترکیب، طریق				
+producer	پیداکار				
+product, [multiplication], add, addition, [sum],  division, []	حاصل ضرب، [ضرب]، جمع، [حاصل جمع]، تقسیم، [حاصل تقسیم]				
+production; power production, current production,voltage production	پیداوار، پیداوار طاقت، پیداوار رو، پیداوار دباو				
+product: by product	ضمنی پیدا وار				
+production process	عمل پیداوار				
+professor	پروفیسر				
+program	لائحہ کار				
+program, programmer, programming	برنامہ، برنامہ نوایس، برنامہ نویسی				
+programmable: (reconfigurable, writable) CPLDs, FPGAs	قابلِ تشکیل				
+progression: arithmetic progression (matric)	حسابی تصاعد	matric			
+projected area	ضلی رقبہ (میٹرک)				
+projection	عمودی سایہ، [ظل]				
+projection operator	عامل تظلیل				
+projectile, projectile motion	گولا، حرکت گولا	گول انداز، حرکت گول انداز			
+promise: as promised	جسا کہ وعدہ تھا				
+propagation: propagation of waves	موجوں کی اشاعت				
+Propagation constant, attenuation constant &  phase constant of waves	حرکی مستقل، تضعیفی مستقل اور زاویائی مستقل				
+propagation delay (gates DLD)	دورانیہ ردِ عمل				
+propagator [quantum mech, feynman diagrams]	اشاعت کار				
+propeller (of plane)	پنکھا				
+proper and improper fraction	واجب، غیر واجب کسر matric				
+proper integral, improper integral (having infinite interval)	مناسب تکمل، غیر مناسب تکمل				
+property, properties	خاصیت، خواص				
+proportion	تناسب				
+proportional directly	 راست متناسب، تغیر راست				
+proportion: direct, inverse	تغیر راست، تغیر معکوس				
+proportional indirectly: reciprocal	بالعکس متناسب				
+proportionality constant	تناسبی مستقل				
+propose	تجویز کرنا				
+protractor, D	زاویہ کش، زاویہ گیر				
+prove	ثابت کرنا				
+provided that	بشرطیکہ				
+pseudo	مجازی				
+publish, [publisher]	شائع، اشاعت، چھاپنا، [ناشر]				
+puck	قرص				
+pull: push-pull	کھینچا تانی				
+pulley	چرخا، گھرنی، جرثقیل				rekhta dictionary
+pulse, [heartbeat]	نبض، [دھڑکن]، تڑپ				
+pulse	مستطیلی پتلا اشارہ				
+pulsar	نابض				
+pure imaginary	خالص خیالی، خالص تخیلی				
+purpose (english)	مقصد، مقاصد				
+Push-pull	کھینچا تانی؟؟				
+putty	لبدی				
+pyramid, pyramids	ہرم، اہرام				
+pyramid of Khofo	ہرم خوفو				
+pythagorous theorem	مسئلہ فیثاغورث				
+quadratic equation	دو درجی الجبرائی مساوات	 			
+quadrant, quadrants	ربع اول، ربع دوم، ربع سوم، ربع چہارم، ربعات				
+quadrature power (electric circuits)	تربیعی طاقت				
+quadric surfaces	مربع سطحیں				
+quadrilateral	چار الاضلاع، چار ضلعی	 			
+qualitative assessment	کیفی تجزیہ				
+quality control	ضبط معیار				
+quality factor Q (resonator)	معیاری مستقل				
+quality: acceptable quality level, rejectable quality level	سطح قابل قبول معیار، سطح قابل مسترد معیار				
+quality: average outgoing quality	اوسط خارجی معیار				
+quality:average outgoing quality limit	اوسط خارجی حد معیار				
+quantitative assesment	مقداری تجزیہ				
+quantum dots	کوانٹم نقطے				
+quantization: flux quantization	کونٹازنی بہاو				
+quantum mechanical: particle theory	ذراتی نظریہ: کوانٹم نظریہ				
+quark, quarks, antiquark	کوارک، کوارکے، ضد کوارک				
+Quarter-wave matching (transmission lines)	چوتھائی طول موج کی ترکیب، چوتھائی طول موج سے ہم رکاوٹ بنانا				
+quartic	چو درجی				
+quartz	کوارٹز، سنگ مردہ				
+quasilinear	بظاہر خطی				
+quenching	زائلی				
+Quotient (maths)	حاصل تقسیم، خارج قاسم				
+Rabi frequency	رابی تعدد				
+race	دوڑنے کا مقابلہ				
+racing car	دوڑنے کے مقابلے کے لئے تخلیق دی گئی گاڑی				
+radar	ریڈار				
+radial equation	رداسی مساوات				
+radial segment, segments	رداسی قطعہ، قطعات				
+radian, radian measure	ریڈیئن، ریڈیئن ناپ				
+radiator	شعاع ریز				
+radiation (noun), [radiation (verb)], {emission}	اشعاع، [شعاع ریزی]، {اخراج}				
+radiation (from antenna)	اشعاعی اخراج، شعاعی اخراج				
+radiation intensity (antenna)	اخراجی شدت، اشعاعی شدت				
+radiation resistance (antenna)	اخراجی مزاحمت، اشعاعی مزاحمت				
+radiation(nuclear)	تابکاری				
+radiation: solar radiation	شمسی اخراج،شمسی اشعاع				
+radiation zone	خطہ اشعاعی، اشعاعی خطہ				
+radicand	زیر جذر (رقم)				
+radioactive decay, radioactive	تابکاری تحلیل، تابکار؛ تابکاری تنزل، تابکار				
+radio frequency	ریڈیائی تعدد				
+radium, radon, polonium	ریڈیم، ریڈان،پولونیم				
+radius	رداس				
+rail	پٹڑی، پٹری				
+railing	جنگلا				
+RAM: volatile memory	عارضہ حافظہ				
+Ramsauer-Townsend effect	رمزاور و ٹاونسنڈ اثر				
+random; drawn at random	بلا منصوبہ	بلا منصوبہ (matric)			
+random number generator	پیدا کار بلا منصوبہ اعداد				
+Range (of domain)	سعت	سعت kreyzig-5 page 970 top			
+range: wide range, narrow range	وسیع حد، محدود حد				
+range finder	فاصلہ پیما				
+range (of helicopter)	پہنچ				
+range of projectile	گولے کا فاصلہ مار				
+range of values	قیمتوں کا سعت				
+rank	درجہ قالب، درجہ				
+rare	نایاب، شاز				
+rarefaction	پھیلاؤ کی موج				
+rated power, rated voltage, rated current	 کُل طاقت، کُل برقی دباؤ، کُل برقی رو				
+rate constant	شرحی مستقل				
+rather technical	خاصہ تکنیکی				
+rating	سکت				
+ratio	نسبت				
+Rational , irrational number	ناطق، غیر ناطق عدد				
+rational function, irrational function	معقول تفاعل، غیر معقول تفاعل	ناطق، غیر ناطق			
+ray	شعاع، کرن				
+Rayleigh equation; (John William Strut)	ریلے مساوات؛ جان ولیم سٹرٹ				
+Reactance X, reactive	متعاملیت، متعاملی				
+reactance: inductive, capacitive	امالی متعاملیت، برق گیر متعاملیت				
+reactance coil	متعامل لچھا، متعاملہ				
+reactive power: quadrature power 	متعاملی طاقت: تربیعی طاقت				
+reaction, reaction time	رد عمل، رد عمل کا وقت				
+reading a graph	ترسیم سے معلومات کا حصول				
+real: (read complex number above)	حقیقی				
+real time, real time computing	فوری، فوری حساب				
+realist	حقیقت پسند				
+reality	حقیقیت				
+rearrangement, [arrangement]	ردوبدل، [انتظام، نظم، نظم و ضبط]				
+reasoning	استدلال				
+receiver	وصول کنندہ				
+receiving antenna	وصولی اینٹینا				
+reciprocal	بالعکس متناسب، باہمی، باہم	مقلوب، منقلب			
+reciprocal rule	قاعدہ بالعکس متناسب				
+recoil	اچھلنا، پلٹنا				
+record: vinyl record (used  in gramophone)	گراموفون کی  تھالی				
+record (written document), to record	نوشتہ، نوشت کرنا				
+record, [recorded]	قلم بند، [کشف کیے گئے]				
+record: recorder, [recorded], {get recorded}	مُرتَسِم، [مُرتَسَم]، {مُرتَسِم ہونا}				
+rectangular form: of writing complex numbers=3+j2	مستطیلی طرز				
+rectangular wave	مستطیل موج				
+rectifiable (curve, maths)	قابل تصحیح				
+rectifier, half wave and full wave	نصف لہر سمت کار، مکمل لہر سمت کار				
+rectify (to correct the situation)	سدھارنا				
+rectilinear motion	مستقیم حرکت				
+recursion formula	کلیہ توالی				
+recursion: Osian Bonnet's recursion	اوسیاں بونٹ				
+recursive definition	تکراری تعریف				
+reduce: the equation reduces to give …	مساوات گھٹ کر ۔۔۔				
+reduce, reducible, irreducible	تخفیف، قابل تخفیف، ناقابل تخفیف				
+reduced (maths: order of diff equation)	تخفیف شدہ				
+reduction by integrating factor (to exact form)	تخفیف بذریعہ جزو تکمل				
+redundant	زائداز ضرورت				
+reference frame, frame of reference	حوالہ چھوکٹ				
+reference, reference point	حوالہ، علامت حوالہ، حوالہ نقطہ				
+reference standard	حوالہ معیار				
+reflected wave	انعکاسی موج				
+reflection	انعکاس				
+reflection coefficient, transmission coefficient	شرح انعکاس، انعکاسی مستقل، ترسیلی مستقل				
+reflector	عاکس				
+refraction	انعطاف				
+refractive index	انعطافی مستقل				
+refraction law: ibn Sahl's law of refraction	ابن سھل کا قانون انعطاف				
+refrigerator	سرد خانہ				
+regardless	قطع نظر				
+regime	طریق				
+region	خطہ، دائرہ عمل				
+region: rejection, acceptance, critical	خطہ منظوری، خطہ نا منظوری، خطہ فاصل				
+register [english]	رجسٹر، کھاتا				
+register [DLD]	دفتر				
+Register: shift left, shift right	دائیں انتقال دفتر، بائیں انتقال دفتر				
+Regression, regression analysis, regression line	 رجعت، رجعی تجزیہ، خط رجعت				
+regular distance (english)	برابر وقفوں پر				
+regular	منظم				
+regular singularity, irregular singularity	منظم نادر نقطہ، غیر منظم نادر نقطہ				
+regular point (maths)	منظم نقطہ				
+reject, rejector	رد، ردکار				
+reject, not reject	نا منظور، منظور				
+rejection region	خطہ نا منظوری				
+relate	تعلق پیدا کرنا، رشتہ قائم کرنا				
+relative	متعلقہ، نسبتا				
+relative density, relative error, relative frequency	کثافتِ اضافی، اضافی غلطی، اضافی ارتعاش				
+relative frequency, relative humidity	اضافی ارتعاش، اضافی رطُوبت				
+relative magnitudes, relative motion	اضافی مقادیر، اضافی حرکت، اضافی رفتار				
+relative position, relative rank,	اوضاع اضافیہ، اضافی عہدہ				
+relativity: special theory of relativity	خصوصی نظریہ اضافت				
+relativistic	اضافیتی				
+relativistic correction	اضافیتی تصحیح				
+relaxation method	ترکیب ڈھیل				
+relaxed	ڈھیلا				
+release (say a bomb from the plane)	چھوڑتا ہے				
+release (say a spring)	رہا کرنا				
+relevant	متعلقہ، بامقصد				
+reluctance	 ہچکچاہٹ				
+remainder (series), remainder term	باقی، جزو باقی				
+remainder estimation theorem	مسئلہ اندازہ باقی				
+remark	رائے زنی، رائے				
+remarkable	قابل ذکر				
+remote temperature sensor (antenna)	بعید پیما حرارت، بعید پیما تاپ				
+repair	مرمت				
+repeat, repeated term, [repetitive]	دہرانا، دہرا جزو، تکرار، [تکراری]	used for binary too but should not conflict			
+repellent: water repellent	مزاحم آب، پانی دھکیل				
+Replica , [second copy]	مثنیٰ				
+representation	روپ، اظہار				
+represent, representation	پیش کرنا، ظاہر کرنا، اظہار، روپ، بیان				
+representation of equation	مساوات کا روپ				
+representative rectangle	نمائندہ مستطیل				
+repulsion: force of repulsion	قوت دفع، دافع قوت				
+repulsive energy	دافع توانائی				
+repulsive force	دافع قوت				
+researcher	محقق				
+residual flux	بقایا بہاو				
+residual temperature (big bang)	بقیہ حرارت، بقیہ تاپ				
+residue (residue integrals)	بقیہ				
+resistance, AC, DC	یک سمت رو مزاحمت، بدلتا رو مزاحمت				
+Resistance R, conductance G=1/R	مزاحمت، ایصالیت				
+resistance: radiation resistance (antenna)	اخراجی مزاحمت				
+resistivity	قوتِ مزاحمت، مزاحمتی مستقل				
+resolve	تحلیل کرنا				
+resonance	گمک				
+resonant circuit, resonant frequency	گمکی دور، گمکی تعدد				
+resonance factor (maths)	گمکی جزو				
+resonance: nuclear magnetic resonance	مرکزوی مقناطیسی گمک				
+resonator	گمکیا				
+respective	متعلقہ				
+response	ردِ عمل				
+response time	رد عمل کے اظہار میں خرچ ہونے والا وقت				
+restoring force	بحال کن قوت، بحالی قوت				
+restrict: to restrict	پابند بنانا				
+restrictive	امتناعی				
+restricted, unrestricted	پابند، غیر پابند، پابند شدہ				
+result	نتیجہ				
+resultant	ما حصل				
+retarded potentials	تاخیری دباو				
+retarding	آہستہ کن				
+retina	پردہ بصارت، آنکھ پردہ				
+reveal	آشکار کرنا				
+revenue, profit, cost, interest	آمدنی، منافع، لاگت، ربا یا سود				
+reversible, irreversible process	قابل واپسی، ناقابل واپسی عمل				
+review and summary	نظرثانی اور خلاصہ				
+revival time	حیات نو عرصہ، تجدیدی عرصہ				
+revolving	طواف				
+Reynolds number	رینالڈ عدد				
+rhombus, [rhombic]	غیر قائمہ چوکور، [غیر قائمہ چوکوری]				
+Richard Dedekind (german pronunciation)	رشارت  دےدےکند				
+Richter scale (Charles Francis Richter)	چارلس فرانسس رکٹر				
+ride [amusement park ride]	سواری، سواری کرنا، سوار ہونا، گاڑی کاسفر، [تفریحی جھولا]				
+ride: one ride on a merry go round	جھولنا کا پھیرا				
+Riemann: Bernhard Riemann	برنہارڈ ریمان				
+Riemann number sphere	ریمان کرہ اعداد				
+Riemann zeta function	ریمان زیٹا تفاعل				
+right angle: cuts line  at right angle	زاویہ قائمہ پر قطع کرتی ہے				
+right triangle	قائمہ الزاویہ مثلث				
+Right-sided test	دایاں طرفہ پرکھ				
+rigid, [rigidity], {non rigid}	استوار، [استواریت]، {نا استوار}				
+rigid body motion	استوار جسم کی حرکت				
+rigid fixture	استوار قائم گر				
+rigid rotor (quantum mech)	استوار پھرکی				
+rigidly connected bodies	ایک دوسرے کے ساتھ سخت جڑے اجسام				
+rigorous	پختہ				
+rim 	حلقہ، چکا				
+rip	چیرپھاڑ				
+ripple (DC supply)	بل				
+ripple counter	لہریا گنت کار				
+rise, fall	اوپر اٹھتا، نیچے گرتا؛ اٹھتا بیٹھتا، اتار، چھڑاو				
+risk	خطرہ مولنا، خطر				
+risk: producer's risk, consumer's risk	خطر پیداکار، خطر خریدار				
+rising edge, falling edge, rise time, fall time, propagation time	کنارہِ چڑھائی، کنارہِ اترائی، دورانیہ اترائی، دورانیہ چڑھائی، دورانیہ ردِ عمل				
+rock climber	چٹان پیما				
+rocket, rocket propelled	راکٹ، راکٹی دھکیل، ہوائی بان				
+Rockwell hardness	راک ویل سختی				
+Rodrigues: Benjamin Olinde Rodrigues	بنجامن اولانڈے روڈریگیس				
+rods, cones:eye	سلاخ، مخروطے، مخروط				
+roller (like in roller bearing as against ball bearing)	بیلن؛ بیلن پہیا				
+roller coaster	تفریحی ریل گاڑی				
+roller skates, [skateboard]	پہیے دار جوتے، [پہیے دار تختہ]				
+Rolle's theorem; Michel Rolle	مسئلہ رول؛ مشل رول				
+roll a ball	گیند دیوار کی طرف لڑھکا دیا، یا گیند لڑھکایا				
+roll: to roll a ball	گیند لڑھکانا				
+rolling motion	لڑھکاؤ، لڑھکنی حرکت				
+roll: a ball that is rolling	لڑھکواں گیند				
+ROM: non-volatile memory	پختہ حافظہ				
+roof lines	رکاوٹی لکیریں				
+room temperature	رہائشی درجہ حرارت				
+root: square root, cube root, fourth root	جذر المربع، جذر الکعب، جذر المال				
+root: multiple root	مرکب جذر				
+roots of equation (in urdu it is jazar)	مساوات کے جذر				
+root mean square rms	موثر قیمت				
+Ronald Aylmer Fisher	رونلڈ ایلمر فشر				
+rope: taut, slack	جھول ڈھیلا، کسا				
+rotate	گھومنا				
+rotating, [rotation]	گھومنا، [گھماؤ]				
+rotating wave approximation	گھومتی موج تخمین				
+rotational axis	گھومنے کا محور، محور گھماو				
+rotation: generator of rotations	گھومنے کا پیداکار				
+rotator, [rotor], {rotating wave}	مدوریہ، [مدور]، {مدور موج}				
+rotor	حرکت پذیر، گھومنے والا حصہ				
+roughly speaking	اندازً بات کرتے ہوئے				
+round off, rounding, rounded	پور و پور؛ اوپر کو پور و پور، نیچے کو پور و پور، پورم پور	یا اوپر کو پورا کرنا، نیچے کو پورا کرنا			
+round trip	دو طرفہ سفر				
+rough	کھردرا				
+rounding error	پوروپور خلل				
+routine	معمولہ، طریق				
+routine: sub routine (computers)	ذیلی معمولہ				
+row equivalent	صف برابر، معادل صف				
+row (matrix)	صف				
+rubber band	ربڑی پٹی				
+ruler (foot rule)	مسطر				
+ruler: meter ruler, meter rod, meter stick	میٹر مسطر				
+rule, rules	قاعدہ، قواعد				
+rule: right hand rule, left hand rule	دائیں ہاتھ قاعدہ، بائیں ہاتھ قاعدہ، دایاں ہاتھ قاعدہ				
+run [horizontal movement, such as that of a stair step]	روانی				
+Runge-Kutta method	ترکیب رنج کوٹا				
+Runge-Kutta:Wilhelm Kutta	ولہلم کوٹا				
+Runge-Kutta: Carl Runge	کارل رنج				
+rupee	روپیہ				
+rural area	دیہاتی علاقہ				
+Rydberg constane	رڈبرگ				
+Saddle point, stationary point	ساکن نقطہ، نقطہ زین				
+safe	محفوظ				
+sag	جھول				
+Saiful Muluk lake	سیف الملوک جھیل				
+sail [sun sail]	باد بان، [شمس بان]				
+salient pole	ابھرے قطب اور ہموار قطب				
+same	ایک جیسی، ایک جتنے ، یہی، وہی، بعینہہ یہی یا وہی، برابر ہوں				
+same: has the same mass	ان کی انفرادی کمیت برابر ہے۔				
+Sample  [Model]	نمونہ [حسابی نمونہ]				
+sample distribution function	تقسیمی تفاعل نمونہ				
+sample space	نمونی فضا				
+sample values	نمونی قیمتیں				
+sampling: acceptance sampling	قبولیت نمونہ				
+sampling plan: single sampling plan, double sampling plan	نمونی منصوبہ، واحد نمونی منصوبہ، دوہرا نمونی منصوبہ				
+sampling property	خاصیت نمونہ بندی				
+sampling	نمونہ بندی				
+sampling	آواز کو عددی طور پر ضبط کرنے کا عمل				
+sandwich	بیچ لپیٹنا، لپیٹنا، میں لپیٹ کر				
+sandwich theorem	مسئلہ بیچ				
+satellite	مصنوعی سیارہ				
+satellites: sputnik, vanguard, syncom, skylab, tiros,GOES,intelsat					
+satellites: proton, viking,	پروٹان، وائکنگ				
+satisfied	مطمئن				
+saturation region: transistor	غیر-افزائندہ حال				
+saturate	سیراب ہونا، لبریز ہونا ، سیر ہونا				
+saturated	سیراب، لبریز ، سیر شدہ				
+Saturn planet	زحل				
+saw tooth	آری کے دندے				
+saw tooth wave	دندان موج				
+saw: hack saw, table saw	دستی آرا، میز آرا				
+scaffolding, scaffold	پاڑ				
+scalar	غیر سمتی مقدار				
+scalar triple product, mixed triple product	غیر سمتی سہ ضرب				
+scale: balance scale	ترازو، کانٹا، اسپرنگ ترازو، کمانی دار ترازو				
+scale	پیمانہ				
+scale: change of scale	پیمائشی فیتہ میں ردوبدل، درجہ وار پیمانہ	پیمانہ میں تبدیلی			
+Scale: log-log scale	پیمائش: لاگ لاگ پیمائش، ناپ	لاگ لاگ پیمانہ			
+scale: not to scale	درست پیمانہ کے مطابق نہیں ہے				
+scaling, row scaling	تبدیلی پیما، تبدیلی پیما صف	تبدیلی پیمانہ، تبدیلی پیمانہ صف			
+scatter	فشاں؟، بکھرنا، بکھراو				
+scatter off	بکھرتا ہے، بکھرنا				
+scattering amplitude	حیطہ بکھراو				
+scattering angle	زاویہ بکھراو				
+scattering states (quantum mech)	بکھرتے حالات، بکھراو حال				
+scattering: quantum scattering	کوانٹائی بکھراو				
+scattering: differential (scattering) cross section	تفریقی (بکھراو) عمودی تراش				
+scattering: Rutherford scattering	ردرفورڈ بکھراو				
+scheme	حکمت، منصوبہ				
+Schrodinger: time-independent Schrodinger equation	غیر تابع وقت مساوات شروڈنگر				
+schrodinger equation	مساوات شروڈنگر				
+scope	دائرہ گفتگو، دسترس				
+scot (of scotland)	اسکاچی				
+scoville heat unit [spiciness]	سکوول اکائی جلن				
+screen	پردہ				
+screw gauge	پیچی پیما				
+sealer (water resistant)	مسالہ (پن روک)				
+secondary side	ثانوی جانب				
+sector	حلقہ	 			
+seesaw	ہنڈولا				
+seldom	شاذ و نادر				
+select	چننا، [zain]، {اگرچہ انتخاب کے لئے چنا گیا یا چنی گئی استعمال ہو گا}				
+selection	چناؤ، انتخاب، مختص کرنا				
+self assembly	خؤد ساخت				
+self flux linkage	خود اِرتَباطِ رو				
+self inductance	خود امالہ				
+self excited DC machine	داخلی ہیجان شدہ یک سمتی مشین				
+semi	نیم				
+Semicolon (;)	وقف ناقص				
+semiconductors	نیم موصل اشیاء				
+Semi-infinite region	نیم لامتناہی خطہ				
+Semi-log, log-log axis	نیم لاگ، لاگ لاگ محور				
+Sense: broader sense	وسیع معنوں میں				
+sense: in a sense	ایک لحاظ سے				
+sense: to make sense	معنی خیز ہونا				
+sense: positive sense of curve (maths) (also called positive direction)	منحنی کی مثبت دائری سمت (مثبت سمت)	مثبت دائری سمت (مثبت سمت)			
+sensitive	حساس				
+sensitivity	حساسیت، اثر پذیری				
+sensor, [detector]	محسس، [کاشف، شناس]				
+separable equation (ordinary differential equations)	قابل علیحدگی مساوات				
+separately excited DC machine	بیرونی ہیجان یک سمتی مشین، خارجی ہیجان شدہ				
+separation constant	علیحدگی مستقل				
+separation of variables (differential equations)	علیحدگی متغیرات				
+sequence	مرحلہ				
+sequence: abc, acb, red blue green	ترتیب				
+sequential circuits	ترتیبی ادوار				
+sequential search and binary search	ترتیبی اور ثنائی  تلاش				
+Sergeil L'vovich Sobolev (Russian mathematician)	سرگی لووچ سوبولو				
+serial port	سلسلہ وار راہ				
+Series Maclaurin	مکلارن تسلسل				
+series	سلسلا وار				
+series, power series	طاقتی تسلسل				
+series winding	سلسلہ وار لچھا				
+set: set x=3	ایکس=3 لیں، ایکس تین کے برابر رکھیں				
+set: is set at 20 celcius	بیس درجہ پر مقرر ہے				
+set closure	بندش سلسلہ	بندش مجموع			
+set (maths), linearly independent set, subset	سلسلہ، خطی طور غیر تابع سلسلہ، ذیلی سلسلہ	مجموع، خطی طور غیر تابع سلسلہ، ذیلی سلسلہ			
+set (maths) dimension	بُعد				
+set, reset	راغب، غیر راغب				
+set: solution set, null set, nullity	سلسلہ حل، معدوم سلسلہ، معدومیت				
+set, (sets)	مجموع، (مجامع)	 			
+set, subset	سلسلہ، ذیلی سلسلہ	ذیلی مجموع			
+set theory	نظریہ سلسلہ	نظریہ مجموع			
+settle down to x	ایکس قیمت اختیار کر چکے ہوں گے				
+seven segment display	سات کلی نمائشی تختی				
+seventeenth, [seventieth]	سترھواں، [سترواں]				
+several	ایک سے زائد				
+sewage treatment plant	نکاس گھر				
+shaded	سائے دار				
+shaft	دُھرا				
+Shake (10^8 shakes equal one second)	شیک				
+shape	شکل				
+share	شریک بنانا				
+shear	کاٹنا، قینچ کرنا				 
+shear folding	قینچ تہہ				
+shear modulus	مقیاس قینچ				
+shearing force, shearing stress	جزی قوت، قینچ قوت، قینچ جبر				
+shell	خول				
+shield	چاند بادلوں کی اوٹ میں ہے۔ دھندلا نظر آنا، چھپ جانا، آڑ مہیا کرنا				
+shield, to shield, shielded, electrostatic shielding	سپر، سپر کرنا، سپر شدہ، برقی سکونی سپر	میٹرک			
+shielded wire, unshielded: faraday shield	فیراڈے پردہ، بے پردہ تار، پردے میں تار				
+shift	سرک جانا، منتقل ہو جانا، دور جانا				
+shifted: time shifted unit step function	وقتی منقولہ اکائی سیڑھی تفاعل				
+shift left, shift right, serial shift, parallel shift	دائیں منتقلی، بائیں منتقلی، سلسلہ وار منتقلی، متوازی منتقلی  				
+shin [part of leg below knee]	پنڈلی				
+shock wave	صدمہ لہر				dic,maths,indian
+short circuit	قصرِ دور: وہ نسبتا کم مزاحمت والا بغلی دور جو زیادہ مزاحمت والے برقی دور کے دو نقطوں کر درمیان بن جاتا ہے				
+short hand	مختصر نویسی، مختصر انداز لکھائی				
+short range force	قریب اثر قوت				
+shower	بوچھار				
+Siberia, siberian	سائبیریا، [سائبیریائی]				
+side: primary side, secondary side	جانب، طرف: ابتدائی جانب، ثانوی جانب				
+side (of triangle or square)	ضلع				
+side:two sided	دو طرفہ				
+side by side	ساتھ ساتھ، شانہ بہ شانہ				
+sideways	پہلو کی طرف				
+Siemens	سیمنز				
+Sign +, -, /, *	علامت	 			
+sign convention	علاماتی قاعدے				
+signed, unsigned number	علامت دار عدد، بے علامت عدد (غیر علامت دار عدد)				
+Signed-magnitude representation, [unsigned-magnitude representation]	علامت دار قدر اظہار، [بے علامت قدر اظہار]				
+signal	اشارہ				
+signal generator	اشارہ ساز، اشارہ پیدا کار				
+signature: matrix signature; [anything that identifies something]	اشاری قالب				
+significance	پُر معنی ہونا				
+significant: higher highest significant bit, lower lowest significant bit	بلند رتبہ والا دہرا عدد، بلند تر رتبہ والا ہندسہ، کم رتبہ، کم تر رتبہ والا ہندسہ	بامعنی اعظم دہرا عدد، بامعنی اقل دہرا عدد			
+significant digits  (number representation)	معنی خیز ہندسے	ملحوظ ہندسے			
+significant digits  (number representation)	بامعنی ہندسے	ملحوظ ہندسے			
+significant deviation	معنی خیز انحراف	بامعنی انحراف			
+significant level	معنی خیز سطح	بامعنی سطح			
+silencer, muffler	آواز روک				
+silicon	سلیکان				
+silver, [half silvered]	چاندی، [نیم نقرئی]، [نیم سیمی]				
+simplify,[simplifying]	سہل بنانا، [سہل کن، سہل گیر]				
+simplification	تسہیل				
+Simpson rule: Thomas Simpsom	قاعدہ سمسن				
+simulate	مصنوعیہ کرنا				
+simulation	مصنوعیہ کاری				
+simulator	مصنوعیہ کاری				
+simultaneous correction	بیک وقت اصلاح				
+simultaneous equations	ہمزاد مساوات				
+sine, cosine, tangent	سائن، کوسائن، ٹینجنٹ				
+sine, sine integral, complementary sine integral	سائن، سائن تکمل، متمم سائن تکمل	 			
+single	اکلوتا، اکیلا، صرف ایک				
+single valued	واحد قیمت				
+singular	نادر				
+singular point; regular singularity, irregular singularity	منظم نادر نقطہ، غیر منظم نادر نقطہ				
+singular solution (differential equations), singular matrix	نادر حل، نادر قالب				
+singularity (function having no differential  eg. Step, impulse,  black hole)	نادر تفاعل	 			
+singularity, essential singularity	ندرت، لازمی ندرت	 			
+sink, current sink	خارج کار برقی رو	گڑھا، گڑھا رو			
+sinusoidal wave	سائن نما موج				
+size (indian matric maths)	پیمائش				
+skin depth, skin effect	گہرائی جلد، جلدی اثر				
+similar, similarity	متشابہ، متشابہت				
+similar triangles, similarity, similarity transformation	متشابہ مثلثات، متشابہت، متشابہت تبادلہ				
+simply connected (region, maths)	سادہ تعلق (والا خطہ)				
+simulation	نقل اتارنا				
+simultaneous equations	ہمزاد مساوات				
+Sirius B	العبور با				
+situation, [situation A]	 صورت حال، صورتحال، [صورت الف]	صورت حال سے مراد حال کی صورت ہے لہٰذا صورتحال لکھیں			
+sketch	خاکہ بنانا				
+skew matrix	منحرف قالب				
+skewness	ترچھاپن				
+skate, ice skate, [skater]	پھسلن، برف پھسلن، [پھسلن باز]	؟؟			
+skate: roller skate, skates	پہیے دار تختہ، پھسلن تختہ				
+skis,skiing, [skier]	برف تختہ، برف رانی، [برف زن]				
+skis, skiing, skier	سکی، سکی کرنا، سکی کار، سکی باز				
+Ski-jump ramp	سکی اچھال میلان، برف زنی کا اچھال میلان				
+ski poles	سکی ڈنڈے، برف زنی ڈنڈے				
+skydiving, [sky diver]	فضائی کرتب، [فضائی کرتبیا]				
+slab	سِل				
+slack, [taut]	جھول [کسا]				
+Slater determinant (quantum mech)	مقطع سلیٹر				
+sledge or sled	پھسلنی گاڑی				
+sleigh	برف گاڑی				
+slice	کتلا	ٹکیہ، ٹکیاں			
+slide: to slide something	سرکانا، کھسکانا				rekhta dictionary
+slide: to slide across a lake	پھسل کر گزرنا، رپٹنا				
+slide: a body slides across a lake	ایک جسم جھیل پر گھسٹتا ہے [zain abbas]				
+slide [children’s playing slide]	پھسلاو، پھسلن				
+slide rule	کھسکواں پیمانہ				
+Sling , [slingshot]	فلاخن، گوپھن، [فلاخن کا وار] 				
+slip	سرک				
+slip knot, slip noose	سرک گرہ، سرک پھندا				
+slip ring	سرک چھلا				
+slippery	پھسلن زدہ [zain abbas]				
+slipping	سرکنا				
+slope	ڈھال				
+slope fields	میدان ڈھلوان				
+slot	شگاف				
+slotted line	شگاف دار تار				
+small quantities	متفرق (چھوٹی مدیں یا رقمیں)				
+Smith chart	سمتھ نقشہ				
+Smooth (a function is smooth at x0 if all its derivatives exist at x0)	ہموار				
+smooth: piecewise smooth	ٹکڑوں میں ہموار				
+smooth surface	ہموار سطح				
+smothness, smoothing	ہمواریت، ہموار کن				
+smooth (english)	روانی				
+snowball, snow ball	برف گولا				
+snow flakes	برفانی پرت، برفانی ورق				
+snow flakes (Helge von koch)	برفانی روئی، برف کی روئی (ہلگے ون کوچ)				
+snow flakes falling	پرت اترنا				
+snowy	برفانی				
+snail	گھونگا				
+snake: rattle snake	کھڑکھڑیا سانپ				
+Snell's law,  ibn Sahl's law of refraction	سنیل کا قانون، ابن سھل کا قانون انحراف				
+snubber (power electronics: RC snubber)	چپٹی کار				
+socket: electrical	ساکٹ				
+sodium	سوڈیم				
+software, hardware	سافٹ وئیر	نرم افزار، سخت افزار			
+soil, [sand]	مٹی، [ریت]				
+solar panel	شمسی چادر				
+solenoid	پیچواں لچھا				
+solid angle, beam solid angle (antenna)	ٹھوس زاویہ، ٹھوس زاویہ نقش				
+solid of revolution	جسم طواف				
+solidify	جمانا				
+solutions: particular solution, complimentary solution, general solution	جبری حل، فطری حل، عمومی حل	مخصوص حل، فطری حل، عمومی حل			
+solution, solutions	حل، حل				
+solution curve	منحنی حل				
+solution family	نسلِ حل				
+solution series	تسلسل حل				
+solution set	سلسلہ حل				
+solution space	حل فضا				
+solution vector	حل سمتیہ				
+solution (of liquids)	محلول				
+solve	حل کرنا				
+solution, solute, [solvent]	محلول، منحل، [محلل]				
+somersault	قلابازی				
+sommerfeld	سومرفلڈ				
+sonic boom	صوتی دھماکا				
+SOP, POS (sum of products, product of sums)	ضرب بعد از جمع، مجموعہ ارکان ضرب				
+sophisticated	نفیس				
+sort, sorting index	چھنٹائی، چھانٹ عدد				
+source: dependent & independent voltage source	تابع منبع دباو، غیر تابع منبع دباو				
+source: dependent & independent current source	تابع اور غیر تابع منبع رو				
+source program	ماخذ برنامہ				
+source, sink	مثبت منبع، منفی منبع	منبع، گڑھا			
+source transformation theorem: norton to thevenin	مسئلہ تبادلہ منبع				
+source:voltage source, voltage supply	منبع برقی دباو، منبع دباو				
+source: current sink	خارج کار منبع رو	گڑھا رو			
+source: current source	داخل کار منبع رو	منبع رو			
+source	منبع، وسیلہ				
+source, current source	منبع برقی رو، منبع رو				
+south pole	جنوبی قطب				
+space: position space	مقامی فضا				
+space: space probe	تحقیقی خلائی طیارہ				
+space: momentum space	معیار حرکی فضا				
+space: dual space	دوہری فضا				
+space: null space (maths)	معدوم فضا				
+space: outer, [outside]	بیرونی فضا، [باہر]				
+space, row space, column space (set, maths)	فضا، صف فضا، قطار فضا				
+space: solution space	حل فضا				
+space vehicle	فضائی طیارہ				
+span (set, maths)	احاطہ				
+spatial	فضائی				
+spark	چنگاری، شعلہ				
+sparse matrix	غیر گنجان قالب				
+spacecraft	خلائی طیارہ				
+space curve	فضائی منحنی	میٹرک			
+special	مخصوص، خصوصی				
+special functions or higher functions (maths)	اعلٰی تفاعل				
+species	نسل				
+specific	مخصوص، نوعی				
+specification	تخصیص، تصریح				
+specified limit	تصریح شدہ حد، مخصوص شدہ حد				
+spectral decomposition	طیفی تحلیل				
+spectral lines	طیفی خطوط				
+spectral packet	شعاعی پٹی				
+spectrometer	طیف پیما				
+spectroscopy, spectroscopist	طیف بینی، طیف پیمائی کار				
+spectrum; emission spectrum	طیف، اخراجی طیف				
+spectrum: amplitude spectrum, phase spectrum	مقداری طیف، زاویائی ہٹاو طیف				
+spectrum: discrete line spectrum	انفرادی لکیری طیف، غیر مسلسل طیف	غیر مسلسل طیف، غیر مسلسل طیفی لکیریں			
+spectrum: band spectrum	دھاری طیف				rekhta dictionary
+spectral radius	رداس طیف				
+speedometer, [accelerometer]	رفتار پیما، [سرعت پیما]				
+sphere	کرہ۔کرہ ارض				
+spherical angle	کروی زاویہ				
+spherical co-ordinate system	کروی نظامِ محدد				
+spherical curve	کروی منحنی				
+spherical harmonic analysis	کروی ہارمونی تجزیہ				
+spherical harmonics	کروی ہارمونیات				
+spherically	کرّے کے طور پر				
+Spike, spikes, spikes at the point	سوزن، سوزنات ، نقطہ پر سوزن نما  ہوتا ہے، سوزنی				
+spike: to spike at	سوزن بننا				
+spike: voltage spike	سوزن نما دباو				
+spikes (in a bicycle wheel)	تیلی، تیلیاں				
+split 	بٹ جانا، بٹنا				
+splitting: zeeman splitting, hyper fine splitting	زیمان بٹوارا، نہایت مہین بٹوارا				
+spin (quantum )	خلقی گھماو، چکر				
+spin (english use)	گھومنا، گھماو				
+spin angular momentum	چکری زاویائی معیار حرکت، زاوی				
+spin degeneracy	چکری انحطاط				
+spin field (calculus last chapter)	چکری میدان				
+Spin-orbit coupling	چکرومدار ارتباط				
+spin: up spin, down spin (quantum)	چکر، اوپر چکر، نیچے چکر، ہم میدان اور مخالف میدان چکر	 			
+spin state	چکری حال				
+spinor, spinors, [eigenspinor]	چکرکار، دکرکاروں [امتیازی چکرکار]				
+spiral, helical	پیچ دار				
+spline; modern term is flexible curve	لچکدار منحنی				
+splitting	بانٹ، تقسیم				
+sponge	اسفنج				
+spontaneous: spontaneous emission	ازخود، ازخود اخراج				
+spores	تخمک				
+spring: compressing a spring by  cm	اسپرنگ کو 5 سم دبانا				
+spring: stretching a spring 5 cm	اسپرنگ کو 5سم کھینچنا				
+spring; spring constant (modulus of elasticity)	اسپرنگ؛ اسپرنگ مستقلہ، (مقیاس لچک)				
+spring scale, spring balance	اسپرنگ ترازو، کانٹا، کمانی دار ترازو				
+springboard	کمانی دار تختہ				
+sprinter, runner	دوڑ باز				
+square	مربع				
+square: completing the square	تکمیل مربع۔ مربع مکمل کرنا				
+square integrable function	مربع  متکامل تفاعل				
+square integrability	مربع متکاملیت				
+square integral	مربعی تکمل				
+square root	جذر				
+square wave	چوکور موج				
+square well	چوکور کنواں				
+squirrel cage	پنجرہ نما				
+stability	توازن	استحکام			
+stable, unstable	مستحکم، استحکام، غیر مستحکم				
+stable: meta stable	نازک استحکام، نازک مستحکم 				
+stable, unstable	مستحکم، متوازن، مضبوط، پائیدار، نا پائیدار	متوازن			
+stable: keep stable	قابو رکھنا، قابو کرنا				
+stage: three stage adder	درجہ: درجہ تین جمع کرنے والا دور، تین منزلہ جمع کار				
+standing wave ratio (s)	شرح ساکن موج				
+standard deviation	معیاری انحراف	matric			
+Standard: standard form (of differential equation)	معیار، معیاری: معیاری حالت یا صورت یا شکل				
+standard rule	رواج، رائج طریقہ				
+star fish	ستارہ ماہی				
+Stark effect	شٹارک اثر				
+start from	آغاز کرنا				
+star connected: Y-connected, Delta connected	ستارا نما جُڑے، تکونی جُڑے یا تکون نما جُڑے				
+state vector	سمتیہ حال				
+statics	سکونیات				
+stationary point, saddle point	ساکن نقطہ				
+statistics, statistician	شماریات۔ ماہر شماریات				
+statistics: order statistics	شماریات رجحان				
+stator	ساکن حصہ				
+state, high state, low state, true, false	حال، بلند حال، پست حال، درست، غلط				
+state; ground state, excited state	زمینی حال، ہیجان حال				
+static field, electrostatic	ساکن میدان، برقی سکون				
+station [bus station]	اڈہ، [لاری اڈہ]				
+state: good state (quantum mech)	موزوں حال				
+Steady: steady state solution	برقرار: برقرار حالت حل				
+steady flow	یکساں بہاؤ				
+steady state, transient state	برقرار چالو، عارضی صورت				
+steady, steady state,steady state operation	یکساں حالت، برقرار: یکساں حال میں چالو				
+steam engine, steam boat	دخانی انجن، دخانی کل، دخانی کشتی، [یا بھاپ کشتی]				
+steel, (stainless steel), [metal]	فولاد (بے زنگ فولاد)، [دھات]				
+Stefan-Boltzmann formula	سٹیفن  و بولٹزمن کلیہ				
+Steiner theorem (Jacob Steiner)	مسئلہ سٹائنر؛ یعقوب سٹائنر				
+stellar	نجمی				
+step by step method	قدم با قدم ترکیب				
+step length	لمبائی قدم				
+step: lowest, highest step (quantum mech)	بالا ترین، نچلا ترین پایہ				
+steps, different steps	اقدام، چال، مختلف مراحل				
+steps: take steps	اقدام اٹھانا				
+step; (h in euler iteration method)	قدم				
+step function (oliver heaviside)	 سیڑھی تفاعل: اکائی سیڑھی تفاعل، الیور ہیوی سائیڈ				
+stereographic projection	مجسم نگارانہ تظلیل				
+Stern-Gerlach	شٹرن و گرلاخ				
+stick togeather	چپکنا				
+stiff, stiffness	سخت، سختی، (اکڑ، اکڑا، اکڑا پن،  کڑا پن)				
+stimulated, stimulate	تحرک زدہ یا تحرک شدہ،  تحرک زنی یا تحرک دینا				
+stimulus	مہیج				
+Stirling formula: James Stirling	کلیہ سٹرلنگ: جیمس سٹرلنگ				
+stochastic; stochastic process	امکانی شماریات؛ امکانی شماریاتی عمل	عشوائی؟؟			
+Stokes theorem (George Gabriel Stokes)	مسئلہ سٹوکس (جارج جبرائیل سٹوکس)				
+store	ذخیرہ				
+straight line	خط مستقیم، سیدھ				
+strategy	لائحہ عمل				
+straw	چسنا، چسنی				
+stray: inductance	غیر مطلوب: امالہ				
+stream of particles colliding an object	ذروں کی بارش ہو؛ ذرے برس رہے ہوں				
+streamlines	سمت بہاو	سیل، دھار؟؟؟			
+stream function	تفاعل بہاو				
+strength: yield strength, [ultimate strength]	مغلوبی مضبوطی، [اخیر مضبوطی]				
+strength: strength of impulse function	زور				
+stress, strain	جبر، بگاڑ				revisit, find better terms
+Stress-strain curve	جبر و  بگاڑ منحنی				
+stress: compressive stress, tensile stress	تناوی جبر، دباو جبر				
+stretch	تان، [کھنچ کر لمبا کرنا]، کھنچ جانا				
+strip off (electrons)	اکھاڑنا				
+stroboscope	گرداب بین				
+stonefly [insect]	سنگ مکھی				
+strong dependence	زیادہ تابعیت				
+strong force (strong nuclear force)	توانا قوت، [مرکزوی توانا  قوت]				
+strongly depend	زیادہ تابع ہے				
+structure	ڈھانچہ				
+stub; matching stub (transmission lines)	ہم رکاوٹی بنانے والا تار کا ٹکڑا، تار کا ٹکڑا، ٹکڑا تار				
+study	مطالعہ				
+Sturm-liouville problems; jacques charles francois sturm, joseph liouville	سٹیورم لیوویل مسئلہ؛ جیکویس چارلس فرانکوئس سٹیوورم، یوسف لییویل				
+sub: sub interval	ذیلی: ذیلی وقفہ				
+success	کامیابی				
+successive correction	یک بعد دیگرے، ہر اگلا	مسلسل اصلاح			
+subject to 	مشروط				
+subtle, subtlties	پراسرار، باریکیاں				
+subscript, superscript	زیر نوشت، زیر بالا، نوشت بالا[both are masculine]				
+subsequent	تحت تواتر				dic,maths,indian
+substrate	زیریں				
+subsidiary equation (Laplace)	ضمنی مساوات				
+substitute	کی جگہ رکھنا، پُر کرنا، ڈالنا				
+substitution (method of integration and homogeneous equations)	ترکیب بدل	matric			
+substitution, substitution group	قائم مقامی، بدل، قائم مقام گروہ				dic,maths,indian
+subtraction, addition	تفریق، جمع	جمع، منفی			
+suction, [suction cups], suction pump	کھنچاؤ، چساؤ، [باد کش پیالہ]، آب کش پمپ				
+sufficient (condition, maths), insufficient	کافی، نا کافی	 			
+sufficiently small	کافی چھوٹا				
+suggestive	معنی خیز، محرک خیال، خیال آفریں				
+suggests	ہمیں خیال آتا ہے؛ آمادہ کرتا ہے، عندیہ دینا				
+suggest	تجویز دینایا کرنا				
+suitable	موزوں				
+summary	خلاصہ، اختصار، اجمال				
+summation: summation over m gives us	ایم پر مجموعہ ہمیں ۔۔ دیاتا ہے				
+summation: lower (upper) limit of summation	مجموعی سلسلہ کا زیریں (بالائی) حد	note that the summation limits are the lowest and highest terms			
+sum: lower (upper) limit of sum	مجموعہ کا زیریں (بالائی، بالا) حد	whereas the limit of a sum is the limit of the sum’s total value			
+summation mark	علامت مجموعہ، جمعی علامت، علامت جمع				dic,maths,indian
+super massive	بے پناہ کمیتی				
+super: superconductor, super-symmetry	اعلٰی موصل، ایلٰی تشاکلی				
+super: superconducting electrons	 اعلٰی موصلی الیکٹران				
+superimposed	منطبق				
+supernova	عظیم نو تارہ، مستعر اعظم				
+superposition theorem	مسئلہ نفاذ، مسئلہ انطباق	مسئلہ خطی میل (ہندستانی میٹرک کے تحت انطباق)			
+super node	مخلوط جوڑ				
+support (that can hold things up)	تیک				
+supply: DC voltage; AC current	یک سمت منبع برقی دباو، بدلتا منبع برقی رو، منبع طاقت				
+supply: voltage, current	پیدا کار برقی دباؤ، برقی رو				
+surds and indices (index)	غیر ناطق جذر اور طاقت	must look for the terms used in matric			
+surface (plane) [plane surfaces]	سطح (مستوی)، [مستویات]	a surface may not be a plane			
+surface of revolution	سطح گردش، سطح طواف	سطح طواف			
+Susceptance; 1/Z=G+jB;  G=conductance and B=susceptance, 	تاثریت				
+susceptibility, magnetic, electric	مقناطیسی اثر پذیری، برقی اثر پذیری				
+suspension bridge	معلق پل				
+sweep, sweeps, [sweeps from a to b]	جھاڑنا، جھاڑتا ہے، [الف سے ب تک جھاڑتا ہے]				
+sweep; sweeps equal area in equal times	مساوی اوقات میں مساوی رقبوں کو واضح کرتا ہے				
+sweeping (english)	وسیع طعر پر				
+swimming pool	تالاب تیراکی				
+switch on, switch off	چالو، بند، غیر چالو				
+switch on time, switch off time	لمحہ چالو، لمحہ غیر چالو				
+switch	سوئچ ، کھٹکا				
+switch board (telephone)	سوئچ بورڈ				
+switch: spst, spdt, dpst, dpdt	ایک قطب ایک چال سوئچ، ایک قطب دو چال سوئچ، دو قطب ایک چال سوئچ، دو قطب دو چال سوئچ				
+switch: three way switch	تراہا سوئچ				
+Switzerland	سوئزرلینڈ				
+symbol	علامت				
+symmetry	تشاکل				
+symmetry, translational, rotational	انتقالی تشاکل، گردشی تشاکل، گھمیری تشاکل	میٹرک			
+symmetric, [symmetrically], {symmetrical}	متشاکل تناسب، تشاکلی، [متشاکلی؟]، {متشاکل}	تشاکلی			
+symmetric: antisymmetric	خلاف تشاکلی				
+symmetric matrix, skew symmetric matrix	تشاکلی قالب، منحرف تشاکلی قالب				
+symmetric: super-symmetric quantum mechanics	اعلٰی تشاکلی کوانٹم میکانیات				
+symmetrize	تشاکلی بنانا				
+symmetrized	تشاکلی شدہ				
+symmetrization	تشاکلیت				
+symmetrization requirement, antisymmetrization requirement	ضرورت تشاکلیت، ضرورت خلاف تشاکلیت				
+synchronous, synchronously	ہم عصر، قدم ملا کر چلنا				
+synchronous generator	معاصر جنریٹر	معاصر برق زا			
+synchronous circuits, asynchronous circuits	باقائدہ اور بے قائدہ ادوار				
+system	نظام				
+systemetic	منظم، با قاعدہ				
+Systems analysis	تجزیہ نظام				
+tab (to open a soda can, you pull it)	کنجی				
+tactic	حربہ				
+tag	نشاندہی کرنا				
+take: to take a value	قبول کرنا				
+takes into account	حساب رکھنا				
+tally mark	نشان شمار				
+tangents	مماسات				
+tangent of an angle	نسبت مماس				
+tangent plane	مماسی سطح، سطح مماس	مماسی مستوی			
+tangent circles (matric)	مماسہ دائرے				
+tangent to a circle	دائرہ کا مماس				
+tangential	مماسہ				
+tangent,tangential	مماس۔ مماسی:سطح کو ایک نقطہ پر چھونے والا خط جو متقاطع نہ ہو				
+tangential length	مماس کا طول				
+tangent: loss tangent (waves)	مماس ضیاع				
+tapping	کھٹکا				
+tapping point	نکاس نقطہ				
+target, target value, [targets]	ہدف، مطلوبہ قیمت، [اہداف]				
+tank (water tank)	حوض، سبیل				
+taut	کسا ہوا				
+tautochrones	یکساں وقتی منحنی				
+Taylor series: Brook Taylor	ٹیلر تسلس: بروک ٹیلر				
+Tchebichef polynomials: Pafnuty Lvovich Tchebichef	پفنوٹی لوو وچ چبیشف۔  چبیشف کثیر رکنی				
+technique	تکنیک				
+technology, technologies	ٹیکنالوجی؟؟؟، فن، فنون	فنیات			
+tectonic plates	ارضیاتی پرتیں				
+telescope, reflective	انعکاسی دوربین				
+television	ٹیلی ویژن				
+temperature	تاپ				
+Temperature; absolute (kelvin)	حرارت، حتمی حرارت، مطلق حرارت، مطلق تاپ	مطلق حرارت			
+temperature:physical	جسمانی حرارت، جسمانی تاپ				
+temperature: residual (big bang)	بقیہ حرارت، بقیہ تاپ				
+tends to zero	تقریبا صفر				
+tend to [USE THIS IN FUTURE]	مائل ہونا 				dic,maths,indian
+tension, tensile force,  [tension force]	تناو، تناوی قوت، [قوت تناو]				
+tension	کسنا، کھنچ جانا، تننا				
+tension and compression	تان اور داب				
+tensile strength	تنشی مضبوطی				
+tennis	ٹینس				
+tensor	تناوی مستقل				
+Tera byte	ٹیرا بائیٹ				
+term (sequences and series)	جزو				
+terminal speed	اخیر رفتار				
+terminal voltage	حاصل برقی دباؤ، برقی سِروں پر حاصل برقی دباؤ				
+terminals: electrical terminals	برقی سِرے				
+terminal zero	ختمی صفر				
+terminate at	مختتم ہوتا ہے				
+terminology	اصطلاحات				
+Tesla	ٹسلا				
+test, [trial]	پرکھ، [آزمائش]				
+test charge	پیمہ بار، پیمائشی بار				
+test cylinder	پرکھی بیلن				
+Test (a test for something)	پرکھنا، پرکھ				
+tests:extrinsic and intrinsic	بیرونی پرکھ، اندرونی پرکھ	 			
+test: test function (quantum mechanics)	پرکھی تفاعل، پرکھیا تفاعل				
+test: Leibniz test	لیبنٹز پرکھ				
+test: limit comparison test	پرکھ تقابل حد				
+test: comparison test	تقابلی پرکھ				
+test: derivative test	تفرقی پرکھ				
+test:nonparametric, distribution-free	غیر مقدار معلوم پرکھ، تقسیم پاک پرکھ				
+test: root test, ratio test, comparison test	جذری پرکھ، تناسبی پرکھ، تقابلی پرکھ				
+test: nth root test	این واں جذر پرکھ				
+test: direct comparison test, limit comparison test	بلا واسطہ تقابلی پرکھ، بالراست تقابلی پرکحھ ، تقابل حد پرکھ				
+testing	پرکھنا				
+tetragonal	چو زاویہ				
+tetrahedron, polyhedron	چو سطحہ، چو سطحی، کثیر سطحی				
+text book	درسی کتاب				
+theater	نقل گھر				
+theorem	مسئلہ				
+theorem: alternating series estimation theorem	مسئلہ بدلتے تسلسل کا اندازہ				
+theorem: error estimation theorem	مسئلہ اندازہ باقی				
+theorem: initial value theorem, final value theorem (Laplace)	مسئلہ ابتدائی قیمت، مسئلہ اختتامی قیمت				
+theorem, corollary, lemma, proof, definition, remark	مسئلہ:ضمنی نتیجہ، مسلمہ قطیہ، ثبوت، تعریف، قابل توجہ				
+theorem: linearization	مسئلہ خطی بنانا				
+theory, theoretical	نظریہ، نظریاتی				
+thermal	حراری، حری، حر				
+thermal conductivity	حراری موصلیت، حری موصلیت				
+thermal noise	حراری شور، حری شور				
+thermal shield	حری سپر				
+thermometer	تھرمامیٹر				
+thermostatic switch	خود کار حراری سوئچ				
+thevenin	تھوِنن				
+thevenin: Leon Charles Thevenin	لیوں شارلس تھونن				
+Thomas precession	طامس استقبالی حرکت				
+thorium	تھوریم				
+three dimensional	تین طرفہ، تین بُعدی	سہ بعدی			
+three phase system	تین دوری نظام				
+threshold	دہلیز				
+thrust	دھکا				
+thyroid gland	غدود درقیہ				
+tibia	پنڈلی کی ہڈی				
+tide: tidal effect	مدوجزر، مدوجزری اثر				
+tie rod	ٹیک سلاخ، ٹیک				
+tight	کڑا، کڑی				
+tight fit	چست بیٹھنا				
+tilde	اعراب، مد، فرق نشان				فرق نشان urdu ind dic
+tilt angle (polarized wave)	زاویہ جھکاو				
+time constant	وقتی مستقل				
+time domain: laplace transform	وقتی دائرہ کار				
+time exposure	وقتیہ افشا				
+Time-scaling theorem (Laplace)	مسئلہ متناسب وقت				
+Time-shifting theorem (Laplace)	مسئلہ منتقلی وقت				
+time period T	دوری عرصہ 				
+time period: primitive time period	اولی دوری عرصہ				
+timing	اوقات کار				
+time delay, response time	دورانیہ ردِ عمل				
+time: high time, low time,response or delay time	بلند دورانیہ، پست دورانیہ،دورانیہ ردِ عمل 				
+time table	نظال الاوقات، انضبات اوقات				
+timings: rising edge, falling edge, rise time, fall time, propagation time	کنارہِ چڑھائی، کنارہِ اترائی، دورانیہ اترائی، دورانیہ چڑھائی، دورانیہ ردِ عمل				
+tip	سرا				
+tip over	الٹنا				
+titanium	طیطانیم				
+toe, toes	پنجہ				
+toe, ankle, calf, knee, thigh	پنجہ، ٹکنہ، پنڈلی، گھٹنا، ران				
+tola, masha [gold measures]	تولہ، ماشہ				
+Tolerance: values have 5% tolerance	خلل: قیمت میں پانچ فی صد خلل پایا جا سکتا ہے۔	چھوٹ			
+tolerance: (the bolt’s tolerance is 5%)	برداشت				
+Tom Attridge	ٹام اٹرج				
+ton: freight, registered, displacement	مال برداری ٹن، درج ٹن، ہٹاو ٹن				
+top	لٹو				
+top: top a peak	چوٹی سر کرنا				
+top, bottom	چوٹی، تل				
+top to bottom	اوپر سے نیچے تک				
+topic	موضوع				
+topology	علم مقامیات				
+torsion	مروڑ				
+torsional vibration	مروڑی ارتعاش				
+torso	دھڑ				
+toroid, torus	چھلا، اندرسہ				
+torque, moment arm	قوت مروڑ، معیار اثر کا بازو	قوت گردشہ (میٹرک ہندستان)			
+torque: moment of force	قوت کا معیار اثر				
+total, [total income]	کُل، [خرجہ]				
+totality	کل تعداد				
+total internal reflection	مکمل اندرونی انعکاس				
+touch	مس، لمس				
+touch:ability to touch، [touchable]	لمسیت، [لمس پذیر]، {لمسانا کا مطلب محسوس کرانا}				
+tower: leaning tower of Pisa	بُرج؛ پیسا کا جھکا بُرج				
+towrope	کھینچ رسن				
+toy train	کھلونا ریل گاڑی				
+trace [english]	سراغ رسائی،پہچان				
+trace (of matrix)	آثار قالب				
+traffic	آمد و رفت				
+traffics signal	چوراہا بتی، چوراہے پر آمد و رفت بتی				
+trail	پگڈنڈی				
+trajectory	خط حرکت	گزرگاہ			
+transadmittance	فراوانی نما	پزیرش نما			
+transcendental equations	ماورائی مساوات				
+transconductance, transresistance	موصلیت-نما، مزاحمت-نما				
+transducer	مبدل				
+transfer	منتقل				
+transfer function: networks H(s)	تبادلی تفاعل				
+transformer oil	ٹرانسفارمر تیل				
+transform	تبادل				
+transform, laplace transform	لاپلاس بدل	لاپلاس تبادلہ			
+transform: to transform	تبادلہ کرنا				
+transformation	مبدل				
+transformation: impedance transformation	برقی رکاؤٹ کا تبادلہ				
+transformation:angular transformation, linear transformation	خطی تبادلہ، زاویائی تبادلہ، زاوی				
+transient state, steady state	برقرار چالو، عارضی صورت				
+transient, transient state,transient state operation	عارضی، عارضی حالت، عارضی حال میں چالو				
+transistor: active mode	افزائندہ حال				
+transistor: saturation mode	غیر-افزائندہ حال				
+transistor: cutoff mode	منقطع حال				
+transition from one state to another	تحویل	ایک حال سے دوسرے حال میں تحویل کرنا			 
+transition frequency	تحویلی تعدد				
+transition probability	تحویلی احتمال				
+transition rate	تحویلی شرح				
+transitional period	 تحویلی دوری عرصہ				
+translation, [translational kinetic energy]	مستقیم حرکت، [مستقیم حرکی توانائی]				
+transmission coefficient	شرح ترسیل، ترسیلی مستقل				
+transmitter	ٹرانسمٹر، مرسل، ترسیل کنندہ				
+transmitting antenna	اخراجی اینٹینا، ترسیلی اینٹینا				
+transmission lines	ترسیلی تار				
+transposition (of matrix)	تبدیلی محل				
+transpose matrix G^T	تبدیل محل قالب				
+transverse electric wave impedance, transverse magnetic wave impedance	عرضی برقی موج کی رکاوٹ، عرضی مقناطیسی موج کی رکاوٹ				
+transverse wave	عرضی موج				
+trapezium (matric)	ذوزنقہ				
+trapezium rule	قاعدہ ذوزنقہ				
+traverse	چلنا				
+treat	برتاو کرنا				
+tree diagram	شکل شجرہ				
+trend: positive trend, negative trend	مثبت رجحان، منفی رجحان				
+TEM, TE, TM	عرضی برقی و مقناطیسی، عرضی برقی، عرضی مقناطیسی				
+triad (maths, unit orthogonal vectors, fundamental orthogonal triad)	ثلاثہ قائمہ اکائی سمتیات				
+trial, [trial function]	کوشش، [آزمائشی تفاعل]	matric			
+triangular lower matrix, triangular upper matrix	بالائی تکانی قالب، نچلا تکونی قالب				
+triangular wave	تکونی موج				
+triangle: right angle triangle	قائم مثلث				
+trigger	حرکت میں لانا، متحرک کرنا				
+Trigger, [edge is the trigger]	لبلبی، [کنارہ لبلبی کا کردار ادا کرتا ہے، یا لبلبی ہے]				
+triggered, [edge triggered flip flop]	کنارہ پر عمل کار پلٹ کار 				
+trignometric function, inverse trignometric function	الٹ تکونیاتی تفاعل				
+trignometric ratio	تکونیاتی نسبتیں				
+trignometric Fourier series	تکونیاتی  فوریئر تسلسل				
+trihedron (maths)	سہ سطحی مجسم				
+trip	سفر				
+triple integral	تہرا تکمل				
+triple product (scalar triple product)	غیر سمتی سہ ضرب				
+triplet	تین کی جوڑی، سہ گانی، سہ گانہ				
+triplet, singlet (quantum mech)	یک تا، سہ تا، سہ گانی (سہ گانہ)	یاد رہے کہ یکتا سے فرق پیدا کرنے کی خاطر اس کو یک تا لکھا جائَ گا			
+trisection (division  into three equal parts)	تثلیث				
+Tri-state	سہ حال				
+trivial	حقیر، بے وقعت، حقیر سا کام				
+trivial solution (maths), non trivial solution	غیر اہم صفر حل، غیر صفر اہم حل، حقیر، غیر حقیر، مہمل				
+truncation	حذف کرنا				
+trochoid	زیر تدویری				
+trough(shape)	کونڈا				
+trough: (read wave)	نشیب				
+true, false, high, low, high state	درست، غلط، بلند حال، پست حال				
+truth table	فہرستِ درستگی				
+tsunamis	سونامی				
+tube	نلی، نلکی				
+tuned, untuned	ہم سُر، بت سُر				
+tunguska event, river	تنگسکا وقوعہ				
+tunnel vision	سرنگی نظر، سرنگی بینائی				
+tunneling, tunneling effect, tunneling rate	سرنگ زنی، سرنگ زنی اثر، سرنگ زنی شرح				
+tuple:  N tuple	این اجزائی، این جزوی سلسلہ				
+turbine: water turbine	چرخاب				
+turbulence, [turbulent]	تلاظم، [تلاظمی]				dic,maths,indian
+turbulent flow	متلاطم بہاو، تلاظمی بہاو				
+turn (general language usage)	موڑ				
+turns	چکر				
+turn on, turn off	چالو، منقطع				
+turn on, turn off	بیدار ہونا، سو جانا				
+turntable	تختہ گھوم				
+turn the table (english)	پانس پلٹ دینا				
+turning point (quantum mech)	واپس پلٹنے والا نقطہ, واپسیں نقطہ				
+TV	ٹیلی ویژن				
+two port network	چار سر دور				
+twisted curve	بلدار منحنی، ٹیڑھی میڑھی منحنی				
+typical value	علامتی قیمت				
+typically	عام طور پر				
+typist	ٹائپ کار				
+ubiquitous	جگہ جگہ پائے جانا				
+ultraviolet	بالائے بصری شعاع				
+Ultra-relativistic	بالائے اضافیتی				
+unbiased	غیر جانب دارانہ				
+uncertainty principle, [uncertainty]	عدم یقینیت کا اصول، [عدم یقینیت]				
+uncovered charges	بے پردہ، نمودار				
+undamped	بلا تقصیر				
+undamped natural frequency	بلا تقصیر قدرتی تعدد				
+undefined	غیر معین				
+undeterminable	نا قابل معلوم				
+undetermined: method of undetermined coefficients	نا معلوم عددی سر کی ترکیب				
+under: area under the curve	رقبہ زیر منحنی				
+under: under the assumption	زیر مفروضہ				
+under damped	کم مقصور				
+under root (square root)	جذر				
+undergo	سے گزرنا				
+underground (tunnel)	زمین دوز سرنگ، زیر زمین راستہ یا گزرگاہ				
+unicode, utf-8	عالمی رمز،  یو ٹی ایف-8 				
+unified theory	مربوط نظریہ				
+uniform, [uniformity]	یکساں، [یکسانیت، ایک جیسا پن، یکساں روی]				
+uniform (shape)	یکساں پیکر				
+union and intersection (sets)	اشتراک اور تقاطع				
+unique solution	یکتا حل				
+uniqueness	یکتائی				
+unit	اکائی				
+unity	ایک				
+unitary matrix (quantum)	اکہرا قالب				
+united states of america	ریاست ہائے متحدہ امریکہ				
+unit impulse function	اکائی ضرب تفاعل				
+unit impulse response, unit step response, Dirac delta function, Heaviside step	اکائی ضرب ردعمل، اکائی سیڑھی ردعمل، ڈیراک ڈیلٹائی تفاعل				
+unit matrix	اکائی قالب				
+unit step function, Heaviside step function	اکائی سیڑھی تفاعل، ہیوی سائیڈ اکائی سیڑھی تفاعل				
+unit step function: time shifted	وقتی منقولہ اکائی سیڑھی تفاعل				
+universal (universal constant)	عالمگیر  (عالمگیر مستقل)				
+universal gravitational constant	عالمگیر تجاذبی مستقل				
+unmanned	بے انسان				
+unstable	غیر قابو، نا پائیدار				
+upper, lower	بالائی، بالا، زیریں				
+Upside down, upright	سر نیچے، سر اوپر یا سیدھا کھڑا، اوندھا				
+up or down a slope	میلان پر چڑھائی یا اترائی کے رخ				
+upward, downward	فرازی، نشیبی				dic,phy,indian
+upward, downward	اوپر وار، نشیب وار				dic,maths,indian
+uranium	یورینیم				
+Uranus planet	یورانس				
+usb: universal serial port	یو-ایس-بی				
+usual: as usual, [unusual]	ہمیشہ کی طرح، معمول کے مطابق، معمولاً، حسب معمول، [غیر معمولی]				
+vacuum tube	خلا نلکی				
+valence electrons	گرفتی الیکٹران				
+valency	کیمیائی گرفت				
+valid	کارآمد				
+value, evaluation	قیمت، تخمینہ				
+value: exceptional value (essential singularity)	مخصوص قیمت				
+van del Pol equation (Balthasar van der Pol)	مساوات ون در پول				
+Van der Waals interaction	ون در والس باہم عمل				
+vanish	معدوم، ناپید				
+variable [as that can vary]	تغیر پذیر 				
+variable, variables, dependent, independent	 متغیرہ , متغیرات، متغیر، آزاد اور تابع متغیرہ				
+variable AC, DC	یک سمت  رومتغیر، بدلتا رو متغیر				
+variable capacitor	تغیر پذیر برق گیر				
+variable separation technique (ordinary differential equations)	علحدگی متغیرات تکنیک				
+variance, covariance	تغیریت، باہمی تغیریت	matric			
+variation of parameter	مقدار معلوم بدلنے کا طریقہ				
+variational principle	اصول تغیریت				
+vector	سمتیہ				
+vector	سمتیہ: ایک ایسی لکیر جو ایک خاص سمت میں ایک ابتدائی نقطہ سے اختتامی نقطہ کی طرف کھینچی جائی	خط حامل:وہ خط جس کا طول اور سمت معین ہو			
+vector addition	جمع سمتیات				
+vector analysis	سمتی تجزیہ				
+vector components; matrix elements	سمتیہ کے اجزاء اور قالب کے ارکان				
+vector field	سمتی میدان				
+vector function; vector-valued function	سمتی تفاعل، سمت قیمت تفاعل				
+vector product, cross product	صلیبی ضرب، سمتی ضرب				
+vector projection	تظلیل سمتیہ				
+vector quantity	سمتی مقدار: وہ مقدار جو خط حامل سے ظاہر کی جائے				
+vector: row vector, column vector	سمتیہ صف، سمتیہ قطار				
+vector space, subspace	سمتی فضا، ذیلی فضا				
+vector: state vector	سمتیہ حال				
+vector: unit vector notation	اکائی سمتی ترقیم				
+vehicle	سواری				
+vein	رگ				
+velocity, (velocity vector)	سمتی رفتار،( سمتیہ رفتار)				
+velocity field	سمتی رفتاری میدان				
+velocity vector	سمتی رفتاری سمتیہ				
+velocity: phase velocity, group velocity	دوری رفتار، مجموعی رفتار، گروہی رفتار				
+Venn diagram: John Venn	وین اشکال: جان وین				
+vent [like in a teapot]	نکاس نلی				
+vent: volcano vent	روزن آتش فشاں، آتش فشاں کا منّہ، [آتش فشاں کا دہانہ]				
+Venus planet	زھرہ				
+verge: on the verge of	دہانہ؛ دہانے پر				
+Verhulst equation (logistic equation, population growth); Pierre Francois Verhulst	ورہلسٹ مساوات؛ پیّر فران				
+verify	تصدیق				
+version	انداز				
+versus	بمقابلہ، مقابل، بالمقابل				
+vertex, vertices of triangle	راس، راسیں، راسوں				
+vertex factors [quantum mech]	جزو ضربی راس				
+vertical	سیدھی کھڑی	 			
+vertical line, vertical plane	انتصابی خط، عمودی سطح	انتصابی خط، عمودی مستوی			
+vertical, vertical axis	انتصابی محور، عمودی				
+vertically	عموداًً ، سیدھی کھڑی				
+vibrating body	مرتعش جسم				
+vibration	ارتعاش، لرزش				
+video	ویڈیو، بصری				
+video game, video tape	بصری کھیل، بصری فیتہ				rekhta dictionary
+view	منظر				
+violation	خلاف ورزی				
+violet colour	بنفشی				
+virial theorem	مسئلہ وریل				
+virus	وائرس				
+viscous, non viscous	چپچپا، غیر چپچپا	لزوجت آمیز، لزوجت			
+viscous, (viscocity)		ملزج ،(لزوجت)			
+visible light	بصری شعاع				
+visible spectrum	مرئی طیف				
+vision	بینائی				
+VLSI very large scale integration	انتہائی وسیع  پیمانے   کے مخلوط ادوار				
+void ratio	تناسب خلا				
+volcano, volcanic	آتش فشاں، آتش فشانی				
+Volt-ampere	وولٹ ایمپیئر				
+voltage	برقی دباؤ				
+voltage applying	برقی دباؤ دینا یا لاگو کرنا				
+voltage fall	برقی دباؤ کا گھٹنا	 			
+voltage rise	برقی دباؤ کا چڑاو				
+voltage source, voltage supply	برقی دباؤ کی سپلائی				
+voltage transformation: impedance transformation	برقی دباؤ کا تبادلہ				
+voltage: peak voltage	کلاہی برقی دباؤ ؟؟؟؟				
+voltmeter	وولٹ پیما				
+volume	حجم				
+vortex, vorticity	گرداب، گردابیت				
+waist, hip	کولھا				
+walkway: moving walkway, sidewalk	رواں پگ ڈنڈی، روش				
+wall mounted	ثبت بہ دیوار				
+walter andrew shewhart	والٹر انڈرو شوہارٹ				
+warehouse	گودام				
+warn	خبردار کرنا				
+warning; warning signs	انتباہ، تنبیہ؛ تنبیہی نشانیاں				
+water fall	آبشار				
+water slide	آبی پھسلن				
+water way	پانی کی نالی، کاریز				
+wave	لہر، موج				
+wave theory	نظریہ تموج				
+wave: amplitude	حیطہ				
+wave:carrier, modulating	سواری موج، سوار موج، سواری تعدد، سوار تعدد				
+wave: compression	دباؤ کی موج				
+wave: crest	فراز: موج کا وہ حصی جہاں واسطہ کے ذرات عام حالات سے بلندی پر ہوں فراز کہلاتے ہیں				
+wave: frequency	تعدد: تعدادِ ارتعاش کو تعدد کہتے ہیں				
+wave guide	مویج، رہبر موج				
+wave: longitudinal wave	طولی موج				
+wave: loudness	بلندی				
+wave: mean position, extreme position	وسطی نقتہ، انتہائی مقام				
+wave: wave number	عدد موج				
+wave: periodic motion	دوری حرکت				
+wave: pitch					
+wave: plane	مستوی سطح	مستوی موج			
+wave: quality	کیفیت				
+wave: rarefaction	پھیلاؤ کی موج				
+wave: reflected	انعکاسی موج				
+wave shapes: triangular, rectangular, square, saw tooth, sinusoidal	تکونی، مستطیل، چوکور، دندان، سائن نما				
+wave: time period	دوری عرصہ 				
+wave: transverse wave	عرضی موج				
+wave: trough	نشیب: موج کا وہ حصہ جہاں واسطہ کے ذرات عام حالت سے نیچے ہوں نشیب کہلاتے ہیں				
+wave: wave vector	سمتیہ موج				
+wave: vibration, vibrating body	ایک ارتعاش، مرتعش جسم				
+wave: wave length	طولِ موج				
+weak nuclear force [strong nuclear force]	مرکزوی ضعیف قوت، [مرکزوی توانا قوت]				
+Weber (magnetism)	ویبر				
+weber's equation (maths); Heinrich weber	ہائنرک ویبر				
+Weddle's rule	قاعدہ ویڈل				
+wedge	پچر				
+weight, [weighing]	وزن، [تول]				
+weightless	بے وزن ہلکا محسوس کرنا				
+weightlessness	بے وزنی کی حالت				
+weight function	تفاعل قدر، تفاعل وزن				
+weightage	قدر،  مختص وزن، تُلائی				
+Weld , cold weld, hot weld	یخ جوڑ، گرم جوڑ				
+Well-conditioned	خوش خو، خوش خوئی				
+wheatstone bridge (sir charles wheatstone)	ویٹ سٹون پل، چارلس ویٹ سٹون				
+wheel: the central part that has the hole for an axle	ناگر				
+white dwarf, red dwarf	سفید بالشتیا،  سرخ بالشتیا				
+wide range	وسیع حد				
+wien bridge oscillator	وائن مرتعش				
+Wien displacement law	وائن قانون ہٹاو				
+Wigner	وگنر				
+wilson	ولسن				
+William Sealy Gosset	ولیم سیلی گوسٹ				
+wind, breeze, storm, cyclone, hurricane [tornado]	ہوا، ہلکی ہوا، تیز ہوا یا آندھی، چکردار آندھی، طوفان، گردابی طوفان				
+winding factor kw	لچھے کا جُزو ضربی				
+winding, to wind, wound	لپیٹنا، لپٹا ہوا				
+wind tunnel	ہوائی سرنگ				
+wire	تار	مونث			
+wireless	بے تار				
+wireless broadcast	بے تار نشریات				
+winged	پر دار				
+wiring: house wiring diagram	گھریلو تار بندی کا نقشہ				
+within: all points within a body	جسم کے تمام اندرونی نقطے				
+WKB approximation (Wentzel, Kramers, Brillouin)	ونٹزل کرامرس برلوان تخمین				
+Wooters, Zurek, Dieks	ووٹرز، زورک، ڈائکز				
+work done [physice]	سرانجام کام				
+work integral	تکمل کام				
+workable	قابل استعمال، کارآمد				
+working	کارکردگی				
+working origin; method of	ترکیب مبدا کام				
+wrench, pipe wrench	پائپ پانا				
+wrist	کلائی				
+Wronskian	ورونسکی				
+xor gate	بِلا شرکت آرگیٹ، دو متغیر منطقی بلاشرکت جمع				
+x, y, z	ایکس، وائے، زیڈ				
+X ray	ایکس رے				
+y11: short-circuit input admittance	قصر دور داخلی فراوانی	 			
+y12: short-circuit  transadmittance	قصر دور فراوانی نما	 			
+y21: short-circuit  transadmittance	قصر دور فراوانی نما	 			
+y22: short-circuit output admittance	قصر دور خارجی فراوانی	 			
+Young's modulus of elasticity, young modulus	ینگ مقیاس لچک، مقیاس ینگ				
+Y parameters: y11, y12, y21, y22 	Y مقدار				
+Yo-Yo, Yo Yo	ڈوری دار لٹو				
+Yukawa potential	یوکاوا مخفیہ				
+Yukawa scattering	یوکاوا بکھراو				
+Zaryab, Iffat	زریاب				
+Zeeman effect	زیمان اثر				
+Zeeman splitting	زیمان بٹوارا				
+Zeeman: strong field zeeman splititng	طاقتور میدانی زیمان بٹوارا				
+Zeeman: weak field zeeman splitting	کمزور میدانی زیمان بٹوارا				
+Zeno effect	زینو اثر				
+Zeno paradox	زینو تضاد				
+zero: non zero	غیر صفر				
+zero crossing	عبور صفرصفر مقام انقطاع				
+zero point	نقطہ آغاز، نقطہ صفر، صفر نقطی				
+Zig-zag	بھل کھاتا،کنگی نما				
+zone	علاقہ				
+					
+antiproton, antielectron, antineutron	ضد پروٹان، ضد الیکٹران، ضد نیوٹران				
+photon	نوریہ				
+ion	بارداریہ				
+anion	منفی بارداریہ				
+cation	مثبت بارداریہ				
+dianion	دوہرا منفی بارداریہ				
+dication	دوہرا مثبت بارداریہ				
+ionization	بارداری عمل				
+charged	باردار				
+ionized	باردارہ				
+ionic	بارداروی				
+ionic compound	بارداروی مرکب				
+monoatomic ion	یک جوہری بارداریہ				
+polyatomic ion	کثیر جوہری بارداریہ				
+electrode	برقیرہ				
+anode	مثبت برقیرہ				
+cathode	منفی برقیرہ				
+intrinsic (quantum mech)	خلقی				
+extrinsic (quantum mech)	غیر خلقی				
+integrated circuit (IC)	مخلوط دور				
+input (the thing being input)	ادخال				
+output (the thing being output)	اخراج				
+to input	داخل کرنا				
+to output	خارج کرنا				
+input( the point where things are input)	مدخل				
+output (the point where things are output)	مخرج				
+port (computer port)	روزن				
+cross symbol that crosses out	کاٹا				
+quantum	کوانٹم				
+quanta	کوانٹا				
+quantized	کوانٹاشدہ				
+quantization, quantization condition	کوانٹازنی، کوانٹازنی شرط				
+electronic configuration (in an atom)	برقیائی تقسیم، برقیائی تنظیم				
+pion, kion	پایون، کایون				
+microprocessor					
+microcontroller					
+computer	حاسب				
+calculator	عداد، حساب کار (کلکولیٹر)، محاسب				
+reciprocal					
+converse	مقابل				
+inverse					
+negate	نفی کرنا				
+gyroscope	مسکن چرخی				
+gyromagnetic ratio	مسکن مقناطیسی نسبت ؟؟؟				
+artificial	مصنوعی				
+synthesis	تعلیف				
+synthesizer	معلف				
+synthetic	تعلیفی				
+avagadro constant	ایوگادرو مستقل				
+resolution	تحلیل				
+density of states	حالتوں کی کثافت				
+SI (system of units)	اکائیوں کا بین الاقوامی نظام				
+stoichiometry	کیمیائی مقادیر پیمائش				
+wavefunction	تفاعل موج [مذکر]				
+numerical difference method	عددی فرق کا طریقہ				
+vice versa	معکوس عکس، معکوس امر، بالعکس، پلٹ کر،				
+reaction (chemistry)	تعامل				
+reactive (chemistry)	متعامل،  عامل				
+product (chemistry)	ماحصل				
+organic chemistry	نامیاتی کیمیا				
+inorganic chemistry	غیر نامیاتی کمییا				
+electronic structure	برقیاتی ساخت،[ الیکٹرانی ساخت: برقیات کے میدان کے لئے]				
+cohesion	ہم اتصالی				
+adhesion	غیر اتصالی				
+combustion	احتراق				
+electron, proton, neutron	پروٹان، الیکٹران، نیوٹران	 			
+electronic [pertaining to electrons]	الیکٹرانی				
+hydrogen, [hydrogenic]	ہائیڈروجن، [ہائیڈروجنی]				
+helium, parahelium, [orthohelium]	ہیلیم، نزدہیلیم، [ہیلیم پرست]				
+nitrogen	نائیٹروجن				
+oxygen	آکسیجن				
+lithium	لتھیم				
+beryllium	 بیریلیم 				
+neon	نیون				
+sodium	سوڈیم				
+magnesium	مگنیشیم				
+aluminium	سلور				
+silver	چاندی				
+argon	آرگن				
+calcium	کلشیم				
+potassium	پوٹاشیم				
+scandium	اسکینڈیم				
+zinc	جست				
+gallium	گلیم				
+krypton	کرپٹان				
+dysprosium	ڈسپروزیم				
+titanium	طیطانیم				
+cesium	سیزیم				
+					
+alpha particle	ذرہ الفا				
+
