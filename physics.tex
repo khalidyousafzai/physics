@@ -116,11 +116,11 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 %
 %\includeonly{./tex/prefaceFirstBook,./tex/physicsMeasurement}
 %
-\includeonly{./tex/calculusPreface,./tex/prefaceFirstBook,./tex/measurement,./tex/motionAlongStraightLine,./tex/vectors,./tex/motionInTwoAndThreeDimensions,./tex/forceAndMotionA,./tex/forceAndMotionB,./tex/kineticEnergyAndWork,./tex/HR_p07_p08Done,./tex/HR_p09Done,./tex/HR_p10a_10bDone,./tex/HR_p11Done,./tex/HR_p57Done,./tex/potentialEnergyAndConservationOfEnergy,./tex/centerOfMassAndLinearMomentum,./tex/rotation,./tex/RollingTorqueAndAngularMomentum,./tex/equilibriumAndElasticity,./tex/gravitation}%
+\includeonly{./tex/prefaceFirstBook,./tex/measurement,./tex/motionAlongStraightLine,./tex/vectors,./tex/motionInTwoAndThreeDimensions,./tex/forceAndMotionA,./tex/forceAndMotionB,./tex/kineticEnergyAndWork,./tex/HR_p07_p08Done,./tex/HR_p09Done,./tex/HR_p10a_10bDone,./tex/HR_p11Done,./tex/HR_p57Done,./tex/potentialEnergyAndConservationOfEnergy,./tex/centerOfMassAndLinearMomentum,./tex/rotation,./tex/RollingTorqueAndAngularMomentum,./tex/equilibriumAndElasticity,./tex/gravitation}%
 %
-%\includeonly{,./tex/rotation}%
-%\includeonly{,./tex/RollingTorqueAndAngularMomentum}%
-%\include{,./tex/gravitation}
+%\includeonly{./tex/rotation}%
+%\includeonly{./tex/RollingTorqueAndAngularMomentum}%
+%\include{./tex/gravitation}
 
 \author{
 خالد خان یوسفزئی\\
@@ -141,7 +141,10 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 
 %\linenumbers
 
-\makeindex
+%the following command sets table of contents (toc) right. also must use stared version  \\begin{otherlanguage*}{english}  in text.
+\setlatin
+
+%\makeindex
 
 %==========
 \begin{document}
@@ -160,9 +163,9 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 \tableofcontents
 \pagestyle{empty}
 \newpage
-\include{./tex/quantumMechanicsPreface}
-\newpage
+\addcontentsline{toc}{chapter}{دیباچہ}
 \include{./tex/prefaceFirstBook}
+
 %\newpage
 %\include{./tex/cktSymbols}
 
@@ -243,7 +246,7 @@ math-micro=\textup{µ},text-micro=µ,math-ohm  =\upOmega,text-degree=°,
 \cleardoublepage
 \addcontentsline{toc}{chapter}{فرہنگ}
 
-%\printindex
+\printindex
 
 
 \end{document}
